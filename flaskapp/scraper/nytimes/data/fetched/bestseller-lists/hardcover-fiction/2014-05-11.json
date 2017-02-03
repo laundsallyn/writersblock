@@ -1,0 +1,817 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2014-05-11",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1455521205",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9781455521203",
+        "description": "As the government hit man Will Robie and his partner, Jessica Reel, prepare for a mission, they face a new adversary.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455521234.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Target-Will-Robie-David-Baldacci-ebook/dp/B00EHMFC78?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE TARGET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455521205",
+            "isbn13": "9781455521203"
+          },
+          {
+            "isbn10": "1455581984",
+            "isbn13": "9781455581986"
+          },
+          {
+            "isbn10": "145552123X",
+            "isbn13": "9781455521234"
+          },
+          {
+            "isbn10": "1455521183",
+            "isbn13": "9781455521180"
+          },
+          {
+            "isbn10": "1455521264",
+            "isbn13": "9781455521265"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316055433",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316055437",
+        "description": "\u00a0A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 27,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385351852",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Maeve Binchy",
+        "primary_isbn13": "9780385351850",
+        "description": "Binchy, who died in 2012, depicts ordinary lives in Dublin.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 189,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385351867.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Chestnut-Street-Maeve-Binchy-ebook/dp/B00G8EKYFS?tag=thenewyorktim-20",
+        "contributor": "by Maeve Binchy",
+        "title": "CHESTNUT STREET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385351852",
+            "isbn13": "9780385351850"
+          },
+          {
+            "isbn10": "1410466795",
+            "isbn13": "9781410466792"
+          },
+          {
+            "isbn10": "0804170088",
+            "isbn13": "9780804170086"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399164456",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9780399164453",
+        "description": "A writer travels the world of affluent art collectors to learn the truth about what appears to be a murder/suicide.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101617281.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Collector-Nora-Roberts/dp/0399164456?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "THE COLLECTOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399164456",
+            "isbn13": "9780399164453"
+          },
+          {
+            "isbn10": "1101617284",
+            "isbn13": "9781101617281"
+          },
+          {
+            "isbn10": "0399171088",
+            "isbn13": "9780399171086"
+          },
+          {
+            "isbn10": "042527831X",
+            "isbn13": "9780425278314"
+          },
+          {
+            "isbn10": "0515154121",
+            "isbn13": "9780515154122"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061779768",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christopher Moore",
+        "primary_isbn13": "9780061779763",
+        "description": "A farcical mash-up of \u201cMerchant of Venice,\u201d \u2009\u201cOthello\u201d and \u201cThe Cask of Amontillado.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061779763.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 342,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Serpent-Venice-A-Novel/dp/0061779768?tag=thenewyorktim-20",
+        "contributor": "by Christopher Moore",
+        "title": "THE SERPENT OF VENICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061779768",
+            "isbn13": "9780061779763"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399165142",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Amanda Quick",
+        "primary_isbn13": "9780399165146",
+        "description": "Amity Doncaster joins forces with Benedict Stanbridge, a spy for the Crown, to defeat a serial killer known as the Bridegroom; by Jayne Ann Krentz, writing pseudonymously.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399165146.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Otherwise-Engaged-Amanda-Quick-ebook/dp/B00FX7R5QM?tag=thenewyorktim-20",
+        "contributor": "by Amanda Quick",
+        "title": "OTHERWISE ENGAGED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399165142",
+            "isbn13": "9780399165146"
+          },
+          {
+            "isbn10": "0515155373",
+            "isbn13": "9780515155372"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "147674906X",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781476749068",
+        "description": "The producer of a true-crime show must contend with participants with secrets.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476749105.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Ive-Got-You-Under-Skin-ebook/dp/B00DPM7SV4?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "I'VE GOT YOU UNDER MY SKIN",
+        "sunday_review_link": "//www.nytimes.com/2014/06/01/books/review/in-my-skin-by-brittney-griner.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "147674906X",
+            "isbn13": "9781476749068"
+          },
+          {
+            "isbn10": "1476749108",
+            "isbn13": "9781476749105"
+          },
+          {
+            "isbn10": "1410466264",
+            "isbn13": "9781410466266"
+          },
+          {
+            "isbn10": "1476749086",
+            "isbn13": "9781476749082"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670024783",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Monk Kidd",
+        "primary_isbn13": "9780670024780",
+        "description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670024780.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/The-Invention-Wings-A-Novel/dp/0670024783?tag=thenewyorktim-20",
+        "contributor": "by Sue Monk Kidd",
+        "title": "THE INVENTION OF WINGS",
+        "sunday_review_link": "//www.nytimes.com/2014/01/26/books/review/the-invention-of-wings-by-sue-monk-kidd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670024783",
+            "isbn13": "9780670024780"
+          },
+          {
+            "isbn10": "1410465322",
+            "isbn13": "9781410465320"
+          },
+          {
+            "isbn10": "0143121707",
+            "isbn13": "9780143121701"
+          },
+          {
+            "isbn10": "1594138869",
+            "isbn13": "9781594138867"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316211230",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Marshall Karp",
+        "primary_isbn13": "9780316211239",
+        "description": "Detective Zach Jordan is called in when the body of a woman is discovered in the Central Park.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316211239.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/NYPD-Red-2-James-Patterson-ebook/dp/B00DTUHI2Q?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Marshall Karp",
+        "title": "NYPD RED 2",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316211230",
+            "isbn13": "9780316211239"
+          },
+          {
+            "isbn10": "0316211249",
+            "isbn13": "9780316211246"
+          },
+          {
+            "isbn10": "0316324655",
+            "isbn13": "9780316324656"
+          },
+          {
+            "isbn10": "0316211265",
+            "isbn13": "9780316211260"
+          },
+          {
+            "isbn10": "1455515973",
+            "isbn13": "9781455515974"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525953493",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9780525953494",
+        "description": "Kat Donovan, an N.Y.P.D. detective, searches for the ex-fianc\u00e9 who left her years before as well as her father\u2019s murderer.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698148635.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Missing-You-Harlan-Coben/dp/0525953493?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "MISSING YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953493",
+            "isbn13": "9780525953494"
+          },
+          {
+            "isbn10": "0698148630",
+            "isbn13": "9780698148635"
+          },
+          {
+            "isbn10": "1410466280",
+            "isbn13": "9781410466280"
+          },
+          {
+            "isbn10": "0451414128",
+            "isbn13": "9780451414120"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250010098",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Scottoline",
+        "primary_isbn13": "9781250010094",
+        "description": "A father hides a terrible secret to protect his son.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250010094.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Keep-Quiet-Lisa-Scottoline-ebook/dp/B00FIL9BCE?tag=thenewyorktim-20",
+        "contributor": "by Lisa Scottoline",
+        "title": "KEEP QUIET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250010098",
+            "isbn13": "9781250010094"
+          },
+          {
+            "isbn10": "1466842040",
+            "isbn13": "9781466842045"
+          },
+          {
+            "isbn10": "1250010101",
+            "isbn13": "9781250010100"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399164162",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780399164163",
+        "description": "In the 29th Stone Barrington novel, the New York lawyer confronts thieves who can bypass high-end security systems. \u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101615898.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Carnal-Curiosity-Stone-Barrington-Stuart/dp/0399164162?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "CARNAL CURIOSITY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399164162",
+            "isbn13": "9780399164163"
+          },
+          {
+            "isbn10": "1410466590",
+            "isbn13": "9781410466594"
+          },
+          {
+            "isbn10": "0451466888",
+            "isbn13": "9780451466884"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399159347",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9780399159343",
+        "description": "A woman\u2019s life is upended when she discovers a letter she was not meant to read.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636237.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 21,
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "THE HUSBAND'S SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061713783",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Francine Prose",
+        "primary_isbn13": "9780061713781",
+        "description": "The lives of artists and libertines intersect at a venue for cross-dressing men and women.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061713781.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lovers-Chameleon-Club-Paris-1932/dp/0061713783?tag=thenewyorktim-20",
+        "contributor": "by Francine Prose",
+        "title": "LOVERS AT THE CHAMELEON CLUB , PARIS 1932",
+        "sunday_review_link": "//www.nytimes.com/2014/04/20/books/review/lovers-at-the-chameleon-club-paris-1932-by-francine-prose.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061713783",
+            "isbn13": "9780061713781"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061656003",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Andrew Gross",
+        "primary_isbn13": "9780061656002",
+        "description": "A suburban woman who makes a mistake becomes involved in a terrifying scheme.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061656002.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Everything-Lose-Novel-Andrew-Gross/dp/0061656003?tag=thenewyorktim-20",
+        "contributor": "by Andrew Gross",
+        "title": "EVERYTHING TO LOSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061656003",
+            "isbn13": "9780061656002"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1616203218",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Gabrielle Zevin",
+        "primary_isbn13": "9781616203214",
+        "description": "The owner of a failing bookstore on an island off Cape Cod, mourning his wife, finds a second chance.",
+        "book_review_link": "",
+        "book_image_height": 189,
+        "book_image": "https://s1.nyt.com/du/books/images/9781616203214.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Storied-Life-A-Fikry/dp/1616203218?tag=thenewyorktim-20",
+        "contributor": "by Gabrielle Zevin",
+        "title": "THE STORIED LIFE OF A. J. FIKRY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1616203218",
+            "isbn13": "9781616203214"
+          },
+          {
+            "isbn10": "1616204516",
+            "isbn13": "9781616204518"
+          },
+          {
+            "isbn10": "1594138419",
+            "isbn13": "9781594138416"
+          },
+          {
+            "isbn10": "1616203943",
+            "isbn13": "9781616203948"
+          }
+        ],
+        "publisher": "Algonquin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385537131",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385537131",
+        "description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/10/31/books/sycamore-row-by-john-grisham.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537926.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Sycamore-Jake-Brigance-John-Grisham/dp/0385537131?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "SYCAMORE ROW",
+        "sunday_review_link": "//www.nytimes.com/2013/11/10/books/review/sycamore-row-by-john-grisham.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537131",
+            "isbn13": "9780385537131"
+          },
+          {
+            "isbn10": "0385537921",
+            "isbn13": "9780385537926"
+          },
+          {
+            "isbn10": "0553393618",
+            "isbn13": "9780553393613"
+          },
+          {
+            "isbn10": "0345543246",
+            "isbn13": "9780345543240"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1414368186",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Francine Rivers",
+        "primary_isbn13": "9781414368184",
+        "description": "The travails of a rising Hollywood star from a difficult background; a Christian romance.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781414368184.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Bridge-Haven-Francine-Rivers-ebook/dp/B00E1O63B6?tag=thenewyorktim-20",
+        "contributor": "by Francine Rivers",
+        "title": "BRIDGE TO HAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1414368186",
+            "isbn13": "9781414368184"
+          },
+          {
+            "isbn10": "1414390831",
+            "isbn13": "9781414390833"
+          },
+          {
+            "isbn10": "1410465705",
+            "isbn13": "9781410465702"
+          }
+        ],
+        "publisher": "Tyndale House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400065755",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anna Quindlen",
+        "primary_isbn13": "9781400065752",
+        "description": "An aging photographer rents a rural cottage and discovers sparks of creativity and desire.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812995756.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Still-Life-Bread-Crumbs-Novel/dp/1400065755?tag=thenewyorktim-20",
+        "contributor": "by Anna Quindlen",
+        "title": "STILL LIFE WITH BREAD CRUMBS",
+        "sunday_review_link": "//www.nytimes.com/2014/02/09/books/review/anna-quindlens-still-life-with-bread-crumbs.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400065755",
+            "isbn13": "9781400065752"
+          },
+          {
+            "isbn10": "0812995759",
+            "isbn13": "9780812995756"
+          },
+          {
+            "isbn10": "0812976894",
+            "isbn13": "9780812976892"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0765326361",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brandon Sanderson",
+        "primary_isbn13": "9780765326362",
+        "description": "The second book of the Stormlight Archive fantasy epic, set in the world of Roshar.",
+        "book_review_link": "",
+        "book_image_height": 211,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765326362.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 140,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Words-Radiance-The-Stormlight-Archive-ebook/dp/B00DA6YEKS?tag=thenewyorktim-20",
+        "contributor": "by Brandon Sanderson",
+        "title": "WORDS OF RADIANCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765326361",
+            "isbn13": "9780765326362"
+          },
+          {
+            "isbn10": "0765365286",
+            "isbn13": "9780765365286"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2014-04-26",
+    "previous_published_date": "2014-05-04",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2014-05-18"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

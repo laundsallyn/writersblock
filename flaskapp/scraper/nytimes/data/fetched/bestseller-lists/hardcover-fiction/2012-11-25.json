@@ -1,0 +1,869 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2012-11-25",
+    "books": [
+      {
+        "price": 28.95,
+        "primary_isbn10": "0385535147",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385535144",
+        "description": "Malcolm Bannister, an imprisoned ex-lawyer, knows who murdered a federal judge. And he concocts a scheme to exchange this information for his freedom.",
+        "book_review_link": "//www.nytimes.com/2012/10/18/books/the-racketeer-by-john-grisham.html",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385536882.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Racketeer-Novel-John-Grisham/dp/0345545338?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE RACKETEER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385535147",
+            "isbn13": "9780385535144"
+          },
+          {
+            "isbn10": "0385536887",
+            "isbn13": "9780385536882"
+          },
+          {
+            "isbn10": "0385536895",
+            "isbn13": "9780385536899"
+          },
+          {
+            "isbn10": "0345545338",
+            "isbn13": "9780345545336"
+          },
+          {
+            "isbn10": "0345530578",
+            "isbn13": "9780345530578"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 28.95,
+        "primary_isbn10": "0399162925",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Dirk Cussler",
+        "primary_isbn13": "9780399162923",
+        "description": "Dirk Pitt and his team look for the truth about a sophisticated attack submarine.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399162923.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Poseidons-Arrow-Dirk-Pitt-Adventure/dp/0425265056?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Dirk Cussler",
+        "title": "POSEIDON'S ARROW",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399162925",
+            "isbn13": "9780399162923"
+          },
+          {
+            "isbn10": "1405909870",
+            "isbn13": "9781405909877"
+          },
+          {
+            "isbn10": "1410454037",
+            "isbn13": "9781410454034"
+          },
+          {
+            "isbn10": "0425265056",
+            "isbn13": "9780425265055"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 28.99,
+        "primary_isbn10": "0062124269",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Barbara Kingsolver",
+        "primary_isbn13": "9780062124265",
+        "description": "An Appalachian woman becomes involved in an effort to save monarch butterflies.",
+        "book_review_link": "//www.nytimes.com/2012/11/19/books/barbara-kingsolvers-flight-behavior.html",
+        "book_image_height": 189,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062124289.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Flight-Behavior-Novel-Barbara-Kingsolver-ebook/dp/B007HBY89E?tag=thenewyorktim-20",
+        "contributor": "by Barbara Kingsolver",
+        "title": "FLIGHT BEHAVIOR",
+        "sunday_review_link": "//www.nytimes.com/2012/11/11/books/review/flight-behavior-by-barbara-kingsolver.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062124269",
+            "isbn13": "9780062124265"
+          },
+          {
+            "isbn10": "0062124285",
+            "isbn13": "9780062124289"
+          },
+          {
+            "isbn10": "0062124307",
+            "isbn13": "9780062124302"
+          },
+          {
+            "isbn10": "0062124277",
+            "isbn13": "9780062124272"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "030758836X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears on her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 23,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0316228532",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J K Rowling",
+        "primary_isbn13": "9780316228534",
+        "description": "The sudden death of a parish councilman reveals bitter social divisions in an idyllic English town.",
+        "book_review_link": "//www.nytimes.com/2012/09/27/books/book-review-the-casual-vacancy-by-j-k-rowling.html",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316228558.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 309,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/The-Casual-Vacancy-J-K-Rowling/dp/0316228532?tag=thenewyorktim-20",
+        "contributor": "by J. K. Rowling",
+        "title": "THE CASUAL VACANCY",
+        "sunday_review_link": "//www.nytimes.com/2012/10/28/books/review/the-casual-vacancy-by-j-k-rowling.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316228532",
+            "isbn13": "9780316228534"
+          },
+          {
+            "isbn10": "0316228540",
+            "isbn13": "9780316228541"
+          },
+          {
+            "isbn10": "0316228559",
+            "isbn13": "9780316228558"
+          },
+          {
+            "isbn10": "0316228583",
+            "isbn13": "9780316228589"
+          },
+          {
+            "isbn10": "0316228591",
+            "isbn13": "9780316228596"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0446580848",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nelson DeMille",
+        "primary_isbn13": "9780446580847",
+        "description": "The anti-terrorist task force agent John Corey and his wife, an F.B.I. agent, pursue a high-ranking Qaeda operative.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455518371.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Panther-John-Corey-Book/dp/0446699616?tag=thenewyorktim-20",
+        "contributor": "by Nelson DeMille",
+        "title": "THE PANTHER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446580848",
+            "isbn13": "9780446580847"
+          },
+          {
+            "isbn10": "1455522597",
+            "isbn13": "9781455522590"
+          },
+          {
+            "isbn10": "1455518379",
+            "isbn13": "9781455518371"
+          },
+          {
+            "isbn10": "0446699616",
+            "isbn13": "9780446699617"
+          },
+          {
+            "isbn10": "0446619264",
+            "isbn13": "9780446619264"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0385343205",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780385343206",
+        "description": "An enormously successful businesswoman tries to make up for past failings with her children, now grown.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345535788.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Sins-Mother-A-Novel-ebook/dp/B008ADQLZ2?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "THE SINS OF THE MOTHER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385343205",
+            "isbn13": "9780385343206"
+          },
+          {
+            "isbn10": "0307990842",
+            "isbn13": "9780307990846"
+          },
+          {
+            "isbn10": "0440245230",
+            "isbn13": "9780440245230"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 28.95,
+        "primary_isbn10": "0399157565",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patricia Cornwell",
+        "primary_isbn13": "9780399157561",
+        "description": "A paleontologist\u2019s disappearance in Canada turns out to be connected to crimes much closer to home for the chief medical examiner Kay Scarpetta; the 20th Scarpetta book.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399157561.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Bone-Bed-Scarpetta-Novel/dp/0399157565?tag=thenewyorktim-20",
+        "contributor": "by Patricia Cornwell",
+        "title": "THE BONE BED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157565",
+            "isbn13": "9780399157561"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 36,
+        "primary_isbn10": "0525952926",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Ken Follett",
+        "primary_isbn13": "9780525952923",
+        "description": "Members of five interrelated families from five countries grapple with the historical events of the years 1939-49.",
+        "book_review_link": "//www.nytimes.com/2012/09/17/books/ken-follett-offers-second-volume-of-century-trilogy.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101591437.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Winter-World-Book-Century-Trilogy/dp/0451419243?tag=thenewyorktim-20",
+        "contributor": "by Ken Follett",
+        "title": "WINTER OF THE WORLD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525952926",
+            "isbn13": "9780525952923"
+          },
+          {
+            "isbn10": "023076486X",
+            "isbn13": "9780230764866"
+          },
+          {
+            "isbn10": "0451419243",
+            "isbn13": "9780451419248"
+          },
+          {
+            "isbn10": "0451468228",
+            "isbn13": "9780451468222"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316199869",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Marshall Karp",
+        "primary_isbn13": "9780316199865",
+        "description": "Detective Zach Jordan and his beautiful partner (and ex-girlfriend) must stop a deranged killer.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316199865.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/NYPD-Red-James-Patterson-ebook/dp/B0089EHO7Q?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Marshall Karp",
+        "title": "NYPD RED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316199869",
+            "isbn13": "9780316199865"
+          },
+          {
+            "isbn10": "0316224138",
+            "isbn13": "9780316224130"
+          },
+          {
+            "isbn10": "0316199893",
+            "isbn13": "9780316199896"
+          },
+          {
+            "isbn10": "1448135966",
+            "isbn13": "9781448135967"
+          },
+          {
+            "isbn10": "145552154X",
+            "isbn13": "9781455521548"
+          },
+          {
+            "isbn10": "1455521531",
+            "isbn13": "9781455521531"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 19.99,
+        "primary_isbn10": "145162803X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Paul Evans",
+        "primary_isbn13": "9781451628036",
+        "description": "When Joseph Jacobson stands to take over his father\u2019s business, his 12 brothers cast him out.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451628036.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 357,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/A-Winter-Dream-Novel/dp/145162803X?tag=thenewyorktim-20",
+        "contributor": "by Richard Paul Evans",
+        "title": "A WINTER DREAM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "145162803X",
+            "isbn13": "9781451628036"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 30,
+        "primary_isbn10": "0316036315",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tom Wolfe",
+        "primary_isbn13": "9780316036313",
+        "description": "A Cuban-American cop is a hero turned pariah in Miami, where ethnic and class tensions threaten to explode.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316036313.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Back-Blood-Novel-Tom-Wolfe/dp/0316036315?tag=thenewyorktim-20",
+        "contributor": "by Tom Wolfe",
+        "title": "BACK TO BLOOD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316036315",
+            "isbn13": "9780316036313"
+          },
+          {
+            "isbn10": "0316224243",
+            "isbn13": "9780316224246"
+          },
+          {
+            "isbn10": "0316214582",
+            "isbn13": "9780316214582"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 18,
+        "primary_isbn10": "0345528875",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Debbie Macomber",
+        "primary_isbn13": "9780345528872",
+        "description": "Angels cook up a plan to reunite a young couple.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345528872.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 343,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Angels-Table-Shirley-Goodness-Christmas-ebook/dp/B007WKE4TE?tag=thenewyorktim-20",
+        "contributor": "by Debbie Macomber",
+        "title": "ANGELS AT THE TABLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345528875",
+            "isbn13": "9780345528872"
+          },
+          {
+            "isbn10": "0345535960",
+            "isbn13": "9780345535962"
+          },
+          {
+            "isbn10": "0345528883",
+            "isbn13": "9780345528889"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 24.99,
+        "primary_isbn10": "1401322786",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitch Albom",
+        "primary_isbn13": "9781401322786",
+        "description": "A fable about the inventor of the world\u2019s first clock.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401322786.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 350,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/The-Time-Keeper-Mitch-Albom/dp/1401322786?tag=thenewyorktim-20",
+        "contributor": "by Mitch Albom",
+        "title": "THE TIME KEEPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401322786",
+            "isbn13": "9781401322786"
+          },
+          {
+            "isbn10": "1401304702",
+            "isbn13": "9781401304706"
+          },
+          {
+            "isbn10": "1410451615",
+            "isbn13": "9781410451613"
+          },
+          {
+            "isbn10": "1401312853",
+            "isbn13": "9781401312855"
+          }
+        ],
+        "publisher": "Hyperion"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1439152802",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kate Morton",
+        "primary_isbn13": "9781439152805",
+        "description": "A British actress searches for secrets in her 90-year-old mother\u2019s past.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439163092.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 16,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Secret-Keeper-A-Novel-ebook/dp/B007EECSFA?tag=thenewyorktim-20",
+        "contributor": "by Kate Morton",
+        "title": "THE SECRET KEEPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439152802",
+            "isbn13": "9781439152805"
+          },
+          {
+            "isbn10": "143916309X",
+            "isbn13": "9781439163092"
+          },
+          {
+            "isbn10": "0230761232",
+            "isbn13": "9780230761230"
+          },
+          {
+            "isbn10": "1439152810",
+            "isbn13": "9781439152812"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "1451638450",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Lois McMaster Bujold",
+        "primary_isbn13": "9781451638455",
+        "description": "Ivan Vorpatril is in trouble with his superiors, the Komarran authorities and the lethal figures hunting a mysterious  woman and her exotic companion.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451638455.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Captain-Vorpatrils-Alliance-Vorkosigan-Saga/dp/1451638450?tag=thenewyorktim-20",
+        "contributor": "by Lois McMaster Bujold",
+        "title": "CAPTAIN VORPATRIL'S ALLIANCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451638450",
+            "isbn13": "9781451638455"
+          },
+          {
+            "isbn10": "1451638647",
+            "isbn13": "9781451638646"
+          }
+        ],
+        "publisher": "Baen"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345504984",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Justin Cronin",
+        "primary_isbn13": "9780345504982",
+        "description": "A sequel to \u201cThe Passage\u201d continues its story of life after an apocalypse.",
+        "book_review_link": "//www.nytimes.com/2012/11/02/books/the-twelve-by-justin-cronin.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345534897.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Twelve-Book-Passage-Trilogy-ebook/dp/B007GBTBMY?tag=thenewyorktim-20",
+        "contributor": "by Justin Cronin",
+        "title": "THE TWELVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345504984",
+            "isbn13": "9780345504982"
+          },
+          {
+            "isbn10": "0345534891",
+            "isbn13": "9780345534897"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451647018",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Karen Kingsbury",
+        "primary_isbn13": "9781451647013",
+        "description": "he destruction of a beloved bookstore offers the shop\u2019s supporters second chances on love and leases.",
+        "book_review_link": "",
+        "book_image_height": 179,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451647020.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Bridge-Novel-Karen-Kingsbury-ebook/dp/B007EDZ08S?tag=thenewyorktim-20",
+        "contributor": "by Karen Kingsbury",
+        "title": "THE BRIDGE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451647018",
+            "isbn13": "9781451647013"
+          },
+          {
+            "isbn10": "1451647026",
+            "isbn13": "9781451647020"
+          }
+        ],
+        "publisher": "Howard Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385344333",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780385344333",
+        "description": "A carload of people involved in a conspiracy pick up a disheveled hitchhiker, Child's vigilante hero Jack Reacher.",
+        "book_review_link": "//www.nytimes.com/2012/09/10/books/a-wanted-man-a-jack-reacher-novel-by-lee-child.html",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385344333.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Wanted-bonus-short-story-Deep-ebook/dp/B007GCY8FS?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "A WANTED MAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344333",
+            "isbn13": "9780385344333"
+          },
+          {
+            "isbn10": "0440339367",
+            "isbn13": "9780440339366"
+          },
+          {
+            "isbn10": "1409043568",
+            "isbn13": "9781409043560"
+          },
+          {
+            "isbn10": "0440246318",
+            "isbn13": "9780440246312"
+          }
+        ],
+        "publisher": "Delacorte"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2012-11-10",
+    "previous_published_date": "2012-11-18",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2012-12-02"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,896 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2011-11-27",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1451648537",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Walter Isaacson",
+        "primary_isbn13": "9781451648539",
+        "description": "A biography of the recently deceased entrepreneur, based on 40 interviews with Jobs conducted over two years.",
+        "book_review_link": "//www.nytimes.com/2011/10/22/books/steve-jobs-by-walter-isaacson-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451648553.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Steve-Jobs-Walter-Isaacson-ebook/dp/B004W2UBYW?tag=thenewyorktim-20",
+        "contributor": "by Walter Isaacson",
+        "title": "STEVE JOBS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451648537",
+            "isbn13": "9781451648539"
+          },
+          {
+            "isbn10": "1451648553",
+            "isbn13": "9781451648553"
+          },
+          {
+            "isbn10": "1442346272",
+            "isbn13": "9781442346277"
+          },
+          {
+            "isbn10": "1442346949",
+            "isbn13": "9781442346949"
+          },
+          {
+            "isbn10": "1410445224",
+            "isbn13": "9781410445223"
+          },
+          {
+            "isbn10": "030795028X",
+            "isbn13": "9780307950284"
+          },
+          {
+            "isbn10": "1408703742",
+            "isbn13": "9781408703748"
+          },
+          {
+            "isbn10": "1451648545",
+            "isbn13": "9781451648546"
+          },
+          {
+            "isbn10": "1594136793",
+            "isbn13": "9781594136795"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805093079",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805093070",
+        "description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805093070.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Killing-Lincoln-Shocking-Assassination-Changed-ebook/dp/B004ULORYU?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING LINCOLN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805093079",
+            "isbn13": "9780805093070"
+          },
+          {
+            "isbn10": "1429996870",
+            "isbn13": "9781429996877"
+          },
+          {
+            "isbn10": "1427213127",
+            "isbn13": "9781427213129"
+          },
+          {
+            "isbn10": "1410443000",
+            "isbn13": "9781410443007"
+          },
+          {
+            "isbn10": "1250012163",
+            "isbn13": "9781250012166"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0849946158",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849946158",
+        "description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 42,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307959759",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill Clinton",
+        "primary_isbn13": "9780307959751",
+        "description": "The former president argues that cooperation between the private sector and government is necessary to restore prosperity.",
+        "book_review_link": "//www.nytimes.com/2011/11/08/books/back-to-work-has-bill-clintons-ideas-for-america-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307959751.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Back-Work-Government-Strong-Economy-ebook/dp/B005P2A8NM?tag=thenewyorktim-20",
+        "contributor": "by Bill Clinton",
+        "title": "BACK TO WORK",
+        "sunday_review_link": "//www.nytimes.com/2011/12/11/books/review/back-to-work-why-we-need-smart-government-for-a-strong-economy-by-bill-clinton-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307959759",
+            "isbn13": "9780307959751"
+          },
+          {
+            "isbn10": "0307959767",
+            "isbn13": "9780307959768"
+          },
+          {
+            "isbn10": "0307990699",
+            "isbn13": "9780307990693"
+          },
+          {
+            "isbn10": "0307990737",
+            "isbn13": "9780307990730"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429960256",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chuck Pfarrer",
+        "primary_isbn13": "9781429960250",
+        "description": "A former member of the Navy Seals offers minute-by-minute details of the raid on Osama bin Laden\u2019s compound in May 2011.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429960250.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/SEAL-Target-Geronimo-Inside-Mission-ebook/dp/B005GXPCQI?tag=thenewyorktim-20",
+        "contributor": "by Chuck Pfarrer",
+        "title": "SEAL TARGET GERONIMO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "125000635X",
+            "isbn13": "9781250006356"
+          },
+          {
+            "isbn10": "1429960256",
+            "isbn13": "9781429960250"
+          }
+        ],
+        "publisher": "St. Martin\u2019s Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451635087",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chris Matthews",
+        "primary_isbn13": "9781451635089",
+        "description": "An admiring portrait.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451635096.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Jack-Kennedy-Elusive-Chris-Matthews/dp/1451635087?tag=thenewyorktim-20",
+        "contributor": "by Chris Matthews",
+        "title": "JACK KENNEDY",
+        "sunday_review_link": "//www.nytimes.com/2011/11/06/books/review/jack-kennedy-elusive-hero-by-chris-matthews-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451635087",
+            "isbn13": "9781451635089"
+          },
+          {
+            "isbn10": "1451635109",
+            "isbn13": "9781451635102"
+          },
+          {
+            "isbn10": "1442350458",
+            "isbn13": "9781442350458"
+          },
+          {
+            "isbn10": "1451635095",
+            "isbn13": "9781451635096"
+          },
+          {
+            "isbn10": "1594135657",
+            "isbn13": "9781594135651"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400064163",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9781400064168",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 42,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030758786X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Condoleezza Rice",
+        "primary_isbn13": "9780307587862",
+        "description": "A memoir of service during the Bush administration.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307986788.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/No-Higher-Honor-Memoir-Washington/dp/030758786X?tag=thenewyorktim-20",
+        "contributor": "by Condoleezza Rice",
+        "title": "NO HIGHER HONOR",
+        "sunday_review_link": "//www.nytimes.com/2011/12/11/books/review/no-higher-honor-a-memoir-of-my-years-in-washington-by-condoleezza-rice-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758786X",
+            "isbn13": "9780307587862"
+          },
+          {
+            "isbn10": "0307952479",
+            "isbn13": "9780307952479"
+          },
+          {
+            "isbn10": "0307986780",
+            "isbn13": "9780307986788"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030788628X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mindy Kaling",
+        "primary_isbn13": "9780307886286",
+        "description": "Observations from the comedy writer and actress.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307886286.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Everyone-Hanging-Without-Other-Concerns-ebook/dp/B004JN1D3M?tag=thenewyorktim-20",
+        "contributor": "by Mindy Kaling",
+        "title": "IS EVERYONE HANGING OUT WITHOUT ME?",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307886263",
+            "isbn13": "9780307886262"
+          },
+          {
+            "isbn10": "030788628X",
+            "isbn13": "9780307886286"
+          },
+          {
+            "isbn10": "0307886271",
+            "isbn13": "9780307886279"
+          },
+          {
+            "isbn10": "0307939804",
+            "isbn13": "9780307939807"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679456724",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert K Massie",
+        "primary_isbn13": "9780679456728",
+        "description": "The author of \u201cNicholas and Alexandra\u201d provides a sweeping narrative of the life of the minor 18th-century German princess who became Empress of All the Russias.",
+        "book_review_link": "",
+        "book_image_height": 450,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679456728.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 301,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Catherine-Great-Portrait-Robert-Massie/dp/0345408772?tag=thenewyorktim-20",
+        "contributor": "by Robert K. Massie",
+        "title": "CATHERINE THE GREAT",
+        "sunday_review_link": "//www.nytimes.com/2011/11/20/books/review/catherine-the-great-portrait-of-a-woman-by-robert-k-massie-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0679456724",
+            "isbn13": "9780679456728"
+          },
+          {
+            "isbn10": "158836044X",
+            "isbn13": "9781588360441"
+          },
+          {
+            "isbn10": "0345408772",
+            "isbn13": "9780345408778"
+          },
+          {
+            "isbn10": "1594136157",
+            "isbn13": "9781594136153"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0393081818",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Lewis",
+        "primary_isbn13": "9780393081817",
+        "description": "A look at some of the places hardest hit by the financial collapse of 2008 and at how it happened.",
+        "book_review_link": "//www.nytimes.com/2011/09/27/books/boomerang-by-michael-lewis-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780393082241.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Boomerang-Travels-New-Third-World-ebook/dp/B005CRQ2OE?tag=thenewyorktim-20",
+        "contributor": "by Michael Lewis",
+        "title": "BOOMERANG",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0393081818",
+            "isbn13": "9780393081817"
+          },
+          {
+            "isbn10": "0393082245",
+            "isbn13": "9780393082241"
+          },
+          {
+            "isbn10": "1442341254",
+            "isbn13": "9781442341258"
+          },
+          {
+            "isbn10": "0393343448",
+            "isbn13": "9780393343441"
+          }
+        ],
+        "publisher": "W. W. Norton & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307267679",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Joan Didion",
+        "primary_isbn13": "9780307267672",
+        "description": "The writer considers her daughter\u2019s death in 2005.",
+        "book_review_link": "//www.nytimes.com/2011/11/01/books/blue-nights-by-joan-didion-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307267672.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Blue-Nights-Joan-Didion/dp/0307267679?tag=thenewyorktim-20",
+        "contributor": "by Joan Didion",
+        "title": "BLUE NIGHTS",
+        "sunday_review_link": "//www.nytimes.com/2011/11/06/books/review/blue-nights-by-joan-didion-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307267679",
+            "isbn13": "9780307267672"
+          },
+          {
+            "isbn10": "0307700518",
+            "isbn13": "9780307700513"
+          },
+          {
+            "isbn10": "0739378430",
+            "isbn13": "9780739378434"
+          },
+          {
+            "isbn10": "0307387380",
+            "isbn13": "9780307387387"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0374275637",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Kahneman",
+        "primary_isbn13": "9780374275631",
+        "description": "The winner of the Nobel in economic science discusses how we make choices in business and personal life and when we can and cannot trust our intuitions.",
+        "book_review_link": "//www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429969352.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20",
+        "contributor": "by Daniel Kahneman",
+        "title": "THINKING, FAST AND SLOW",
+        "sunday_review_link": "//www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374275637",
+            "isbn13": "9780374275631"
+          },
+          {
+            "isbn10": "0739357980",
+            "isbn13": "9780739357989"
+          },
+          {
+            "isbn10": "0374533555",
+            "isbn13": "9780374533557"
+          },
+          {
+            "isbn10": "0606275649",
+            "isbn13": "9780606275644"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446585025",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ellen DeGeneres",
+        "primary_isbn13": "9780446585026",
+        "description": "A collection of humor pieces from the stand-up comedian and talk-show host.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446585033.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Seriously-Im-Kidding-Ellen-DeGeneres-ebook/dp/B004QX07G4?tag=thenewyorktim-20",
+        "contributor": "by Ellen DeGeneres",
+        "title": "SERIOUSLY... I'M KIDDING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446585025",
+            "isbn13": "9780446585026"
+          },
+          {
+            "isbn10": "0446585033",
+            "isbn13": "9780446585033"
+          },
+          {
+            "isbn10": "0446585041",
+            "isbn13": "9780446585040"
+          },
+          {
+            "isbn10": "0762448229",
+            "isbn13": "9780762448227"
+          },
+          {
+            "isbn10": "1609410416",
+            "isbn13": "9781609410414"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307887952",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780307887955",
+        "description": "William E. Dodd, the U.S. ambassador to Germany, and his daughter, Martha, in 1930s Berlin.",
+        "book_review_link": "//www.nytimes.com/2011/05/20/books/in-the-garden-of-beasts-by-erik-larson-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307887955.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 26,
+        "amazon_product_url": "http://www.amazon.com/In-Garden-Beasts-American-Hitlers-ebook/dp/B004HFRJM6?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "IN THE GARDEN OF BEASTS",
+        "sunday_review_link": "//www.nytimes.com/2011/06/12/books/review/book-review-in-the-garden-of-beasts-by-erik-larson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307408841",
+            "isbn13": "9780307408846"
+          },
+          {
+            "isbn10": "0307887952",
+            "isbn13": "9780307887955"
+          },
+          {
+            "isbn10": "0739378147",
+            "isbn13": "9780739378144"
+          },
+          {
+            "isbn10": "0307914577",
+            "isbn13": "9780307914576"
+          },
+          {
+            "isbn10": "030740885X",
+            "isbn13": "9780307408853"
+          },
+          {
+            "isbn10": "1446464504",
+            "isbn13": "9781446464502"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400052181",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rebecca Skloot",
+        "primary_isbn13": "9781400052189",
+        "description": "A woman's cancer cells were cultured without her permission in 1951.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400052189.jpg",
+        "rank": 16,
+        "article_chapter_link": "//www.nytimes.com/2010/02/02/health/02seco.html",
+        "rank_last_week": 0,
+        "book_image_width": 182,
+        "first_chapter_link": "//www.nytimes.com/2010/03/03/books/excerpt-immortal-life-of-henrietta-lacks.html",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=thenewyorktim-20",
+        "contributor": "by Rebecca Skloot",
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "sunday_review_link": "//www.nytimes.com/2010/02/07/books/review/Margonelli-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400052173",
+            "isbn13": "9781400052172"
+          },
+          {
+            "isbn10": "0307589382",
+            "isbn13": "9780307589385"
+          },
+          {
+            "isbn10": "1410427927",
+            "isbn13": "9781410427922"
+          },
+          {
+            "isbn10": "1400052181",
+            "isbn13": "9781400052189"
+          },
+          {
+            "isbn10": "1594134324",
+            "isbn13": "9781594134326"
+          },
+          {
+            "isbn10": "0451486315",
+            "isbn13": "9780451486318"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400064589",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tom Brokaw",
+        "primary_isbn13": "9781400064588",
+        "description": "How to revitalize the promise of the American dream, based on stories of Americans who are making a difference.",
+        "book_review_link": "",
+        "book_image_height": 450,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064588.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 297,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Time-Our-Lives-conversation/dp/1400064589?tag=thenewyorktim-20",
+        "contributor": "by Tom Brokaw",
+        "title": "THE TIME OF OUR LIVES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064589",
+            "isbn13": "9781400064588"
+          },
+          {
+            "isbn10": "0679643923",
+            "isbn13": "9780679643920"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062064576",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Darrell Hammond",
+        "primary_isbn13": "9780062064578",
+        "description": "A memoir of a difficult life by the former \"Saturday Night Live\" cast member.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062064578.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/God-Youre-There-cked-Mind-Altering-ebook/dp/B004X2J6XI?tag=thenewyorktim-20",
+        "contributor": "by Darrell Hammond",
+        "title": "GOD, IF YOU'RE NOT UP THERE, I'M ____",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "006206455X",
+            "isbn13": "9780062064554"
+          },
+          {
+            "isbn10": "0062064576",
+            "isbn13": "9780062064578"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451646968",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kris Jenner",
+        "primary_isbn13": "9781451646962",
+        "description": "The mother and manager of the Kardashians describes her busy life as a parent and producer.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451646986.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Kris-Jenner-And-Things-Kardashian-ebook/dp/B004XVOREW?tag=thenewyorktim-20",
+        "contributor": "by Kris Jenner",
+        "title": "KRIS JENNER...AND ALL THINGS KARDASHIAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451646968",
+            "isbn13": "9781451646962"
+          },
+          {
+            "isbn10": "1451646984",
+            "isbn13": "9781451646986"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jaycee Dugard",
+        "primary_isbn13": "9781451629200",
+        "description": "A woman describes being kidnapped at the age of 11 and held prisoner for 18 years by a convicted rapist and his wife.",
+        "book_review_link": "//www.nytimes.com/2011/07/18/books/jaycee-dugards-stolen-life-18-years-of-abuse-review.html",
+        "book_image_height": 386,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451629187.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 250,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/A-Stolen-Life-Memoir-ebook/dp/B004ZZS4CC?tag=thenewyorktim-20",
+        "contributor": "by Jaycee Dugard",
+        "title": "A STOLEN LIFE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Simon & Schuster"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2011-11-12",
+    "previous_published_date": "2011-11-20",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2011-12-04"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

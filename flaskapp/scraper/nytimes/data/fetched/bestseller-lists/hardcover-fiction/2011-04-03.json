@@ -1,0 +1,832 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2011-04-03",
+    "books": [
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316097365",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Neil McMahon",
+        "primary_isbn13": "9780316097369",
+        "description": "Hays Baker, a top operative for the Agency of Change and a national hero, suddenly finds himself a hunted fugitive who must fight to save humans from extinction.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446571746.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Toys-James-Patterson/dp/0446571741?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Neil McMahon",
+        "title": "TOYS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097365",
+            "isbn13": "9780316097369"
+          },
+          {
+            "isbn10": "0316097373",
+            "isbn13": "9780316097376"
+          },
+          {
+            "isbn10": "0446571741",
+            "isbn13": "9780446571746"
+          },
+          {
+            "isbn10": "161113692X",
+            "isbn13": "9781611136920"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "1439102724",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9781439102725",
+        "description": "Picoult takes on the issue of gay rights in this novel about a music therapist who desperately wants a child; CD of songs included.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439102732.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Sing-You-Home-Jodi-Picoult/dp/1439102732?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "SING YOU HOME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102724",
+            "isbn13": "9781439102725"
+          },
+          {
+            "isbn10": "1439149712",
+            "isbn13": "9781439149713"
+          },
+          {
+            "isbn10": "1439102732",
+            "isbn13": "9781439102732"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399157042",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler with Jack Du Brul",
+        "primary_isbn13": "9780399157042",
+        "description": "Juan Cabrillo and the crew of the Oregon undertake rescue operations from Afghanistan to Myanmar.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425246542.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 283,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Jungle-Oregon-Files/dp/042524654X?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler with Jack Du Brul",
+        "title": "THE JUNGLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157042",
+            "isbn13": "9780399157042"
+          },
+          {
+            "isbn10": "042524654X",
+            "isbn13": "9780425246542"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 43,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 29.95,
+        "primary_isbn10": "0756404738",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patrick Rothfuss",
+        "primary_isbn13": "9780756404734",
+        "description": "In this sequel to \u201cThe Name of the Wind,\u201d the magician Kvothe continues to narrate his fantastical life story.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780756407124.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Wise-Mans-Fear-Kingkiller/dp/0756407125?tag=thenewyorktim-20",
+        "contributor": "by Patrick Rothfuss",
+        "title": "THE WISE MAN'S FEAR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0756404738",
+            "isbn13": "9780756404734"
+          },
+          {
+            "isbn10": "0756407060",
+            "isbn13": "9780756407063"
+          },
+          {
+            "isbn10": "0756407125",
+            "isbn13": "9780756407124"
+          },
+          {
+            "isbn10": "0756407915",
+            "isbn13": "9780756407919"
+          }
+        ],
+        "publisher": "DAW"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0385343833",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tea Obreht",
+        "primary_isbn13": "9780385343831",
+        "description": "In an unnamed Balkan country, Natalia, a young doctor, investigates the mysterious circumstances surrounding her beloved grandfather\u2019s death.",
+        "book_review_link": "//www.nytimes.com/2011/03/11/books/the-tigers-wife-by-tea-obreht-book-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679604365.jpg",
+        "rank": 6,
+        "article_chapter_link": "//www.nytimes.com/2011/03/15/books/the-tigers-wife-brings-tea-obreht-acclaim.html",
+        "rank_last_week": 11,
+        "book_image_width": 331,
+        "first_chapter_link": "//www.nytimes.com/2011/03/11/books/excerpt-the-tigers-wife-by-tea-obreht.html",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Tigers-Wife-A-Novel/dp/0385343833?tag=thenewyorktim-20",
+        "contributor": "by Tea Obreht",
+        "title": "THE TIGER\u2019S WIFE",
+        "sunday_review_link": "//www.nytimes.com/2011/03/13/books/review/book-review-the-tigers-wife-by-tea-obreht.html",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Random House"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0345521307",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Paula McLain",
+        "primary_isbn13": "9780345521309",
+        "description": "Ernest Hemingway\u2019s first wife, Hadley, narrates this novel set in Paris.",
+        "book_review_link": "//www.nytimes.com/2011/02/28/books/28book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345521323.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 268,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Paris-Wife-A-Novel-ebook/dp/B004DEPELY?tag=thenewyorktim-20",
+        "contributor": "by Paula McLain",
+        "title": "THE PARIS WIFE",
+        "sunday_review_link": "//www.nytimes.com/2011/03/20/books/review/book-review-the-paris-wife-by-paula-mclain.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345521307",
+            "isbn13": "9780345521309"
+          },
+          {
+            "isbn10": "0345521323",
+            "isbn13": "9780345521323"
+          },
+          {
+            "isbn10": "1611730171",
+            "isbn13": "9781611730173"
+          },
+          {
+            "isbn10": "0345521315",
+            "isbn13": "9780345521316"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 28.95,
+        "primary_isbn10": "0670022411",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Deborah Harkness",
+        "primary_isbn13": "9780670022410",
+        "description": "The recovery of a lost ancient manuscript in a library at Oxford sets a fantastical underworld stirring.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101475690.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Discovery-Witches-Novel-Souls-Trilogy/dp/0143119680?tag=thenewyorktim-20",
+        "contributor": "by Deborah Harkness",
+        "title": "A DISCOVERY OF WITCHES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670022411",
+            "isbn13": "9780670022410"
+          },
+          {
+            "isbn10": "0143119680",
+            "isbn13": "9780143119685"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0307273563",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Maeve Binchy",
+        "primary_isbn13": "9780307273567",
+        "description": "A motherless girl is cared for by a Dublin community, but a social worker believes a foster home is a better solution.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307595164.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Minding-Frankie-Maeve-Binchy/dp/0307475492?tag=thenewyorktim-20",
+        "contributor": "by Maeve Binchy",
+        "title": "MINDING FRANKIE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307273563",
+            "isbn13": "9780307273567"
+          },
+          {
+            "isbn10": "0307595161",
+            "isbn13": "9780307595164"
+          },
+          {
+            "isbn10": "0307475492",
+            "isbn13": "9780307475497"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0553807250",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Gardner",
+        "primary_isbn13": "9780553807257",
+        "description": "Detective D. D. Warren must solve the case of a dead husband, a battered wife and a missing child.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553908114.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 305,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Love-You-More-Dectective-Detective/dp/0553591924?tag=thenewyorktim-20",
+        "contributor": "by Lisa Gardner",
+        "title": "LOVE YOU MORE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553807250",
+            "isbn13": "9780553807257"
+          },
+          {
+            "isbn10": "0553908111",
+            "isbn13": "9780553908114"
+          },
+          {
+            "isbn10": "0553591924",
+            "isbn13": "9780553591927"
+          },
+          {
+            "isbn10": "0307969533",
+            "isbn13": "9780307969538"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316037915",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316037914",
+        "description": "The New York detective Michael Bennett enlists the help of a former colleague to solve a rash of horrifying crimes that are throwing the city into chaos.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446584333.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Tick-Tock-Michael-Bennett-Book-ebook/dp/B0047Y16MG?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "TICK TOCK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316037915",
+            "isbn13": "9780316037914"
+          },
+          {
+            "isbn10": "031612852X",
+            "isbn13": "9780316128520"
+          },
+          {
+            "isbn10": "0316129186",
+            "isbn13": "9780316129183"
+          },
+          {
+            "isbn10": "0446584339",
+            "isbn13": "9780446584333"
+          },
+          {
+            "isbn10": "1455506656",
+            "isbn13": "9781455506651"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s Mississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 12,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 14,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 103,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0441019730",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patricia Briggs",
+        "primary_isbn13": "9780441019731",
+        "description": "The shapeshifter Mercy Thompson and her mate, the Alpha werewolf Adam, confront evil lurking in the Columbia River.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780441019731.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/River-Marked-Mercy-Thompson-Book/dp/0441020003?tag=thenewyorktim-20",
+        "contributor": "by Patricia Briggs",
+        "title": "RIVER MARKED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441019730",
+            "isbn13": "9780441019731"
+          },
+          {
+            "isbn10": "0441020003",
+            "isbn13": "9780441020003"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399157034",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9780399157035",
+        "description": "Eve Dallas and her partner, Peabody, investigate a grocer\u2019s murder.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399157035.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 263,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Treachery-Death-J-D-Robb/dp/0425242617?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "TREACHERY IN DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157034",
+            "isbn13": "9780399157035"
+          },
+          {
+            "isbn10": "0425242617",
+            "isbn13": "9780425242612"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 24.99,
+        "primary_isbn10": "0316098337",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emma Donoghue",
+        "primary_isbn13": "9780316098335",
+        "description": "The entire world of the 5-year-old boy who narrates this novel is the 11-by-11-foot room in which his mother is being held against her will.",
+        "book_review_link": "//www.nytimes.com/2010/09/13/books/13book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316223232.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Room-A-Novel-Emma-Donoghue/dp/0316098329?tag=thenewyorktim-20",
+        "contributor": "by Emma Donoghue",
+        "title": "ROOM",
+        "sunday_review_link": "//www.nytimes.com/2010/09/19/books/review/Bender-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316098337",
+            "isbn13": "9780316098335"
+          },
+          {
+            "isbn10": "0316129119",
+            "isbn13": "9780316129114"
+          },
+          {
+            "isbn10": "0316098329",
+            "isbn13": "9780316098328"
+          },
+          {
+            "isbn10": "0316223239",
+            "isbn13": "9780316223232"
+          },
+          {
+            "isbn10": "0316391344",
+            "isbn13": "9780316391344"
+          },
+          {
+            "isbn10": "0330519026",
+            "isbn13": "9780330519021"
+          },
+          {
+            "isbn10": "0316268356",
+            "isbn13": "9780316268356"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525952020",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Linda Fairstein",
+        "primary_isbn13": "9780525952022",
+        "description": "Alexandra Cooper, a Manhattan assistant district attorney, is called when a woman\u2019s decapitated body is found burning on the steps of a Harlem church.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101476017.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Silent-Mercy-Linda-Fairstein/dp/0525952020?tag=thenewyorktim-20",
+        "contributor": "by Linda Fairstein",
+        "title": "SILENT MERCY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525952020",
+            "isbn13": "9780525952022"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "044656432X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Douglas Preston and Lincoln Child",
+        "primary_isbn13": "9780446564328",
+        "description": "A man seeks vengeance against those who orchestrated the downfall of his father, a mathematician falsely accused of treason.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446564311.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Gideons-Sword-Douglas-Preston/dp/0446564311?tag=thenewyorktim-20",
+        "contributor": "by Douglas Preston and Lincoln Child",
+        "title": "GIDEON\u2019S SWORD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "044656432X",
+            "isbn13": "9780446564328"
+          },
+          {
+            "isbn10": "0446564338",
+            "isbn13": "9780446564335"
+          },
+          {
+            "isbn10": "0446564311",
+            "isbn13": "9780446564311"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307717097",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Taylor Stevens",
+        "primary_isbn13": "9780307717092",
+        "description": "The information specialist Vanessa Munroe helps a Houston oilman find his daughter, who disappeared in Africa four years earlier.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307717092.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 263,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Informationist-Thriller-Taylor-Stevens/dp/0307717097?tag=thenewyorktim-20",
+        "contributor": "by Taylor Stevens",
+        "title": "THE INFORMATIONIST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307717097",
+            "isbn13": "9780307717092"
+          },
+          {
+            "isbn10": "0307717119",
+            "isbn13": "9780307717115"
+          },
+          {
+            "isbn10": "0307717100",
+            "isbn13": "9780307717108"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061138061",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kim Harrison",
+        "primary_isbn13": "9780061138065",
+        "description": "The witch Rachel Morgan has three days to clear her name; Book 9 in the Hollows series.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061138065.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 265,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Pale-Demon-The-Hollows-Book-ebook/dp/B004A9037C?tag=thenewyorktim-20",
+        "contributor": "by Kim Harrison",
+        "title": "PALE DEMON",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061138061",
+            "isbn13": "9780061138065"
+          },
+          {
+            "isbn10": "0062065769",
+            "isbn13": "9780062065766"
+          }
+        ],
+        "publisher": "Harper Voyager/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385528043",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385528047",
+        "description": "A man who committed a despicable crime but allowed another to be sent to death row in his place now wants to admit his guilt, but must convince the authorities he's telling the truth.",
+        "book_review_link": "//www.nytimes.com/2010/11/08/books/08book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440245117.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Confession-Novel-John-Grisham/dp/0385528043?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE CONFESSION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385528043",
+            "isbn13": "9780385528047"
+          },
+          {
+            "isbn10": "0385534132",
+            "isbn13": "9780385534130"
+          },
+          {
+            "isbn10": "0739377892",
+            "isbn13": "9780739377895"
+          },
+          {
+            "isbn10": "0385528051",
+            "isbn13": "9780385528054"
+          },
+          {
+            "isbn10": "0440245117",
+            "isbn13": "9780440245117"
+          }
+        ],
+        "publisher": "Doubleday"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2011-03-19",
+    "previous_published_date": "2011-03-27",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2011-04-10"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

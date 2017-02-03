@@ -1,0 +1,737 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2014-02-23",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316248679",
+        "description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Monk Kidd",
+        "primary_isbn13": "9780698175242",
+        "description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670024780.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Invention-Wings-A-Novel/dp/0670024783?tag=thenewyorktim-20",
+        "contributor": "by Sue Monk Kidd",
+        "title": "THE INVENTION OF WINGS",
+        "sunday_review_link": "//www.nytimes.com/2014/01/26/books/review/the-invention-of-wings-by-sue-monk-kidd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670024783",
+            "isbn13": "9780670024780"
+          },
+          {
+            "isbn10": "1410465322",
+            "isbn13": "9781410465320"
+          },
+          {
+            "isbn10": "0143121707",
+            "isbn13": "9780143121701"
+          },
+          {
+            "isbn10": "1594138869",
+            "isbn13": "9781594138867"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Maya Banks",
+        "primary_isbn13": "9780698148161",
+        "description": "A widow and her late husband\u2019s best friend encounter each other in a club devoted to the darker edges of desire.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698148161.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Letting-Go-The-Surrender-Trilogy-ebook/dp/B00ED27A04?tag=thenewyorktim-20",
+        "contributor": "by Maya Banks",
+        "title": "LETTING GO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "042527294X",
+            "isbn13": "9780425272947"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385537921",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385537926",
+        "description": "\u00a0A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/10/31/books/sycamore-row-by-john-grisham.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537926.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/Sycamore-Jake-Brigance-John-Grisham/dp/0385537131?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "SYCAMORE ROW",
+        "sunday_review_link": "//www.nytimes.com/2013/11/10/books/review/sycamore-row-by-john-grisham.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537131",
+            "isbn13": "9780385537131"
+          },
+          {
+            "isbn10": "0385537921",
+            "isbn13": "9780385537926"
+          },
+          {
+            "isbn10": "0553393618",
+            "isbn13": "9780553393613"
+          },
+          {
+            "isbn10": "0345543246",
+            "isbn13": "9780345543240"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J Lynn",
+        "primary_isbn13": "9780062294791",
+        "description": "As tragedy strikes a college campus, a star-crossed couple must decide what they are willing to risk to be together.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062294791.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Be-Me-Novel-Wait-You-ebook/dp/B00DB3D99M?tag=thenewyorktim-20",
+        "contributor": "by J. Lynn",
+        "title": "BE WITH ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062294784",
+            "isbn13": "9780062294784"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9781101636237",
+        "description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636237.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 25,
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "THE HUSBAND'S SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455557285",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9781455557288",
+        "description": "In this short story, the government assassin Will Robie is caught in the crossfire with Oliver Stone and the Camel Club.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455557288.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Bullseye-Original-Robie-Kindle-Single-ebook/dp/B00G2GMRCU?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "BULLSEYE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1630350141",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "H M Ward",
+        "primary_isbn13": "9781630350147",
+        "description": "A glimpse into Sean Ferro\u2019s mind; the Ferro Family erotic series continues.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781630350147.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 313,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Arrangement-13-Ferro-Family-ebook/dp/B00I7G9QGS?tag=thenewyorktim-20",
+        "contributor": "by H. M. Ward",
+        "title": "THE ARRANGEMENT 13",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1630350141",
+            "isbn13": "9781630350147"
+          }
+        ],
+        "publisher": "Laree Bailey"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812995759",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anna Quindlen",
+        "primary_isbn13": "9780812995756",
+        "description": "An aging photographer rents a rural cottage and discovers sparks of creativity and desire.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812995756.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Still-Life-Bread-Crumbs-Novel/dp/1400065755?tag=thenewyorktim-20",
+        "contributor": "by Anna Quindlen",
+        "title": "STILL LIFE WITH BREAD CRUMBS",
+        "sunday_review_link": "//www.nytimes.com/2014/02/09/books/review/anna-quindlens-still-life-with-bread-crumbs.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400065755",
+            "isbn13": "9781400065752"
+          },
+          {
+            "isbn10": "0812995759",
+            "isbn13": "9780812995756"
+          },
+          {
+            "isbn10": "0812976894",
+            "isbn13": "9780812976892"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kristen Ashley",
+        "primary_isbn13": "9781455599158",
+        "description": "Emme Holmes catches the P.I. Jacob Decker off guard when she walks back into his life after nine years.",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455599158.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Kaleidoscope-Colorado-Mountain-Kristen-Ashley-ebook/dp/B00D5YWZFQ?tag=thenewyorktim-20",
+        "contributor": "by Kristen Ashley",
+        "title": "KALEIDOSCOPE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Forever"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lora Leigh",
+        "primary_isbn13": "9781101612491",
+        "description": "A Lion Breed and enforcer uncharacteristically breaks the rules for a human woman; a novel of the Breeds.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101612491.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Rule-Breaker-A-Novel-Breeds-ebook/dp/B00COOFBAE?tag=thenewyorktim-20",
+        "contributor": "by Lora Leigh",
+        "title": "RULE BREAKER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425265455",
+            "isbn13": "9780425265451"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christina Baker Kline",
+        "primary_isbn13": "9780062101204",
+        "description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062101204.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Orphan-Train-Christina-Baker-Kline-ebook/dp/B0089LOG02?tag=thenewyorktim-20",
+        "contributor": "by Christina Baker Kline",
+        "title": "ORPHAN TRAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061950726",
+            "isbn13": "9780061950728"
+          },
+          {
+            "isbn10": "1594137374",
+            "isbn13": "9781594137372"
+          },
+          {
+            "isbn10": "0606356649",
+            "isbn13": "9780606356640"
+          },
+          {
+            "isbn10": "006195070X",
+            "isbn13": "9780061950704"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316207020",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Emily Raymond",
+        "primary_isbn13": "9780316207027",
+        "description": "Sixteen-year-old Axi Moore invites her best friend, whom she secretly loves, on a cross-country road trip.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316207041.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/First-Love-James-Patterson/dp/0316207047?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Emily Raymond",
+        "title": "FIRST LOVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316207047",
+            "isbn13": "9780316207041"
+          },
+          {
+            "isbn10": "0316207020",
+            "isbn13": "9780316207027"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Marie Force",
+        "primary_isbn13": "9781101636350",
+        "description": "A website designer finds herself caught up in a family dispute over a country store; a Green Mountain romance.",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636350.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/All-You-Need-Is-Love-ebook/dp/B00DYXAA4G?tag=thenewyorktim-20",
+        "contributor": "by Marie Force",
+        "title": "ALL YOU NEED IS LOVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425266761",
+            "isbn13": "9780425266762"
+          }
+        ],
+        "publisher": "Berkley Sensation"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061957658",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Joyce Maynard",
+        "primary_isbn13": "9780061957659",
+        "description": "One holiday weekend in New Hampshire, the lives of a single mother and her son are irrevocably changed when they show kindness to a stranger with a terrible secret. Originally published in 2009; now a movie.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061843419.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Labor-Day-Movie-Tie-Edition/dp/0062313630?tag=thenewyorktim-20",
+        "contributor": "by Joyce Maynard",
+        "title": "LABOR DAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061843415",
+            "isbn13": "9780061843419"
+          },
+          {
+            "isbn10": "0062313630",
+            "isbn13": "9780062313638"
+          },
+          {
+            "isbn10": "0061957658",
+            "isbn13": "9780061957659"
+          }
+        ],
+        "publisher": "HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears from her Missouri home on her fifth anniversary; is her bitter, oddly evasive husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tessa Bailey",
+        "primary_isbn13": "9781622664764",
+        "description": "Knowing the N.Y.P.D. sniper Matt Donovan would never have his wicked way with his best friend's sister, she poses as someone else; a Line of Duty novel.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781622664764.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Staking-Claim-Novel-Entangled-Brazen-ebook/dp/B00HTJJSSU?tag=thenewyorktim-20",
+        "contributor": "by Tessa Bailey",
+        "title": "STAKING HIS CLAIM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Entangled: Brazen"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Graeme Simsion",
+        "primary_isbn13": "9781476729107",
+        "description": "A genetics professor with Asperger's syndrome becomes involved with an unconventional woman.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476729091.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 314,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Rosie-Project-A-Novel/dp/1476729093?tag=thenewyorktim-20",
+        "contributor": "by Graeme Simsion",
+        "title": "THE ROSIE PROJECT",
+        "sunday_review_link": "//www.nytimes.com/2013/10/20/books/review/graeme-simsions-rosie-project.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476729085",
+            "isbn13": "9781476729084"
+          },
+          {
+            "isbn10": "1476729093",
+            "isbn13": "9781476729091"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jaci Burton",
+        "primary_isbn13": "9781101595701",
+        "description": "A budding fashion designer agrees to let her hot hockey-playing old flame work for her as a model; a Play-by-Play novel.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101595701.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Melting-Ice-Play-Play-Novel-ebook/dp/B00DMCPJTA?tag=thenewyorktim-20",
+        "contributor": "by Jaci Burton",
+        "title": "MELTING THE ICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425262987",
+            "isbn13": "9780425262986"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J S Cooper and Helen Cooper",
+        "primary_isbn13": "9781940218083",
+        "description": "Katie Raymond learns that the handsome and sexually compelling billionaire Brandon Hastings, her first love seven years ago, has bought the corporation she works for. The first of three erotica novellas.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781940218083.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 313,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Ex-Games-J-Cooper-ebook/dp/B00HJ70K2U?tag=thenewyorktim-20",
+        "contributor": "by J. S. Cooper and Helen Cooper",
+        "title": "THE EX GAMES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Helen Cooper"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2014-02-08",
+    "previous_published_date": "2014-02-16",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2014-03-02"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

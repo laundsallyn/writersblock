@@ -1,0 +1,785 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2010-03-21",
+    "books": [
+      {
+        "price": 28,
+        "primary_isbn10": "0743296435",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9780743296434",
+        "description": "A teenage boy with Asperger\u2019s syndrome is accused of murder.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780743296434.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/House-Rules-Novel-Jodi-Picoult/dp/0743296443?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "HOUSE RULES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0743296443",
+            "isbn13": "9780743296441"
+          },
+          {
+            "isbn10": "1439199310",
+            "isbn13": "9781439199312"
+          },
+          {
+            "isbn10": "0743296435",
+            "isbn13": "9780743296434"
+          },
+          {
+            "isbn10": "1602857105",
+            "isbn13": "9781602857100"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s \u00adMississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 2,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 2,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 49,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399156240",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9780399156243",
+        "description": "Lt. Eve Dallas investigates the murder of a fantasy-game entrepreneur; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156243.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Fantasy-Death-J-D-Robb/dp/0399156240?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "FANTASY IN DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425235890",
+            "isbn13": "9780425235898"
+          },
+          {
+            "isbn10": "0399156240",
+            "isbn13": "9780399156243"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 21.99,
+        "primary_isbn10": "0446563080",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Seth Grahame-Smith",
+        "primary_isbn13": "9780446563086",
+        "description": "Lincoln fights the undead; by the author of \u201cPride and Prejudice and Zombies.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446563086.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Abraham-Lincoln-Vampire-Seth-Grahame-Smith/dp/0446563072?tag=thenewyorktim-20",
+        "contributor": "by Seth Grahame-Smith",
+        "title": "ABRAHAM LINCOLN: VAMPIRE HUNTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446563080",
+            "isbn13": "9780446563086"
+          },
+          {
+            "isbn10": "0446563072",
+            "isbn13": "9780446563079"
+          },
+          {
+            "isbn10": "1455510173",
+            "isbn13": "9781455510177"
+          },
+          {
+            "isbn10": "1455510181",
+            "isbn13": "9781455510184"
+          },
+          {
+            "isbn10": "0446571857",
+            "isbn13": "9780446571852"
+          },
+          {
+            "isbn10": "1849014779",
+            "isbn13": "9781849014779"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316036226",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316036221",
+        "description": "A New York detective raising 10 children alone investigates a string of kidnappings and killings of teenagers by a villain with unusual motives.",
+        "book_review_link": "",
+        "book_image_height": 277,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316036221.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Worst-Michael-Bennett-James-Patterson/dp/0446574732?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "WORST CASE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446565725",
+            "isbn13": "9780446565721"
+          },
+          {
+            "isbn10": "0316036226",
+            "isbn13": "9780316036221"
+          },
+          {
+            "isbn10": "0446574732",
+            "isbn13": "9780446574730"
+          },
+          {
+            "isbn10": "0316127027",
+            "isbn13": "9780316127028"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0385343183",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780385343183",
+        "description": "A woman with weight issues learns to accept herself.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440245216.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 302,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Big-Girl-Novel-Danielle-Steel/dp/0440245214?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "BIG GIRL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385343183",
+            "isbn13": "9780385343183"
+          },
+          {
+            "isbn10": "0440245214",
+            "isbn13": "9780440245216"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0061138037",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Kim Harrison",
+        "primary_isbn13": "9780061138034",
+        "description": "A witch who is also a bounty hunter is shunned by her kind; the eighth Rachel Morgan book.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061138041.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 174,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Black-Magic-Sanction-Rachel-Morgan/dp/0061138037?tag=thenewyorktim-20",
+        "contributor": "by Kim Harrison",
+        "title": "BLACK MAGIC SANCTION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061138045",
+            "isbn13": "9780061138041"
+          },
+          {
+            "isbn10": "0061138037",
+            "isbn13": "9780061138034"
+          }
+        ],
+        "publisher": "Eos/HarperCollins"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0399156232",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert B Parker",
+        "primary_isbn13": "9780399156236",
+        "description": "Jesse Stone, the police chief of Paradise, Mass., copes with divorce, the bottle and the murder of a mob soldier.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425239735.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 159,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Split-Image-Jesse-Stone-No/dp/0399156232?tag=thenewyorktim-20",
+        "contributor": "by Robert B. Parker",
+        "title": "SPLIT IMAGE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156232",
+            "isbn13": "9780399156236"
+          },
+          {
+            "isbn10": "042523973X",
+            "isbn13": "9780425239735"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 29.95,
+        "primary_isbn10": "0385504225",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dan Brown",
+        "primary_isbn13": "9780385504225",
+        "description": "Robert Langdon among the Masons.",
+        "book_review_link": "//www.nytimes.com/2009/09/14/books/14maslin.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385533133.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 25,
+        "amazon_product_url": "http://www.amazon.com/The-Lost-Symbol-Featuring-Langdon-ebook/dp/B002KQ6BT6?tag=thenewyorktim-20",
+        "contributor": "by Dan Brown",
+        "title": "THE LOST SYMBOL",
+        "sunday_review_link": "//www.nytimes.com/2009/10/11/books/review/Dowd-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400079144",
+            "isbn13": "9781400079148"
+          },
+          {
+            "isbn10": "0385533136",
+            "isbn13": "9780385533133"
+          },
+          {
+            "isbn10": "0385504225",
+            "isbn13": "9780385504225"
+          },
+          {
+            "isbn10": "0385534507",
+            "isbn13": "9780385534505"
+          },
+          {
+            "isbn10": "0385533829",
+            "isbn13": "9780385533829"
+          },
+          {
+            "isbn10": "0307950689",
+            "isbn13": "9780307950680"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0399156194",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sarah Blake",
+        "primary_isbn13": "9780399156199",
+        "description": "\n\nOrdinary life in a Massachusetts small town and an American radio reporter in England in the 1940s.",
+        "book_review_link": "//www.nytimes.com/2010/02/09/books/09book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156199.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Postmistress-Sarah-Blake/dp/0399156194?tag=thenewyorktim-20",
+        "contributor": "by Sarah Blake",
+        "title": "THE POSTMISTRESS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156194",
+            "isbn13": "9780399156199"
+          },
+          {
+            "isbn10": "0425238695",
+            "isbn13": "9780425238691"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0312364121",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Kristin Hannah",
+        "primary_isbn13": "9780312364120",
+        "description": "After their father\u2019s death, two sisters must cooperate to run his apple orchard and care for their difficult mother.",
+        "book_review_link": "",
+        "book_image_height": 276,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312663155.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Winter-Garden-Kristin-Hannah/dp/0312364121?tag=thenewyorktim-20",
+        "contributor": "by Kristin Hannah",
+        "title": "WINTER GARDEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312663153",
+            "isbn13": "9780312663155"
+          },
+          {
+            "isbn10": "1429938463",
+            "isbn13": "9781429938464"
+          },
+          {
+            "isbn10": "0312364121",
+            "isbn13": "9780312364120"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0307271862",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Henning Mankell",
+        "primary_isbn13": "9780307271860",
+        "description": "A massacre in a tiny Swedish village has roots in the past and on other continents.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307271860.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 342,
+        "first_chapter_link": "//www.nytimes.com/2010/02/28/books/excerpt-man-from-beijing.html",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Man-Beijing-Henning-Mankell/dp/0307271862?tag=thenewyorktim-20",
+        "contributor": "by Henning Mankell",
+        "title": "THE MAN FROM BEIJING",
+        "sunday_review_link": "//www.nytimes.com/2010/02/28/books/review/Peed-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307271862",
+            "isbn13": "9780307271860"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0307269981",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269980",
+        "description": "A Swedish hacker becomes a murder suspect.",
+        "book_review_link": "//www.nytimes.com/2009/07/17/books/17book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476159.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 305,
+        "first_chapter_link": "//www.nytimes.com/2009/07/17/books/excerpt-girl-who-played-with-fire.html",
+        "age_group": "",
+        "weeks_on_list": 21,
+        "amazon_product_url": "http://www.amazon.com/Girl-Played-Fire-Millennium-Trilogy/dp/0307476154?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO PLAYED WITH FIRE",
+        "sunday_review_link": "//www.nytimes.com/2009/08/16/books/review/Crime-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030745455X",
+            "isbn13": "9780307454553"
+          },
+          {
+            "isbn10": "0307476154",
+            "isbn13": "9780307476159"
+          },
+          {
+            "isbn10": "0307272303",
+            "isbn13": "9780307272300"
+          },
+          {
+            "isbn10": "0739384163",
+            "isbn13": "9780739384169"
+          },
+          {
+            "isbn10": "0307269981",
+            "isbn13": "9780307269980"
+          },
+          {
+            "isbn10": "0307949508",
+            "isbn13": "9780307949509"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0374299048",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Cathleen Schine",
+        "primary_isbn13": "9780374299040",
+        "description": "\n\nTwo sisters \u2014 one logical, one emotional \u2014 move in with their mother when her ex-husband kicks her out of the family apartment; a tribute to Austen\u2019s \u201cSense and Sensibility.\u201d",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780374299040.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Three-Weissmanns-Westport-Novel/dp/031268052X?tag=thenewyorktim-20",
+        "contributor": "by Cathleen Schine",
+        "title": "THE THREE WEISSMANNS OF WESTPORT",
+        "sunday_review_link": "//www.nytimes.com/2010/02/14/books/review/Browning-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374299048",
+            "isbn13": "9780374299040"
+          },
+          {
+            "isbn10": "031268052X",
+            "isbn13": "9780312680527"
+          }
+        ],
+        "publisher": "Sarah Crichton/Farrar, Straus & Giroux"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0312567456",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jackie Collins",
+        "primary_isbn13": "9780312567453",
+        "description": "Hollywood murder, three beautiful 20-something high school friends, a hot New York club owner.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312567453.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Poor-Little-Bitch-Jackie-Collins/dp/B003RCJPCC?tag=thenewyorktim-20",
+        "contributor": "by Jackie Collins",
+        "title": "POOR LITTLE BITCH GIRL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312567456",
+            "isbn13": "9780312567453"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0451463153",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Anne Bishop",
+        "primary_isbn13": "9780451463159",
+        "description": "The eighth Black Jewels epic fantasy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451463159.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Shaladors-Lady-Black-Jewels-Novel/dp/0451463153?tag=thenewyorktim-20",
+        "contributor": "by Anne Bishop",
+        "title": "SHALADOR\u2019S LADY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451463153",
+            "isbn13": "9780451463159"
+          }
+        ],
+        "publisher": "Roc"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "042523567X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laurell K Hamilton",
+        "primary_isbn13": "9780425235676",
+        "description": "Anita Blake, vampire hunter, and the males in her life; the 18th book in the series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425235676.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Flirt-Anita-Blake-Vampire-Hunter/dp/042523567X?tag=thenewyorktim-20",
+        "contributor": "by Laurell K. Hamilton",
+        "title": "FLIRT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "042523567X",
+            "isbn13": "9780425235676"
+          },
+          {
+            "isbn10": "0515148970",
+            "isbn13": "9780515148978"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0758234899",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Joanne Fluke",
+        "primary_isbn13": "9780758234896",
+        "description": "Hannah Swensen searches for the killer of an amorous professor; recipes included.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780758234902.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 174,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Turnover-Murder-Hannah-Swensen-Mysteries/dp/0758234899?tag=thenewyorktim-20",
+        "contributor": "by Joanne Fluke",
+        "title": "APPLE TURNOVER MURDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0758234899",
+            "isbn13": "9780758234896"
+          },
+          {
+            "isbn10": "0758234902",
+            "isbn13": "9780758234902"
+          }
+        ],
+        "publisher": "Kensington"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061257079",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Adriana Trigiani",
+        "primary_isbn13": "9780061257070",
+        "description": "An Italian-American shoemaker faces challenges at work, in her family and in love; the second book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061257070.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 344,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Brava-Valentine-Novel-Adriana-Trigiani/dp/0061257079?tag=thenewyorktim-20",
+        "contributor": "by Adriana Trigiani",
+        "title": "BRAVA, VALENTINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061257079",
+            "isbn13": "9780061257070"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061147958",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Joe Hill",
+        "primary_isbn13": "9780061147951",
+        "description": "\nAfter the rape and murder of his girlfriend, a distraught young man discovers that he has grown horns.",
+        "book_review_link": "//www.nytimes.com/2010/02/25/books/25book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061147951.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Horns-A-Novel-Joe-Hill/dp/0061147958?tag=thenewyorktim-20",
+        "contributor": "by Joe Hill",
+        "title": "HORNS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061147958",
+            "isbn13": "9780061147951"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2010-03-07",
+    "previous_published_date": "2010-03-14",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2010-03-28"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

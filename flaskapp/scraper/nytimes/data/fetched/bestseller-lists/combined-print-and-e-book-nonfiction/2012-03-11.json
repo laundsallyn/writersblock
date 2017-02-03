@@ -1,0 +1,905 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2012-03-11",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kim and Krickitt Carpenter with Dana Wilkerson",
+        "primary_isbn13": "A00B0077T2BHM",
+        "description": "After a horrific car crash, a couple embark on a journey to fall in love all over again. The true events that inspired the movie.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781433675942.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 319,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Vow-Events-Inspired-Movie-ebook/dp/B0077T2BHM?tag=thenewyorktim-20",
+        "contributor": "by Kim and Krickitt Carpenter with Dana Wilkerson",
+        "title": "THE VOW",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "143367579X",
+            "isbn13": "9781433675799"
+          },
+          {
+            "isbn10": "0805421300",
+            "isbn13": "9780805421309"
+          }
+        ],
+        "publisher": "B&H Publishing Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849949203",
+        "description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 57,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062082353",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "primary_isbn13": "9780062082350",
+        "description": "A member of the Navy SEALs discusses his childhood, his marriage and his battlefield experiences.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062082374.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=thenewyorktim-20",
+        "contributor": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+        "title": "AMERICAN SNIPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062082353",
+            "isbn13": "9780062082350"
+          },
+          {
+            "isbn10": "006208237X",
+            "isbn13": "9780062082374"
+          },
+          {
+            "isbn10": "0062209493",
+            "isbn13": "9780062209498"
+          },
+          {
+            "isbn10": "0062107062",
+            "isbn13": "9780062107060"
+          },
+          {
+            "isbn10": "0062238868",
+            "isbn13": "9780062238863"
+          },
+          {
+            "isbn10": "0062290797",
+            "isbn13": "9780062290793"
+          },
+          {
+            "isbn10": "0062376578",
+            "isbn13": "9780062376572"
+          },
+          {
+            "isbn10": "0062376330",
+            "isbn13": "9780062376336"
+          },
+          {
+            "isbn10": "0062297872",
+            "isbn13": "9780062297877"
+          },
+          {
+            "isbn10": "0062082361",
+            "isbn13": "9780062082367"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451648553",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Walter Isaacson",
+        "primary_isbn13": "9781451648553",
+        "description": "A biography of the recently deceased entrepreneur, based on 40 interviews with Jobs conducted over two years.",
+        "book_review_link": "//www.nytimes.com/2011/10/22/books/steve-jobs-by-walter-isaacson-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451648553.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Steve-Jobs-Walter-Isaacson-ebook/dp/B004W2UBYW?tag=thenewyorktim-20",
+        "contributor": "by Walter Isaacson",
+        "title": "STEVE JOBS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451648537",
+            "isbn13": "9781451648539"
+          },
+          {
+            "isbn10": "1451648553",
+            "isbn13": "9781451648553"
+          },
+          {
+            "isbn10": "1442346272",
+            "isbn13": "9781442346277"
+          },
+          {
+            "isbn10": "1442346949",
+            "isbn13": "9781442346949"
+          },
+          {
+            "isbn10": "1410445224",
+            "isbn13": "9781410445223"
+          },
+          {
+            "isbn10": "030795028X",
+            "isbn13": "9780307950284"
+          },
+          {
+            "isbn10": "1408703742",
+            "isbn13": "9781408703748"
+          },
+          {
+            "isbn10": "1451648545",
+            "isbn13": "9781451648546"
+          },
+          {
+            "isbn10": "1594136793",
+            "isbn13": "9781594136795"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805093079",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805093070",
+        "description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805093070.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 22,
+        "amazon_product_url": "http://www.amazon.com/Killing-Lincoln-Shocking-Assassination-Changed-ebook/dp/B004ULORYU?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING LINCOLN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805093079",
+            "isbn13": "9780805093070"
+          },
+          {
+            "isbn10": "1429996870",
+            "isbn13": "9781429996877"
+          },
+          {
+            "isbn10": "1427213127",
+            "isbn13": "9781427213129"
+          },
+          {
+            "isbn10": "1410443000",
+            "isbn13": "9781410443007"
+          },
+          {
+            "isbn10": "1250012163",
+            "isbn13": "9781250012166"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Hackett Fischer",
+        "primary_isbn13": "9780199756674",
+        "description": "A historian\u2019s account of the crucial Revolutionary battles at Trenton and Princeton, beginning on Christmas night in 1776; winner of the 2005 Pulitzer Prize in history.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780199756674.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Washingtons-Crossing-Pivotal-Moments-American-ebook/dp/B000SEOQOE?tag=thenewyorktim-20",
+        "contributor": "by David Hackett Fischer",
+        "title": "WASHINGTON\u2019S CROSSING",
+        "sunday_review_link": "//www.nytimes.com/2004/02/15/books/sit-down-you-re-rocking-the-boat.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "019518159X",
+            "isbn13": "9780195181593"
+          }
+        ],
+        "publisher": "Oxford University Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603751",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9780679603757",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 57,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603441",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mimi Alford",
+        "primary_isbn13": "9780679603443",
+        "description": "A former White House intern recounts her affair with John F. Kennedy.",
+        "book_review_link": "//www.nytimes.com/2012/02/09/books/once-upon-a-secret-mimi-alford-on-her-affair-with-kennedy.html",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400069101.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Once-Upon-Secret-President-Aftermath-ebook/dp/B004FGMPIK?tag=thenewyorktim-20",
+        "contributor": "by Mimi Alford",
+        "title": "ONCE UPON A SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400069106",
+            "isbn13": "9781400069101"
+          },
+          {
+            "isbn10": "0679603441",
+            "isbn13": "9780679603443"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400067553",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Katherine Boo",
+        "primary_isbn13": "9781400067558",
+        "description": "A journalist reports on families striving for better lives in a Mumbai slum.",
+        "book_review_link": "//www.nytimes.com/2012/01/31/books/katherine-boos-first-book-behind-the-beautiful-forevers.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812979329.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Behind-Beautiful-Forevers-Mumbai-Undercity/dp/081297932X?tag=thenewyorktim-20",
+        "contributor": "by Katherine Boo",
+        "title": "BEHIND THE BEAUTIFUL FOREVERS",
+        "sunday_review_link": "//www.nytimes.com/2012/02/12/books/review/katherine-boos-behind-the-beautiful-forevers-explores-a-mumbai-slum.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400067553",
+            "isbn13": "9781400067558"
+          },
+          {
+            "isbn10": "0679643958",
+            "isbn13": "9780679643951"
+          },
+          {
+            "isbn10": "0679645500",
+            "isbn13": "9780679645504"
+          },
+          {
+            "isbn10": "0307934055",
+            "isbn13": "9780307934055"
+          },
+          {
+            "isbn10": "081297932X",
+            "isbn13": "9780812979329"
+          },
+          {
+            "isbn10": "1594136181",
+            "isbn13": "9781594136184"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316056871",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tina Fey",
+        "primary_isbn13": "9780316056878",
+        "description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+        "book_review_link": "//www.nytimes.com/2011/04/04/books/bossypants-by-tina-fey-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316056892.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 38,
+        "amazon_product_url": "http://www.amazon.com/Bossypants-Tina-Fey/dp/0316056898?tag=thenewyorktim-20",
+        "contributor": "by Tina Fey",
+        "title": "BOSSYPANTS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316056863",
+            "isbn13": "9780316056861"
+          },
+          {
+            "isbn10": "031617789X",
+            "isbn13": "9780316177894"
+          },
+          {
+            "isbn10": "0316175862",
+            "isbn13": "9780316175869"
+          },
+          {
+            "isbn10": "031619803X",
+            "isbn13": "9780316198035"
+          },
+          {
+            "isbn10": "0316056871",
+            "isbn13": "9780316056878"
+          },
+          {
+            "isbn10": "0316056898",
+            "isbn13": "9780316056892"
+          },
+          {
+            "isbn10": "1609419693",
+            "isbn13": "9781609419691"
+          },
+          {
+            "isbn10": "0606267212",
+            "isbn13": "9780606267212"
+          },
+          {
+            "isbn10": "0751547832",
+            "isbn13": "9780751547832"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307352145",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Cain",
+        "primary_isbn13": "9780307352149",
+        "description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307452207.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B004J4WNL2?tag=thenewyorktim-20",
+        "contributor": "by Susan Cain",
+        "title": "QUIET",
+        "sunday_review_link": "//www.nytimes.com/2012/02/12/books/review/susan-cains-quiet-argues-for-the-power-of-introverts.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307352145",
+            "isbn13": "9780307352149"
+          },
+          {
+            "isbn10": "0307452204",
+            "isbn13": "9780307452207"
+          },
+          {
+            "isbn10": "0307352153",
+            "isbn13": "9780307352156"
+          },
+          {
+            "isbn10": "1611734207",
+            "isbn13": "9781611734201"
+          },
+          {
+            "isbn10": "0739341243",
+            "isbn13": "9780739341247"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451614217",
+        "asterisk": 0,
+        "dagger": 1,
+        "author": "Peter H Diamandis and Steven Kotler",
+        "primary_isbn13": "9781451614213",
+        "description": "An entrepreneur argues that innovations in water, food and energy will solve society\u2019s biggest problems.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451614213.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 341,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Abundance-Future-Better-Than-Think/dp/1451614217?tag=thenewyorktim-20",
+        "contributor": "by Peter H. Diamandis and Steven Kotler",
+        "title": "ABUNDANCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451614217",
+            "isbn13": "9781451614213"
+          },
+          {
+            "isbn10": "1451616848",
+            "isbn13": "9781451616842"
+          }
+        ],
+        "publisher": "Free Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439173249",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mark R Levin",
+        "primary_isbn13": "9781439173244",
+        "description": "A talk-show host surveys the history of utopias and warns that Americans must choose between utopianism and liberty.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439173282.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Ameritopia-Unmaking-Mark-R-Levin-ebook/dp/B005O2YWVC?tag=thenewyorktim-20",
+        "contributor": "by Mark R. Levin",
+        "title": "AMERITOPIA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439173249",
+            "isbn13": "9781439173244"
+          },
+          {
+            "isbn10": "1439173281",
+            "isbn13": "9781439173282"
+          },
+          {
+            "isbn10": "1442349107",
+            "isbn13": "9781442349100"
+          },
+          {
+            "isbn10": "1439173273",
+            "isbn13": "9781439173275"
+          }
+        ],
+        "publisher": "Threshold Editions"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439187029",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Deborah Feldman",
+        "primary_isbn13": "9781439187029",
+        "description": "A woman breaks free of the Satmar Hasidic community in Brooklyn in which she was raised.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439187012.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Unorthodox-Scandalous-Rejection-Hasidic-Roots/dp/1439187010?tag=thenewyorktim-20",
+        "contributor": "by Deborah Feldman",
+        "title": "UNORTHODOX",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439187002",
+            "isbn13": "9781439187005"
+          },
+          {
+            "isbn10": "1439187029",
+            "isbn13": "9781439187029"
+          },
+          {
+            "isbn10": "1439187010",
+            "isbn13": "9781439187012"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594203334",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Pamela Druckerman",
+        "primary_isbn13": "9781594203336",
+        "description": "An American mother discovers the principles of French parenting.",
+        "book_review_link": "//www.nytimes.com/2012/02/08/books/bringing-up-bebe-a-french-influenced-guide-by-pamela-druckerman.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101563144.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Bringing-Up-B?tag=thenewyorktim-20",
+        "contributor": "by Pamela Druckerman",
+        "title": "BRINGING UP B\u00c9B\u00c9",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594203334",
+            "isbn13": "9781594203336"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400052181",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rebecca Skloot",
+        "primary_isbn13": "9781400052189",
+        "description": "A woman's cancer cells were cultured without her permission in 1951.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400052189.jpg",
+        "rank": 16,
+        "article_chapter_link": "//www.nytimes.com/2010/02/02/health/02seco.html",
+        "rank_last_week": 0,
+        "book_image_width": 182,
+        "first_chapter_link": "//www.nytimes.com/2010/03/03/books/excerpt-immortal-life-of-henrietta-lacks.html",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=thenewyorktim-20",
+        "contributor": "by Rebecca Skloot",
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "sunday_review_link": "//www.nytimes.com/2010/02/07/books/review/Margonelli-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400052173",
+            "isbn13": "9781400052172"
+          },
+          {
+            "isbn10": "0307589382",
+            "isbn13": "9780307589385"
+          },
+          {
+            "isbn10": "1410427927",
+            "isbn13": "9781410427922"
+          },
+          {
+            "isbn10": "1400052181",
+            "isbn13": "9781400052189"
+          },
+          {
+            "isbn10": "1594134324",
+            "isbn13": "9781594134326"
+          },
+          {
+            "isbn10": "0451486315",
+            "isbn13": "9780451486318"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307453421",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charles Murray",
+        "primary_isbn13": "9780307453426",
+        "description": "The author of \"The Bell Curve\" explores the state of white America, 1960-2010.",
+        "book_review_link": "",
+        "book_image_height": 250,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307453426.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 165,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Coming-Apart-State-America-1960-2010/dp/0307453421?tag=thenewyorktim-20",
+        "contributor": "by Charles Murray",
+        "title": "COMING APART",
+        "sunday_review_link": "//www.nytimes.com/2012/02/12/books/review/charles-murray-examines-the-white-working-class-in-coming-apart.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307453421",
+            "isbn13": "9780307453426"
+          },
+          {
+            "isbn10": "0307453448",
+            "isbn13": "9780307453440"
+          },
+          {
+            "isbn10": "030745343X",
+            "isbn13": "9780307453433"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455503126",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Robison and Jay W Richards",
+        "primary_isbn13": "9781455503124",
+        "description": "An examination of politics, faith and culture from a Christian perspective.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455503124.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Indivisible-Restoring-Family-Freedom-Before/dp/1455503126?tag=thenewyorktim-20",
+        "contributor": "by James Robison and Jay W. Richards",
+        "title": "INDIVISIBLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455503126",
+            "isbn13": "9781455503124"
+          }
+        ],
+        "publisher": "FaithWords"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0802194761",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Scotty Bowers with Lionel Friedberg",
+        "primary_isbn13": "9780802194763",
+        "description": "A gossipy account of the sex lives of the stars during Hollywood\u2019s golden age.",
+        "book_review_link": "//www.nytimes.com/2012/02/06/books/anne-sebba-on-duchess-of-windsor-scotty-bowers-on-himself.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780802194763.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Full-Service-Adventures-Hollywood-Secret/dp/0802120075?tag=thenewyorktim-20",
+        "contributor": "by Scotty Bowers with Lionel Friedberg",
+        "title": "FULL SERVICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0802194761",
+            "isbn13": "9780802194763"
+          },
+          {
+            "isbn10": "0802120075",
+            "isbn13": "9780802120076"
+          }
+        ],
+        "publisher": "Grove Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451669038",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tucker Max",
+        "primary_isbn13": "9781451669039",
+        "description": "More stories from a life of serial debauchery.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451669053.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Hilarity-Ensues-Tucker-Max-ebook/dp/B005GG7QOQ?tag=thenewyorktim-20",
+        "contributor": "by Tucker Max",
+        "title": "HILARITY ENSUES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451669038",
+            "isbn13": "9781451669039"
+          },
+          {
+            "isbn10": "1451669054",
+            "isbn13": "9781451669053"
+          }
+        ],
+        "publisher": "Blue Heeler Books"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2012-02-25",
+    "previous_published_date": "2012-03-04",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2012-03-18"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

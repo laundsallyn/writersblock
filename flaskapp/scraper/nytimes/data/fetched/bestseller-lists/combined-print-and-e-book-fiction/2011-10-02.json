@@ -1,0 +1,774 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2011-10-02",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1440697663",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9781440697661",
+        "description": "A young white woman and two black maids in 1960s Mississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 1,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 1,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 31,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9781101536919",
+        "description": "An escaped child molester pursues Lt. Eve Dallas; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101536919.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/New-York-Dallas-In-Death-ebook/dp/B004Z4IKMM?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "NEW YORK TO DALLAS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157786",
+            "isbn13": "9780399157783"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Darcie Chan",
+        "primary_isbn13": "A00B0051PRFLQ",
+        "description": "Only one man knows an abused widow, which revealed will change many lives in her small Vermont town.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780615523774.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 341,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Mill-River-Recluse-Novel-ebook/dp/B00H3NNWXE?tag=thenewyorktim-20",
+        "contributor": "by Darcie Chan",
+        "title": "THE MILL RIVER RECLUSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1458092097",
+            "isbn13": "9781458092090"
+          }
+        ],
+        "publisher": "Darcie Chan"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097551",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Marshall Karp",
+        "primary_isbn13": "9780316097550",
+        "description": "When a young man finds a bag of diamonds, he gets the attention of the Ghost, a major assassin, and a rival assassin who wants the Ghost gone forever.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316097550.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Kill-Me-If-You-Can/dp/0446571873?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Marshall Karp",
+        "title": "KILL ME IF YOU CAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097543",
+            "isbn13": "9780316097543"
+          },
+          {
+            "isbn10": "1607884674",
+            "isbn13": "9781607884675"
+          },
+          {
+            "isbn10": "0316097551",
+            "isbn13": "9780316097550"
+          },
+          {
+            "isbn10": "0446571873",
+            "isbn13": "9780446571876"
+          },
+          {
+            "isbn10": "0446571865",
+            "isbn13": "9780446571869"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385534647",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erin Morgenstern",
+        "primary_isbn13": "9780385534642",
+        "description": "Two young rivals at a magical circus become collaborators as they fall in love.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385534635.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Night-Circus-Erin-Morgenstern/dp/0307744434?tag=thenewyorktim-20",
+        "contributor": "by Erin Morgenstern",
+        "title": "THE NIGHT CIRCUS",
+        "sunday_review_link": "//www.nytimes.com/2011/10/09/books/review/the-night-circus-by-erin-morgenstern-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385534639",
+            "isbn13": "9780385534635"
+          },
+          {
+            "isbn10": "0385534647",
+            "isbn13": "9780385534642"
+          },
+          {
+            "isbn10": "0307744434",
+            "isbn13": "9780307744432"
+          },
+          {
+            "isbn10": "034580354X",
+            "isbn13": "9780345803542"
+          }
+        ],
+        "publisher": "Knopf Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0759525781",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Connelly",
+        "primary_isbn13": "9780759525788",
+        "description": "The Los Angeles detective Harry Bosch investigates the scandalous death of a narcotics officer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780759525788.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 309,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Black-Harry-Bosch-Novel-ebook/dp/B001GUXJQA?tag=thenewyorktim-20",
+        "contributor": "by Michael Connelly",
+        "title": "THE BLACK ICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0759525781",
+            "isbn13": "9780759525788"
+          },
+          {
+            "isbn10": "0446613444",
+            "isbn13": "9780446613446"
+          },
+          {
+            "isbn10": "0316020036",
+            "isbn13": "9780316020039"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chris Culver",
+        "primary_isbn13": "A00B004M18ZRS",
+        "description": "Against orders, a former homicide detective begins an investigation into his niece's murder.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": null,
+        "contributor": "by Chris Culver",
+        "title": "THE ABBEY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Chris Culver"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "CJ Lyons",
+        "primary_isbn13": "A00B0043M6J92",
+        "description": "A woman finds no closure after a man is executed for the murder of her husband and son.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": null,
+        "contributor": "by CJ Lyons",
+        "title": "BLIND FAITH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Legacy"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0778312518",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Debbie Macomber",
+        "primary_isbn13": "9780778312512",
+        "description": "Bruce Peyton\u2019s pregnant wife has left him, and he\u2019s not the only one in town with problems; Book 11 in the Cedar Cove series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780778312512.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/1105-Yakima-Street-Cedar-Cove-ebook/dp/B005DB89GI?tag=thenewyorktim-20",
+        "contributor": "by Debbie Macomber",
+        "title": "1105 YAKIMA STREET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778312518",
+            "isbn13": "9780778312512"
+          }
+        ],
+        "publisher": "Mira"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1599951193",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Karen Kingsbury",
+        "primary_isbn13": "9781599951195",
+        "description": "Two troubled young rodeo performers are unable to avoid falling in love, no matter what consequences their actions might bring.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781599951195.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/A-Thousand-Tomorrows-Karen-Kingsbury-ebook/dp/B002SSBDDK?tag=thenewyorktim-20",
+        "contributor": "by Karen Kingsbury",
+        "title": "A THOUSAND TOMORROWS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1599951193",
+            "isbn13": "9781599951195"
+          },
+          {
+            "isbn10": "1599950022",
+            "isbn13": "9781599950020"
+          }
+        ],
+        "publisher": "Center Street"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781451665604",
+        "description": "Unsuspecting drivers wind up dead after pulling into a boarded-up rest stop on a Maine highway.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451665604.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Mile-Kindle-Single-Stephen-King-ebook/dp/B005COO1X6?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "MILE 81",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399157840",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Brandman",
+        "primary_isbn13": "9780399157844",
+        "description": "Jesse Stone, the chief of police in Paradise, Mass., confronts an outbreak of murders; a continuation of the series by Parker, who died in 2010.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425250457.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Killing-Blues-Jesse-Stone-Novel/dp/0425250458?tag=thenewyorktim-20",
+        "contributor": "by Michael Brandman",
+        "title": "ROBERT B. PARKER\u2019S KILLING THE BLUES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157840",
+            "isbn13": "9780399157844"
+          },
+          {
+            "isbn10": "0425250458",
+            "isbn13": "9780425250457"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429985216",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tatiana de Rosnay",
+        "primary_isbn13": "9781429985215",
+        "description": "A contemporary American journalist investigates what happened to a little girl during the roundup of Jews in Paris in 1942.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312370848.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 181,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Sarahs-Key-Tatiana-Rosnay/dp/0312370849?tag=thenewyorktim-20",
+        "contributor": "by Tatiana de Rosnay",
+        "title": "SARAH\u2019S KEY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312370849",
+            "isbn13": "9780312370848"
+          },
+          {
+            "isbn10": "1429985216",
+            "isbn13": "9781429985215"
+          },
+          {
+            "isbn10": "1250004349",
+            "isbn13": "9781250004345"
+          },
+          {
+            "isbn10": "0312370830",
+            "isbn13": "9780312370831"
+          },
+          {
+            "isbn10": "1594134952",
+            "isbn13": "9781594134951"
+          },
+          {
+            "isbn10": "1250004217",
+            "isbn13": "9781250004215"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429962232",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jackie Collins",
+        "primary_isbn13": "9781429962230",
+        "description": "Lucky Santangelo fends off a Middle Eastern prince who wants to buy her Las Vegas hotel complex.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312567460.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Goddess-Vengeance-Jackie-Collins-ebook/dp/B004H1TC3Y?tag=thenewyorktim-20",
+        "contributor": "by Jackie Collins",
+        "title": "GODDESS OF VENGEANCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312567464",
+            "isbn13": "9780312567460"
+          },
+          {
+            "isbn10": "1429962232",
+            "isbn13": "9781429962230"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Barbara Freethy",
+        "primary_isbn13": "2940013042735",
+        "description": "Together with a man who says he\u2019s her baby\u2019s father, a woman with amnesia goes in search of the child and tries to discover who wants her dead, and why.",
+        "book_review_link": "",
+        "book_image_height": 188,
+        "book_image": "https://s1.nyt.com/du/books/images/9780983651741.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Silent-Run-Sanders-Brothers-1-ebook/dp/B005IRPSM0?tag=thenewyorktim-20",
+        "contributor": "by Barbara Freethy",
+        "title": "SILENT RUN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0983651744",
+            "isbn13": "9780983651741"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553905651",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553905656",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399157816",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Justin Scott",
+        "primary_isbn13": "9780399157813",
+        "description": "It is 1909, and an intrepid aviator named Josephine Frost is competing in a $50,000 race across America. But she\u2019ll need Detective Isaac Bell to protect her from her murderous husband.",
+        "book_review_link": "",
+        "book_image_height": 226,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399157813.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Race-Isaac-Bell-Adventure/dp/042525044X?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Justin Scott",
+        "title": "THE RACE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157816",
+            "isbn13": "9780399157813"
+          },
+          {
+            "isbn10": "042525044X",
+            "isbn13": "9780425250440"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312651619",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Savage",
+        "primary_isbn13": "9780312651619",
+        "description": "A former war correspondent works to expose a terrorist group and a plot at the highest levels of power.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312651619.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Abuse-Power-Michael-Savage/dp/0312651619?tag=thenewyorktim-20",
+        "contributor": "by Michael Savage",
+        "title": "ABUSE OF POWER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312651619",
+            "isbn13": "9780312651619"
+          },
+          {
+            "isbn10": "1429995815",
+            "isbn13": "9781429995818"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553897845",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553897845",
+        "description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553897845.jpg",
+        "rank": 19,
+        "article_chapter_link": "//www.nytimes.com/2011/04/10/arts/television/game-of-thrones-on-hbo-from-george-r-r-martin-novels.html",
+        "rank_last_week": 0,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A GAME OF THRONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553573403",
+            "isbn13": "9780553573404"
+          },
+          {
+            "isbn10": "0553386794",
+            "isbn13": "9780553386790"
+          },
+          {
+            "isbn10": "0553381687",
+            "isbn13": "9780553381689"
+          },
+          {
+            "isbn10": "0553593714",
+            "isbn13": "9780553593716"
+          },
+          {
+            "isbn10": "0553897845",
+            "isbn13": "9780553897845"
+          },
+          {
+            "isbn10": "0553103547",
+            "isbn13": "9780553103540"
+          },
+          {
+            "isbn10": "044042321X",
+            "isbn13": "9780440423218"
+          },
+          {
+            "isbn10": "0553588486",
+            "isbn13": "9780553588484"
+          },
+          {
+            "isbn10": "0345535537",
+            "isbn13": "9780345535535"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0765321548",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Weber",
+        "primary_isbn13": "9780765321541",
+        "description": "The island empire of Charis fights to survive.",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765321541.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 124,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Firm-Foundation-Safehold-David-Weber-ebook/dp/B004V9O59I?tag=thenewyorktim-20",
+        "contributor": "by David Weber",
+        "title": "HOW FIRM A FOUNDATION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765321548",
+            "isbn13": "9780765321541"
+          },
+          {
+            "isbn10": "1429983000",
+            "isbn13": "9781429983006"
+          }
+        ],
+        "publisher": "Tom Doherty"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2011-09-17",
+    "previous_published_date": "2011-09-25",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2011-10-09"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

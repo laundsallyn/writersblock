@@ -1,0 +1,829 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2012-10-07",
+    "books": [
+      {
+        "price": 36,
+        "primary_isbn10": "0525952926",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ken Follett",
+        "primary_isbn13": "9780525952923",
+        "description": "In Book 2 of the Century trilogy, members of five interrelated families from five countries, some of them children of characters in the previous book, \u201cFall of Giants,\u201d grapple with the tumultuous historical events of the years 1939-49.",
+        "book_review_link": "//www.nytimes.com/2012/09/17/books/ken-follett-offers-second-volume-of-century-trilogy.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101591437.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Winter-World-Book-Century-Trilogy/dp/0451419243?tag=thenewyorktim-20",
+        "contributor": "by Ken Follett",
+        "title": "WINTER OF THE WORLD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525952926",
+            "isbn13": "9780525952923"
+          },
+          {
+            "isbn10": "023076486X",
+            "isbn13": "9780230764866"
+          },
+          {
+            "isbn10": "0451419243",
+            "isbn13": "9780451419248"
+          },
+          {
+            "isbn10": "0451468228",
+            "isbn13": "9780451468222"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0385344333",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780385344333",
+        "description": "A carload of people involved in a conspiracy pick up a disheveled hitchhiker, Child\u2019s vigilante hero Jack Reacher.",
+        "book_review_link": "//www.nytimes.com/2012/09/10/books/a-wanted-man-a-jack-reacher-novel-by-lee-child.html",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385344333.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Wanted-bonus-short-story-Deep-ebook/dp/B007GCY8FS?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "A WANTED MAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344333",
+            "isbn13": "9780385344333"
+          },
+          {
+            "isbn10": "0440339367",
+            "isbn13": "9780440339366"
+          },
+          {
+            "isbn10": "1409043568",
+            "isbn13": "9781409043560"
+          },
+          {
+            "isbn10": "0440246318",
+            "isbn13": "9780440246312"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "030758836X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears on her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 24.99,
+        "primary_isbn10": "1401322786",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitch Albom",
+        "primary_isbn13": "9781401322786",
+        "description": "A fable about the inventor of the world\u2019s first clock, who returns to our world after centuries of banishment; from the author of \u201cTuesdays With Morrie.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401322786.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 350,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Time-Keeper-Mitch-Albom/dp/1401322786?tag=thenewyorktim-20",
+        "contributor": "by Mitch Albom",
+        "title": "THE TIME KEEPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401322786",
+            "isbn13": "9781401322786"
+          },
+          {
+            "isbn10": "1401304702",
+            "isbn13": "9781401304706"
+          },
+          {
+            "isbn10": "1410451615",
+            "isbn13": "9781410451613"
+          },
+          {
+            "isbn10": "1401312853",
+            "isbn13": "9781401312855"
+          }
+        ],
+        "publisher": "Hyperion"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1455501557",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sandra Brown",
+        "primary_isbn13": "9781455501557",
+        "description": "A woman makes disturbing discoveries \u2014 and acquires a stalker \u2014 when she writes a book about her sister\u2019s murder.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455501533.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Low-Pressure-Sandra-Brown/dp/1455501557?tag=thenewyorktim-20",
+        "contributor": "by Sandra Brown",
+        "title": "LOW PRESSURE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455501557",
+            "isbn13": "9781455501557"
+          },
+          {
+            "isbn10": "1455501530",
+            "isbn13": "9781455501533"
+          },
+          {
+            "isbn10": "1455522546",
+            "isbn13": "9781455522545"
+          },
+          {
+            "isbn10": "1455525189",
+            "isbn13": "9781455525188"
+          },
+          {
+            "isbn10": "1455501549",
+            "isbn13": "9781455501540"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399159843",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780399159848",
+        "description": "Stone Barrington travels to Bel-Air for the opening of a luxury hotel, where terrorists have targeted the president.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101600535.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Severe-Clear-Stone-Barrington-Stuart/dp/0451414373?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "SEVERE CLEAR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159843",
+            "isbn13": "9780399159848"
+          },
+          {
+            "isbn10": "0451414373",
+            "isbn13": "9780451414373"
+          },
+          {
+            "isbn10": "1594136300",
+            "isbn13": "9781594136306"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0061493341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Chabon",
+        "primary_isbn13": "9780061493348",
+        "description": "Fathers and sons in Berkeley and Oakland, Calif.",
+        "book_review_link": "//www.nytimes.com/2012/09/04/books/telegraph-avenue-by-michael-chabon.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061493348.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 265,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Telegraph-Avenue-Michael-Chabon-ebook/dp/B007HBH2EW?tag=thenewyorktim-20",
+        "contributor": "by Michael Chabon",
+        "title": "TELEGRAPH AVENUE",
+        "sunday_review_link": "//www.nytimes.com/2012/09/09/books/review/telegraph-avenue-by-michael-chabon.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061493341",
+            "isbn13": "9780061493348"
+          },
+          {
+            "isbn10": "0062124609",
+            "isbn13": "9780062124609"
+          },
+          {
+            "isbn10": "006149335X",
+            "isbn13": "9780061493355"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "1594487367",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Junot D\u00edaz",
+        "primary_isbn13": "9781594487361",
+        "description": "Stories of love, loss and family history from a Pulitzer Prize-winning novelist.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594487361.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/This-How-You-Lose-Her-ebook/dp/B0085DOG2W?tag=thenewyorktim-20",
+        "contributor": "by Junot D\u00edaz",
+        "title": "THIS IS HOW YOU LOSE HER",
+        "sunday_review_link": "//www.nytimes.com/2012/09/23/books/review/this-is-how-you-lose-her-by-junot-diaz.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594487367",
+            "isbn13": "9781594487361"
+          },
+          {
+            "isbn10": "0571294200",
+            "isbn13": "9780571294206"
+          },
+          {
+            "isbn10": "1594631778",
+            "isbn13": "9781594631771"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316097446",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316097444",
+        "description": "A young biologist warns world leaders about the reasons for escalating animal attacks on cities.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446571791.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Zoo-James-Patterson-ebook/dp/B0076DFB2G?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "ZOO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097446",
+            "isbn13": "9780316097444"
+          },
+          {
+            "isbn10": "0316097438",
+            "isbn13": "9780316097437"
+          },
+          {
+            "isbn10": "0446571792",
+            "isbn13": "9780446571791"
+          },
+          {
+            "isbn10": "1455525154",
+            "isbn13": "9781455525157"
+          },
+          {
+            "isbn10": "1455536709",
+            "isbn13": "9781455536702"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0765321556",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Weber",
+        "primary_isbn13": "9780765321558",
+        "description": "In Book 6 of the Safehold science fiction series, the republic of Siddamark descends into chaos.",
+        "book_review_link": "",
+        "book_image_height": 196,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765321558.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Midst-Tribulation-Safehold-David-Weber-ebook/dp/B007RMY4GA?tag=thenewyorktim-20",
+        "contributor": "by David Weber",
+        "title": "MIDST TOIL AND TRIBULATION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765321556",
+            "isbn13": "9780765321558"
+          },
+          {
+            "isbn10": "1429944684",
+            "isbn13": "9781429944687"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399158812",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9780399158810",
+        "description": "Lt. Eve Dallas investigates a mass delusion at a bar her husband owns; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101600207.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Delusion-Death-In-Book-35/dp/0425250660?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "DELUSION IN DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158812",
+            "isbn13": "9780399158810"
+          },
+          {
+            "isbn10": "0748125876",
+            "isbn13": "9780748125876"
+          },
+          {
+            "isbn10": "0425250660",
+            "isbn13": "9780425250662"
+          },
+          {
+            "isbn10": "141045228X",
+            "isbn13": "9781410452283"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399159266",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Thomas Perry",
+        "primary_isbn13": "9780399159268",
+        "description": "Sam and Remi Fargo, a husband-and-wife treasure-hunting team, search for the tomb of Attila the Hun.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399159268.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Tombs-A-Fargo-Adventure-ebook/dp/B007T99OO8?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Thomas Perry",
+        "title": "THE TOMBS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159266",
+            "isbn13": "9780399159268"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 59,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0399159495",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Michael Brandman",
+        "primary_isbn13": "9780399159497",
+        "description": "Jesse Stone, the chief of police in Paradise, Mass., deals with the arrest of a troubled movie star; a continuation of the series by Parker, who died in 2010.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101600214.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Robert-Parkers-Twice-Jesse-Stone/dp/042526128X?tag=thenewyorktim-20",
+        "contributor": "by Michael Brandman",
+        "title": "ROBERT B. PARKER'S FOOL ME TWICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159495",
+            "isbn13": "9780399159497"
+          },
+          {
+            "isbn10": "042526128X",
+            "isbn13": "9780425261286"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "1451681739",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "M L Stedman",
+        "primary_isbn13": "9781451681734",
+        "description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451681758.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/The-Light-Between-Oceans-Novel-ebook/dp/B0064CL1T2?tag=thenewyorktim-20",
+        "contributor": "by M. L. Stedman",
+        "title": "THE LIGHT BETWEEN OCEANS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451681739",
+            "isbn13": "9781451681734"
+          },
+          {
+            "isbn10": "1451681763",
+            "isbn13": "9781451681765"
+          },
+          {
+            "isbn10": "1451681755",
+            "isbn13": "9781451681758"
+          },
+          {
+            "isbn10": "1594136327",
+            "isbn13": "9781594136320"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1401324444",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Castle",
+        "primary_isbn13": "9781401324445",
+        "description": "The New York homicide detective Nikki Heat investigates the case of a woman whose body is found in a freezer.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 232,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401304720.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Frozen-Heat-Nikki-Richard-Castle/dp/0786891432?tag=thenewyorktim-20",
+        "contributor": "by Richard Castle",
+        "title": "FROZEN HEAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401324444",
+            "isbn13": "9781401324445"
+          },
+          {
+            "isbn10": "1401304729",
+            "isbn13": "9781401304720"
+          },
+          {
+            "isbn10": "0786891432",
+            "isbn13": "9780786891436"
+          }
+        ],
+        "publisher": "Hyperion"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "076533271X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Edward",
+        "primary_isbn13": "9780765332714",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765332714.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Fallen-Masters-John-Edward/dp/076533271X?tag=thenewyorktim-20",
+        "contributor": "by John Edward",
+        "title": "FALLEN MASTERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "076533271X",
+            "isbn13": "9780765332714"
+          }
+        ],
+        "publisher": "Tor"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312616252",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "M C Beaton",
+        "primary_isbn13": "9780312616250",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312616250.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Hiss-Hers-Agatha-Mystery-Mysteries/dp/0312616252?tag=thenewyorktim-20",
+        "contributor": "by M. C. Beaton",
+        "title": "HISS AND HERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312616252",
+            "isbn13": "9780312616250"
+          }
+        ],
+        "publisher": "Minotaur"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594203970",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Zadie Smith",
+        "primary_isbn13": "9781594203978",
+        "description": "The lives of four characters cross in northwest London; from the author of \u201cWhite Teeth.\u201d",
+        "book_review_link": "//www.nytimes.com/2012/08/27/books/nw-by-zadie-smith.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594203978.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 265,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/NW-A-Novel-Zadie-Smith/dp/1594203970?tag=thenewyorktim-20",
+        "contributor": "by Zadie Smith",
+        "title": "NW",
+        "sunday_review_link": "//www.nytimes.com/2012/09/23/books/review/nw-by-zadie-smith.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594203970",
+            "isbn13": "9781594203978"
+          }
+        ],
+        "publisher": "Penguin Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "031607991X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brent Weeks",
+        "primary_isbn13": "9780316079914",
+        "description": "A fantasy sequel to \u201cThe Black Prism.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316079914.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Blinding-Knife-Lightbringer-Brent-Weeks/dp/031607991X?tag=thenewyorktim-20",
+        "contributor": "by Brent Weeks",
+        "title": "THE BLINDING KNIFE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031607991X",
+            "isbn13": "9780316079914"
+          },
+          {
+            "isbn10": "0316215813",
+            "isbn13": "9780316215817"
+          }
+        ],
+        "publisher": "Orbit"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2012-09-22",
+    "previous_published_date": "2012-09-30",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2012-10-14"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

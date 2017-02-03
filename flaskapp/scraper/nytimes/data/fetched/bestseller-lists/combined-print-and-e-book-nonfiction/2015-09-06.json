@@ -1,0 +1,885 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2015-09-06",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1501126121",
+        "asterisk": 0,
+        "dagger": 1,
+        "author": "Glenn Beck",
+        "primary_isbn13": "9781501126123",
+        "description": "The talk-radio host looks to Muslim teachings for the roots of Islamic extremism.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781501126130.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/It-IS-About-Islam-Caliphate/dp/1501126121?tag=thenewyorktim-20",
+        "contributor": "by Glenn Beck",
+        "title": "IT IS ABOUT ISLAM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1501126121",
+            "isbn13": "9781501126123"
+          },
+          {
+            "isbn10": "150112613X",
+            "isbn13": "9781501126130"
+          },
+          {
+            "isbn10": "1442394064",
+            "isbn13": "9781442394063"
+          }
+        ],
+        "publisher": "Threshold Editions/Mercury Radio Arts"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451606303",
+        "asterisk": 0,
+        "dagger": 1,
+        "author": "Mark R Levin",
+        "primary_isbn13": "9781451606300",
+        "description": "The talk-radio host urges young Americans to resist the statist masterminds who he says are burdening them with debt, inferior education and illegal immigration.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451606409.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Plunder-Deceit-Mark-R-Levin/dp/1451606303?tag=thenewyorktim-20",
+        "contributor": "by Mark R. Levin",
+        "title": "PLUNDER AND DECEIT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451606303",
+            "isbn13": "9781451606300"
+          },
+          {
+            "isbn10": "1451606400",
+            "isbn13": "9781451606409"
+          },
+          {
+            "isbn10": "1442390840",
+            "isbn13": "9781442390843"
+          }
+        ],
+        "publisher": "Threshold Editions"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812993543",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ta-Nehisi Coates",
+        "primary_isbn13": "9780812993547",
+        "description": "A meditation on race in America as well as a personal story by the national correspondent of The Atlantic, framed as a letter to his teenage son.",
+        "book_review_link": "//www.nytimes.com/2015/08/17/books/review/ta-nehisi-coatess-between-the-world-and-me.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679645986.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates-ebook/dp/B00SEFAIRI?tag=thenewyorktim-20",
+        "contributor": "by Ta-Nehisi Coates",
+        "title": "BETWEEN THE WORLD AND ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812993543",
+            "isbn13": "9780812993547"
+          },
+          {
+            "isbn10": "0451482212",
+            "isbn13": "9780451482211"
+          },
+          {
+            "isbn10": "1410485846",
+            "isbn13": "9781410485847"
+          }
+        ],
+        "publisher": "Spiegel & Grau"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0143125478",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel James Brown",
+        "primary_isbn13": "9780143125471",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101622742.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 66,
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20",
+        "contributor": "by Daniel James Brown",
+        "title": "THE BOYS IN THE BOAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "None",
+            "isbn13": "9780143177289"
+          },
+          {
+            "isbn10": "067002581X",
+            "isbn13": "9780670025817"
+          },
+          {
+            "isbn10": "0143125478",
+            "isbn13": "9780143125471"
+          },
+          {
+            "isbn10": "159413779X",
+            "isbn13": "9781594137792"
+          },
+          {
+            "isbn10": "1611761697",
+            "isbn13": "9781611761696"
+          },
+          {
+            "isbn10": "1410459543",
+            "isbn13": "9781410459541"
+          }
+        ],
+        "publisher": "Penguin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0375725601",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780375725609",
+        "description": "How an architect and a serial killer were linked by the Chicago World's Fair of 1893.",
+        "book_review_link": "//www.nytimes.com/2003/02/10/books/books-of-the-times-add-a-serial-murderer-to-1893-chicago-s-opulent-overkill.html",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780375725609.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 300,
+        "first_chapter_link": "//www.nytimes.com/2003/03/09/books/chapters/0309-1st-larson.html",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/The-Devil-White-City-Madness/dp/0375725601?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "THE DEVIL IN THE WHITE CITY",
+        "sunday_review_link": "//www.nytimes.com/2003/03/09/books/a-real-life-bates-motel.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0375725601",
+            "isbn13": "9780375725609"
+          },
+          {
+            "isbn10": "1400076315",
+            "isbn13": "9781400076314"
+          },
+          {
+            "isbn10": "0609608444",
+            "isbn13": "9780609608449"
+          },
+          {
+            "isbn10": "0739323598",
+            "isbn13": "9780739323595"
+          },
+          {
+            "isbn10": "1410455769",
+            "isbn13": "9781410455765"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553446754",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780553446753",
+        "description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+        "book_review_link": "",
+        "book_image_height": 281,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307408860.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 24,
+        "amazon_product_url": "http://www.amazon.com/Dead-Wake-Last-Crossing-Lusitania/dp/0307408868?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "DEAD WAKE",
+        "sunday_review_link": "//www.nytimes.com/2015/03/08/books/review/erik-larsons-dead-wake-about-the-lusitania.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307408868",
+            "isbn13": "9780307408860"
+          },
+          {
+            "isbn10": "0553446754",
+            "isbn13": "9780553446753"
+          },
+          {
+            "isbn10": "0553551620",
+            "isbn13": "9780553551624"
+          },
+          {
+            "isbn10": "0804194610",
+            "isbn13": "9780804194617"
+          },
+          {
+            "isbn10": "0307408876",
+            "isbn13": "9780307408877"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476728747",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David McCullough",
+        "primary_isbn13": "9781476728742",
+        "description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight.",
+        "book_review_link": "//www.nytimes.com/2015/05/04/books/review-the-wright-brothers-by-david-mccullough.html",
+        "book_image_height": 350,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476728742.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 241,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/The-Wright-Brothers-David-McCullough-ebook/dp/B00LD1RWP6?tag=thenewyorktim-20",
+        "contributor": "by David McCullough",
+        "title": "THE WRIGHT BROTHERS",
+        "sunday_review_link": "//www.nytimes.com/2015/05/10/books/review/the-wright-brothers-by-david-mccullough.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476728747",
+            "isbn13": "9781476728742"
+          },
+          {
+            "isbn10": "1476728763",
+            "isbn13": "9781476728766"
+          },
+          {
+            "isbn10": "1410478750",
+            "isbn13": "9781410478757"
+          },
+          {
+            "isbn10": "1442376082",
+            "isbn13": "9781442376083"
+          },
+          {
+            "isbn10": "1476728755",
+            "isbn13": "9781476728759"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594206279",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Aziz Ansari with Eric Klinenberg",
+        "primary_isbn13": "9781594206276",
+        "description": "The comedian enlists a sociologist to help him understand today\u2019s dating scene.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698179967.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Modern-Romance-Aziz-Ansari-ebook/dp/B00OZ0TMYG?tag=thenewyorktim-20",
+        "contributor": "by Aziz Ansari with Eric Klinenberg",
+        "title": "MODERN ROMANCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594206279",
+            "isbn13": "9781594206276"
+          },
+          {
+            "isbn10": "1611764254",
+            "isbn13": "9781611764253"
+          },
+          {
+            "isbn10": "0143109251",
+            "isbn13": "9780143109259"
+          }
+        ],
+        "publisher": "Penguin Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307717836",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill Bryson",
+        "primary_isbn13": "9780307717832",
+        "description": "A journey to rediscover America by trekking the 2,100 miles of the Appalachian Trail. First published in 1998; now a movie.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307717832.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Walk-Woods-Rediscovering-Appalachian-Official-ebook/dp/B000S1LSAM?tag=thenewyorktim-20",
+        "contributor": "by Bill Bryson",
+        "title": "A WALK IN THE WOODS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307279464",
+            "isbn13": "9780307279460"
+          },
+          {
+            "isbn10": "0767902521",
+            "isbn13": "9780767902526"
+          },
+          {
+            "isbn10": "0553455923",
+            "isbn13": "9780553455922"
+          },
+          {
+            "isbn10": "0307717836",
+            "isbn13": "9780307717832"
+          },
+          {
+            "isbn10": "1101905492",
+            "isbn13": "9781101905494"
+          },
+          {
+            "isbn10": "110197088X",
+            "isbn13": "9781101970881"
+          },
+          {
+            "isbn10": "0147523605",
+            "isbn13": "9780147523600"
+          }
+        ],
+        "publisher": "Broadway"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062218840",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Regina Calcaterra",
+        "primary_isbn13": "9780062218841",
+        "description": "Five siblings survive childhood abuse, foster care and homelessness on Long Island.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062218841.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Etched-Sand-Regina-Calcaterra-ebook/dp/B009NG18Z8?tag=thenewyorktim-20",
+        "contributor": "by Regina Calcaterra",
+        "title": "ETCHED IN SAND",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062218840",
+            "isbn13": "9780062218841"
+          },
+          {
+            "isbn10": "0062218832",
+            "isbn13": "9780062218834"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805095152",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Atul Gawande",
+        "primary_isbn13": "9780805095159",
+        "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+        "book_review_link": "//www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805095159.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 44,
+        "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20",
+        "contributor": "by Atul Gawande",
+        "title": "BEING MORTAL",
+        "sunday_review_link": "//www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805095152",
+            "isbn13": "9780805095159"
+          },
+          {
+            "isbn10": "1427244235",
+            "isbn13": "9781427244239"
+          },
+          {
+            "isbn10": "1410478122",
+            "isbn13": "9781410478122"
+          },
+          {
+            "isbn10": "1514732998",
+            "isbn13": "9781514732991"
+          },
+          {
+            "isbn10": "1250081246",
+            "isbn13": "9781250081247"
+          }
+        ],
+        "publisher": "Metropolitan/Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316322423",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Malala Yousafzai with Christina Lamb",
+        "primary_isbn13": "9780316322423",
+        "description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316322409.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 321,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 27,
+        "amazon_product_url": "http://www.amazon.com/Am-Malala-Stood-Education-Taliban/dp/0316322407?tag=thenewyorktim-20",
+        "contributor": "by Malala Yousafzai with Christina Lamb",
+        "title": "I AM MALALA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316322407",
+            "isbn13": "9780316322409"
+          },
+          {
+            "isbn10": "147897978X",
+            "isbn13": "9781478979784"
+          },
+          {
+            "isbn10": "031628663X",
+            "isbn13": "9780316286633"
+          },
+          {
+            "isbn10": "0316322423",
+            "isbn13": "9780316322423"
+          },
+          {
+            "isbn10": "1478902337",
+            "isbn13": "9781478902331"
+          },
+          {
+            "isbn10": "0297870939",
+            "isbn13": "9780297870937"
+          },
+          {
+            "isbn10": "1478983701",
+            "isbn13": "9781478983705"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "081298496X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bryan Stevenson",
+        "primary_isbn13": "9780812984965",
+        "description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812994520.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Just-Mercy-Story-Justice-Redemption-ebook/dp/B00JYWVYLY?tag=thenewyorktim-20",
+        "contributor": "by Bryan Stevenson",
+        "title": "JUST MERCY",
+        "sunday_review_link": "//www.nytimes.com/2014/10/19/books/review/just-mercy-by-bryan-stevenson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": ""
+          },
+          {
+            "isbn10": "0812994523",
+            "isbn13": "9780812994520"
+          },
+          {
+            "isbn10": "0553550608",
+            "isbn13": "9780553550603"
+          },
+          {
+            "isbn10": "1925113574",
+            "isbn13": "9781925113570"
+          },
+          {
+            "isbn10": "081298496X",
+            "isbn13": "9780812984965"
+          }
+        ],
+        "publisher": "Spiegel & Grau"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307423557",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jerry Lewis and James Kaplan",
+        "primary_isbn13": "9780307423559",
+        "description": "The funnier half of Martin and Lewis remembers his time with the man he calls \"my partner\"; first published in 2005.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307423559.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dean-Me-A-Love-Story-ebook/dp/B000XUAEQW?tag=thenewyorktim-20",
+        "contributor": "by Jerry Lewis and James Kaplan",
+        "title": "DEAN & ME (A LOVE STORY)",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307423557",
+            "isbn13": "9780307423559"
+          }
+        ],
+        "publisher": "Broadway"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1628720263",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Miklos Nyiszli",
+        "primary_isbn13": "9781628720266",
+        "description": "An eyewitness account of the Nazi death camp, written shortly after the war by a doctor who was a prisoner there.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781611450118.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Auschwitz-A-Doctors-Eyewitness-Account-ebook/dp/B004SUO5JA?tag=thenewyorktim-20",
+        "contributor": "by Miklos Nyiszli",
+        "title": "AUSCHWITZ",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "161145011X",
+            "isbn13": "9781611450118"
+          },
+          {
+            "isbn10": "1628720263",
+            "isbn13": "9781628720266"
+          }
+        ],
+        "publisher": "Skyhorse"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307407675",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Howard Dully and Charles Fleming",
+        "primary_isbn13": "9780307407672",
+        "description": "In 1960, at age 12, Dully was subjected to a transorbital lobotomy to cure his supposed psychological problems.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307407672.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/My-Lobotomy-Howard-Dully-ebook/dp/B000VMHHL2?tag=thenewyorktim-20",
+        "contributor": "by Howard Dully and Charles Fleming",
+        "title": "MY LOBOTOMY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307407675",
+            "isbn13": "9780307407672"
+          }
+        ],
+        "publisher": "Broadway"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476785651",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Felicia Day",
+        "primary_isbn13": "9781476785653",
+        "description": "A memoir of rising to stardom in the web video world.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476785653.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Youre-Never-Weird-Internet-Almost-ebook/dp/B00QNW8KR4?tag=thenewyorktim-20",
+        "contributor": "by Felicia Day",
+        "title": "YOU'RE NEVER WEIRD ON THE INTERNET (ALMOST)",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476785651",
+            "isbn13": "9781476785653"
+          },
+          {
+            "isbn10": "1476785678",
+            "isbn13": "9781476785677"
+          },
+          {
+            "isbn10": "1442386835",
+            "isbn13": "9781442386839"
+          },
+          {
+            "isbn10": "147678566X",
+            "isbn13": "9781476785660"
+          }
+        ],
+        "publisher": "Touchstone"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316017930",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Malcolm Gladwell",
+        "primary_isbn13": "9780316017930",
+        "description": "Why some people succeed; from the author of \"Blink\" and \"The Tipping Point.\" Originally published in 2008.",
+        "book_review_link": "//www.nytimes.com/2008/11/18/books/18kaku.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316017930.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 184,
+        "first_chapter_link": "//www.nytimes.com/2008/11/30/books/chapters/chapter-outliers.html",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930?tag=thenewyorktim-20",
+        "contributor": "by Malcolm Gladwell",
+        "title": "OUTLIERS",
+        "sunday_review_link": "//www.nytimes.com/2008/11/30/books/review/Leonhardt-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316017922",
+            "isbn13": "9780316017923"
+          },
+          {
+            "isbn10": "0316040347",
+            "isbn13": "9780316040341"
+          },
+          {
+            "isbn10": "0316017930",
+            "isbn13": "9780316017930"
+          },
+          {
+            "isbn10": "1600243916",
+            "isbn13": "9781600243912"
+          },
+          {
+            "isbn10": "031602497X",
+            "isbn13": "9780316024976"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307957659",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cheryl Strayed",
+        "primary_isbn13": "9780307957658",
+        "description": "A woman\u2019s account of the life-changing 1,100-mile solo hike she took along the Pacific Crest Trail in 1995. A 2014 movie.",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "contributor": "by Cheryl Strayed",
+        "title": "WILD",
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307592731",
+            "isbn13": "9780307592736"
+          },
+          {
+            "isbn10": "0307957659",
+            "isbn13": "9780307957658"
+          },
+          {
+            "isbn10": "0307476073",
+            "isbn13": "9780307476074"
+          },
+          {
+            "isbn10": "1594136742",
+            "isbn13": "9781594136740"
+          },
+          {
+            "isbn10": "0307970299",
+            "isbn13": "9780307970299"
+          },
+          {
+            "isbn10": "1101873442",
+            "isbn13": "9781101873441"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062372122",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Holly Madison",
+        "primary_isbn13": "9780062372123",
+        "description": "Life inside the Playboy Mansion, by a former bunny and girlfriend of Hugh Hefner.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062372123.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Down-Rabbit-Hole-Adventures-Cautionary-ebook/dp/B00N81I5SC?tag=thenewyorktim-20",
+        "contributor": "by Holly Madison",
+        "title": "DOWN THE RABBIT HOLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062372106",
+            "isbn13": "9780062372109"
+          },
+          {
+            "isbn10": "0062372122",
+            "isbn13": "9780062372123"
+          },
+          {
+            "isbn10": "0062372114",
+            "isbn13": "9780062372116"
+          }
+        ],
+        "publisher": "Dey Street"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2015-08-22",
+    "previous_published_date": "2015-08-30",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2015-09-13"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

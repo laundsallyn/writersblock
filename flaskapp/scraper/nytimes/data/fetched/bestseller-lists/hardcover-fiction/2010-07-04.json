@@ -1,0 +1,781 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2010-07-04",
+    "books": [
+      {
+        "price": 26,
+        "primary_isbn10": "1439184305",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Glenn Beck",
+        "primary_isbn13": "9781439184301",
+        "description": "A public relations executive and the woman he loves fight to expose a conspiracy to transform America.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439184301.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Overton-Window-Glenn-Beck/dp/1451625286?tag=thenewyorktim-20",
+        "contributor": "by Glenn Beck",
+        "title": "THE OVERTON WINDOW",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451625286",
+            "isbn13": "9781451625288"
+          },
+          {
+            "isbn10": "1439184305",
+            "isbn13": "9781439184301"
+          }
+        ],
+        "publisher": "Threshold Editions/Mercury Radio Arts"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of a trilogy about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "044658083X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nelson DeMille",
+        "primary_isbn13": "9780446580830",
+        "description": "John Corey, now a federal agent, pursues a Libyan terrorist who has returned to America bent on revenge.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446699600.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Lion-Nelson-DeMille/dp/0446699608?tag=thenewyorktim-20",
+        "contributor": "by Nelson DeMille",
+        "title": "THE LION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "044658083X",
+            "isbn13": "9780446580830"
+          },
+          {
+            "isbn10": "0446566934",
+            "isbn13": "9780446566933"
+          },
+          {
+            "isbn10": "0446699608",
+            "isbn13": "9780446699600"
+          },
+          {
+            "isbn10": "0446619256",
+            "isbn13": "9780446619257"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "0345504968",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Justin Cronin",
+        "primary_isbn13": "9780345504968",
+        "description": "More than a hundred years in the future, a small group resists the vampires who have taken over North America.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345504975.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Passage-Novel-Book-Trilogy/dp/0345504976?tag=thenewyorktim-20",
+        "contributor": "by Justin Cronin",
+        "title": "THE PASSAGE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345504968",
+            "isbn13": "9780345504968"
+          },
+          {
+            "isbn10": "0345504976",
+            "isbn13": "9780345504975"
+          },
+          {
+            "isbn10": "0345528174",
+            "isbn13": "9780345528179"
+          },
+          {
+            "isbn10": "0345516869",
+            "isbn13": "9780345516862"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399156534",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Catherine Coulter",
+        "primary_isbn13": "9780399156533",
+        "description": "\nThe F.B.I. agents Dillon Savich and Lacey Sherlock help investigate misdeeds at a pharmaceutical company.",
+        "book_review_link": "",
+        "book_image_height": 278,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156533.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Whiplash-FBI-Thriller-Catherine-Coulter/dp/0515149357?tag=thenewyorktim-20",
+        "contributor": "by Catherine Coulter",
+        "title": "WHIPLASH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156534",
+            "isbn13": "9780399156533"
+          },
+          {
+            "isbn10": "0515149357",
+            "isbn13": "9780515149357"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s \u00adMississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 6,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 4,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 64,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "055380801X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dean Koontz",
+        "primary_isbn13": "9780553808018",
+        "description": "Book 4 in the reimagining of the classic tale.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553808018.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Frankenstein-Lost-Souls-A-Novel-ebook/dp/B0036S4AE0?tag=thenewyorktim-20",
+        "contributor": "by Dean Koontz",
+        "title": "FRANKENSTEIN: LOST SOULS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "055380801X",
+            "isbn13": "9780553808018"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399156437",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Justin Scott",
+        "primary_isbn13": "9780399156434",
+        "description": "In 1908, a detective investigates spies who are trying to keep America from developing dreadnought battleships.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156434.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Spy-Isaac-Bell-Adventure/dp/0425241750?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Justin Scott",
+        "title": "THE SPY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156437",
+            "isbn13": "9780399156434"
+          },
+          {
+            "isbn10": "0425241750",
+            "isbn13": "9780425241752"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0061961175",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dorothea Benton Frank",
+        "primary_isbn13": "9780061961175",
+        "description": "In this sequel to \u201cPlantation,\u201d a woman returns home after her mother\u2019s death to encounter old secrets and lies.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061961175.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lowcountry-Summer-A-Plantation-Novel/dp/0061961175?tag=thenewyorktim-20",
+        "contributor": "by Dorothea Benton Frank",
+        "title": "LOWCOUNTRY SUMMER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061961175",
+            "isbn13": "9780061961175"
+          },
+          {
+            "isbn10": "0062020730",
+            "isbn13": "9780062020734"
+          }
+        ],
+        "publisher": "William Morrow/HarperCollins"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "1400066034",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Alan Furst",
+        "primary_isbn13": "9781400066032",
+        "description": "A police official in Salonika is surrounded by spies from many nations on the eve of the German invasion of Greece in 1940.",
+        "book_review_link": "//www.nytimes.com/2010/06/17/books/17book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400066032.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 184,
+        "first_chapter_link": "//www.nytimes.com/2010/06/17/books/excerpt-spies-of-the-balkans.html",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Spies-Balkans-Novel-Alan-Furst/dp/1400066034?tag=thenewyorktim-20",
+        "contributor": "by Alan Furst",
+        "title": "SPIES OF THE BALKANS",
+        "sunday_review_link": "//www.nytimes.com/2010/08/29/books/review/Cartwright-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400066034",
+            "isbn13": "9781400066032"
+          },
+          {
+            "isbn10": "1410428583",
+            "isbn13": "9781410428585"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0385340583",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780385340588",
+        "description": "Jack Reacher helps the police in a small South Dakota town protect a witness in a drug trial.",
+        "book_review_link": "//www.nytimes.com/2010/05/14/books/14book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440243694.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 156,
+        "first_chapter_link": "//www.nytimes.com/2010/05/14/books/excerpt-61-hours.html",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/61-Hours-Jack-Reacher-Novel/dp/0440243696?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "61 HOURS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0440243696",
+            "isbn13": "9780440243694"
+          },
+          {
+            "isbn10": "0385340583",
+            "isbn13": "9780385340588"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0446562424",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Scott Turow",
+        "primary_isbn13": "9780446562423",
+        "description": "Turow revisits the characters from \u201cPresumed Innocent.\u201d",
+        "book_review_link": "//www.nytimes.com/2010/04/30/books/30book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446562416.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 182,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Innocent-Scott-Turow/dp/0446562416?tag=thenewyorktim-20",
+        "contributor": "by Scott Turow",
+        "title": "INNOCENT",
+        "sunday_review_link": "//www.nytimes.com/2010/05/16/books/review/Rafferty-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446562424",
+            "isbn13": "9780446562423"
+          },
+          {
+            "isbn10": "044656687X",
+            "isbn13": "9780446566872"
+          },
+          {
+            "isbn10": "0446562416",
+            "isbn13": "9780446562416"
+          },
+          {
+            "isbn10": "0446562408",
+            "isbn13": "9780446562409"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0441018645",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9780441018642",
+        "description": "Sookie Stackhouse is exhausted in the aftermath of a Fae war.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780441018642.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Dead-Family-Sookie-Stackhouse-Novel/dp/0441020151?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "DEAD IN THE FAMILY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441018645",
+            "isbn13": "9780441018642"
+          },
+          {
+            "isbn10": "0441020151",
+            "isbn13": "9780441020157"
+          },
+          {
+            "isbn10": "110118731X",
+            "isbn13": "9781101187319"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0446539813",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eric Van Lustbader",
+        "primary_isbn13": "9780446539814",
+        "description": "Robert Ludlum\u2019s character Jason Bourne matches wits with a vicious Russian mercenary.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446539814.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Robert-Ludlums-Bourne-Objective-Jason/dp/0446539791?tag=thenewyorktim-20",
+        "contributor": "by Eric Van Lustbader",
+        "title": "THE BOURNE OBJECTIVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446539813",
+            "isbn13": "9780446539814"
+          },
+          {
+            "isbn10": "0446539791",
+            "isbn13": "9780446539791"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0307266109",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bret Easton Ellis",
+        "primary_isbn13": "9780307266101",
+        "description": "Characters from \u201cLess Than Zero\u201d are back in Los Angeles 25 years later, and one of them is murdered.",
+        "book_review_link": "//www.nytimes.com/2010/06/24/books/24book.html",
+        "book_image_height": 188,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307266101.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "//www.nytimes.com/2010/06/24/books/excerpt-imperial-bedrooms.html",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Imperial-Bedrooms-Bret-Easton-Ellis/dp/0307266109?tag=thenewyorktim-20",
+        "contributor": "by Bret Easton Ellis",
+        "title": "IMPERIAL BEDROOMS",
+        "sunday_review_link": "//www.nytimes.com/2010/06/27/books/review/Wagner-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307266109",
+            "isbn13": "9780307266101"
+          },
+          {
+            "isbn10": "0307278697",
+            "isbn13": "9780307278692"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399156496",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9780399156496",
+        "description": "Lucas Davenport\u2019s wife is a witness to a botched robbery and murder in the 20th novel in the \u201cPrey\u201d series.",
+        "book_review_link": "",
+        "book_image_height": 247,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425241448.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 140,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Storm-Prey-John-Sandford/dp/0399156496?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "STORM PREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156496",
+            "isbn13": "9780399156496"
+          },
+          {
+            "isbn10": "0425241440",
+            "isbn13": "9780425241448"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451608217",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781451608212",
+        "description": "A tale about the dark side of baseball, circa 1957.",
+        "book_review_link": "",
+        "book_image_height": 302,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451608212.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 200,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Blockade-Billy-Stephen-King/dp/1451608217?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "BLOCKADE BILLY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451608217",
+            "isbn13": "9781451608212"
+          },
+          {
+            "isbn10": "1587672286",
+            "isbn13": "9781587672286"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439101078",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Johanna Lindsey",
+        "primary_isbn13": "9781439101070",
+        "description": "To avoid falling into a ruthless nobleman's trap, an heiress enters into a risky, intimate charade with a man she was once bound to wed.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439101070.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Perfect-Someone-Malory-Johanna-Lindsey/dp/1439101078?tag=thenewyorktim-20",
+        "contributor": "by Johanna Lindsey",
+        "title": "THAT PERFECT SOMEONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439101078",
+            "isbn13": "9781439101070"
+          },
+          {
+            "isbn10": "1439101086",
+            "isbn13": "9781439101087"
+          }
+        ],
+        "publisher": "Gallery"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312554168",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emily Giffin",
+        "primary_isbn13": "9780312554163",
+        "description": "Two women in a Boston suburb have little in common beyond a fierce love for their children, but their lives converge after a tragic accident.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429926539.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Heart-Matter-Emily-Giffin/dp/0312554176?tag=thenewyorktim-20",
+        "contributor": "by Emily Giffin",
+        "title": "HEART OF THE MATTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312554168",
+            "isbn13": "9780312554163"
+          },
+          {
+            "isbn10": "0312554176",
+            "isbn13": "9780312554170"
+          },
+          {
+            "isbn10": "1429926538",
+            "isbn13": "9781429926539"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0425234339",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laurell K Hamilton",
+        "primary_isbn13": "9780425234334",
+        "description": "Anita Blake, vampire hunter, is menaced by the Mother of All Darkness, who wants to take over her body.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425234334.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Bullet-Anita-Blake-Vampire-Hunter/dp/0515149497?tag=thenewyorktim-20",
+        "contributor": "by Laurell K. Hamilton",
+        "title": "BULLET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425234339",
+            "isbn13": "9780425234334"
+          },
+          {
+            "isbn10": "0515149497",
+            "isbn13": "9780515149494"
+          }
+        ],
+        "publisher": "Berkley"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2010-06-20",
+    "previous_published_date": "2010-06-27",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2010-07-11"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

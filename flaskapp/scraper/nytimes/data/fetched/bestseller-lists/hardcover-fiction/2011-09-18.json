@@ -1,0 +1,804 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2011-09-18",
+    "books": [
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316097543",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Marshall Karp",
+        "primary_isbn13": "9780316097543",
+        "description": "When a young man finds a bag of diamonds, he gets the attention of the major assassin the Ghost, and a rival assassin who wants the Ghost gone forever.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316097550.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Kill-Me-If-You-Can/dp/0446571873?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Marshall Karp",
+        "title": "KILL ME IF YOU CAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097543",
+            "isbn13": "9780316097543"
+          },
+          {
+            "isbn10": "1607884674",
+            "isbn13": "9781607884675"
+          },
+          {
+            "isbn10": "0316097551",
+            "isbn13": "9780316097550"
+          },
+          {
+            "isbn10": "0446571873",
+            "isbn13": "9780446571876"
+          },
+          {
+            "isbn10": "0446571865",
+            "isbn13": "9780446571869"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 30,
+        "primary_isbn10": "0441019714",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9780441019717",
+        "description": "A closer look at the telepathic waitress Sookie Stackhouse, her family and, of course, her lovers.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780441019717.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Sookie-Stackhouse-Companion-True-Blood/dp/0441019714?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "THE SOOKIE STACKHOUSE COMPANION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441019714",
+            "isbn13": "9780441019717"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0312655452",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Louise Penny",
+        "primary_isbn13": "9780312655457",
+        "description": "Called to a case, Chief Inspector Armand Gamache of homicide encounters a world where nothing is as it seems.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312655457.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Trick-Light-Inspector-Gamache-Novels/dp/0312655452?tag=thenewyorktim-20",
+        "contributor": "by Louise Penny",
+        "title": "A TRICK OF THE LIGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312655452",
+            "isbn13": "9780312655457"
+          }
+        ],
+        "publisher": "Minotaur"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1439102414",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathy Reichs",
+        "primary_isbn13": "9781439102411",
+        "description": "A turbocharged case unfolds for the forensic anthropologist Temperance Brennan in the series behind the show \"Bones.\"",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451646696.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Flash-Bones-Novel-Kathy-Reichs-ebook/dp/B004G8QTZ2?tag=thenewyorktim-20",
+        "contributor": "by Kathy Reichs",
+        "title": "FLASH AND BONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102414",
+            "isbn13": "9781439102411"
+          },
+          {
+            "isbn10": "1439112800",
+            "isbn13": "9781439112809"
+          },
+          {
+            "isbn10": "1442340517",
+            "isbn13": "9781442340510"
+          },
+          {
+            "isbn10": "1410438899",
+            "isbn13": "9781410438898"
+          },
+          {
+            "isbn10": "1451646690",
+            "isbn13": "9781451646696"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0312358342",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tom Perrotta",
+        "primary_isbn13": "9780312358341",
+        "description": "In Perrotta's version of the Rapture, Hindus, Buddhists and Muslims as well as Christians mysteriously disappear.",
+        "book_review_link": "//www.nytimes.com/2011/08/30/books/tom-perrotta-discusses-the-themes-of-the-leftovers.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429989138.jpg",
+        "rank": 6,
+        "article_chapter_link": "//www.nytimes.com/2011/08/30/books/tom-perrotta-discusses-the-themes-of-the-leftovers.html",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Leftovers-Tom-Perrotta-ebook/dp/B004TLH3L0?tag=thenewyorktim-20",
+        "contributor": "by Tom Perrotta",
+        "title": "THE LEFTOVERS",
+        "sunday_review_link": "//www.nytimes.com/2011/08/28/books/review/the-leftovers-by-tom-perrotta-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312358342",
+            "isbn13": "9780312358341"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "031253955X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeffrey Archer",
+        "primary_isbn13": "9780312539559",
+        "description": "The first volume of the Clifton Chronicles tells the story of one family across generations and oceans.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312539559.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Only-Time-Will-Clifton-Chronicles/dp/031253955X?tag=thenewyorktim-20",
+        "contributor": "by Jeffrey Archer",
+        "title": "ONLY TIME WILL TELL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 67,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s Mississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 9,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 8,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 107,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 29.99,
+        "primary_isbn10": "0765327724",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Terry Goodkind",
+        "primary_isbn13": "9780765327727",
+        "description": "A return to the lives of Richard Rahl and Kahlan Amnell, in a tale of a new threat to their world.",
+        "book_review_link": "",
+        "book_image_height": 477,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765327727.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Omen-Machine-Sword-Truth-ebook/dp/B004DNW65W?tag=thenewyorktim-20",
+        "contributor": "by Terry Goodkind",
+        "title": "THE OMEN MACHINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765327724",
+            "isbn13": "9780765327727"
+          },
+          {
+            "isbn10": "1429965010",
+            "isbn13": "9781429965019"
+          },
+          {
+            "isbn10": "0765329697",
+            "isbn13": "9780765329691"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0345521307",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Paula McLain",
+        "primary_isbn13": "9780345521309",
+        "description": "Ernest Hemingway's first wife narrates this novel set in Paris.",
+        "book_review_link": "//www.nytimes.com/2011/02/28/books/28book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345521323.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 268,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 23,
+        "amazon_product_url": "http://www.amazon.com/The-Paris-Wife-A-Novel-ebook/dp/B004DEPELY?tag=thenewyorktim-20",
+        "contributor": "by Paula McLain",
+        "title": "THE PARIS WIFE",
+        "sunday_review_link": "//www.nytimes.com/2011/03/20/books/review/book-review-the-paris-wife-by-paula-mclain.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345521307",
+            "isbn13": "9780345521309"
+          },
+          {
+            "isbn10": "0345521323",
+            "isbn13": "9780345521323"
+          },
+          {
+            "isbn10": "1611730171",
+            "isbn13": "9781611730173"
+          },
+          {
+            "isbn10": "0345521315",
+            "isbn13": "9780345521316"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0446554987",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Douglas Preston and Lincoln Child",
+        "primary_isbn13": "9780446554985",
+        "description": "Devastated by the murder of his wife, Special Agent Aloysius Pendergast seeks retribution.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446554985.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Cold-Vengeance-Douglas-Preston/dp/0446554979?tag=thenewyorktim-20",
+        "contributor": "by Douglas Preston and Lincoln Child",
+        "title": "COLD VENGEANCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446554987",
+            "isbn13": "9780446554985"
+          },
+          {
+            "isbn10": "1455500135",
+            "isbn13": "9781455500130"
+          },
+          {
+            "isbn10": "044657600X",
+            "isbn13": "9780446576000"
+          },
+          {
+            "isbn10": "1609413865",
+            "isbn13": "9781609413866"
+          },
+          {
+            "isbn10": "0446554979",
+            "isbn13": "9780446554978"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "034552554X",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Vanessa Diffenbaugh",
+        "primary_isbn13": "9780345525543",
+        "description": "A woman's gift for flowers helps her change the lives of others even as she struggles with her own past.",
+        "book_review_link": "//www.nytimes.com/2011/09/08/books/the-language-of-flowers-by-vanessa-diffenbaugh-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345525550.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Language-Flowers-A-Novel/dp/034552554X?tag=thenewyorktim-20",
+        "contributor": "by Vanessa Diffenbaugh",
+        "title": "THE LANGUAGE OF FLOWERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "034552554X",
+            "isbn13": "9780345525543"
+          },
+          {
+            "isbn10": "0345525558",
+            "isbn13": "9780345525550"
+          },
+          {
+            "isbn10": "1594135770",
+            "isbn13": "9781594135774"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0062049801",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ann Patchett",
+        "primary_isbn13": "9780062049803",
+        "description": "In Brazil, a medical researcher seeks her former mentor, who is developing a miracle fertility drug.",
+        "book_review_link": "//www.nytimes.com/2011/06/02/books/state-of-wonder-by-ann-patchett-book-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062049827.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 13,
+        "amazon_product_url": "http://www.amazon.com/State-Wonder-Novel-Ann-Patchett/dp/006204981X?tag=thenewyorktim-20",
+        "contributor": "by Ann Patchett",
+        "title": "STATE OF WONDER",
+        "sunday_review_link": "//www.nytimes.com/2011/06/19/books/review/book-review-state-of-wonder-by-ann-patchett.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062049801",
+            "isbn13": "9780062049803"
+          },
+          {
+            "isbn10": "0062049828",
+            "isbn13": "9780062049827"
+          },
+          {
+            "isbn10": "006204981X",
+            "isbn13": "9780062049810"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "0345484207",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Terry Brooks",
+        "primary_isbn13": "9780345484208",
+        "description": "With the land on edge, Panterra is destined to confront a menace who seeks to claim the last black staff.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345484208.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Measure-Magic-Shannara-Pre-Shannara/dp/0345484207?tag=thenewyorktim-20",
+        "contributor": "by Terry Brooks",
+        "title": "THE MEASURE OF THE MAGIC",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345484207",
+            "isbn13": "9780345484208"
+          },
+          {
+            "isbn10": "0345529219",
+            "isbn13": "9780345529213"
+          }
+        ],
+        "publisher": "Del Rey/Ballantine"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "141658661X",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Brad Thor",
+        "primary_isbn13": "9781416586616",
+        "description": "The covert counterterrorism operative Scot Harvath has a plan to stop a terrorist group that wants to take down the United States.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416586616.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Full-Black-Thriller-Brad-Thor/dp/1451675240?tag=thenewyorktim-20",
+        "contributor": "by Brad Thor",
+        "title": "FULL BLACK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "141658661X",
+            "isbn13": "9781416586616"
+          },
+          {
+            "isbn10": "1416586768",
+            "isbn13": "9781416586760"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "045146379X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jim Butcher",
+        "primary_isbn13": "9780451463791",
+        "description": "Harry Dresden, the wizard detective in Chicago, has been murdered. But that doesn\u2019t stop him when his friends are in danger.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101476178.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 282,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Ghost-Story-Novel-Dresden-Files-ebook/dp/B004H4XI0Y?tag=thenewyorktim-20",
+        "contributor": "by Jim Butcher",
+        "title": "GHOST STORY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "045146379X",
+            "isbn13": "9780451463791"
+          },
+          {
+            "isbn10": "0142429066",
+            "isbn13": "9780142429068"
+          },
+          {
+            "isbn10": "0451464079",
+            "isbn13": "9780451464071"
+          }
+        ],
+        "publisher": "Roc"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439153957",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "William Kent Krueger",
+        "primary_isbn13": "9781439153956",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439153956.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Northwest-Angle-OConnor-Mystery-Series/dp/1439153957?tag=thenewyorktim-20",
+        "contributor": "by William Kent Krueger",
+        "title": "NORTHWEST ANGLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439153957",
+            "isbn13": "9781439153956"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446583146",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446583145",
+        "description": "After the death of his devoted wife, a father struggles to keep his family together, and in the process learns to love again.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 276,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446583145.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/One-Summer-David-Baldacci/dp/0446583154?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "ONE SUMMER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446583146",
+            "isbn13": "9780446583145"
+          },
+          {
+            "isbn10": "0446583170",
+            "isbn13": "9780446583176"
+          },
+          {
+            "isbn10": "0446583154",
+            "isbn13": "9780446583152"
+          },
+          {
+            "isbn10": "0446583162",
+            "isbn13": "9780446583169"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062072188",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Silva",
+        "primary_isbn13": "9780062072184",
+        "description": "To stop a network of death, an international operative must reach into his violent past.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062072184.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Portrait-Gabriel-Allon-Daniel-Silva-ebook/dp/B004KKXWMO?tag=thenewyorktim-20",
+        "contributor": "by Daniel Silva",
+        "title": "PORTRAIT OF A SPY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062072188",
+            "isbn13": "9780062072184"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2011-09-03",
+    "previous_published_date": "2011-09-11",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2011-09-25"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

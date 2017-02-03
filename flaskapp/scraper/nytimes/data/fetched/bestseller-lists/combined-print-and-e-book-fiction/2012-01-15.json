@@ -1,0 +1,838 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2012-01-15",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1440697663",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9781440697661",
+        "description": "A young white woman and two black maids in 1960s Mississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 1,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 2,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 46,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307272117",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307272119",
+        "description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier.",
+        "book_review_link": "//www.nytimes.com/2008/09/30/books/30kaku.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307949486.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 280,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 20,
+        "amazon_product_url": "http://www.amazon.com/Girl-Dragon-Tattoo-Stieg-Larsson/dp/0307269752?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WITH THE DRAGON TATTOO",
+        "sunday_review_link": "//www.nytimes.com/2008/09/14/books/review/Berenson-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307454541",
+            "isbn13": "9780307454546"
+          },
+          {
+            "isbn10": "0307473473",
+            "isbn13": "9780307473479"
+          },
+          {
+            "isbn10": "0307272117",
+            "isbn13": "9780307272119"
+          },
+          {
+            "isbn10": "0739384155",
+            "isbn13": "9780739384152"
+          },
+          {
+            "isbn10": "0307269752",
+            "isbn13": "9780307269751"
+          },
+          {
+            "isbn10": "0307949494",
+            "isbn13": "9780307949493"
+          },
+          {
+            "isbn10": "0307949486",
+            "isbn13": "9780307949486"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781451627305",
+        "description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment is to stop Lee Harvey Oswald.",
+        "book_review_link": "//www.nytimes.com/2011/10/31/books/stephen-kings-11-23-63-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451627299.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/11-22-63-A-Novel/dp/1451627297?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "11/22/63",
+        "sunday_review_link": "//www.nytimes.com/2011/11/13/books/review/11-22-63-by-stephen-king-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451627289",
+            "isbn13": "9781451627282"
+          },
+          {
+            "isbn10": "1451627297",
+            "isbn13": "9781451627299"
+          },
+          {
+            "isbn10": "030795143X",
+            "isbn13": "9780307951434"
+          },
+          {
+            "isbn10": "1594135592",
+            "isbn13": "9781594135590"
+          },
+          {
+            "isbn10": "1501120603",
+            "isbn13": "9781501120602"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson",
+        "primary_isbn13": "9780316194495",
+        "description": "Alex Cross investigates when the president\u2019s children are kidnapped, but the F.BI. and C.I.A. interfere.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455510207.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 323,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Kill-Alex-Cross-James-Patterson/dp/145551019X?tag=thenewyorktim-20",
+        "contributor": "by James Patterson",
+        "title": "KILL ALEX CROSS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316198730",
+            "isbn13": "9780316198738"
+          },
+          {
+            "isbn10": "1611139694",
+            "isbn13": "9781611139693"
+          },
+          {
+            "isbn10": "0316189251",
+            "isbn13": "9780316189255"
+          },
+          {
+            "isbn10": "1611139678",
+            "isbn13": "9781611139679"
+          },
+          {
+            "isbn10": "1455510203",
+            "isbn13": "9781455510207"
+          },
+          {
+            "isbn10": "145551019X",
+            "isbn13": "9781455510191"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385535250",
+        "description": "Partners in a small law firm take on a big case after a fast-track burnout joins them.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385535137.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/The-Litigators-John-Grisham-ebook/dp/B004LROUNG?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE LITIGATORS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385535139",
+            "isbn13": "9780385535137"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307272303",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307272300",
+        "description": "In the second volume of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+        "book_review_link": "//www.nytimes.com/2009/07/17/books/17book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476159.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 305,
+        "first_chapter_link": "//www.nytimes.com/2009/07/17/books/excerpt-girl-who-played-with-fire.html",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/Girl-Played-Fire-Millennium-Trilogy/dp/0307476154?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO PLAYED WITH FIRE",
+        "sunday_review_link": "//www.nytimes.com/2009/08/16/books/review/Crime-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030745455X",
+            "isbn13": "9780307454553"
+          },
+          {
+            "isbn10": "0307476154",
+            "isbn13": "9780307476159"
+          },
+          {
+            "isbn10": "0307272303",
+            "isbn13": "9780307272300"
+          },
+          {
+            "isbn10": "0739384163",
+            "isbn13": "9780739384169"
+          },
+          {
+            "isbn10": "0307269981",
+            "isbn13": "9780307269980"
+          },
+          {
+            "isbn10": "0307949508",
+            "isbn13": "9780307949509"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9781455502547",
+        "description": "A man and woman who have gone their separate ways return to their Southern town for the funeral of a friend.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455502547.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/The-Best-Me-Nicholas-Sparks/dp/0446547654?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "THE BEST OF ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345532368",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dean Koontz",
+        "primary_isbn13": "9780345532367",
+        "description": "A 19th-century tycoon\u2019s mansion turned into luxury apartments remains in the grip of evil forces.",
+        "book_review_link": "",
+        "book_image_height": 226,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553593068.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Shadow-Street-bonus-novella-Moonlit/dp/0553593064?tag=thenewyorktim-20",
+        "contributor": "by Dean Koontz",
+        "title": "77 SHADOW STREET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553807714",
+            "isbn13": "9780553807714"
+          },
+          {
+            "isbn10": "0345532368",
+            "isbn13": "9780345532367"
+          },
+          {
+            "isbn10": "1441818472",
+            "isbn13": "9781441818478"
+          },
+          {
+            "isbn10": "0553593064",
+            "isbn13": "9780553593068"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1565125851",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sara Gruen",
+        "primary_isbn13": "9781565125858",
+        "description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+        "book_review_link": "//www.nytimes.com/2007/07/11/books/11elep.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781616200718.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 174,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 32,
+        "amazon_product_url": "http://www.amazon.com/Water-Elephants-Sara-Gruen/dp/1616200715?tag=thenewyorktim-20",
+        "contributor": "by Sara Gruen",
+        "title": "WATER FOR ELEPHANTS",
+        "sunday_review_link": "//www.nytimes.com/2006/06/04/books/review/04judd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1565125606",
+            "isbn13": "9781565125605"
+          },
+          {
+            "isbn10": "1565125851",
+            "isbn13": "9781565125858"
+          },
+          {
+            "isbn10": "1594132003",
+            "isbn13": "9781594132001"
+          },
+          {
+            "isbn10": "1616200707",
+            "isbn13": "9781616200701"
+          },
+          {
+            "isbn10": "1616200715",
+            "isbn13": "9781616200718"
+          },
+          {
+            "isbn10": "1565124995",
+            "isbn13": "9781565124998"
+          },
+          {
+            "isbn10": "1594134642",
+            "isbn13": "9781594134647"
+          }
+        ],
+        "publisher": "Algonquin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ron Carr",
+        "primary_isbn13": "9781459218970",
+        "description": "Sick of her ex-husband and his new wife, Leslie Petruso meets someone else who thinks he\u2019s done with love.",
+        "book_review_link": "",
+        "book_image_height": 202,
+        "book_image": "https://s1.nyt.com/du/books/images/9781459218970.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Hidden-Summit-Virgin-River-Novel-ebook/dp/B0067LVJ4W?tag=thenewyorktim-20",
+        "contributor": "by Robyn Carr",
+        "title": "HIDDEN SUMMIT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "077831300X",
+            "isbn13": "9780778313007"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christine Feehan",
+        "primary_isbn13": "9781101517802",
+        "description": "In the town of Sea Haven, an undercover agent insinuates himself into the life of an elusive woman with ties to the crime lord he\u2019s determined to trap.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780515149562.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Spirit-Bound-Sea-Haven-Novel-ebook/dp/B004IYIJA2?tag=thenewyorktim-20",
+        "contributor": "by Christine Feehan",
+        "title": "SPIRIT BOUND",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "051514956X",
+            "isbn13": "9780515149562"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich",
+        "primary_isbn13": "9780345527721",
+        "description": "After a disastrous vacation in Hawaii, Stephanie Plum becomes the target of an international killer.",
+        "book_review_link": "",
+        "book_image_height": 454,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345527721.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Explosive-Eighteen-Stephanie-Janet-Evanovich/dp/0345527739?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich",
+        "title": "EXPLOSIVE EIGHTEEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345527712",
+            "isbn13": "9780345527714"
+          },
+          {
+            "isbn10": "0739378228",
+            "isbn13": "9780739378229"
+          },
+          {
+            "isbn10": "0345527739",
+            "isbn13": "9780345527738"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307593673",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307593672",
+        "description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 19,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patricia Cornwell",
+        "primary_isbn13": "9781101552186",
+        "description": "The chief medical examiner Kay Scarpetta investigates a string of killings linked to the murder of her former deputy.",
+        "book_review_link": "",
+        "book_image_height": 458,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399158025.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Red-Mist-A-Scarpetta-Novel-ebook/dp/B005ERIRWC?tag=thenewyorktim-20",
+        "contributor": "by Patricia Cornwell",
+        "title": "RED MIST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tom Clancy with Mark Greaney",
+        "primary_isbn13": "9781101566466",
+        "description": "Jack Ryan Jr. must stop an emerging threat from a Pakistani general.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399157318.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Locked-Jack-Ryan-Tom-Clancy-ebook/dp/B005P4YED0?tag=thenewyorktim-20",
+        "contributor": "by Tom Clancy with Mark Greaney",
+        "title": "LOCKED ON",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9781459273702",
+        "description": "Former high school sweethearts fall tentatively back into each other\u2019s orbits after more than a decade.",
+        "book_review_link": "",
+        "book_image_height": 202,
+        "book_image": "https://s1.nyt.com/du/books/images/9781459273702.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Unfinished-Business-Silhouette-Intimate-Moments-ebook/dp/B005IGVS6Q?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "UNFINISHED BUSINESS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1459295366",
+            "isbn13": "9781459295360"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Connelly",
+        "primary_isbn13": "9780316069397",
+        "description": "Harry Bosch of the L.A.P.D. uncovers both the operations of a sadistic killer and a political conspiracy.",
+        "book_review_link": "//www.nytimes.com/2011/11/24/books/the-drop-by-michael-connelly-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455518982.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Drop-Harry-Bosch-Novel/dp/B009BDUQPG?tag=thenewyorktim-20",
+        "contributor": "by Michael Connelly",
+        "title": "THE DROP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316069418",
+            "isbn13": "9780316069410"
+          },
+          {
+            "isbn10": "1600247237",
+            "isbn13": "9781600247231"
+          },
+          {
+            "isbn10": "1611139198",
+            "isbn13": "9781611139198"
+          },
+          {
+            "isbn10": "0316189235",
+            "isbn13": "9780316189231"
+          },
+          {
+            "isbn10": "1455518980",
+            "isbn13": "9781455518982"
+          },
+          {
+            "isbn10": "0446556696",
+            "isbn13": "9780446556699"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tami Hoag",
+        "primary_isbn13": "9781101553626",
+        "description": "Looking for a fresh start after a family tragedy, Lauren and her daughter move to idyllic Oak Knoll. But a cunning predator is on the hunt, and it soon feels as if history is repeating itself.",
+        "book_review_link": "",
+        "book_image_height": 189,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451414960.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Down-Darkest-Road-Tami-Hoag/dp/0451414969?tag=thenewyorktim-20",
+        "contributor": "by Tami Hoag",
+        "title": "DOWN THE DARKEST ROAD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "052595239X",
+            "isbn13": "9780525952398"
+          },
+          {
+            "isbn10": "0451414969",
+            "isbn13": "9780451414960"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307959864",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "P D James",
+        "primary_isbn13": "9780307959867",
+        "description": "Six years after Elizabeth and Darcy marry, their comfortable life is shaken by a murder, as James recreates the world of \u201cPride and Prejudice\u201d with a mysterious twist.",
+        "book_review_link": "//www.nytimes.com/2011/12/27/books/death-comes-to-pemberley-by-p-d-james-review.html",
+        "book_image_height": 184,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307950659.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Death-Comes-Pemberley-Vintage-James/dp/0307950654?tag=thenewyorktim-20",
+        "contributor": "by P. D. James",
+        "title": "DEATH COMES TO PEMBERLEY",
+        "sunday_review_link": "//www.nytimes.com/2011/12/18/books/review/death-comes-to-pemberley-by-p-d-james-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307959856",
+            "isbn13": "9780307959850"
+          },
+          {
+            "isbn10": "0307959864",
+            "isbn13": "9780307959867"
+          },
+          {
+            "isbn10": "0307950654",
+            "isbn13": "9780307950659"
+          },
+          {
+            "isbn10": "0571283578",
+            "isbn13": "9780571283576"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0547416210",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jonathan Safran Foer",
+        "primary_isbn13": "9780547416212",
+        "description": "A precocious boy goes on a scavenger hunt through New York\u2019s five boroughs in search of the lock that fits a key belonging to his father, who died on Sept. 11.",
+        "book_review_link": "//www.nytimes.com/2005/03/22/books/22kaku.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780618711659.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Extremely-Loud-Incredibly-Close-Novel-ebook/dp/B003K16PXC?tag=thenewyorktim-20",
+        "contributor": "by Jonathan Safran Foer",
+        "title": "EXTREMELY LOUD AND INCREDIBLY CLOSE",
+        "sunday_review_link": "//www.nytimes.com/2005/04/03/books/review/0403cover-kirn.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0618711651",
+            "isbn13": "9780618711659"
+          },
+          {
+            "isbn10": "0547735022",
+            "isbn13": "9780547735023"
+          },
+          {
+            "isbn10": "0547416210",
+            "isbn13": "9780547416212"
+          },
+          {
+            "isbn10": "0618329706",
+            "isbn13": "9780618329700"
+          }
+        ],
+        "publisher": "Houghton Mifflin Harcourt"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2011-12-31",
+    "previous_published_date": "2012-01-08",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2012-01-22"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

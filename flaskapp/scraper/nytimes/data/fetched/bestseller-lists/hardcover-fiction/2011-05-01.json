@@ -1,0 +1,797 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2011-05-01",
+    "books": [
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399157441",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9780399157448",
+        "description": "A smoke jumper faces a new season of firefighting in Montana after the loss of her partner.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780515150636.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Chasing-Fire-Nora-Roberts/dp/0515150630?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "CHASING FIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157441",
+            "isbn13": "9780399157448"
+          },
+          {
+            "isbn10": "0399157611",
+            "isbn13": "9780399157615"
+          },
+          {
+            "isbn10": "0515150630",
+            "isbn13": "9780515150636"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 30,
+        "primary_isbn10": "0517580519",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jean M Auel",
+        "primary_isbn13": "9780517580516",
+        "description": "The latest volume in a series that began with \u201cThe Clan of the Cave Bear,\u201d set during the ice age.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780517580516.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 263,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/THE-LAND-OF-PAINTED-CAVES-ebook/dp/B003O2SQO8?tag=thenewyorktim-20",
+        "contributor": "by Jean M. Auel",
+        "title": "THE LAND OF PAINTED CAVES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0739378104",
+            "isbn13": "9780739378106"
+          },
+          {
+            "isbn10": "0307886654",
+            "isbn13": "9780307886651"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316069353",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Connelly",
+        "primary_isbn13": "9780316069359",
+        "description": "The lawyer Mickey Haller represents a woman facing home foreclosure who is accused of killing a banker.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455510313.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Fifth-Witness-Lincoln-Lawyer-Novel/dp/044655667X?tag=thenewyorktim-20",
+        "contributor": "by Michael Connelly",
+        "title": "THE FIFTH WITNESS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316069353",
+            "isbn13": "9780316069359"
+          },
+          {
+            "isbn10": "0316069388",
+            "isbn13": "9780316069380"
+          },
+          {
+            "isbn10": "1455510319",
+            "isbn13": "9781455510313"
+          },
+          {
+            "isbn10": "1611136954",
+            "isbn13": "9781611136951"
+          },
+          {
+            "isbn10": "044655667X",
+            "isbn13": "9780446556675"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "1439180962",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781439180969",
+        "description": "A woman haunted by the disappearance of her young son discovers that someone has stolen her identity.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439180976.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Ill-Walk-Alone-A-Novel/dp/1439180970?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "I\u2019LL WALK ALONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439180962",
+            "isbn13": "9781439180969"
+          },
+          {
+            "isbn10": "1439186790",
+            "isbn13": "9781439186794"
+          },
+          {
+            "isbn10": "1439180970",
+            "isbn13": "9781439180976"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0385343140",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780385343145",
+        "description": "The owner of a Greenwich Village town house takes in boarders and bonds with her tenants.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440339885.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 261,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/44-Charles-Street-A-Novel/dp/0440245176?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "44 CHARLES STREET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385343140",
+            "isbn13": "9780385343145"
+          },
+          {
+            "isbn10": "044033988X",
+            "isbn13": "9780440339885"
+          },
+          {
+            "isbn10": "0440245176",
+            "isbn13": "9780440245179"
+          },
+          {
+            "isbn10": "1423388232",
+            "isbn13": "9781423388234"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 47,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "031238078X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Scottoline",
+        "primary_isbn13": "9780312380786",
+        "description": "A mother\u2019s action during a school emergency causes an uproar in a Philadelphia suburb.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429959797.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 344,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Save-Me-Lisa-Scottoline/dp/0312380798?tag=thenewyorktim-20",
+        "contributor": "by Lisa Scottoline",
+        "title": "SAVE ME",
+        "sunday_review_link": "//www.nytimes.com/2011/04/24/books/review/book-review-save-me-by-lisa-scottoline.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031238078X",
+            "isbn13": "9780312380786"
+          },
+          {
+            "isbn10": "1429959797",
+            "isbn13": "9781429959797"
+          },
+          {
+            "isbn10": "0312380798",
+            "isbn13": "9780312380793"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316074233",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Foster Wallace",
+        "primary_isbn13": "9780316074230",
+        "description": "In this unfinished novel, Wallace explores the innards of the I.R.S., the value of work and the meaning of heroism.",
+        "book_review_link": "//www.nytimes.com/2011/04/01/books/the-pale-king-by-david-foster-wallace-book-review.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316074230.jpg",
+        "rank": 8,
+        "article_chapter_link": "//www.nytimes.com/2011/04/09/books/david-foster-wallace-and-the-pale-king.html",
+        "rank_last_week": 15,
+        "book_image_width": 181,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Pale-King-David-Foster-Wallace/dp/0316074233?tag=thenewyorktim-20",
+        "contributor": "by David Foster Wallace",
+        "title": "THE PALE KING",
+        "sunday_review_link": "//www.nytimes.com/2011/04/17/books/review/book-review-the-pale-king-by-david-foster-wallace.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316074233",
+            "isbn13": "9780316074230"
+          },
+          {
+            "isbn10": "0316074225",
+            "isbn13": "9780316074223"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "1439102724",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9781439102725",
+        "description": "Picoult takes on the issue of gay rights in this novel about a music therapist who desperately wants a child; CD of songs included.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439102732.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Sing-You-Home-Jodi-Picoult/dp/1439102732?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "SING YOU HOME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102724",
+            "isbn13": "9781439102725"
+          },
+          {
+            "isbn10": "1439149712",
+            "isbn13": "9781439149713"
+          },
+          {
+            "isbn10": "1439102732",
+            "isbn13": "9781439102732"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0525952063",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9780525952060",
+        "description": "Myron Bolitar\u2019s search for a missing rock star leads to questions about his own missing brother.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451233936.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 283,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Live-Myron-Bolitar-Harlan-Coben/dp/045123393X?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "LIVE WIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525952063",
+            "isbn13": "9780525952060"
+          },
+          {
+            "isbn10": "045123393X",
+            "isbn13": "9780451233936"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 22.99,
+        "primary_isbn10": "1401324134",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Carolyn Hennesy",
+        "primary_isbn13": "9781401324131",
+        "description": "Damian Spinelli, a character on the soap opera \u201cGeneral Hospital,\u201d decides to put his computer hacker skills to use as a private detective.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401324131.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Secret-Life-Damian-Spinelli/dp/1401324134?tag=thenewyorktim-20",
+        "contributor": "by Carolyn Hennesy",
+        "title": "THE SECRET LIFE OF DAMIAN SPINELLI",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401324134",
+            "isbn13": "9781401324131"
+          },
+          {
+            "isbn10": "1401325947",
+            "isbn13": "9781401325947"
+          }
+        ],
+        "publisher": "Hyperion"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316097365",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Neil McMahon",
+        "primary_isbn13": "9780316097369",
+        "description": "Hays Baker, a top operative for the Agency of Change and a national hero, suddenly finds himself a hunted fugitive who must fight to save humans from extinction.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446571746.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Toys-James-Patterson/dp/0446571741?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Neil McMahon",
+        "title": "TOYS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097365",
+            "isbn13": "9780316097369"
+          },
+          {
+            "isbn10": "0316097373",
+            "isbn13": "9780316097376"
+          },
+          {
+            "isbn10": "0446571741",
+            "isbn13": "9780446571746"
+          },
+          {
+            "isbn10": "161113692X",
+            "isbn13": "9781611136920"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0345521307",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Paula McLain",
+        "primary_isbn13": "9780345521309",
+        "description": "Ernest Hemingway\u2019s first wife narrates this novel set in Paris.",
+        "book_review_link": "//www.nytimes.com/2011/02/28/books/28book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345521323.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 268,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/The-Paris-Wife-A-Novel-ebook/dp/B004DEPELY?tag=thenewyorktim-20",
+        "contributor": "by Paula McLain",
+        "title": "THE PARIS WIFE",
+        "sunday_review_link": "//www.nytimes.com/2011/03/20/books/review/book-review-the-paris-wife-by-paula-mclain.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345521307",
+            "isbn13": "9780345521309"
+          },
+          {
+            "isbn10": "0345521323",
+            "isbn13": "9780345521323"
+          },
+          {
+            "isbn10": "1611730171",
+            "isbn13": "9781611730173"
+          },
+          {
+            "isbn10": "0345521315",
+            "isbn13": "9780345521316"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0307593916",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kyung-sook Shin",
+        "primary_isbn13": "9780307593917",
+        "description": "Family members suffer guilt and regret when their matriarch goes missing in a Seoul subway station.",
+        "book_review_link": "//www.nytimes.com/2011/03/31/books/kyung-sook-shins-please-look-after-mom-review.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593917.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 170,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Please-Look-After-Kyung-Sook-Shin/dp/0307593916?tag=thenewyorktim-20",
+        "contributor": "by Kyung-sook Shin",
+        "title": "PLEASE LOOK AFTER MOM",
+        "sunday_review_link": "//www.nytimes.com/2011/04/03/books/review/book-review-please-look-after-mom-by-kyung-sook-shin.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307593916",
+            "isbn13": "9780307593917"
+          },
+          {
+            "isbn10": "0307595498",
+            "isbn13": "9780307595492"
+          },
+          {
+            "isbn10": "0307739511",
+            "isbn13": "9780307739513"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1439165351",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sister Souljah",
+        "primary_isbn13": "9781439165355",
+        "description": "Midnight, a ninja warrior, must travel across three countries to win back his wife.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439165355.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 309,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Midnight-Meaning-Love-Sister-Souljah/dp/1439165351?tag=thenewyorktim-20",
+        "contributor": "by Sister Souljah",
+        "title": "MIDNIGHT AND THE MEANING OF LOVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439165351",
+            "isbn13": "9781439165355"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0451233166",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "J R Ward",
+        "primary_isbn13": "9780451233165",
+        "description": "Book 9 of the Black Dagger Brotherhood series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451235114.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Lover-Unleashed-Black-Dagger-Brotherhood/dp/0451235118?tag=thenewyorktim-20",
+        "contributor": "by J. R. Ward",
+        "title": "LOVER UNLEASHED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451233166",
+            "isbn13": "9780451233165"
+          },
+          {
+            "isbn10": "0451235118",
+            "isbn13": "9780451235114"
+          }
+        ],
+        "publisher": "New American Library"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553807080",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rita Mae Brown",
+        "primary_isbn13": "9780553807080",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553591613.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Hiss-Death-Mrs-Murphy-Mystery/dp/0553591614?tag=thenewyorktim-20",
+        "contributor": "by Rita Mae Brown",
+        "title": "HISS OF DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553807080",
+            "isbn13": "9780553807080"
+          },
+          {
+            "isbn10": "0553591614",
+            "isbn13": "9780553591613"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345505697",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jonathan Kellerman",
+        "primary_isbn13": "9780345505699",
+        "description": "The Los Angeles psychologist-detective Alex Delaware and the detective Milo Sturgis work on a homicide case involving an enigmatic woman.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345505699.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 262,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Mystery-An-Alex-Delaware-Novel/dp/0345505700?tag=thenewyorktim-20",
+        "contributor": "by Jonathan Kellerman",
+        "title": "MYSTERY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345505697",
+            "isbn13": "9780345505699"
+          },
+          {
+            "isbn10": "0345524381",
+            "isbn13": "9780345524386"
+          },
+          {
+            "isbn10": "0345505700",
+            "isbn13": "9780345505705"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439191379",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Paul Evans",
+        "primary_isbn13": "9781439191378",
+        "description": "After losing his wife and business, a man sets off on a cross-country journey on foot, but a violent encounter robs him of the ability to walk.",
+        "book_review_link": "",
+        "book_image_height": 149,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439191378.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 93,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Miles-Go-Second-Journal-Series/dp/1439191379?tag=thenewyorktim-20",
+        "contributor": "by Richard Paul Evans",
+        "title": "MILES TO GO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439191379",
+            "isbn13": "9781439191378"
+          },
+          {
+            "isbn10": "1439191476",
+            "isbn13": "9781439191477"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030737839X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Alexander McCall Smith",
+        "primary_isbn13": "9780307378392",
+        "description": "Precious Ramotswe of the No. 1 Ladies\u2019 Detective Agency faces two confounding cases: the mysterious fate of some cows, and the ghostlike reappearance of her old white van.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307472984.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Saturday-Tent-Wedding-Party/dp/0307472981?tag=thenewyorktim-20",
+        "contributor": "by Alexander McCall Smith",
+        "title": "THE SATURDAY BIG TENT WEDDING PARTY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030737839X",
+            "isbn13": "9780307378392"
+          },
+          {
+            "isbn10": "0307379639",
+            "isbn13": "9780307379634"
+          },
+          {
+            "isbn10": "0307472981",
+            "isbn13": "9780307472984"
+          }
+        ],
+        "publisher": "Pantheon"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2011-04-16",
+    "previous_published_date": "2011-04-24",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2011-05-08"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

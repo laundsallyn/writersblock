@@ -1,0 +1,817 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2011-05-15",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0849946158",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849946158",
+        "description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316056863",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tina Fey",
+        "primary_isbn13": "9780316056861",
+        "description": "A memoir from the former Saturday Night Live star and creator of \u201c30 Rock.\u201d",
+        "book_review_link": "//www.nytimes.com/2011/04/04/books/bossypants-by-tina-fey-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316056892.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Bossypants-Tina-Fey/dp/0316056898?tag=thenewyorktim-20",
+        "contributor": "by Tina Fey",
+        "title": "BOSSYPANTS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316056863",
+            "isbn13": "9780316056861"
+          },
+          {
+            "isbn10": "031617789X",
+            "isbn13": "9780316177894"
+          },
+          {
+            "isbn10": "0316175862",
+            "isbn13": "9780316175869"
+          },
+          {
+            "isbn10": "031619803X",
+            "isbn13": "9780316198035"
+          },
+          {
+            "isbn10": "0316056871",
+            "isbn13": "9780316056878"
+          },
+          {
+            "isbn10": "0316056898",
+            "isbn13": "9780316056892"
+          },
+          {
+            "isbn10": "1609419693",
+            "isbn13": "9781609419691"
+          },
+          {
+            "isbn10": "0606267212",
+            "isbn13": "9780606267212"
+          },
+          {
+            "isbn10": "0751547832",
+            "isbn13": "9780751547832"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429996021",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rob Lowe",
+        "primary_isbn13": "9781429996020",
+        "description": "The actor charts his professional path, from teen idol to \u201cThe West Wing.\u201d",
+        "book_review_link": "//www.nytimes.com/2011/04/21/books/rob-lowes-stories-i-only-tell-my-friends-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250008855.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Stories-Only-Tell-Friends-Autobiography-ebook/dp/B004OA62VS?tag=thenewyorktim-20",
+        "contributor": "by Rob Lowe",
+        "title": "STORIES I ONLY TELL MY FRIENDS",
+        "sunday_review_link": "//www.nytimes.com/2011/05/16/books/review/book-review-memoirs-by-shirley-maclaine-and-rob-lowe.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "080509329X",
+            "isbn13": "9780805093292"
+          },
+          {
+            "isbn10": "1429996021",
+            "isbn13": "9781429996020"
+          },
+          {
+            "isbn10": "1250008859",
+            "isbn13": "9781250008855"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603751",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9780679603757",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400052181",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rebecca Skloot",
+        "primary_isbn13": "9781400052189",
+        "description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400052189.jpg",
+        "rank": 5,
+        "article_chapter_link": "//www.nytimes.com/2010/02/02/health/02seco.html",
+        "rank_last_week": 4,
+        "book_image_width": 182,
+        "first_chapter_link": "//www.nytimes.com/2010/03/03/books/excerpt-immortal-life-of-henrietta-lacks.html",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=thenewyorktim-20",
+        "contributor": "by Rebecca Skloot",
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "sunday_review_link": "//www.nytimes.com/2010/02/07/books/review/Margonelli-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400052173",
+            "isbn13": "9781400052172"
+          },
+          {
+            "isbn10": "0307589382",
+            "isbn13": "9780307589385"
+          },
+          {
+            "isbn10": "1410427927",
+            "isbn13": "9781410427922"
+          },
+          {
+            "isbn10": "1400052181",
+            "isbn13": "9781400052189"
+          },
+          {
+            "isbn10": "1594134324",
+            "isbn13": "9781594134326"
+          },
+          {
+            "isbn10": "0451486315",
+            "isbn13": "9780451486318"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "140006760X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Brooks",
+        "primary_isbn13": "9781400067602",
+        "description": "Brooks creates two imaginary people, Harold and Erica, to illustrate his understanding of the human mind, the wellsprings of action and the causes of success and failure.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400067602.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 265,
+        "first_chapter_link": "//www.nytimes.com/2011/03/13/books/review/excerpt-the-social-animal-by-david-brooks.html",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/The-Social-Animal-Character-Achievement-ebook/dp/B004IK8PFK?tag=thenewyorktim-20",
+        "contributor": "by David Brooks",
+        "title": "THE SOCIAL ANIMAL",
+        "sunday_review_link": "//www.nytimes.com/2011/03/13/books/review/book-review-the-social-animal-by-david-brooks.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "067960393X",
+            "isbn13": "9780679603931"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Diana B Henriques",
+        "primary_isbn13": "9781429973717",
+        "description": "A New York Times financial writer details the story of Bernard Madoff, from his rise on Wall Street to his conviction for creating a $65 billion Ponzi scheme.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429973717.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Wizard-Lies-Bernie-Madoff-ebook/dp/B004OA6402?tag=thenewyorktim-20",
+        "contributor": "by Diana B. Henriques",
+        "title": "THE WIZARD OF LIES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805091343",
+            "isbn13": "9780805091342"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "034552361X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ashley Judd with Maryanne Vollers",
+        "primary_isbn13": "9780345523617",
+        "description": "A memoir by the actress and humanitarian.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345523617.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/All-That-Is-Bitter-Sweet-ebook/dp/B004C43FXY?tag=thenewyorktim-20",
+        "contributor": "by Ashley Judd with Maryanne Vollers",
+        "title": "ALL THAT IS BITTER AND SWEET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "034552361X",
+            "isbn13": "9780345523617"
+          },
+          {
+            "isbn10": "0345524829",
+            "isbn13": "9780345524829"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "145550145X",
+        "asterisk": 0,
+        "dagger": 1,
+        "author": "Ron Paul",
+        "primary_isbn13": "9781455501458",
+        "description": "The Texas congressman examines 50 controversial issues.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455501458.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Liberty-Defined-Essential-Issues-Freedom-ebook/dp/B004KKYX68?tag=thenewyorktim-20",
+        "contributor": "by Ron Paul",
+        "title": "LIBERTY DEFINED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "145550145X",
+            "isbn13": "9781455501458"
+          },
+          {
+            "isbn10": "1455504432",
+            "isbn13": "9781455504435"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1605292885",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Howard Schultz with Joanne Gordon",
+        "primary_isbn13": "9781605292885",
+        "description": "Schultz tells of his second stint as the C.E.O. of Starbucks and how he helped return the company to profitability.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781609613464.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Onward-Starbucks-Fought-without-Losing-ebook/dp/B004OEIQEA?tag=thenewyorktim-20",
+        "contributor": "by Howard Schultz with Joanne Gordon",
+        "title": "ONWARD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1605292885",
+            "isbn13": "9781605292885"
+          }
+        ],
+        "publisher": "Rodale"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307279189",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christopher McDougall",
+        "primary_isbn13": "9780307279187",
+        "description": "Secrets of distance running from a Mexican Indian tribe.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307271914.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189?tag=thenewyorktim-20",
+        "contributor": "by Christopher McDougall",
+        "title": "BORN TO RUN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307266303",
+            "isbn13": "9780307266309"
+          },
+          {
+            "isbn10": "0307271919",
+            "isbn13": "9780307271914"
+          },
+          {
+            "isbn10": "0307279189",
+            "isbn13": "9780307279187"
+          },
+          {
+            "isbn10": "0307914550",
+            "isbn13": "9780307914552"
+          }
+        ],
+        "publisher": "Knopf Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1605290750",
+        "asterisk": 0,
+        "dagger": 1,
+        "author": "Darell Hammond",
+        "primary_isbn13": "9781605290751",
+        "description": "Hammond describes how he created Kaboom, a nonprofit that provides communities with the resources to build playgrounds.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9781605290751.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/KaBOOM-Built-Movement-Save-Play/dp/1605290750?tag=thenewyorktim-20",
+        "contributor": "by Darell Hammond",
+        "title": "KABOOM!",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1605290750",
+            "isbn13": "9781605290751"
+          }
+        ],
+        "publisher": "Rodale"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451607296",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Shirley MacLaine",
+        "primary_isbn13": "9781451607291",
+        "description": "The actress offers observations on what remains important to her.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451607291.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 182,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Im-Over-All-That-Confessions/dp/1451607296?tag=thenewyorktim-20",
+        "contributor": "by Shirley MacLaine",
+        "title": "I'M OVER ALL THAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451607296",
+            "isbn13": "9781451607291"
+          },
+          {
+            "isbn10": "1451607318",
+            "isbn13": "9781451607314"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439107955",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Siddhartha Mukherjee",
+        "primary_isbn13": "9781439107959",
+        "description": "An oncologist\u2019s history of cancer and its treatment covers both the eureka moments and the decades of despair.",
+        "book_review_link": "//www.nytimes.com/2010/11/11/books/11book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439170915.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Emperor-All-Maladies-Biography-ebook/dp/B003UYUP58?tag=thenewyorktim-20",
+        "contributor": "by Siddhartha Mukherjee",
+        "title": "THE EMPEROR OF ALL MALADIES",
+        "sunday_review_link": "//www.nytimes.com/2010/11/14/books/review/Weiner-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439107955",
+            "isbn13": "9781439107959"
+          },
+          {
+            "isbn10": "1439181713",
+            "isbn13": "9781439181713"
+          },
+          {
+            "isbn10": "1439170916",
+            "isbn13": "9781439170915"
+          },
+          {
+            "isbn10": "1410447154",
+            "isbn13": "9781410447159"
+          },
+          {
+            "isbn10": "1400169178",
+            "isbn13": "9781400169177"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400040159",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Adam Goodheart",
+        "primary_isbn13": "9781400040155",
+        "description": "A historian examines the months between Lincoln\u2019s election in 1860 and July 4, 1861, when he delivered his first message to Congress.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307596666.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/1861-The-Civil-Awakening-Vintage/dp/1400032199?tag=thenewyorktim-20",
+        "contributor": "by Adam Goodheart",
+        "title": "1861",
+        "sunday_review_link": "//www.nytimes.com/2011/04/24/books/review/book-review-1861-the-civil-war-awakening-by-adam-goodheart.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400040159",
+            "isbn13": "9781400040155"
+          },
+          {
+            "isbn10": "0307596664",
+            "isbn13": "9780307596666"
+          },
+          {
+            "isbn10": "1400032199",
+            "isbn13": "9781400032198"
+          }
+        ],
+        "publisher": "Knopf Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "159420229X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Joshua Foer",
+        "primary_isbn13": "9781594202292",
+        "description": "A journalist who covered a mnemonics championship tries competing himself.",
+        "book_review_link": "//www.nytimes.com/2011/03/08/books/08book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780143120537.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530?tag=thenewyorktim-20",
+        "contributor": "by Joshua Foer",
+        "title": "MOONWALKING WITH EINSTEIN",
+        "sunday_review_link": "//www.nytimes.com/2011/03/13/books/review/book-review-moonwalking-with-einstein-by-joshua-foer.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "159420229X",
+            "isbn13": "9781594202292"
+          },
+          {
+            "isbn10": "0143120530",
+            "isbn13": "9780143120537"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1401341454",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "selected and introduced  Caroline Kennedy",
+        "primary_isbn13": "9781401341459",
+        "description": "Poems that inspired the former first daughter.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401341459.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/She-Walks-Beauty-Journey-Through/dp/1401341454?tag=thenewyorktim-20",
+        "contributor": "selected and introduced by Caroline Kennedy",
+        "title": "SHE WALKS IN BEAUTY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401341454",
+            "isbn13": "9781401341459"
+          }
+        ],
+        "publisher": "Hyperion"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0393338827",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Lewis",
+        "primary_isbn13": "9780393338829",
+        "description": "The people who saw the real estate crash coming and made billions. Originally published in 2010 and a 2015 movie.",
+        "book_review_link": "//www.nytimes.com/2010/03/15/books/15book.html",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780393072235.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Big-Short-Doomsday-Machine-ebook/dp/B003LSTK8G?tag=thenewyorktim-20",
+        "contributor": "by Michael Lewis",
+        "title": "THE BIG SHORT",
+        "sunday_review_link": "//www.nytimes.com/2010/04/18/books/review/Gross-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0393072231",
+            "isbn13": "9780393072235"
+          },
+          {
+            "isbn10": "0393078191",
+            "isbn13": "9780393078190"
+          },
+          {
+            "isbn10": "0393338827",
+            "isbn13": "9780393338829"
+          },
+          {
+            "isbn10": "1594134618",
+            "isbn13": "9781594134616"
+          },
+          {
+            "isbn10": "039335315X",
+            "isbn13": "9780393353150"
+          }
+        ],
+        "publisher": "Norton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1585428817",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Thorne",
+        "primary_isbn13": "9781585428816",
+        "description": "Irreverent correspondence from Thorne's Web site.",
+        "book_review_link": "",
+        "book_image_height": 278,
+        "book_image": "https://s1.nyt.com/du/books/images/9781585428816.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Internet-Playground-Irreverent-Correspondences/dp/1585428817?tag=thenewyorktim-20",
+        "contributor": "by David Thorne",
+        "title": "THE INTERNET IS A PLAYGROUND",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1585428817",
+            "isbn13": "9781585428816"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0765326396",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Howie Carr",
+        "primary_isbn13": "9780765326393",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429992114.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Hitman-Martorano-Enforcer-Gangster-Underworld-ebook/dp/B003P9WEA2?tag=thenewyorktim-20",
+        "contributor": "by Howie Carr",
+        "title": "HITMAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765326396",
+            "isbn13": "9780765326393"
+          },
+          {
+            "isbn10": "1429992115",
+            "isbn13": "9781429992114"
+          }
+        ],
+        "publisher": "Tom Doherty"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2011-04-30",
+    "previous_published_date": "2011-05-08",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2011-05-22"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

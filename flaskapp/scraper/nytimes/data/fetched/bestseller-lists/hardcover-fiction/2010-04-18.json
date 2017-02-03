@@ -1,0 +1,801 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2010-04-18",
+    "books": [
+      {
+        "price": 24.95,
+        "primary_isbn10": "044101819X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patricia Briggs",
+        "primary_isbn13": "9780441018192",
+        "description": "In the fifth book starring Mercy Thompson, a shapeshifter and auto mechanic in Washington State, Mercy works on her relationship with the leader of the werewolf pack and helps a suicidal friend.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780441018192.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Silver-Borne-Mercy-Thompson-Book/dp/044101996X?tag=thenewyorktim-20",
+        "contributor": "by Patricia Briggs",
+        "title": "SILVER BORNE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "044101996X",
+            "isbn13": "9780441019960"
+          },
+          {
+            "isbn10": "044101819X",
+            "isbn13": "9780441018192"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s \u00adMississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 2,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 2,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 53,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "052595158X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9780525951582",
+        "description": "When a suburban girl goes missing, her parents and her community, as well as a reporter and a social worker, are drawn into the search.",
+        "book_review_link": "",
+        "book_image_height": 246,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451232700.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 140,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Caught-Harlan-Coben/dp/0451232704?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "CAUGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "052595158X",
+            "isbn13": "9780525951582"
+          },
+          {
+            "isbn10": "0451232704",
+            "isbn13": "9780451232700"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0345505670",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jonathan Kellerman",
+        "primary_isbn13": "9780345505675",
+        "description": "The Los Angeles psychologist-detective Alex Delaware collaborates with the detective Milo Sturgis to help solve a murder at a prestigious prep school.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345505682.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 156,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Deception-An-Alex-Delaware-Novel/dp/0345505689?tag=thenewyorktim-20",
+        "contributor": "by Jonathan Kellerman",
+        "title": "DECEPTION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345505670",
+            "isbn13": "9780345505675"
+          },
+          {
+            "isbn10": "0345505689",
+            "isbn13": "9780345505682"
+          },
+          {
+            "isbn10": "034551923X",
+            "isbn13": "9780345519238"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0743296435",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9780743296434",
+        "description": "A teenage boy with Asperger\u2019s syndrome is accused of murder.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780743296434.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/House-Rules-Novel-Jodi-Picoult/dp/0743296443?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "HOUSE RULES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0743296443",
+            "isbn13": "9780743296441"
+          },
+          {
+            "isbn10": "1439199310",
+            "isbn13": "9781439199312"
+          },
+          {
+            "isbn10": "0743296435",
+            "isbn13": "9780743296434"
+          },
+          {
+            "isbn10": "1602857105",
+            "isbn13": "9781602857100"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0385533411",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ian McEwan",
+        "primary_isbn13": "9780385533416",
+        "description": "A Nobel Prize-winning physicist past his prime manages, through greed and dishonesty, to reinvent his career, punish his cheating wife and save the world from global warming; from the author of \u201cAtonement.\u201d",
+        "book_review_link": "//www.nytimes.com/2010/03/30/books/30book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307739537.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Solar-Ian-McEwan/dp/0307739538?tag=thenewyorktim-20",
+        "contributor": "by Ian McEwan",
+        "title": "SOLAR",
+        "sunday_review_link": "//www.nytimes.com/2010/04/18/books/review/Kirn-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385533411",
+            "isbn13": "9780385533416"
+          },
+          {
+            "isbn10": "0307739538",
+            "isbn13": "9780307739537"
+          }
+        ],
+        "publisher": "Nan. A Talese/Doubleday"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399156259",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Jack Du Brul",
+        "primary_isbn13": "9780399156250",
+        "description": "Juan Cabrillo and the crew of the Oregon make discoveries that lead back to an ancient Chinese expedition.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156250.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Silent-Sea-Oregon-Files/dp/0425240088?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Jack Du Brul",
+        "title": "THE SILENT SEA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156259",
+            "isbn13": "9780399156250"
+          },
+          {
+            "isbn10": "0425240088",
+            "isbn13": "9780425240083"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 21.99,
+        "primary_isbn10": "0446563080",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Seth Grahame-Smith",
+        "primary_isbn13": "9780446563086",
+        "description": "Lincoln fights the undead; by the author of \u201cPride and Prejudice and Zombies.\"",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446563086.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Abraham-Lincoln-Vampire-Seth-Grahame-Smith/dp/0446563072?tag=thenewyorktim-20",
+        "contributor": "by Seth Grahame-Smith",
+        "title": "ABRAHAM LINCOLN: VAMPIRE HUNTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446563080",
+            "isbn13": "9780446563086"
+          },
+          {
+            "isbn10": "0446563072",
+            "isbn13": "9780446563079"
+          },
+          {
+            "isbn10": "1455510173",
+            "isbn13": "9781455510177"
+          },
+          {
+            "isbn10": "1455510181",
+            "isbn13": "9781455510184"
+          },
+          {
+            "isbn10": "0446571857",
+            "isbn13": "9780446571852"
+          },
+          {
+            "isbn10": "1849014779",
+            "isbn13": "9781849014779"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 23.99,
+        "primary_isbn10": "0061779725",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Christopher Moore",
+        "primary_isbn13": "9780061779725",
+        "description": "Saving San Francisco from a vampyre cat.",
+        "book_review_link": "",
+        "book_image_height": 278,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061779725.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Bite-Me-A-Love-Story/dp/0061779725?tag=thenewyorktim-20",
+        "contributor": "by Christopher Moore",
+        "title": "BITE ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061779725",
+            "isbn13": "9780061779725"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "080211928X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Karl Marlantes",
+        "primary_isbn13": "9780802119285",
+        "description": "Marines in Vietnam in 1969.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780802119285.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 183,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Matterhorn-A-Novel-Vietnam-War/dp/0802145310?tag=thenewyorktim-20",
+        "contributor": "by Karl Marlantes",
+        "title": "MATTERHORN",
+        "sunday_review_link": "//www.nytimes.com/2010/04/04/books/review/Junger-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "080211928X",
+            "isbn13": "9780802119285"
+          },
+          {
+            "isbn10": "0802145310",
+            "isbn13": "9780802145314"
+          }
+        ],
+        "publisher": "El Le\u00f3n Literary Arts/Atlantic Monthly"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0758225644",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Jackson",
+        "primary_isbn13": "9780758225641",
+        "description": "Students are dying at an Oregon boarding school for wayward kids, and the concerned new teacher may be the next target.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780758225641.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Without-Mercy-Lisa-Jackson-ebook/dp/B0046ZRW5Q?tag=thenewyorktim-20",
+        "contributor": "by Lisa Jackson",
+        "title": "WITHOUT MERCY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0758225644",
+            "isbn13": "9780758225641"
+          },
+          {
+            "isbn10": "1420102745",
+            "isbn13": "9781420102741"
+          },
+          {
+            "isbn10": "1420122622",
+            "isbn13": "9781420122626"
+          }
+        ],
+        "publisher": "Kensington"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0312380755",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Scottoline",
+        "primary_isbn13": "9780312380755",
+        "description": "A woman takes over her twin sister\u2019s life.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312380755.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Think-Twice-Lisa-Scottoline/dp/0312380755?tag=thenewyorktim-20",
+        "contributor": "by Lisa Scottoline",
+        "title": "THINK TWICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312380755",
+            "isbn13": "9780312380755"
+          },
+          {
+            "isbn10": "0312380763",
+            "isbn13": "9780312380762"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 29.95,
+        "primary_isbn10": "0385504225",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dan Brown",
+        "primary_isbn13": "9780385504225",
+        "description": "Robert Langdon among the Masons.",
+        "book_review_link": "//www.nytimes.com/2009/09/14/books/14maslin.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385533133.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 29,
+        "amazon_product_url": "http://www.amazon.com/The-Lost-Symbol-Featuring-Langdon-ebook/dp/B002KQ6BT6?tag=thenewyorktim-20",
+        "contributor": "by Dan Brown",
+        "title": "THE LOST SYMBOL",
+        "sunday_review_link": "//www.nytimes.com/2009/10/11/books/review/Dowd-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400079144",
+            "isbn13": "9781400079148"
+          },
+          {
+            "isbn10": "0385533136",
+            "isbn13": "9780385533133"
+          },
+          {
+            "isbn10": "0385504225",
+            "isbn13": "9780385504225"
+          },
+          {
+            "isbn10": "0385534507",
+            "isbn13": "9780385534505"
+          },
+          {
+            "isbn10": "0385533829",
+            "isbn13": "9780385533829"
+          },
+          {
+            "isbn10": "0307950689",
+            "isbn13": "9780307950680"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0399156275",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Karen Robards",
+        "primary_isbn13": "9780399156274",
+        "description": "Investigating a cold case about a family that disappeared in 1981, a woman discovers that she resembles the missing girl.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156274.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Shattered-Karen-Robards/dp/0451233549?tag=thenewyorktim-20",
+        "contributor": "by Karen Robards",
+        "title": "SHATTERED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156275",
+            "isbn13": "9780399156274"
+          },
+          {
+            "isbn10": "0451233549",
+            "isbn13": "9780451233547"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0670021474",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Trussoni",
+        "primary_isbn13": "9780670021475",
+        "description": "A nun is drawn into an ancient struggle against the Nephilim, hybrid offspring of humans and heavenly beings.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780143118466.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 182,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Angelology-A-Novel-Series/dp/0143118463?tag=thenewyorktim-20",
+        "contributor": "by Danielle Trussoni",
+        "title": "ANGELOLOGY",
+        "sunday_review_link": "//www.nytimes.com/2010/03/07/books/review/Cokal-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670021474",
+            "isbn13": "9780670021475"
+          },
+          {
+            "isbn10": "0143118463",
+            "isbn13": "9780143118466"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316036226",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316036221",
+        "description": "Michael Bennett, a New York detective raising 10 children, investigates a string of kidnappings and killings by a villain with unusual motives.",
+        "book_review_link": "",
+        "book_image_height": 277,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316036221.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Worst-Michael-Bennett-James-Patterson/dp/0446574732?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "WORST CASE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446565725",
+            "isbn13": "9780446565721"
+          },
+          {
+            "isbn10": "0316036226",
+            "isbn13": "9780316036221"
+          },
+          {
+            "isbn10": "0446574732",
+            "isbn13": "9780446574730"
+          },
+          {
+            "isbn10": "0316127027",
+            "isbn13": "9780316127028"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0374299048",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cathleen Schine",
+        "primary_isbn13": "9780374299040",
+        "description": "In this tribute to Austen\u2019s \u201cSense and Sensibility,\u201d two sisters \u2014 one logical, one emotional \u2014 move in with their mother when her ex-husband kicks her out of the family apartment.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780374299040.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Three-Weissmanns-Westport-Novel/dp/031268052X?tag=thenewyorktim-20",
+        "contributor": "by Cathleen Schine",
+        "title": "THE THREE WEISSMANNS OF WESTPORT",
+        "sunday_review_link": "//www.nytimes.com/2010/02/14/books/review/Browning-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374299048",
+            "isbn13": "9780374299040"
+          },
+          {
+            "isbn10": "031268052X",
+            "isbn13": "9780312680527"
+          }
+        ],
+        "publisher": "Sarah Crichton/Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400068932",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Helen Simonson",
+        "primary_isbn13": "9781400068937",
+        "description": "In an English village, a retired major mourning the death of his brother is gradually drawn to a shopkeeper of Pakistani descent who shares his love of Kipling.",
+        "book_review_link": "//www.nytimes.com/2010/02/22/books/22book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781588369659.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "//www.nytimes.com/2010/03/07/books/excerpt-major-pettigrews-last-stand.html",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Major-Pettigrews-Last-Stand-Novel/dp/0812981227?tag=thenewyorktim-20",
+        "contributor": "by Helen Simonson",
+        "title": "MAJOR PETTIGREW\u2019S LAST STAND",
+        "sunday_review_link": "//www.nytimes.com/2010/03/07/books/review/Smith-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812981227",
+            "isbn13": "9780812981223"
+          },
+          {
+            "isbn10": "158836965X",
+            "isbn13": "9781588369659"
+          },
+          {
+            "isbn10": "1400068932",
+            "isbn13": "9781400068937"
+          },
+          {
+            "isbn10": "1410427528",
+            "isbn13": "9781410427526"
+          },
+          {
+            "isbn10": "1594134448",
+            "isbn13": "9781594134449"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345509080",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Aaron Allston",
+        "primary_isbn13": "9780345509086",
+        "description": "In the second novel in the \u201cStar Wars: Fate of the Jedi\u201d series, a being of pure dark-side energy looms.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345509086.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Star-Wars-Fate-Backlash-Legends/dp/0345509099?tag=thenewyorktim-20",
+        "contributor": "by Aaron Allston",
+        "title": "BACKLASH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345509080",
+            "isbn13": "9780345509086"
+          },
+          {
+            "isbn10": "0345509099",
+            "isbn13": "9780345509093"
+          }
+        ],
+        "publisher": "Del Rey/Ballantine/Lucas"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399156194",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sarah Blake",
+        "primary_isbn13": "9780399156199",
+        "description": "A tale of two worlds and two women delivering the news in 1940: Iris James, a spinster who runs the post office in a coastal Massachusetts town, and Frankie Bard, a reporter in London with Edward R. Murrow.",
+        "book_review_link": "//www.nytimes.com/2010/02/09/books/09book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156199.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Postmistress-Sarah-Blake/dp/0399156194?tag=thenewyorktim-20",
+        "contributor": "by Sarah Blake",
+        "title": "THE POSTMISTRESS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156194",
+            "isbn13": "9780399156199"
+          },
+          {
+            "isbn10": "0425238695",
+            "isbn13": "9780425238691"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2010-04-04",
+    "previous_published_date": "2010-04-11",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2010-04-25"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

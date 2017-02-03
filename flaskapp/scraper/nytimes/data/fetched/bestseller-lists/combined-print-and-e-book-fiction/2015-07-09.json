@@ -1,0 +1,804 @@
+{
+  "results": {
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "bestsellers_date": "2015-06-27",
+    "display_name": "Combined Print & E-Book Fiction",
+    "next_published_date": "2015-07-19",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "books": [
+      {
+        "description": "A sequel told from Christian's point of view.",
+        "publisher": "Vintage",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1101946342",
+            "isbn13": "9781101946343"
+          },
+          {
+            "isbn10": "1784753254",
+            "isbn13": "9781784753252"
+          },
+          {
+            "isbn10": "1101946350",
+            "isbn13": "9781101946350"
+          },
+          {
+            "isbn10": "1101971541",
+            "isbn13": "9781101971543"
+          },
+          {
+            "isbn10": "1473535956",
+            "isbn13": "9781473535954"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "GREY",
+        "first_chapter_link": "",
+        "author": "E L James",
+        "rank_last_week": 1,
+        "contributor": "by E. L. James",
+        "contributor_note": "",
+        "primary_isbn13": "9781101946350",
+        "primary_isbn10": "1101946350",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 1,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101946350.jpg",
+        "amazon_product_url": "http://www.amazon.com/Grey-Fifty-Shades-Told-Christian-ebook/dp/B00Y6QF0PE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+        "publisher": "Riverhead",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1594633665",
+            "isbn13": "9781594633669"
+          },
+          {
+            "isbn10": "0698185390",
+            "isbn13": "9780698185395"
+          },
+          {
+            "isbn10": "1410477762",
+            "isbn13": "9781410477767"
+          },
+          {
+            "isbn10": "0857522329",
+            "isbn13": "9780857522320"
+          },
+          {
+            "isbn10": "1448171687",
+            "isbn13": "9781448171682"
+          },
+          {
+            "isbn10": "1594634122",
+            "isbn13": "9781594634123"
+          },
+          {
+            "isbn10": "038568231X",
+            "isbn13": "9780385682312"
+          }
+        ],
+        "weeks_on_list": 24,
+        "dagger": 0,
+        "title": "THE GIRL ON THE TRAIN",
+        "first_chapter_link": "",
+        "author": "Paula Hawkins",
+        "rank_last_week": 2,
+        "contributor": "by Paula Hawkins",
+        "contributor_note": "",
+        "primary_isbn13": "9780698185395",
+        "primary_isbn10": "0698185390",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "rank": 2,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594633669.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html"
+      },
+      {
+        "description": "An attorney discovers a shocking secret that must be kept out of the wrong hands.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316407011",
+            "isbn13": "9780316407014"
+          },
+          {
+            "isbn10": "0316408735",
+            "isbn13": "9780316408738"
+          },
+          {
+            "isbn10": "1455584967",
+            "isbn13": "9781455584963"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "TRUTH OR DIE",
+        "first_chapter_link": "",
+        "author": "James Patterson and Howard Roughan",
+        "rank_last_week": 0,
+        "contributor": "by James Patterson and Howard Roughan",
+        "contributor_note": "",
+        "primary_isbn13": "9780316408738",
+        "primary_isbn10": "0316408735",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 3,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316408738.jpg",
+        "amazon_product_url": "http://www.amazon.com/Truth-Die-James-Patterson-ebook/dp/B00QQQL8VM?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A designer is drawn into the lives of family of a hedge fund billionaire who has disappeared suspiciously.",
+        "publisher": "Simon & Schuster",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476749116",
+            "isbn13": "9781476749112"
+          },
+          {
+            "isbn10": "1476749132",
+            "isbn13": "9781476749136"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "THE MELODY LINGERS ON",
+        "first_chapter_link": "",
+        "author": "Mary Higgins Clark",
+        "rank_last_week": 0,
+        "contributor": "by Mary Higgins Clark",
+        "contributor_note": "",
+        "primary_isbn13": "9781476749136",
+        "primary_isbn10": "1476749132",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 4,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476749136.jpg",
+        "amazon_product_url": "http://www.amazon.com/Melody-Lingers-Mary-Higgins-Clark-ebook/dp/B00NR1CZIE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Lizzy Tucker and her partner, Diesel, join a hunt for buried treasure.",
+        "publisher": "Bantam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0553392719",
+            "isbn13": "9780553392715"
+          },
+          {
+            "isbn10": "0553392727",
+            "isbn13": "9780553392722"
+          },
+          {
+            "isbn10": "0553392735",
+            "isbn13": "9780553392739"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "WICKED CHARMS",
+        "first_chapter_link": "",
+        "author": "Janet Evanovich and Phoef Sutton",
+        "rank_last_week": 0,
+        "contributor": "by Janet Evanovich and Phoef Sutton",
+        "contributor_note": "",
+        "primary_isbn13": "9780553392722",
+        "primary_isbn10": "0553392727",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 5,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553392722.jpg",
+        "amazon_product_url": "http://www.amazon.com/Wicked-Charms-Lizzy-Diesel-Novel-ebook/dp/B00N6PD6SO?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+        "publisher": "Crown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0804139024",
+            "isbn13": "9780804139021"
+          },
+          {
+            "isbn10": "0553418025",
+            "isbn13": "9780553418026"
+          },
+          {
+            "isbn10": "0091956145",
+            "isbn13": "9780091956141"
+          },
+          {
+            "isbn10": "1594138540",
+            "isbn13": "9781594138546"
+          },
+          {
+            "isbn10": "1101903589",
+            "isbn13": "9781101903582"
+          },
+          {
+            "isbn10": "110190500X",
+            "isbn13": "9781101905005"
+          }
+        ],
+        "weeks_on_list": 5,
+        "dagger": 0,
+        "title": "THE MARTIAN",
+        "first_chapter_link": "",
+        "author": "Andy Weir",
+        "rank_last_week": 7,
+        "contributor": "by Andy Weir",
+        "contributor_note": "",
+        "primary_isbn13": "9780804139038",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 6,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804139038.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+        "publisher": "Scribner",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "weeks_on_list": 41,
+        "dagger": 0,
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "first_chapter_link": "",
+        "author": "Anthony Doerr",
+        "rank_last_week": 8,
+        "contributor": "by Anthony Doerr",
+        "contributor_note": "",
+        "primary_isbn13": "9781476746586",
+        "primary_isbn10": "1476746583",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "rank": 7,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476746586.jpg",
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Two friends on Nantucket must deal with damaging gossip about themselves and their husbands.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316334529",
+            "isbn13": "9780316334525"
+          },
+          {
+            "isbn10": "0316334502",
+            "isbn13": "9780316334501"
+          },
+          {
+            "isbn10": "0316339350",
+            "isbn13": "9780316339353"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "THE RUMOR",
+        "first_chapter_link": "",
+        "author": "Elin Hilderbrand",
+        "rank_last_week": 3,
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "primary_isbn13": "9780316334501",
+        "primary_isbn10": "0316334502",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 8,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316334501.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Rumor-Novel-Elin-Hilderbrand-ebook/dp/B00O7X61S6?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A deranged reader\u2019s infatuation with a Salingeresque novelist has dangerous and long-lasting consequences.",
+        "publisher": "Scribner",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501100076",
+            "isbn13": "9781501100079"
+          },
+          {
+            "isbn10": "1501100130",
+            "isbn13": "9781501100130"
+          },
+          {
+            "isbn10": "1410479501",
+            "isbn13": "9781410479501"
+          },
+          {
+            "isbn10": "1501100122",
+            "isbn13": "9781501100123"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "title": "FINDERS KEEPERS",
+        "first_chapter_link": "",
+        "author": "Stephen King",
+        "rank_last_week": 9,
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "primary_isbn13": "9781501100130",
+        "primary_isbn10": "1501100130",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/05/31/books/review/stephen-kings-finders-keepers.html",
+        "rank": 9,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781501100130.jpg",
+        "amazon_product_url": "http://www.amazon.com/Finders-Keepers-Novel-Stephen-King-ebook/dp/B00P42WROG?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Secrets are revealed and love stories play out against the backdrop of a series of plane crashes in 1950s New Jersey.",
+        "publisher": "Knopf",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1101875046",
+            "isbn13": "9781101875049"
+          },
+          {
+            "isbn10": "1101875054",
+            "isbn13": "9781101875056"
+          },
+          {
+            "isbn10": "0804194769",
+            "isbn13": "9780804194761"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "title": "IN THE UNLIKELY EVENT",
+        "first_chapter_link": "",
+        "author": "Judy Blume",
+        "rank_last_week": 10,
+        "contributor": "by Judy Blume",
+        "contributor_note": "",
+        "primary_isbn13": "9781101875056",
+        "primary_isbn10": "1101875054",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/05/31/books/review/judy-blumes-in-the-unlikely-event.html",
+        "rank": 10,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101875056.jpg",
+        "amazon_product_url": "http://www.amazon.com/In-Unlikely-Event-Judy-Blume-ebook/dp/B00R04MDYA?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "publisher": "St. Martin's",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0312577222",
+            "isbn13": "9780312577223"
+          },
+          {
+            "isbn10": "1466850604",
+            "isbn13": "9781466850606"
+          },
+          {
+            "isbn10": "1628995017",
+            "isbn13": "9781628995015"
+          },
+          {
+            "isbn10": "1250080401",
+            "isbn13": "9781250080400"
+          }
+        ],
+        "weeks_on_list": 21,
+        "dagger": 0,
+        "title": "THE NIGHTINGALE",
+        "first_chapter_link": "",
+        "author": "Kristin Hannah",
+        "rank_last_week": 12,
+        "contributor": "by Kristin Hannah",
+        "contributor_note": "",
+        "primary_isbn13": "9781466850606",
+        "primary_isbn10": "1466850604",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 11,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781466850606.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "After years of painful separation, Zach is reunited with a much-altered Gracie, in the third installment of the Slow Burn romantic thriller series.",
+        "publisher": "Avon",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062312510",
+            "isbn13": "9780062312518"
+          },
+          {
+            "isbn10": "0062312502",
+            "isbn13": "9780062312501"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "SAFE AT LAST",
+        "first_chapter_link": "",
+        "author": "Maya Banks",
+        "rank_last_week": 0,
+        "contributor": "by Maya Banks",
+        "contributor_note": "",
+        "primary_isbn13": "9780062312518",
+        "primary_isbn10": "0062312510",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 12,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062312518.jpg",
+        "amazon_product_url": "http://www.amazon.com/Safe-Last-Slow-Novel-Novels-ebook/dp/B00L19M2LO?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A physical therapist sets out to restore order to a wealthy patient's body and mind.",
+        "publisher": "Ballantine",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0345541863",
+            "isbn13": "9780345541864"
+          },
+          {
+            "isbn10": "0345541855",
+            "isbn13": "9780345541857"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "EVER AFTER",
+        "first_chapter_link": "",
+        "author": "Jude Deveraux",
+        "rank_last_week": 0,
+        "contributor": "by Jude Deveraux",
+        "contributor_note": "",
+        "primary_isbn13": "9780345541864",
+        "primary_isbn10": "0345541863",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 13,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345541864.jpg",
+        "amazon_product_url": "http://www.amazon.com/Ever-After-Nantucket-Brides-Trilogy-ebook/dp/B00O6V1VH0?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A former collaborator continues Clancy\u2019s series about the covert intelligent expert Jack Ryan Jr. (Clancy died in 2013.)",
+        "publisher": "Putnam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "039917575X",
+            "isbn13": "9780399175756"
+          },
+          {
+            "isbn10": "0425283186",
+            "isbn13": "9780425283189"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "TOM CLANCY UNDER FIRE",
+        "first_chapter_link": "",
+        "author": "Grant Blackwood",
+        "rank_last_week": 4,
+        "contributor": "by Grant Blackwood",
+        "contributor_note": "",
+        "primary_isbn13": "9780698404861",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 14,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698404861.jpg",
+        "amazon_product_url": "http://www.amazon.com/Clancy-Under-Fire-Jack-Novel-ebook/dp/B00TY3ZOBY?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The life of a successful magazine writer is shaken when secrets from her past are revealed in a documentary.",
+        "publisher": "Simon & Schuster",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476789630",
+            "isbn13": "9781476789637"
+          },
+          {
+            "isbn10": "1476789657",
+            "isbn13": "9781476789651"
+          },
+          {
+            "isbn10": "1476789649",
+            "isbn13": "9781476789644"
+          }
+        ],
+        "weeks_on_list": 7,
+        "dagger": 0,
+        "title": "LUCKIEST GIRL ALIVE",
+        "first_chapter_link": "",
+        "author": "Jessica Knoll",
+        "rank_last_week": 13,
+        "contributor": "by Jessica Knoll",
+        "contributor_note": "",
+        "primary_isbn13": "9781476789651",
+        "primary_isbn10": "1476789657",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 15,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476789651.jpg",
+        "amazon_product_url": "http://www.amazon.com/Luckiest-Girl-Alive-A-Novel-ebook/dp/B00LD1OITO?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "After her husband\u2019s sudden death, a woman falls in love with a country music superstar.",
+        "publisher": "Delacorte",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0345531000",
+            "isbn13": "9780345531001"
+          },
+          {
+            "isbn10": "0804194637",
+            "isbn13": "9780804194631"
+          },
+          {
+            "isbn10": "0345531019",
+            "isbn13": "9780345531018"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "COUNTRY",
+        "first_chapter_link": "",
+        "author": "Danielle Steel",
+        "rank_last_week": 0,
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "primary_isbn13": "9780345531025",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 16,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345531025.jpg",
+        "amazon_product_url": "http://www.amazon.com/Country-A-Novel-Danielle-Steel-ebook/dp/B00NRQLWJW?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "In the third Culper Ring novel, a severed arm is found in the White House Rose Garden.",
+        "publisher": "Grand Central",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "044655393X",
+            "isbn13": "9780446553933"
+          },
+          {
+            "isbn10": "1455536563",
+            "isbn13": "9781455536566"
+          },
+          {
+            "isbn10": "0446553964",
+            "isbn13": "9780446553964"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "THE PRESIDENT'S SHADOW",
+        "first_chapter_link": "",
+        "author": "Brad Meltzer",
+        "rank_last_week": 0,
+        "contributor": "by Brad Meltzer",
+        "contributor_note": "",
+        "primary_isbn13": "9780446553957",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 17,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780446553957.jpg",
+        "amazon_product_url": "http://www.amazon.com/Presidents-Shadow-Culper-Ring-Series-ebook/dp/B00O7X61XG?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A surveillance expert monitors the activities of a newly resurgent Russia.",
+        "publisher": "Grand Central",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0446580856",
+            "isbn13": "9780446580854"
+          },
+          {
+            "isbn10": "145558231X",
+            "isbn13": "9781455582310"
+          },
+          {
+            "isbn10": "1455589594",
+            "isbn13": "9781455589593"
+          },
+          {
+            "isbn10": "0446699624",
+            "isbn13": "9780446699624"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "RADIANT ANGEL",
+        "first_chapter_link": "",
+        "author": "Nelson DeMille",
+        "rank_last_week": 0,
+        "contributor": "by Nelson DeMille",
+        "contributor_note": "",
+        "primary_isbn13": "9781455582310",
+        "primary_isbn10": "145558231X",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 18,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780446580854.jpg",
+        "amazon_product_url": "http://www.amazon.com/Radiant-Angel-John-Corey-Novel/dp/0446580856?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "",
+        "publisher": "St. Martin's",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1466847743",
+            "isbn13": "9781466847743"
+          },
+          {
+            "isbn10": "125004734X",
+            "isbn13": "9781250047342"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "SUMMER SECRETS",
+        "first_chapter_link": "",
+        "author": "Jane Green",
+        "rank_last_week": 0,
+        "contributor": "by Jane Green",
+        "contributor_note": "",
+        "primary_isbn13": "9781466847743",
+        "primary_isbn10": "1466847743",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 19,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781466847743.jpg",
+        "amazon_product_url": "http://www.amazon.com/Summer-Secrets-Novel-Jane-Green-ebook/dp/B00QQWJ0E8?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A police detective uses his extraordinary memory when tackling the case of his family's murder.",
+        "publisher": "Grand Central",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1455559822",
+            "isbn13": "9781455559824"
+          },
+          {
+            "isbn10": "1455589489",
+            "isbn13": "9781455589487"
+          },
+          {
+            "isbn10": "1455586382",
+            "isbn13": "9781455586387"
+          },
+          {
+            "isbn10": "1455559814",
+            "isbn13": "9781455559817"
+          },
+          {
+            "isbn10": "1455559806",
+            "isbn13": "9781455559800"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "MEMORY MAN",
+        "first_chapter_link": "",
+        "author": "David Baldacci",
+        "rank_last_week": 0,
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "primary_isbn13": "9781455586387",
+        "primary_isbn10": "1455586382",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 20,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455586387.jpg",
+        "amazon_product_url": "http://www.amazon.com/Memory-Amos-Decker-David-Baldacci-ebook/dp/B00N7TDP8K?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      }
+    ],
+    "previous_published_date": "2015-07-05",
+    "published_date": "2015-07-12"
+  },
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "num_results": 20,
+  "last_modified": "2015-07-02T19:00:35-04:00"
+}

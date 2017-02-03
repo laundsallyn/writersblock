@@ -1,0 +1,706 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2009-09-20",
+    "books": [
+      {
+        "price": 25.95,
+        "primary_isbn10": "0425229734",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christine Feehan",
+        "primary_isbn13": "9780425229736",
+        "description": "A slayer who travels with a wolf pack frees a Dragon\u00adseeker from prison and falls in love with him; a Carpathian novel.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780515148435.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 174,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dark-Slayer-Carpathian-Christine-Feehan/dp/0425229734?tag=thenewyorktim-20",
+        "contributor": "by Christine Feehan",
+        "title": "DARK SLAYER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0515148431",
+            "isbn13": "9780515148435"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316072621",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Richard DiLallo",
+        "primary_isbn13": "9780316072625",
+        "description": "The detective Alex Cross writes a novel about his great-uncle, who fought the Klan.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446557788.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 156,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Alex-Crosss-Trial-James-Patterson/dp/0446557781?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Richard DiLallo",
+        "title": "ALEX CROSS\u2019S \u2018TRIAL\u2019",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446557781",
+            "isbn13": "9780446557788"
+          },
+          {
+            "isbn10": "0446561800",
+            "isbn13": "9780446561808"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 29.95,
+        "primary_isbn10": "038541305X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Pat Conroy",
+        "primary_isbn13": "9780385413053",
+        "description": "An unlikely group\u2019s friendship from the \u201960s to the \u201980s, by the author of \"The Prince of Tides.\"",
+        "book_review_link": "//www.nytimes.com/2009/08/20/books/20newly.html",
+        "book_image_height": 187,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385413053.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 123,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/South-Broad-Pat-Conroy/dp/B007CGWF1M?tag=thenewyorktim-20",
+        "contributor": "by Pat Conroy",
+        "title": "SOUTH OF BROAD",
+        "sunday_review_link": "//www.nytimes.com/2009/08/23/books/review/Hoffman-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344074",
+            "isbn13": "9780385344074"
+          },
+          {
+            "isbn10": "038541305X",
+            "isbn13": "9780385413053"
+          }
+        ],
+        "publisher": "Nan A. Talese/Doubleday"
+      },
+      {
+        "price": 26.96,
+        "primary_isbn10": "0399156429",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler with Grant Blackwood",
+        "primary_isbn13": "9780399156427",
+        "description": "Husband-and-wife treasure hunters search for bottles of wine from Napoleon\u2019s \u201clost cellar.\u201d",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156427.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Spartan-Gold-A-Fargo-Adventure/dp/0399156429?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler with Grant Blackwood",
+        "title": "SPARTAN GOLD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425236293",
+            "isbn13": "9780425236291"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s \u00adMississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 5,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 3,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 23,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "1416563687",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Philippa Gregory",
+        "primary_isbn13": "9781416563686",
+        "description": "Palace intrigue during the War of the Roses, by the author of \"The Other Boleyn Girl.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416563693.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-White-Queen-Cousins-War/dp/1476735484?tag=thenewyorktim-20",
+        "contributor": "by Philippa Gregory",
+        "title": "THE WHITE QUEEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416563695",
+            "isbn13": "9781416563693"
+          },
+          {
+            "isbn10": "1476735484",
+            "isbn13": "9781476735481"
+          },
+          {
+            "isbn10": "1416563911",
+            "isbn13": "9781416563914"
+          }
+        ],
+        "publisher": "Touchstone/Simon & Schuster"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "1400064945",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L Doctorow",
+        "primary_isbn13": "9781400064946",
+        "description": "The lives of the reclusive Collyer brothers; by the author of \u201cRagtime.\u201d",
+        "book_review_link": "//www.nytimes.com/2009/09/01/books/01kakutani.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064946.jpg",
+        "rank": 7,
+        "article_chapter_link": "//www.nytimes.com/2009/09/09/books/excerpt-homer-and-langley.html",
+        "rank_last_week": 0,
+        "book_image_width": 335,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Doctorow-Homer-Langley-DECKLE-Edition/dp/B0030RGMF2?tag=thenewyorktim-20",
+        "contributor": "by E. L. Doctorow",
+        "title": "HOMER & LANGLEY",
+        "sunday_review_link": "//www.nytimes.com/2009/09/13/books/review/Schillinger-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812975634",
+            "isbn13": "9780812975635"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1439166234",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathy Reichs",
+        "primary_isbn13": "9781439166239",
+        "description": "Temperance Brennan is accused of mishandling an autopsy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416525677.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 301,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/206-Bones-Novel-Temperance-Brennan-ebook/dp/B001NLL7K2?tag=thenewyorktim-20",
+        "contributor": "by Kathy Reichs",
+        "title": "206 BONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "141652567X",
+            "isbn13": "9781416525677"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0307269981",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269980",
+        "description": "A Swedish hacker becomes a murder suspect.",
+        "book_review_link": "//www.nytimes.com/2009/07/17/books/17book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476159.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 305,
+        "first_chapter_link": "//www.nytimes.com/2009/07/17/books/excerpt-girl-who-played-with-fire.html",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Girl-Played-Fire-Millennium-Trilogy/dp/0307476154?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO PLAYED WITH FIRE",
+        "sunday_review_link": "//www.nytimes.com/2009/08/16/books/review/Crime-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030745455X",
+            "isbn13": "9780307454553"
+          },
+          {
+            "isbn10": "0307476154",
+            "isbn13": "9780307476159"
+          },
+          {
+            "isbn10": "0307272303",
+            "isbn13": "9780307272300"
+          },
+          {
+            "isbn10": "0739384163",
+            "isbn13": "9780739384169"
+          },
+          {
+            "isbn10": "0307269981",
+            "isbn13": "9780307269980"
+          },
+          {
+            "isbn10": "0307949508",
+            "isbn13": "9780307949509"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0375409289",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lorrie Moore",
+        "primary_isbn13": "9780375409288",
+        "description": "A Midwestern college student takes a job as a nanny with a couple on the eve of adoption.",
+        "book_review_link": "//www.nytimes.com/2009/08/28/books/28book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780375708466.jpg",
+        "rank": 10,
+        "article_chapter_link": "//www.nytimes.com/2009/09/02/books/02moore.html",
+        "rank_last_week": 0,
+        "book_image_width": 180,
+        "first_chapter_link": "//www.nytimes.com/2009/08/28/books/excerpt-gate-at-the-stairs.html",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Gate-at-Stairs-Lorrie-Moore/dp/0375409289?tag=thenewyorktim-20",
+        "contributor": "by Lorrie Moore",
+        "title": "A GATE AT THE STAIRS",
+        "sunday_review_link": "//www.nytimes.com/2009/08/30/books/review/Lethem-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0375708464",
+            "isbn13": "9780375708466"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "1401394531",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Nancy Grace",
+        "primary_isbn13": "9781401394530",
+        "description": "A prosecutor turned therapist is drawn back to crime-fighting when her clients start getting murdered one by one.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401394530.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Eleventh-Victim-Nancy-Grace-ebook/dp/B002JB3ECE?tag=thenewyorktim-20",
+        "contributor": "by Nancy Grace",
+        "title": "THE ELEVENTH VICTIM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Hyperion"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0441017150",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9780441017157",
+        "description": "Sookie Stackhouse searches for the killer of a werepanther.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780441018512.jpg",
+        "rank": 12,
+        "article_chapter_link": "//www.nytimes.com/2009/05/20/books/20sook.html",
+        "rank_last_week": 10,
+        "book_image_width": 309,
+        "first_chapter_link": "//www.nytimes.com/2009/05/20/books/chapter-dead-and-gone.html",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Dead-And-Gone-Sookie-Stackhouse/dp/0441017150?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "DEAD AND GONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441018513",
+            "isbn13": "9780441018512"
+          },
+          {
+            "isbn10": "0441017150",
+            "isbn13": "9780441017157"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0375414967",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Russo",
+        "primary_isbn13": "9780375414961",
+        "description": "A long-married couple wrestle with dissatisfactions during a Cape Cod weekend; by the author of \u201cEmpire Falls.\u201d",
+        "book_review_link": "//www.nytimes.com/2009/08/10/books/10maslin.html",
+        "book_image_height": 274,
+        "book_image": "https://s1.nyt.com/du/books/images/9780375414961.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/That-Cape-Magic-Richard-Russo-ebook/dp/B002JRQM6I?tag=thenewyorktim-20",
+        "contributor": "by Richard Russo",
+        "title": "THAT OLD CAPE MAGIC",
+        "sunday_review_link": "//www.nytimes.com/2009/08/16/books/review/Robinson-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400030919",
+            "isbn13": "9781400030910"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0805087737",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard North Patterson",
+        "primary_isbn13": "9780805087734",
+        "description": "A new college president opens an inquiry into a  murder that occurred when he was a student.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805087734.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Spire-Richard-North-Patterson/dp/0805087737?tag=thenewyorktim-20",
+        "contributor": "by Richard North Patterson",
+        "title": "THE SPIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312946392",
+            "isbn13": "9780312946395"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1416563083",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sandra Brown",
+        "primary_isbn13": "9781416563082",
+        "description": "A publicity-seeking lawyer tries to get to the bottom of who murdered a wealthy executive.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416563099.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 154,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Smash-Cut-Novel-Sandra-Brown/dp/1416563083?tag=thenewyorktim-20",
+        "contributor": "by Sandra Brown",
+        "title": "SMASH CUT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416563091",
+            "isbn13": "9781416563099"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 24.99,
+        "primary_isbn10": "0312368488",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Chelsea Cain",
+        "primary_isbn13": "9780312368487",
+        "description": "Gretchen Lowell, serial killer, and Archie Sheridan, the Portland detective who pursues her, have come to an agreement, but then another body turns up.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312368487.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Heart-Archie-Sheridan-Gretchen-Lowell/dp/0312368488?tag=thenewyorktim-20",
+        "contributor": "by Chelsea Cain",
+        "title": "EVIL AT HEART",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Minotaur"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399155910",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dick Francis and Felix Francis",
+        "primary_isbn13": "9780399155918",
+        "description": "A bookmaker learns that his father, whom he had believed was long dead, was the chief suspect in the murder of his mother.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425235904.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 159,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Even-Money-Dick-Francis-ebook/dp/B002DW92SO?tag=thenewyorktim-20",
+        "contributor": "by Dick Francis and Felix Francis",
+        "title": "EVEN MONEY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425235904",
+            "isbn13": "9780425235904"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0440338786",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Karen Marie Moning",
+        "primary_isbn13": "9780440338789",
+        "description": "MacKlaya finds herself under the erotic spell of a Fae master.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440338789.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dreamfever-Fever-Series-Book-4-ebook/dp/B002LDM8WW?tag=thenewyorktim-20",
+        "contributor": "by Karen Marie Moning",
+        "title": "DREAMFEVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0440244404",
+            "isbn13": "9780440244400"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316068047",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephenie Meyer",
+        "primary_isbn13": "9780316068048",
+        "description": "In this first adult novel by the author of the Twilight series for teenagers, aliens have taken control of the minds and bodies of most humans, but one woman won\u2019t surrender; originally published in 2008.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316218504.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Host-Novel-Stephenie-Meyer/dp/0316218502?tag=thenewyorktim-20",
+        "contributor": "by Stephenie Meyer",
+        "title": "THE HOST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316068055",
+            "isbn13": "9780316068055"
+          },
+          {
+            "isbn10": "0316068047",
+            "isbn13": "9780316068048"
+          },
+          {
+            "isbn10": "0316043044",
+            "isbn13": "9780316043045"
+          },
+          {
+            "isbn10": "0316128651",
+            "isbn13": "9780316128650"
+          },
+          {
+            "isbn10": "0316218502",
+            "isbn13": "9780316218504"
+          },
+          {
+            "isbn10": "0316218510",
+            "isbn13": "9780316218511"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1595542884",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ted Dekker",
+        "primary_isbn13": "9781595542885",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 479,
+        "book_image": "https://s1.nyt.com/du/books/images/9781595542885.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Green-The-Circle-Book-Beginning/dp/1595542884?tag=thenewyorktim-20",
+        "contributor": "by Ted Dekker",
+        "title": "GREEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Thomas Nelson"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2009-09-05",
+    "previous_published_date": "2009-09-13",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2009-09-27"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

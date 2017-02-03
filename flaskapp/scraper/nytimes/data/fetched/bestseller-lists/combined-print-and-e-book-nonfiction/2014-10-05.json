@@ -1,0 +1,831 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2014-10-05",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1455582271",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitchell Zuckoff with members of the Annex Security Team",
+        "primary_isbn13": "9781455582273",
+        "description": "Six C.I.A. contract employees discuss their experience during the attack on the State Department compound and the C.I.A. station called\u00a0the \u201cannex\u201d in Benghazi in 2012.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455582297.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/13-Hours-Account-Happened-Benghazi-ebook/dp/B00LEWR0SS?tag=thenewyorktim-20",
+        "contributor": "by Mitchell Zuckoff with members of the Annex Security Team",
+        "title": "13 HOURS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455582271",
+            "isbn13": "9781455582273"
+          },
+          {
+            "isbn10": "1455530093",
+            "isbn13": "9781455530090"
+          },
+          {
+            "isbn10": "1478953195",
+            "isbn13": "9781478953197"
+          },
+          {
+            "isbn10": "1455538442",
+            "isbn13": "9781455538447"
+          },
+          {
+            "isbn10": "1455538396",
+            "isbn13": "9781455538393"
+          },
+          {
+            "isbn10": "145558228X",
+            "isbn13": "9781455582280"
+          },
+          {
+            "isbn10": "1478961139",
+            "isbn13": "9781478961130"
+          },
+          {
+            "isbn10": "1455561843",
+            "isbn13": "9781455561841"
+          }
+        ],
+        "publisher": "Twelve"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812974492",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9780812974492",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 171,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel James Brown",
+        "primary_isbn13": "9781101622742",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101622742.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20",
+        "contributor": "by Daniel James Brown",
+        "title": "THE BOYS IN THE BOAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "None",
+            "isbn13": "9780143177289"
+          },
+          {
+            "isbn10": "067002581X",
+            "isbn13": "9780670025817"
+          },
+          {
+            "isbn10": "0143125478",
+            "isbn13": "9780143125471"
+          },
+          {
+            "isbn10": "159413779X",
+            "isbn13": "9781594137792"
+          },
+          {
+            "isbn10": "1611761697",
+            "isbn13": "9781611761696"
+          },
+          {
+            "isbn10": "1410459543",
+            "isbn13": "9781410459541"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "145164292X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura L Schroff",
+        "primary_isbn13": "9781451642926",
+        "description": "The long friendship between a sales executive and a destitute boy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451642513.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Invisible-Thread-11-Year-Old-Panhandler-Executive/dp/1451648979?tag=thenewyorktim-20",
+        "contributor": "by Laura L. Schroff",
+        "title": "AN INVISIBLE THREAD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451642512",
+            "isbn13": "9781451642513"
+          },
+          {
+            "isbn10": "145164292X",
+            "isbn13": "9781451642926"
+          },
+          {
+            "isbn10": "1451648979",
+            "isbn13": "9781451648973"
+          }
+        ],
+        "publisher": "Howard Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0544272994",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Randall Munroe",
+        "primary_isbn13": "9780544272996",
+        "description": "Scientific (but often humorous) answers to hypothetical questions, based in part on the author\u2019s website, xkcd.com.",
+        "book_review_link": "",
+        "book_image_height": 165,
+        "book_image": "https://s1.nyt.com/du/books/images/9780544272644.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A?tag=thenewyorktim-20",
+        "contributor": "by Randall Munroe",
+        "title": "WHAT IF?",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0544272994",
+            "isbn13": "9780544272996"
+          },
+          {
+            "isbn10": "0544456866",
+            "isbn13": "9780544456860"
+          }
+        ],
+        "publisher": "Houghton Mifflin Harcourt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1621572552",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Limbaugh",
+        "primary_isbn13": "9781621572558",
+        "description": "The lawyer and political commentator uses his legal training to evaluate, and affirm, the truthfulness of the Bible.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781621572770.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Jesus-Trial-Lawyer-Affirms-Gospel-ebook/dp/B00INC64HK?tag=thenewyorktim-20",
+        "contributor": "by David Limbaugh",
+        "title": "JESUS ON TRIAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1621572552",
+            "isbn13": "9781621572558"
+          },
+          {
+            "isbn10": "1491530758",
+            "isbn13": "9781491530757"
+          }
+        ],
+        "publisher": "Regnery"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594206147",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Henry Kissinger",
+        "primary_isbn13": "9781594206146",
+        "description": "The elder statesman offers a view of how to build an international order in today\u2019s world.",
+        "book_review_link": "//www.nytimes.com/2014/09/09/books/in-world-order-henry-kissinger-sums-up-his-philosophy.html",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698165724.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/World-Order-Henry-Kissinger-ebook/dp/B00INIXVMK?tag=thenewyorktim-20",
+        "contributor": "by Henry Kissinger",
+        "title": "WORLD ORDER",
+        "sunday_review_link": "//www.nytimes.com/2014/09/14/books/review/henry-kissingers-world-order.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594206147",
+            "isbn13": "9781594206146"
+          },
+          {
+            "isbn10": "1611763150",
+            "isbn13": "9781611763157"
+          }
+        ],
+        "publisher": "Penguin Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jay Sekulow with Jordan Sekulow and others",
+        "primary_isbn13": "9781501105159",
+        "description": "An examination of the jihadist group and a warning about its dangers.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781501105159.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Rise-ISIS-Threat-Cant-Ignore-ebook/dp/B00ND4GESM?tag=thenewyorktim-20",
+        "contributor": "by Jay Sekulow with Jordan Sekulow and others",
+        "title": "RISE OF ISIS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Howard Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307476073",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cheryl Strayed",
+        "primary_isbn13": "9780307476074",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 79,
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "contributor": "by Cheryl Strayed",
+        "title": "WILD",
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307592731",
+            "isbn13": "9780307592736"
+          },
+          {
+            "isbn10": "0307957659",
+            "isbn13": "9780307957658"
+          },
+          {
+            "isbn10": "0307476073",
+            "isbn13": "9780307476074"
+          },
+          {
+            "isbn10": "1594136742",
+            "isbn13": "9781594136740"
+          },
+          {
+            "isbn10": "0307970299",
+            "isbn13": "9780307970299"
+          },
+          {
+            "isbn10": "1101873442",
+            "isbn13": "9781101873441"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451697384",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Naomi Klein",
+        "primary_isbn13": "9781451697384",
+        "description": "The journalist, author of \u201cThe Shock Doctrine,\u201d makes the case for the existence of climate change and argues that the market cannot solve the crisis.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451697384.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 432,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/This-Changes-Everything-Capitalism-Climate/dp/1442372915?tag=thenewyorktim-20",
+        "contributor": "by Naomi Klein",
+        "title": "THIS CHANGES EVERYTHING",
+        "sunday_review_link": "//www.nytimes.com/2014/11/09/books/review/naomi-klein-this-changes-everything-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451697384",
+            "isbn13": "9781451697384"
+          },
+          {
+            "isbn10": "1442372915",
+            "isbn13": "9781442372917"
+          },
+          {
+            "isbn10": "1451697392",
+            "isbn13": "9781451697391"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307421740",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rita Golden Gelman",
+        "primary_isbn13": "9780307421746",
+        "description": "A memoir by a woman who sold her possessions and embraced the world.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307421746.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 308,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Tales-Female-Nomad-Living-Large-ebook/dp/B000XU8E5K?tag=thenewyorktim-20",
+        "contributor": "by Rita Golden Gelman",
+        "title": "TALES OF A FEMALE NOMAD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307421740",
+            "isbn13": "9780307421746"
+          },
+          {
+            "isbn10": "0609809547",
+            "isbn13": "9780609809549"
+          }
+        ],
+        "publisher": "Broadway"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Phil Mason",
+        "primary_isbn13": "9781628731392",
+        "description": "A historical study of small events that had great impacts.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781628731392.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Napoleons-Hemorrhoids-Events-Changed-History-ebook/dp/B004ULMIGY?tag=thenewyorktim-20",
+        "contributor": "by Phil Mason",
+        "title": "NAPOLEON'S HEMORRHOIDS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Skyhorse"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Billy Crystal",
+        "primary_isbn13": "9780805098235",
+        "description": "The 65-year-old comedian\u2019s reminiscences and his complaints about aging.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805098204.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Still-Foolin-Em-Where-Going-ebook/dp/B00940L38U?tag=thenewyorktim-20",
+        "contributor": "by Billy Crystal",
+        "title": "STILL FOOLIN' 'EM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805098208",
+            "isbn13": "9780805098204"
+          },
+          {
+            "isbn10": "1250051843",
+            "isbn13": "9781250051844"
+          },
+          {
+            "isbn10": "1427229503",
+            "isbn13": "9781427229502"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385530269",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Piper Kerman",
+        "primary_isbn13": "9780385530262",
+        "description": "A Brooklyn woman\u2019s prison memoir. The basis for the Netflix series, originally published in 2010.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385530262.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 38,
+        "amazon_product_url": "http://www.amazon.com/Orange-Is-New-Black-Womens-ebook/dp/B0036S4B6M?tag=thenewyorktim-20",
+        "contributor": "by Piper Kerman",
+        "title": "ORANGE IS THE NEW BLACK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385530269",
+            "isbn13": "9780385530262"
+          },
+          {
+            "isbn10": "0385523394",
+            "isbn13": "9780385523394"
+          },
+          {
+            "isbn10": "0812986180",
+            "isbn13": "9780812986181"
+          },
+          {
+            "isbn10": "1410472124",
+            "isbn13": "9781410472120"
+          },
+          {
+            "isbn10": "1452607664",
+            "isbn13": "9781452607665"
+          },
+          {
+            "isbn10": "1452657661",
+            "isbn13": "9781452657660"
+          }
+        ],
+        "publisher": "Spiegel & Grau"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307700232",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Geoffrey C Ward and Ken Burns",
+        "primary_isbn13": "9780307700230",
+        "description": "A companion volume to the PBS series examines the lives of Theodore, Eleanor and Franklin.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307700230.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 443,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Roosevelts-An-Intimate-History/dp/0307700232?tag=thenewyorktim-20",
+        "contributor": "by Geoffrey C. Ward and Ken Burns",
+        "title": "THE ROOSEVELTS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307700232",
+            "isbn13": "9780307700230"
+          },
+          {
+            "isbn10": "0385353065",
+            "isbn13": "9780385353069"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451636016",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sam Harris",
+        "primary_isbn13": "9781451636017",
+        "description": "The author of \u201cThe End of Faith\u201d proposes that spirituality can and should be divorced from religion.",
+        "book_review_link": "",
+        "book_image_height": 196,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451636031.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Waking-Up-Spirituality-Without-Religion-ebook/dp/B00GEEB9YC?tag=thenewyorktim-20",
+        "contributor": "by Sam Harris",
+        "title": "WAKING UP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451636016",
+            "isbn13": "9781451636017"
+          },
+          {
+            "isbn10": "1442359935",
+            "isbn13": "9781442359932"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0425269027",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Joan Rivers",
+        "primary_isbn13": "9780425269022",
+        "description": "Humorous reflections about life, pop culture and celebrities.",
+        "book_review_link": "",
+        "book_image_height": 201,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101632048.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Diary-Mad-Diva-Joan-Rivers-ebook/dp/B00G3L6MI4?tag=thenewyorktim-20",
+        "contributor": "by Joan Rivers",
+        "title": "DIARY OF A MAD DIVA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425269027",
+            "isbn13": "9780425269022"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307452204",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Cain",
+        "primary_isbn13": "9780307452207",
+        "description": "Introverts -- approximately one-third of the population -- are undervalued in American society.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307452207.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B004J4WNL2?tag=thenewyorktim-20",
+        "contributor": "by Susan Cain",
+        "title": "QUIET",
+        "sunday_review_link": "//www.nytimes.com/2012/02/12/books/review/susan-cains-quiet-argues-for-the-power-of-introverts.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307352145",
+            "isbn13": "9780307352149"
+          },
+          {
+            "isbn10": "0307452204",
+            "isbn13": "9780307452207"
+          },
+          {
+            "isbn10": "0307352153",
+            "isbn13": "9780307352156"
+          },
+          {
+            "isbn10": "1611734207",
+            "isbn13": "9781611734201"
+          },
+          {
+            "isbn10": "0739341243",
+            "isbn13": "9780739341247"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1595231129",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ben Carson with Candy Carson",
+        "primary_isbn13": "9781595231123",
+        "description": "Carson, a retired pediatric neurosurgeon, now a candidate for the Republican presidential nomination, offers solutions to problems in health and education based on capitalism, not government.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781595231123.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/One-Nation-What-Americas-Future/dp/1595231129?tag=thenewyorktim-20",
+        "contributor": "by Ben Carson with Candy Carson",
+        "title": "ONE NATION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1595231129",
+            "isbn13": "9781595231123"
+          },
+          {
+            "isbn10": "1611763398",
+            "isbn13": "9781611763393"
+          },
+          {
+            "isbn10": "1595231226",
+            "isbn13": "9781595231222"
+          },
+          {
+            "isbn10": "0147524210",
+            "isbn13": "9780147524218"
+          }
+        ],
+        "publisher": "Sentinel"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Caitlin Doughty",
+        "primary_isbn13": "9780393245950",
+        "description": "A young woman takes a job at a crematory.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780393245950.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Smoke-Gets-Your-Eyes-Crematory/dp/0393240231?tag=thenewyorktim-20",
+        "contributor": "by Caitlin Doughty",
+        "title": "SMOKE GETS IN YOUR EYES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0393240231",
+            "isbn13": "9780393240238"
+          }
+        ],
+        "publisher": "Norton"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2014-09-20",
+    "previous_published_date": "2014-09-28",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2014-10-12"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

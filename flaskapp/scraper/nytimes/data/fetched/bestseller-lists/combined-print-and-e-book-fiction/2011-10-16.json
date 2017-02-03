@@ -1,0 +1,718 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2011-10-16",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0440339359",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780440339359",
+        "description": "For Jack Reacher, an elite military police officer, it all started in 1997. A lonely railroad track. A crime scene. A cover-up.",
+        "book_review_link": "//www.nytimes.com/2011/09/20/books/the-affair-by-lee-child-gives-reacher-a-back-story.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440339359.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Affair-bonus-short-story-Second-ebook/dp/B004P8JPS6?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "THE AFFAIR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344325",
+            "isbn13": "9780385344326"
+          },
+          {
+            "isbn10": "0440339359",
+            "isbn13": "9780440339359"
+          },
+          {
+            "isbn10": "044024630X",
+            "isbn13": "9780440246305"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1440697663",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9781440697661",
+        "description": "A young white woman and two black maids in 1960s Mississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 2,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 1,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 33,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Debbie Macomber",
+        "primary_isbn13": "9781459213791",
+        "description": "Puppies that need good homes and an ex-husband loom large in the last installment of the Cedar Cove series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780778312697.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 365,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/1225-Christmas-Tree-Lane-Cedar/dp/0778312690?tag=thenewyorktim-20",
+        "contributor": "by Debbie Macomber",
+        "title": "1225 CHRISTMAS TREE LANE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778312690",
+            "isbn13": "9780778312697"
+          }
+        ],
+        "publisher": "Mira"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Darcie Chan",
+        "primary_isbn13": "A00B0051PRFLQ",
+        "description": "Only one man knows an abused widow, which revealed will change many lives in her small Vermont town.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780615523774.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 341,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/The-Mill-River-Recluse-Novel-ebook/dp/B00H3NNWXE?tag=thenewyorktim-20",
+        "contributor": "by Darcie Chan",
+        "title": "THE MILL RIVER RECLUSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1458092097",
+            "isbn13": "9781458092090"
+          }
+        ],
+        "publisher": "Darcie Chan"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sandra Brown",
+        "primary_isbn13": "9781455501489",
+        "description": "A woman, her daughter and a man accused of murder evade the authorities as they search for her dead husband\u2019s secrets.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455501489.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Lethal-Sandra-Brown/dp/1455510823?tag=thenewyorktim-20",
+        "contributor": "by Sandra Brown",
+        "title": "LETHAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455501476",
+            "isbn13": "9781455501472"
+          },
+          {
+            "isbn10": "1455510823",
+            "isbn13": "9781455510825"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chris Culver",
+        "primary_isbn13": "A00B004M18ZRS",
+        "description": "Against orders, a former homicide detective begins an investigation into his niece's murder.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": null,
+        "contributor": "by Chris Culver",
+        "title": "THE ABBEY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Chris Culver"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451643144",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Lee Burke",
+        "primary_isbn13": "9781451643145",
+        "description": "Danger increases tenfold as Sheriff Hackberry Holland investigates a case in the desert.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451643114.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Feast-Day-Fools-Hackberry-Holland-ebook/dp/B004IK98B0?tag=thenewyorktim-20",
+        "contributor": "by James Lee Burke",
+        "title": "FEAST DAY OF FOOLS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "145164311X",
+            "isbn13": "9781451643114"
+          },
+          {
+            "isbn10": "1451643144",
+            "isbn13": "9781451643145"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Mallery",
+        "primary_isbn13": "9781459213845",
+        "description": "Determined to make a fresh start, Nevada Hendrix applies for her dream job, only to find that her new boss was her first love.",
+        "book_review_link": "",
+        "book_image_height": 202,
+        "book_image": "https://s1.nyt.com/du/books/images/9781459213845.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Only-Fools-Gold-Susan-Mallery-ebook/dp/B005HRPWYA?tag=thenewyorktim-20",
+        "contributor": "by Susan Mallery",
+        "title": "ONLY HIS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373776012",
+            "isbn13": "9780373776016"
+          }
+        ],
+        "publisher": "HQN"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385534647",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erin Morgenstern",
+        "primary_isbn13": "9780385534642",
+        "description": "Two young rivals at a magical circus become collaborators as they fall in love.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385534635.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Night-Circus-Erin-Morgenstern/dp/0307744434?tag=thenewyorktim-20",
+        "contributor": "by Erin Morgenstern",
+        "title": "THE NIGHT CIRCUS",
+        "sunday_review_link": "//www.nytimes.com/2011/10/09/books/review/the-night-circus-by-erin-morgenstern-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385534639",
+            "isbn13": "9780385534635"
+          },
+          {
+            "isbn10": "0385534647",
+            "isbn13": "9780385534642"
+          },
+          {
+            "isbn10": "0307744434",
+            "isbn13": "9780307744432"
+          },
+          {
+            "isbn10": "034580354X",
+            "isbn13": "9780345803542"
+          }
+        ],
+        "publisher": "Knopf Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097551",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Marshall Karp",
+        "primary_isbn13": "9780316097550",
+        "description": "A young man who finds a bag of diamonds is stalked by competing assassins.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316097550.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Kill-Me-If-You-Can/dp/0446571873?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Marshall Karp",
+        "title": "KILL ME IF YOU CAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097543",
+            "isbn13": "9780316097543"
+          },
+          {
+            "isbn10": "1607884674",
+            "isbn13": "9781607884675"
+          },
+          {
+            "isbn10": "0316097551",
+            "isbn13": "9780316097550"
+          },
+          {
+            "isbn10": "0446571873",
+            "isbn13": "9780446571876"
+          },
+          {
+            "isbn10": "0446571865",
+            "isbn13": "9780446571869"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Connelly",
+        "primary_isbn13": "9780316204248",
+        "description": "The Los Angeles detective Harry Bosch is on the scene in three never-before-collected stories.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316204248.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Suicide-Run-Three-Harry-Stories-ebook/dp/B0055PMJMW?tag=thenewyorktim-20",
+        "contributor": "by Michael Connelly",
+        "title": "SUICIDE RUN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9781101544440",
+        "description": "A doctor who has dedicated his life to eradicating a disease discovers that his patients are being hunted by a serial killer; first published in 1991.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451234919.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 283,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Miracle-Cure-Harlan-Coben-ebook/dp/B0052RHECI?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "MIRACLE CURE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "045123491X",
+            "isbn13": "9780451234919"
+          },
+          {
+            "isbn10": "144185892X",
+            "isbn13": "9781441858924"
+          },
+          {
+            "isbn10": "1441854010",
+            "isbn13": "9781441854018"
+          }
+        ],
+        "publisher": "Signet"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gena Showalter",
+        "primary_isbn13": "9781459213852",
+        "description": "For the immortal warrior Strider, nothing stands in the way of victory \u2014 until he\u2019s tempted by Kaia, an enchanting contestant in the Harpy Games.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781459213852.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Darkest-Surrender-Lords-Underworld-ebook/dp/B005HRPYRU?tag=thenewyorktim-20",
+        "contributor": "by Gena Showalter",
+        "title": "THE DARKEST SURRENDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373775814",
+            "isbn13": "9780373775811"
+          }
+        ],
+        "publisher": "HQN"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephanie Laurens",
+        "primary_isbn13": "9780062116758",
+        "description": "Brazenly kidnapped from her sister\u2019s engagement ball and spirited to Edinburgh, Eliza seizes upon the first possible champion who happens along: the gentleman scholar Jeremy Carling.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062068613.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 308,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/In-Pursuit-Eliza-Cynster-Sisters-ebook/dp/B005DB7OJG?tag=thenewyorktim-20",
+        "contributor": "by Stephanie Laurens",
+        "title": "IN PURSUIT OF ELIZA CYNSTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "006206861X",
+            "isbn13": "9780062068613"
+          }
+        ],
+        "publisher": "HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9781101536919",
+        "description": "An escaped child molester pursues Lt. Eve Dallas; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101536919.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/New-York-Dallas-In-Death-ebook/dp/B004Z4IKMM?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "NEW YORK TO DALLAS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157786",
+            "isbn13": "9780399157783"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0759525781",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Connelly",
+        "primary_isbn13": "9780759525788",
+        "description": "The Los Angeles detective Harry Bosch investigates the scandalous death of a narcotics officer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780759525788.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 309,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Black-Harry-Bosch-Novel-ebook/dp/B001GUXJQA?tag=thenewyorktim-20",
+        "contributor": "by Michael Connelly",
+        "title": "THE BLACK ICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0759525781",
+            "isbn13": "9780759525788"
+          },
+          {
+            "isbn10": "0446613444",
+            "isbn13": "9780446613446"
+          },
+          {
+            "isbn10": "0316020036",
+            "isbn13": "9780316020039"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "JD Robb, Mary Blayney, Patricia Gaffney, Ruth Ryan Langan and Mary Kay McComas",
+        "primary_isbn13": "9781101544433",
+        "description": "Five new stories of uncanny suspense and disquieting romance.",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101544433.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Unquiet-J-D-Robb-ebook/dp/B0052REQ42?tag=thenewyorktim-20",
+        "contributor": "by J.D. Robb, Mary Blayney, Patricia Gaffney, Ruth Ryan Langan and Mary Kay McComas",
+        "title": "THE UNQUIET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0515149985",
+            "isbn13": "9780515149982"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1420125885",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Fern Michaels",
+        "primary_isbn13": "9781420125887",
+        "description": "In addition to frazzled parents and disgruntled Santas, a mall security manager also has to contend with a young woman\u2019s premonition of tragedy.",
+        "book_review_link": "",
+        "book_image_height": 207,
+        "book_image": "https://s1.nyt.com/du/books/images/9781420125887.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Christmas-At-Timberwoods-Fern-Michaels-ebook/dp/B005LVQPEI?tag=thenewyorktim-20",
+        "contributor": "by Fern Michaels",
+        "title": "CHRISTMAS AT TIMBERWOODS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0821775871",
+            "isbn13": "9780821775875"
+          },
+          {
+            "isbn10": "1420125885",
+            "isbn13": "9781420125887"
+          }
+        ],
+        "publisher": "Kensington"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "P J Alderman",
+        "primary_isbn13": "A00B0040JI3M4",
+        "description": "An Oregon fire chief becomes entangled with a woman whose brother is a suspect in a deadly shipboard arson blaze.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": null,
+        "contributor": "by P. J. Alderman",
+        "title": "A KILLING TIDE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "P. J. Alderman"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1401303919",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Castle",
+        "primary_isbn13": "9781401303914",
+        "description": "After a parish priest is murdered at a bondage club, the N.Y.P.D. homicide detective Nikki Heat uncovers a conspiracy that reaches the department\u2019s highest levels.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401303914.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Heat-Rises-Nikki-Richard-Castle-ebook/dp/B005KA2HDS?tag=thenewyorktim-20",
+        "contributor": "by Richard Castle",
+        "title": "HEAT RISES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401324436",
+            "isbn13": "9781401324438"
+          },
+          {
+            "isbn10": "1401303919",
+            "isbn13": "9781401303914"
+          },
+          {
+            "isbn10": "0786891424",
+            "isbn13": "9780786891429"
+          }
+        ],
+        "publisher": "Hyperion"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2011-10-01",
+    "previous_published_date": "2011-10-09",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2011-10-23"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

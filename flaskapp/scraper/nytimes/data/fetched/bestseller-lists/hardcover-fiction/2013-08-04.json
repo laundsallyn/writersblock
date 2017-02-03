@@ -1,0 +1,873 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2013-08-04",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0062073168",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Silva",
+        "primary_isbn13": "9780062073167",
+        "description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, steps in to help the British prime minister, whose lover has been kidnapped.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062073204.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-English-Girl-Novel-Gabriel-ebook/dp/B009NFBUIY?tag=thenewyorktim-20",
+        "contributor": "by Daniel Silva",
+        "title": "THE ENGLISH GIRL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062073168",
+            "isbn13": "9780062073167"
+          },
+          {
+            "isbn10": "0062073206",
+            "isbn13": "9780062073204"
+          },
+          {
+            "isbn10": "0062253816",
+            "isbn13": "9780062253811"
+          },
+          {
+            "isbn10": "0062073184",
+            "isbn13": "9780062073181"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385537859",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dan Brown",
+        "primary_isbn13": "9780385537858",
+        "description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/05/13/books/inferno-by-dan-brown.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400079155.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Inferno-Robert-Langdon-Dan-Brown/dp/1400079152?tag=thenewyorktim-20",
+        "contributor": "by Dan Brown",
+        "title": "INFERNO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537859",
+            "isbn13": "9780385537858"
+          },
+          {
+            "isbn10": "0345806484",
+            "isbn13": "9780345806482"
+          },
+          {
+            "isbn10": "0385537867",
+            "isbn13": "9780385537865"
+          },
+          {
+            "isbn10": "0804172269",
+            "isbn13": "9780804172264"
+          },
+          {
+            "isbn10": "0345806492",
+            "isbn13": "9780345806499"
+          },
+          {
+            "isbn10": "1400079152",
+            "isbn13": "9781400079155"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316206849",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert Galbraith",
+        "primary_isbn13": "9780316206846",
+        "description": "The struggling detective Cormoran Strike investigates a supermodel\u2019s suicide; by J.K. Rowling, writing pseudonymously.",
+        "book_review_link": "//www.nytimes.com/2013/07/18/books/in-j-k-rowlings-cuckoos-calling-model-dies-but-why.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316206860.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Cuckoos-Calling-Robert-Galbraith-ebook/dp/B00AA20E5Y?tag=thenewyorktim-20",
+        "contributor": "by Robert Galbraith",
+        "title": "THE CUCKOO'S CALLING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316206849",
+            "isbn13": "9780316206846"
+          },
+          {
+            "isbn10": "0316206865",
+            "isbn13": "9780316206860"
+          },
+          {
+            "isbn10": "0316330167",
+            "isbn13": "9780316330169"
+          },
+          {
+            "isbn10": "0316206857",
+            "isbn13": "9780316206853"
+          }
+        ],
+        "publisher": "Mullholland Books/Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385338309",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780385338301",
+        "description": "A talented American designer whose troubled past has soured her on relationships falls in love with a French doctor.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440242055.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 305,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/First-Sight-Novel-Danielle-Steel/dp/0440242053?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "FIRST SIGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385338309",
+            "isbn13": "9780385338301"
+          },
+          {
+            "isbn10": "0385363257",
+            "isbn13": "9780385363259"
+          },
+          {
+            "isbn10": "0440242053",
+            "isbn13": "9780440242055"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "159463176X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Khaled Hosseini",
+        "primary_isbn13": "9781594631764",
+        "description": "A multigenerational family saga from the author of \u201cThe Kite Runner.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/05/21/books/and-the-mountains-echoed-by-khaled-hosseini.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594632389.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 320,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/And-Mountains-Echoed-Khaled-Hosseini/dp/1594632383?tag=thenewyorktim-20",
+        "contributor": "by Khaled Hosseini",
+        "title": "AND THE MOUNTAINS ECHOED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "159463176X",
+            "isbn13": "9781594631764"
+          },
+          {
+            "isbn10": "159463209X",
+            "isbn13": "9781594632099"
+          },
+          {
+            "isbn10": "1410458792",
+            "isbn13": "9781410458797"
+          },
+          {
+            "isbn10": "1408842440",
+            "isbn13": "9781408842447"
+          },
+          {
+            "isbn10": "1594632383",
+            "isbn13": "9781594632389"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476717095",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Thor",
+        "primary_isbn13": "9781476717098",
+        "description": "The counterterrorism operative Scot Harvath uncovers a plot with roots in the 18th century.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476717104.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 275,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Hidden-Order-Thriller-Scot-Harvath/dp/1476717109?tag=thenewyorktim-20",
+        "contributor": "by Brad Thor",
+        "title": "HIDDEN ORDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476717095",
+            "isbn13": "9781476717098"
+          },
+          {
+            "isbn10": "1476717117",
+            "isbn13": "9781476717111"
+          },
+          {
+            "isbn10": "1410459756",
+            "isbn13": "9781410459756"
+          },
+          {
+            "isbn10": "1476717109",
+            "isbn13": "9781476717104"
+          }
+        ],
+        "publisher": "Emily Bestler/Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062255657",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Neil Gaiman",
+        "primary_isbn13": "9780062255655",
+        "description": "A middle-aged man recalls his lonely boyhood and his friendship with a remarkable girl.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062255662.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Ocean-End-Lane-Novel/dp/0062255665?tag=thenewyorktim-20",
+        "contributor": "by Neil Gaiman",
+        "title": "THE OCEAN AT THE END OF THE LANE",
+        "sunday_review_link": "//www.nytimes.com/2013/06/30/books/review/neil-gaimans-ocean-at-the-end-of-the-lane.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062255657",
+            "isbn13": "9780062255655"
+          },
+          {
+            "isbn10": "0062278592",
+            "isbn13": "9780062278593"
+          },
+          {
+            "isbn10": "1472200314",
+            "isbn13": "9781472200310"
+          },
+          {
+            "isbn10": "0062265083",
+            "isbn13": "9780062265081"
+          },
+          {
+            "isbn10": "0062255665",
+            "isbn13": "9780062255662"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030758836X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears on her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 59,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316211222",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Howard Roughan",
+        "primary_isbn13": "9780316211222",
+        "description": "The F.B.I. agent John O\u2019Hara investigates the murder of a pair of newlyweds.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455515967.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Second-Honeymoon-James-Patterson/dp/1455515965?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Howard Roughan",
+        "title": "SECOND HONEYMOON",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316211222",
+            "isbn13": "9780316211222"
+          },
+          {
+            "isbn10": "0316211214",
+            "isbn13": "9780316211215"
+          },
+          {
+            "isbn10": "0316211192",
+            "isbn13": "9780316211192"
+          },
+          {
+            "isbn10": "1455515957",
+            "isbn13": "9781455515950"
+          },
+          {
+            "isbn10": "1455515965",
+            "isbn13": "9781455515967"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399157336",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Catherine Coulter",
+        "primary_isbn13": "9780399157332",
+        "description": "The F.B.I. special agent Griffin Hammersmith accepts Dillon Savich\u2019s invitation to join him and Lacey Sherlock.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101637197.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Bombshell-FBI-Thriller-Catherine-Coulter/dp/0399157336?tag=thenewyorktim-20",
+        "contributor": "by Catherine Coulter",
+        "title": "BOMBSHELL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157336",
+            "isbn13": "9780399157332"
+          },
+          {
+            "isbn10": "0425267784",
+            "isbn13": "9780425267783"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345523539",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Terry Brooks",
+        "primary_isbn13": "9780345523532",
+        "description": "The third book of the Dark Legacy of Shannara, a fantasy trilogy.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345523556.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Witch-Wraith-Dark-Legacy-Shannara-ebook/dp/B00B3GMGZM?tag=thenewyorktim-20",
+        "contributor": "by Terry Brooks",
+        "title": "WITCH WRAITH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345523539",
+            "isbn13": "9780345523532"
+          },
+          {
+            "isbn10": "0345523555",
+            "isbn13": "9780345523556"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307272591",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Carl Hiaasen",
+        "primary_isbn13": "9780307272591",
+        "description": "A defrocked Miami cop turned restaurant inspector investigates a grisly murder.",
+        "book_review_link": "//www.nytimes.com/2013/06/18/books/carl-hiaasens-bad-monkey-features-a-cast-of-oddballs.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446556149.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Bad-Monkey-Carl-Hiaasen/dp/0446556149?tag=thenewyorktim-20",
+        "contributor": "by Carl Hiaasen",
+        "title": "BAD MONKEY",
+        "sunday_review_link": "//www.nytimes.com/2013/06/16/books/review/carl-hiaasens-bad-monkey-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307272591",
+            "isbn13": "9780307272591"
+          },
+          {
+            "isbn10": "080412096X",
+            "isbn13": "9780804120968"
+          },
+          {
+            "isbn10": "0446556149",
+            "isbn13": "9780446556149"
+          },
+          {
+            "isbn10": "0446556157",
+            "isbn13": "9780446556156"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250019990",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Iris Johansen",
+        "primary_isbn13": "9781250019998",
+        "description": "In the second book of a trilogy, the forensic sculptor Eve Duncan struggles to outwit a kidnapper in the Colorado wilderness.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250020000.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Hunting-Eve-Duncan-Iris-Johansen/dp/1250034345?tag=thenewyorktim-20",
+        "contributor": "by Iris Johansen",
+        "title": "HUNTING EVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250019990",
+            "isbn13": "9781250019998"
+          },
+          {
+            "isbn10": "125002000X",
+            "isbn13": "9781250020000"
+          },
+          {
+            "isbn10": "1250034345",
+            "isbn13": "9781250034342"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "038553521X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Rakoff",
+        "primary_isbn13": "9780385535212",
+        "description": "A novel in verse about interlocking characters by the writer, humorist and contributor to \u201cThis American Life,\u201d who died in August 2012.\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/07/25/books/david-rakoffs-love-dishonor-marry-die-cherish-perish.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385535212.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Love-Dishonor-Marry-Cherish-Perish/dp/038553521X?tag=thenewyorktim-20",
+        "contributor": "by David Rakoff",
+        "title": "LOVE, DISHONOR, MARRY, DIE, CHERISH, PERISH",
+        "sunday_review_link": "//www.nytimes.com/2013/08/04/books/review/david-rakoffs-love-dishonor-marry-die-cherish-perish.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "038553521X",
+            "isbn13": "9780385535212"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594746370",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ian Doescher",
+        "primary_isbn13": "9781594746376",
+        "description": "The story of a beautiful princess, a young hero, a wise knight and an evil lord, told in iambic pentameter.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594746376.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/William-Shakespeares-Star-Wars-Doescher/dp/1594746370?tag=thenewyorktim-20",
+        "contributor": "by Ian Doescher",
+        "title": "WILLIAM SHAKESPEARE'S STAR WARS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594746370",
+            "isbn13": "9781594746376"
+          }
+        ],
+        "publisher": "Quirk Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385534817",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Chris Bohjalian",
+        "primary_isbn13": "9780385534819",
+        "description": "Memories of World War II are evoked in 1955 when a Florentine police investigator hunts a serial killer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385534819.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Light-Ruins-Vintage-Contemporaries-ebook/dp/B00B3GMIBY?tag=thenewyorktim-20",
+        "contributor": "by Chris Bohjalian",
+        "title": "THE LIGHT IN THE RUINS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385534817",
+            "isbn13": "9780385534819"
+          },
+          {
+            "isbn10": "0385534825",
+            "isbn13": "9780385534826"
+          },
+          {
+            "isbn10": "0804120919",
+            "isbn13": "9780804120913"
+          },
+          {
+            "isbn10": "0307743926",
+            "isbn13": "9780307743923"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316099783",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elin Hilderbrand",
+        "primary_isbn13": "9780316099783",
+        "description": "A summer wedding on Nantucket is beset by scandal and heartbreak as the loved ones of the couple-to-be find their lives crumbling.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316227186.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Beautiful-Day-Novel-Elin-Hilderbrand-ebook/dp/B00A2DKQ72?tag=thenewyorktim-20",
+        "contributor": "by Elin Hilderbrand",
+        "title": "BEAUTIFUL DAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316099783",
+            "isbn13": "9780316099783"
+          },
+          {
+            "isbn10": "0316227188",
+            "isbn13": "9780316227186"
+          },
+          {
+            "isbn10": "0316099767",
+            "isbn13": "9780316099769"
+          },
+          {
+            "isbn10": "0316099775",
+            "isbn13": "9780316099776"
+          }
+        ],
+        "publisher": "Reagan Arthur/Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451661509",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeannette Walls",
+        "primary_isbn13": "9781451661507",
+        "description": "When their artistic but irresponsible mother takes off to find herself in 1970, a 12-year-old California girl and her big sister join the rest of their family in Virginia.",
+        "book_review_link": "//www.nytimes.com/2013/05/30/books/the-silver-star-a-novel-by-jeannette-walls.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451661545.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Silver-Star-A-Novel/dp/1451661541?tag=thenewyorktim-20",
+        "contributor": "by Jeannette Walls",
+        "title": "THE SILVER STAR",
+        "sunday_review_link": "//www.nytimes.com/2013/06/30/books/review/the-silver-star-by-jeannette-walls.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451661509",
+            "isbn13": "9781451661507"
+          },
+          {
+            "isbn10": "1410458458",
+            "isbn13": "9781410458452"
+          },
+          {
+            "isbn10": "1451661541",
+            "isbn13": "9781451661545"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "006178480X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Rollins",
+        "primary_isbn13": "9780061784804",
+        "description": "As the end of the world looms, Cmdr. Gray Pierce and Sigma Force race to unravel a mystery tied to the fall of the Roman Empire.",
+        "book_review_link": "",
+        "book_image_height": 393,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061784804.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 260,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Eye-God-Sigma-Novels-ebook/dp/B009NQZVKG?tag=thenewyorktim-20",
+        "contributor": "by James Rollins",
+        "title": "THE EYE OF GOD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "006178480X",
+            "isbn13": "9780061784804"
+          },
+          {
+            "isbn10": "0062194917",
+            "isbn13": "9780062194916"
+          },
+          {
+            "isbn10": "0061785679",
+            "isbn13": "9780061785672"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2013-07-20",
+    "previous_published_date": "2013-07-28",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2013-08-11"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

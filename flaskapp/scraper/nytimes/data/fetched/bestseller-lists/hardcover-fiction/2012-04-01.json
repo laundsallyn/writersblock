@@ -1,0 +1,781 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2012-04-01",
+    "books": [
+      {
+        "price": 28,
+        "primary_isbn10": "1439102740",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9781439102749",
+        "description": "The children of a man who studies wolves must make difficult decisions when he is seriously injured in an accident.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439102756.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Lone-Wolf-Jodi-Picoult/dp/1439102759?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "LONE WOLF",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102740",
+            "isbn13": "9781439102749"
+          },
+          {
+            "isbn10": "1439149690",
+            "isbn13": "9781439149690"
+          },
+          {
+            "isbn10": "1439102759",
+            "isbn13": "9781439102756"
+          }
+        ],
+        "publisher": "Emily Bestler/Atria"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "0345509226",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Troy Denning",
+        "primary_isbn13": "9780345509222",
+        "description": "Jedi and Sith reach the endgame in the finale of the Fate of the Jedi series; a \u201cStar Wars\u201d novel.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345519603.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Apocalypse-Star-Wars-Fate-Legends-ebook/dp/B005DXOOWE?tag=thenewyorktim-20",
+        "contributor": "by Troy Denning",
+        "title": "FATE OF THE JEDI: APOCALYPSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345509226",
+            "isbn13": "9780345509222"
+          },
+          {
+            "isbn10": "0345519604",
+            "isbn13": "9780345519603"
+          }
+        ],
+        "publisher": "LucasBooks"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399158618",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Justin Scott",
+        "primary_isbn13": "9780399158612",
+        "description": "Isaac Bell tries to save scientists from German spies.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425259290.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Thief-Isaac-Bell-Adventure-ebook/dp/B006LU1SBI?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Justin Scott",
+        "title": "THE THIEF",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158618",
+            "isbn13": "9780399158612"
+          },
+          {
+            "isbn10": "0425259293",
+            "isbn13": "9780425259290"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "1416595201",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Vince Flynn",
+        "primary_isbn13": "9781416595205",
+        "description": "A C.I.A. super-agent hunting down perpetrators of the Pan Am Lockerbie bombing, finds himself caught in a dangerous trap.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439100523.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Kill-Shot-American-Assassin-Thriller/dp/1416595228?tag=thenewyorktim-20",
+        "contributor": "by Vince Flynn",
+        "title": "KILL SHOT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416595201",
+            "isbn13": "9781416595205"
+          },
+          {
+            "isbn10": "1416595228",
+            "isbn13": "9781416595229"
+          }
+        ],
+        "publisher": "Emily Bestler/Atria"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316206822",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Mark Sullivan",
+        "primary_isbn13": "9780316206822",
+        "description": "Peter Knight pursues a murderer who is trying to destroy the London Olympics.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455512973.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Private-Games-James-Patterson/dp/1455513024?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Mark Sullivan",
+        "title": "PRIVATE GAMES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316206822",
+            "isbn13": "9780316206822"
+          },
+          {
+            "isbn10": "0316206814",
+            "isbn13": "9780316206815"
+          },
+          {
+            "isbn10": "1455512974",
+            "isbn13": "9781455512973"
+          },
+          {
+            "isbn10": "1455513024",
+            "isbn13": "9781455513024"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0385344228",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "William Landay",
+        "primary_isbn13": "9780385344227",
+        "description": "An assistant district attorney\u2019s life is shaken when his 14-year-old son is accused of murder.",
+        "book_review_link": "//www.nytimes.com/2012/02/13/books/defending-jacob-by-william-landay.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345527592.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Defending-Jacob-Novel-William-Landay/dp/0385344228?tag=thenewyorktim-20",
+        "contributor": "by William Landay",
+        "title": "DEFENDING JACOB",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344228",
+            "isbn13": "9780385344227"
+          },
+          {
+            "isbn10": "0345527593",
+            "isbn13": "9780345527592"
+          },
+          {
+            "isbn10": "1410446948",
+            "isbn13": "9781410446947"
+          },
+          {
+            "isbn10": "044024613X",
+            "isbn13": "9780440246138"
+          },
+          {
+            "isbn10": "0345533666",
+            "isbn13": "9780345533661"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0345505719",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jonathan Kellerman",
+        "primary_isbn13": "9780345505712",
+        "description": "The Los Angeles psychologist-detective Alex Delaware and the detective Milo Sturgis track down a homicidal maniac.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345505729.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Victims-Alex-Delaware-Jonathan-Kellerman/dp/0345505727?tag=thenewyorktim-20",
+        "contributor": "by Jonathan Kellerman",
+        "title": "VICTIMS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345505719",
+            "isbn13": "9780345505712"
+          },
+          {
+            "isbn10": "0345532171",
+            "isbn13": "9780345532176"
+          },
+          {
+            "isbn10": "0345505727",
+            "isbn13": "9780345505729"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0553801473",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 33,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0307956350",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chris Pavone",
+        "primary_isbn13": "9780307956354",
+        "description": "A burned-out C.I.A. operative encounters personal challenges and political espionage when she moves with her husband to Luxembourg.",
+        "book_review_link": "//www.nytimes.com/2012/03/12/books/the-expats-a-thriller-by-chris-pavone.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307956354.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Expats-Novel-Chris-Pavone-ebook/dp/B005NKGEP2?tag=thenewyorktim-20",
+        "contributor": "by Chris Pavone",
+        "title": "THE EXPATS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307956350",
+            "isbn13": "9780307956354"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0307595110",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Anne Rice",
+        "primary_isbn13": "9780307595119",
+        "description": "The making of a modern werewolf.",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307700476.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Wolf-Gift-Chronicles/dp/0307742105?tag=thenewyorktim-20",
+        "contributor": "by Anne Rice",
+        "title": "THE WOLF GIFT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307595110",
+            "isbn13": "9780307595119"
+          },
+          {
+            "isbn10": "030770047X",
+            "isbn13": "9780307700476"
+          },
+          {
+            "isbn10": "0307742105",
+            "isbn13": "9780307742100"
+          },
+          {
+            "isbn10": "0307990761",
+            "isbn13": "9780307990761"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0441020038",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patricia Briggs",
+        "primary_isbn13": "9780441020034",
+        "description": "Two werewolves, an Alpha and an Omega, help the F.B.I. track a serial killer who is murdering preternatural beings.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425256183.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Fair-Game-Alpha-And-Omega/dp/0425256189?tag=thenewyorktim-20",
+        "contributor": "by Patricia Briggs",
+        "title": "FAIR GAME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441020038",
+            "isbn13": "9780441020034"
+          },
+          {
+            "isbn10": "0425256189",
+            "isbn13": "9780425256183"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399158308",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9780399158308",
+        "description": "Lt. Eve Dallas investigates when an actress drowns at the opening party for a movie based on one of her cases; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101560365.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Celebrity-Death-J-D-Robb/dp/0425250350?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "CELEBRITY IN DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158308",
+            "isbn13": "9780399158308"
+          },
+          {
+            "isbn10": "0425250350",
+            "isbn13": "9780425250358"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 24.99,
+        "primary_isbn10": "0446583855",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sanjay Gupta",
+        "primary_isbn13": "9780446583855",
+        "description": "A novel by the CNN medical correspondent and neurosurgeon about five surgeons and the life-and-death decisions they make.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446583855.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Monday-Mornings-Novel-Sanjay-Gupta-ebook/dp/B004QZ9QSM?tag=thenewyorktim-20",
+        "contributor": "by Sanjay Gupta",
+        "title": "MONDAY MORNINGS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446583855",
+            "isbn13": "9780446583855"
+          },
+          {
+            "isbn10": "1455505137",
+            "isbn13": "9781455505135"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "1451627289",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781451627282",
+        "description": "A teacher travels back to 1958 by way of a time portal in a Maine diner.",
+        "book_review_link": "//www.nytimes.com/2011/10/31/books/stephen-kings-11-23-63-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451627299.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 19,
+        "amazon_product_url": "http://www.amazon.com/11-22-63-A-Novel/dp/1451627297?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "11/22/63",
+        "sunday_review_link": "//www.nytimes.com/2011/11/13/books/review/11-22-63-by-stephen-king-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451627289",
+            "isbn13": "9781451627282"
+          },
+          {
+            "isbn10": "1451627297",
+            "isbn13": "9781451627299"
+          },
+          {
+            "isbn10": "030795143X",
+            "isbn13": "9780307951434"
+          },
+          {
+            "isbn10": "1594135592",
+            "isbn13": "9781594135590"
+          },
+          {
+            "isbn10": "1501120603",
+            "isbn13": "9781501120602"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "145163806X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Weber",
+        "primary_isbn13": "9781451638066",
+        "description": "Honor Harrington defends the Star Empire of Manticore in a new and terrible war.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451638066.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/A-Rising-Thunder-Honor-Harrington/dp/145163806X?tag=thenewyorktim-20",
+        "contributor": "by David Weber",
+        "title": "A RISING THUNDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "145163806X",
+            "isbn13": "9781451638066"
+          }
+        ],
+        "publisher": "Baen"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0312591829",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Jane Green",
+        "primary_isbn13": "9780312591823",
+        "description": "A woman in her late 30s marries the man of her dreams and reaches out to his daughters by his previous marriage, but one of them is determined to destroy her.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312591823.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Another-Piece-Heart-Jane-Green-ebook/dp/B00633W2YA?tag=thenewyorktim-20",
+        "contributor": "by Jane Green",
+        "title": "ANOTHER PIECE OF MY HEART",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312591829",
+            "isbn13": "9780312591823"
+          },
+          {
+            "isbn10": "1429962739",
+            "isbn13": "9781429962735"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385342063",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sophie Kinsella",
+        "primary_isbn13": "9780385342063",
+        "description": "A frazzled bride-to-be creates havoc when she appropriates a cellphone she found in the trash.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679644682.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Ive-Got-Your-Number-Novel-ebook/dp/B005723JSQ?tag=thenewyorktim-20",
+        "contributor": "by Sophie Kinsella",
+        "title": "I'VE GOT YOUR NUMBER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385342063",
+            "isbn13": "9780385342063"
+          },
+          {
+            "isbn10": "0679644687",
+            "isbn13": "9780679644682"
+          },
+          {
+            "isbn10": "0385342071",
+            "isbn13": "9780385342070"
+          }
+        ],
+        "publisher": "Dial"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312622899",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Olen Steinhauer",
+        "primary_isbn13": "9780312622893",
+        "description": "",
+        "book_review_link": "//www.nytimes.com/2012/03/29/books/new-fiction-from-olen-steinhauer-j-g-ballard-and-others.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312622893.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/An-American-Spy-Olen-Steinhauer/dp/0312622899?tag=thenewyorktim-20",
+        "contributor": "by Olen Steinhauer",
+        "title": "AN AMERICAN SPY",
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/an-american-spy-by-olen-steinhauer.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312622899",
+            "isbn13": "9780312622893"
+          },
+          {
+            "isbn10": "0312622902",
+            "isbn13": "9780312622909"
+          }
+        ],
+        "publisher": "Minotaur"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307959856",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "P D James",
+        "primary_isbn13": "9780307959850",
+        "description": "Six years after Elizabeth and Darcy marry, their comfortable life is shaken by a murder, as James recreates the world of \u201cPride and Prejudice\u201d with a mysterious twist.",
+        "book_review_link": "//www.nytimes.com/2011/12/27/books/death-comes-to-pemberley-by-p-d-james-review.html",
+        "book_image_height": 184,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307950659.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Death-Comes-Pemberley-Vintage-James/dp/0307950654?tag=thenewyorktim-20",
+        "contributor": "by P. D. James",
+        "title": "DEATH COMES TO PEMBERLEY",
+        "sunday_review_link": "//www.nytimes.com/2011/12/18/books/review/death-comes-to-pemberley-by-p-d-james-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307959856",
+            "isbn13": "9780307959850"
+          },
+          {
+            "isbn10": "0307959864",
+            "isbn13": "9780307959867"
+          },
+          {
+            "isbn10": "0307950654",
+            "isbn13": "9780307950659"
+          },
+          {
+            "isbn10": "0571283578",
+            "isbn13": "9780571283576"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "006146841X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Raymond E Feist",
+        "primary_isbn13": "9780061468414",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061468414.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 335,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/A-Crown-Imperiled-Chaoswar-Saga/dp/006146841X?tag=thenewyorktim-20",
+        "contributor": "by Raymond E. Feist",
+        "title": "A CROWN IMPERILED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "006146841X",
+            "isbn13": "9780061468414"
+          }
+        ],
+        "publisher": "Harper Voyager"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2012-03-17",
+    "previous_published_date": "2012-03-25",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2012-04-08"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

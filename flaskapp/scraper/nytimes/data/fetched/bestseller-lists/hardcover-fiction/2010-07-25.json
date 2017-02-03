@@ -1,0 +1,817 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2010-07-25",
+    "books": [
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399156577",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9780399156571",
+        "description": "The only survivor of a serial killer has found peace in the Pacific Northwest, but her life is shaken by the appearance of a new man and a copycat murderer.",
+        "book_review_link": "",
+        "book_image_height": 277,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156571.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Search-Nora-Roberts/dp/0515149489?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "THE SEARCH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156577",
+            "isbn13": "9780399156571"
+          },
+          {
+            "isbn10": "0515149489",
+            "isbn13": "9780515149487"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of a trilogy about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316096156",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316096157",
+        "description": "The head of an investigation company pursues the murderer of his best friend\u2019s wife.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446571784.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Private-1-Suspect-James-Patterson/dp/0446571784?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "PRIVATE: #1 SUSPECT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316096156",
+            "isbn13": "9780316096157"
+          },
+          {
+            "isbn10": "0316096237",
+            "isbn13": "9780316096232"
+          },
+          {
+            "isbn10": "044657256X",
+            "isbn13": "9780446572569"
+          },
+          {
+            "isbn10": "0316102032",
+            "isbn13": "9780316102032"
+          },
+          {
+            "isbn10": "0446574724",
+            "isbn13": "9780446574723"
+          },
+          {
+            "isbn10": "0316097403",
+            "isbn13": "9780316097406"
+          },
+          {
+            "isbn10": "0446571784",
+            "isbn13": "9780446571784"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0312383304",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich",
+        "primary_isbn13": "9780312383305",
+        "description": "The bounty hunter Stephanie Plum comes to the aid of a cousin with gambling debts.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312383305.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Sizzling-Sixteen-Stephanie-Plum-Novels/dp/0312383312?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich",
+        "title": "SIZZLING SIXTEEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312383304",
+            "isbn13": "9780312383305"
+          },
+          {
+            "isbn10": "0739377728",
+            "isbn13": "9780739377727"
+          },
+          {
+            "isbn10": "0312383312",
+            "isbn13": "9780312383312"
+          },
+          {
+            "isbn10": "142992098X",
+            "isbn13": "9781429920988"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s \u00adMississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 5,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 5,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 67,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "1439184305",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Glenn Beck",
+        "primary_isbn13": "9781439184301",
+        "description": "A public relations executive and the woman he loves expose a dangerous conspiracy.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439184301.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Overton-Window-Glenn-Beck/dp/1451625286?tag=thenewyorktim-20",
+        "contributor": "by Glenn Beck",
+        "title": "THE OVERTON WINDOW",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451625286",
+            "isbn13": "9781451625288"
+          },
+          {
+            "isbn10": "1439184305",
+            "isbn13": "9781439184301"
+          }
+        ],
+        "publisher": "Threshold Editions/Mercury Radio Arts"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "0345504968",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Justin Cronin",
+        "primary_isbn13": "9780345504968",
+        "description": "More than a hundred years in the future, a small group resists the vampires who have taken over North America.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345504975.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Passage-Novel-Book-Trilogy/dp/0345504976?tag=thenewyorktim-20",
+        "contributor": "by Justin Cronin",
+        "title": "THE PASSAGE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345504968",
+            "isbn13": "9780345504968"
+          },
+          {
+            "isbn10": "0345504976",
+            "isbn13": "9780345504975"
+          },
+          {
+            "isbn10": "0345528174",
+            "isbn13": "9780345528179"
+          },
+          {
+            "isbn10": "0345516869",
+            "isbn13": "9780345516862"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1416586598",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Thor",
+        "primary_isbn13": "9781416586593",
+        "description": "The covert operative Scott Harvath joins a new spy agency and investigates a bombing in Rome that killed American students.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416586609.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 274,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Foreign-Influence-Thriller-Brad-Thor/dp/1416586601?tag=thenewyorktim-20",
+        "contributor": "by Brad Thor",
+        "title": "FOREIGN INFLUENCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416586598",
+            "isbn13": "9781416586593"
+          },
+          {
+            "isbn10": "1416586601",
+            "isbn13": "9781416586609"
+          },
+          {
+            "isbn10": "141658675X",
+            "isbn13": "9781416586753"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "044658083X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nelson DeMille",
+        "primary_isbn13": "9780446580830",
+        "description": "John Corey, now a federal agent, pursues a Libyan terrorist.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446699600.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Lion-Nelson-DeMille/dp/0446699608?tag=thenewyorktim-20",
+        "contributor": "by Nelson DeMille",
+        "title": "THE LION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "044658083X",
+            "isbn13": "9780446580830"
+          },
+          {
+            "isbn10": "0446566934",
+            "isbn13": "9780446566933"
+          },
+          {
+            "isbn10": "0446699608",
+            "isbn13": "9780446699600"
+          },
+          {
+            "isbn10": "0446619256",
+            "isbn13": "9780446619257"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0316043877",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elin Hilderbrand",
+        "primary_isbn13": "9780316043878",
+        "description": "A woman, her daughters and her sister take refuge from life\u2019s complications on a tiny island near Nantucket, but their time there is far from quiet.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316043885.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Island-Novel-Elin-Hilderbrand/dp/0316043885?tag=thenewyorktim-20",
+        "contributor": "by Elin Hilderbrand",
+        "title": "THE ISLAND",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316043877",
+            "isbn13": "9780316043878"
+          },
+          {
+            "isbn10": "0316043885",
+            "isbn13": "9780316043885"
+          },
+          {
+            "isbn10": "0316201170",
+            "isbn13": "9780316201179"
+          }
+        ],
+        "publisher": "Reagan Arthur/Little, Brown"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "1400065453",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Mitchell",
+        "primary_isbn13": "9781400065455",
+        "description": "Forbidden love in Edo-era Japan.",
+        "book_review_link": "//www.nytimes.com/2010/06/29/books/29book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400065455.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Thousand-Autumns-Jacob-Zoet/dp/0812976363?tag=thenewyorktim-20",
+        "contributor": "by David Mitchell",
+        "title": "THE THOUSAND AUTUMNS OF JACOB DE ZOET",
+        "sunday_review_link": "//www.nytimes.com/2010/07/04/books/review/Eggers-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400065453",
+            "isbn13": "9781400065455"
+          },
+          {
+            "isbn10": "0812976363",
+            "isbn13": "9780812976366"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "034551548X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tess Gerritsen",
+        "primary_isbn13": "9780345515483",
+        "description": "A group of friends are murdered when they take refuge in a remote abandoned village in Wyoming.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345515483.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Ice-Cold-Rizzoli-Isles-Novel/dp/0345515498?tag=thenewyorktim-20",
+        "contributor": "by Tess Gerritsen",
+        "title": "ICE COLD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "034551548X",
+            "isbn13": "9780345515483"
+          },
+          {
+            "isbn10": "0345515498",
+            "isbn13": "9780345515490"
+          },
+          {
+            "isbn10": "0345522753",
+            "isbn13": "9780345522757"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0385343167",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780385343169",
+        "description": "A woman who raised her deceased sister\u2019s three children must juggle their needs, her business and the new man in her life.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440245193.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Family-Ties-Novel-Danielle-Steel/dp/0440245192?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "FAMILY TIES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385343167",
+            "isbn13": "9780385343169"
+          },
+          {
+            "isbn10": "0440245192",
+            "isbn13": "9780440245193"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0441018645",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9780441018642",
+        "description": "Sookie Stackhouse is exhausted in the aftermath of a Fae war.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780441018642.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Dead-Family-Sookie-Stackhouse-Novel/dp/0441020151?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "DEAD IN THE FAMILY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441018645",
+            "isbn13": "9780441018642"
+          },
+          {
+            "isbn10": "0441020151",
+            "isbn13": "9780441020157"
+          },
+          {
+            "isbn10": "110118731X",
+            "isbn13": "9781101187319"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0425234355",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "MaryJanice Davidson",
+        "primary_isbn13": "9780425234358",
+        "description": "Betsy Taylor, a suburban vampire queen, makes a deal with the Devil that involves traveling to hell with her kid sister.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425234358.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 178,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Undead-Unfinished-Queen-Betsy-Book/dp/0425234355?tag=thenewyorktim-20",
+        "contributor": "by MaryJanice Davidson",
+        "title": "UNDEAD AND UNFINISHED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425234355",
+            "isbn13": "9780425234358"
+          }
+        ],
+        "publisher": "Berkley Sensation"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399156534",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Catherine Coulter",
+        "primary_isbn13": "9780399156533",
+        "description": "The F.B.I. agents Dillon Savich and Lacey Sherlock help investigate misdeeds at a pharmaceutical company.",
+        "book_review_link": "",
+        "book_image_height": 278,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156533.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Whiplash-FBI-Thriller-Catherine-Coulter/dp/0515149357?tag=thenewyorktim-20",
+        "contributor": "by Catherine Coulter",
+        "title": "WHIPLASH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156534",
+            "isbn13": "9780399156533"
+          },
+          {
+            "isbn10": "0515149357",
+            "isbn13": "9780515149357"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385501129",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Aimee Bender",
+        "primary_isbn13": "9780385501125",
+        "description": "A girl has insights into other people\u2019s secret emotions.",
+        "book_review_link": "",
+        "book_image_height": 216,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385720960.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 140,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Particular-Sadness-Lemon-Cake/dp/0385720963?tag=thenewyorktim-20",
+        "contributor": "by Aimee Bender",
+        "title": "THE PARTICULAR SADNESS OF LEMON CAKE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385501129",
+            "isbn13": "9780385501125"
+          },
+          {
+            "isbn10": "0385720963",
+            "isbn13": "9780385720960"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312554168",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emily Giffin",
+        "primary_isbn13": "9780312554163",
+        "description": "Two women in a Boston suburb have little in common beyond a fierce love for their children, but their lives converge after a tragic accident.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429926539.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Heart-Matter-Emily-Giffin/dp/0312554176?tag=thenewyorktim-20",
+        "contributor": "by Emily Giffin",
+        "title": "HEART OF THE MATTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312554168",
+            "isbn13": "9780312554163"
+          },
+          {
+            "isbn10": "0312554176",
+            "isbn13": "9780312554170"
+          },
+          {
+            "isbn10": "1429926538",
+            "isbn13": "9781429926539"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312595670",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chevy Stevens",
+        "primary_isbn13": "9780312595678",
+        "description": "A woman tries to piece her shattered life back together after a year\u2019s captivity in a remote mountain cabin.",
+        "book_review_link": "",
+        "book_image_height": 278,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312573577.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Still-Missing-Chevy-Stevens/dp/031257357X?tag=thenewyorktim-20",
+        "contributor": "by Chevy Stevens",
+        "title": "STILL MISSING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312595670",
+            "isbn13": "9780312595678"
+          },
+          {
+            "isbn10": "031257357X",
+            "isbn13": "9780312573577"
+          },
+          {
+            "isbn10": "1429972378",
+            "isbn13": "9781429972376"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385340583",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780385340588",
+        "description": "Jack Reacher helps the police in a small South Dakota town protect a witness in a drug trial.",
+        "book_review_link": "//www.nytimes.com/2010/05/14/books/14book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440243694.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 156,
+        "first_chapter_link": "//www.nytimes.com/2010/05/14/books/excerpt-61-hours.html",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/61-Hours-Jack-Reacher-Novel/dp/0440243696?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "61 HOURS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0440243696",
+            "isbn13": "9780440243694"
+          },
+          {
+            "isbn10": "0385340583",
+            "isbn13": "9780385340588"
+          }
+        ],
+        "publisher": "Delacorte"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2010-07-11",
+    "previous_published_date": "2010-07-18",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2010-08-01"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

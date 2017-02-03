@@ -1,0 +1,1035 @@
+{
+  "num_results": 10,
+  "results": {
+    "books": [
+      {
+        "publisher": "Chris Colfer",
+        "price": 0,
+        "title": "LAND OF STORIES",
+        "rank": 1,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "contributor": "by Chris Colfer. Illustrated by Brandon Dorman",
+        "amazon_product_url": "http://www.amazon.com/The-Land-Stories-Grimm-Warning/dp/0316406813?tag=thenewyorktim-20",
+        "contributor_note": "Illustrated by Brandon Dorman",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316406819.jpg",
+        "description": "Alex and Conner join forces with friends -- and enemies -- in these fairy tale adventures.",
+        "weeks_on_list": 5,
+        "book_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780316201575",
+            "isbn10": "031620157X"
+          },
+          {
+            "isbn13": "9780316201568",
+            "isbn10": "0316201561"
+          },
+          {
+            "isbn13": "9780316201544",
+            "isbn10": "0316201545"
+          },
+          {
+            "isbn13": "9780316204910",
+            "isbn10": "0316204919"
+          },
+          {
+            "isbn13": "9780316201551",
+            "isbn10": "0316201553"
+          },
+          {
+            "isbn13": "9780316406819",
+            "isbn10": "0316406813"
+          },
+          {
+            "isbn13": "9780316406833",
+            "isbn10": "031640683X"
+          },
+          {
+            "isbn13": "9780316406895",
+            "isbn10": "0316406899"
+          },
+          {
+            "isbn13": "9780316406888",
+            "isbn10": "0316406880"
+          },
+          {
+            "isbn13": "9780316406826",
+            "isbn10": "0316406821"
+          },
+          {
+            "isbn13": "9780316261517",
+            "isbn10": "0316261513"
+          },
+          {
+            "isbn13": "9780316406871",
+            "isbn10": "0316406872"
+          }
+        ],
+        "sunday_review_link": "//www.nytimes.com/2012/07/15/books/review/the-land-of-stories-by-chris-colfer.html",
+        "age_group": "",
+        "primary_isbn13": "9780316406895",
+        "article_chapter_link": "",
+        "book_image_width": 128,
+        "publisher": "Little, Brown & Company",
+        "primary_isbn10": "0316406899",
+        "book_image_height": 184,
+        "dagger": 0
+      },
+      {
+        "author": "James Dashner",
+        "price": 0,
+        "title": "THE MAZE RUNNER",
+        "rank": 2,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "contributor": "by James Dashner",
+        "amazon_product_url": "http://www.amazon.com/The-Maze-Runner-Book-1/dp/0385737955?tag=thenewyorktim-20",
+        "contributor_note": "",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780385737951.jpg",
+        "description": "Amnesiac teenagers endure a series of trials.",
+        "weeks_on_list": 144,
+        "book_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780385737951",
+            "isbn10": "0385737955"
+          },
+          {
+            "isbn13": "9780385738750",
+            "isbn10": "0385738757"
+          },
+          {
+            "isbn13": "9780385738767",
+            "isbn10": "0385738765"
+          },
+          {
+            "isbn13": "9780385738774",
+            "isbn10": "0385738773"
+          },
+          {
+            "isbn13": "9780385737944",
+            "isbn10": "0385737947"
+          },
+          {
+            "isbn13": "9780385742887",
+            "isbn10": "0385742886"
+          },
+          {
+            "isbn13": "9780375893773",
+            "isbn10": "0375893776"
+          },
+          {
+            "isbn13": "9780375896118",
+            "isbn10": "0375896112"
+          },
+          {
+            "isbn13": "9780375896125",
+            "isbn10": "0375896120"
+          },
+          {
+            "isbn13": "9780307979117",
+            "isbn10": "0307979113"
+          },
+          {
+            "isbn13": "9780385738781",
+            "isbn10": "0385738781"
+          },
+          {
+            "isbn13": "9780385373791",
+            "isbn10": "0385373791"
+          },
+          {
+            "isbn13": "9780385742894",
+            "isbn10": "0385742894"
+          },
+          {
+            "isbn13": "9780385388894",
+            "isbn10": "0385388896"
+          },
+          {
+            "isbn13": "9780385385206",
+            "isbn10": "038538520X"
+          },
+          {
+            "isbn13": "9780385385480",
+            "isbn10": "038538548X"
+          },
+          {
+            "isbn13": "9780553538410",
+            "isbn10": "0553538411"
+          },
+          {
+            "isbn13": "9780553538229",
+            "isbn10": "0553538225"
+          }
+        ],
+        "sunday_review_link": "",
+        "age_group": "",
+        "primary_isbn13": "9780385738767",
+        "article_chapter_link": "",
+        "book_image_width": 181,
+        "publisher": "Random House Publishing",
+        "primary_isbn10": "0385738765",
+        "book_image_height": 280,
+        "dagger": 0
+      },
+      {
+        "author": "J K Rowling",
+        "price": 0,
+        "title": "HARRY POTTER",
+        "rank": 3,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "contributor": "by J. K. Rowling",
+        "amazon_product_url": "http://www.amazon.com/Harry-Potter-And-Order-Phoenix/dp/0439358078?tag=thenewyorktim-20",
+        "contributor_note": "",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780590353427.jpg",
+        "description": "A wizard hones his conjuring skills in the service of fighting evil.",
+        "weeks_on_list": 329,
+        "book_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780590353427",
+            "isbn10": "059035342X"
+          },
+          {
+            "isbn13": "9780439064873",
+            "isbn10": "0439064872"
+          },
+          {
+            "isbn13": "9780439136365",
+            "isbn10": "0439136369"
+          },
+          {
+            "isbn13": "9780439139601",
+            "isbn10": "0439139600"
+          },
+          {
+            "isbn13": "9780439785969",
+            "isbn10": "0439785960"
+          },
+          {
+            "isbn13": "9780439358071",
+            "isbn10": "0439358078"
+          },
+          {
+            "isbn13": "9780545128285",
+            "isbn10": "0545128285"
+          },
+          {
+            "isbn13": "9780590353403",
+            "isbn10": "0590353403"
+          },
+          {
+            "isbn13": "9780439784542",
+            "isbn10": "0439784549"
+          },
+          {
+            "isbn13": "9780439139595",
+            "isbn10": "0439139597"
+          },
+          {
+            "isbn13": "9780545010221",
+            "isbn10": "0545010225"
+          },
+          {
+            "isbn13": "9780439064866",
+            "isbn10": "0439064864"
+          },
+          {
+            "isbn13": "9780439136358",
+            "isbn10": "0439136350"
+          },
+          {
+            "isbn13": "9780439358064",
+            "isbn10": "043935806X"
+          },
+          {
+            "isbn13": "9780545044257",
+            "isbn10": "0545044251"
+          },
+          {
+            "isbn13": "9780545596275",
+            "isbn10": "0545596270"
+          },
+          {
+            "isbn13": "9780545582889",
+            "isbn10": "0545582881"
+          },
+          {
+            "isbn13": "9780545582926",
+            "isbn10": "054558292X"
+          },
+          {
+            "isbn13": "9780545582933",
+            "isbn10": "0545582938"
+          },
+          {
+            "isbn13": "9780545582957",
+            "isbn10": "0545582954"
+          },
+          {
+            "isbn13": "9780545582971",
+            "isbn10": "0545582970"
+          },
+          {
+            "isbn13": "9780545583008",
+            "isbn10": "0545583004"
+          },
+          {
+            "isbn13": "9780545582995",
+            "isbn10": "0545582997"
+          },
+          {
+            "isbn13": "9780545615402",
+            "isbn10": "0545615402"
+          },
+          {
+            "isbn13": "9780545850568",
+            "isbn10": "0545850568"
+          },
+          {
+            "isbn13": "9780545850582",
+            "isbn10": "0545850584"
+          },
+          {
+            "isbn13": "9780545790352",
+            "isbn10": "0545790352"
+          },
+          {
+            "isbn13": "9781338097672",
+            "isbn10": "1338097679"
+          }
+        ],
+        "sunday_review_link": "",
+        "age_group": "",
+        "primary_isbn13": "9780590353427",
+        "article_chapter_link": "",
+        "book_image_width": 331,
+        "publisher": "Scholastic",
+        "primary_isbn10": "059035342X",
+        "book_image_height": 500,
+        "dagger": 0
+      },
+      {
+        "author": "Rachel Ren\u00e9e Russell",
+        "price": 0,
+        "title": "DORK DIARIES",
+        "rank": 4,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "contributor": "by Rachel Ren\u00e9e Russell",
+        "amazon_product_url": "http://www.amazon.com/Dork-Diaries-Tales-Not-So-Glam-Star/dp/1442487674?tag=thenewyorktim-20",
+        "contributor_note": "",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781442487673.jpg",
+        "description": "Nikki Maxwell navigates the halls of middle school.",
+        "weeks_on_list": 130,
+        "book_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781416980063",
+            "isbn10": "1416980067"
+          },
+          {
+            "isbn13": "9781416980087",
+            "isbn10": "1416980083"
+          },
+          {
+            "isbn13": "9781442411906",
+            "isbn10": "1442411902"
+          },
+          {
+            "isbn13": "9781442422339",
+            "isbn10": "1442422335"
+          },
+          {
+            "isbn13": "9781442426627",
+            "isbn10": "1442426624"
+          },
+          {
+            "isbn13": "9781442411920",
+            "isbn10": "1442411929"
+          },
+          {
+            "isbn13": "9781442449619",
+            "isbn10": "1442449616"
+          },
+          {
+            "isbn13": "9781442464834",
+            "isbn10": "1442464836"
+          },
+          {
+            "isbn13": "9781442449626",
+            "isbn10": "1442449624"
+          },
+          {
+            "isbn13": "9781416986553",
+            "isbn10": "1416986553"
+          },
+          {
+            "isbn13": "9781442411913",
+            "isbn10": "1442411910"
+          },
+          {
+            "isbn13": "9781442449633",
+            "isbn10": "1442449632"
+          },
+          {
+            "isbn13": "9781442449640",
+            "isbn10": "1442449640"
+          },
+          {
+            "isbn13": "9781442411937",
+            "isbn10": "1442411937"
+          },
+          {
+            "isbn13": "9781442487673",
+            "isbn10": "1442487674"
+          },
+          {
+            "isbn13": "9781481421843",
+            "isbn10": "1481421840"
+          },
+          {
+            "isbn13": "9781481402910",
+            "isbn10": "1481402919"
+          },
+          {
+            "isbn13": "9781442487697",
+            "isbn10": "1442487690"
+          },
+          {
+            "isbn13": "9781442487703",
+            "isbn10": "1442487704"
+          },
+          {
+            "isbn13": "9780857079398",
+            "isbn10": "0857079395"
+          },
+          {
+            "isbn13": "9781481457040",
+            "isbn10": "1481457047"
+          },
+          {
+            "isbn13": "9781442498594",
+            "isbn10": "1442498595"
+          },
+          {
+            "isbn13": "9781481457057",
+            "isbn10": "1481457055"
+          },
+          {
+            "isbn13": "9781471117695",
+            "isbn10": "1471117693"
+          },
+          {
+            "isbn13": "9781481447218",
+            "isbn10": "1481447211"
+          },
+          {
+            "isbn13": "9781442466692",
+            "isbn10": "1442466693"
+          },
+          {
+            "isbn13": "9781471122798",
+            "isbn10": "1471122794"
+          }
+        ],
+        "sunday_review_link": "",
+        "age_group": "",
+        "primary_isbn13": "9781442487697",
+        "article_chapter_link": "",
+        "book_image_width": 344,
+        "publisher": "Simon & Schuster",
+        "primary_isbn10": "1442487690",
+        "book_image_height": 500,
+        "dagger": 0
+      },
+      {
+        "author": "Kiera Cass",
+        "price": 0,
+        "title": "THE SELECTION",
+        "rank": 5,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "contributor": "by Kiera Cass",
+        "amazon_product_url": "http://www.amazon.com/The-One-Selection-Kiera-Cass-ebook/dp/B00FJ2YTLK?tag=thenewyorktim-20",
+        "contributor_note": "",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062060013.jpg",
+        "description": "A competition offers girls a chance to escape a life laid out since birth.",
+        "weeks_on_list": 47,
+        "book_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780062059932",
+            "isbn10": "0062059939"
+          },
+          {
+            "isbn13": "9780062059956",
+            "isbn10": "0062059955"
+          },
+          {
+            "isbn13": "9780062059949",
+            "isbn10": "0062059947"
+          },
+          {
+            "isbn13": "9780062059963",
+            "isbn10": "0062059963"
+          },
+          {
+            "isbn13": "9780062059970",
+            "isbn10": "0062059971"
+          },
+          {
+            "isbn13": "9780062060013",
+            "isbn10": "0062060015"
+          },
+          {
+            "isbn13": "9780062059994",
+            "isbn10": "0062059998"
+          },
+          {
+            "isbn13": "9780062318329",
+            "isbn10": "0062318322"
+          },
+          {
+            "isbn13": "9780062317148",
+            "isbn10": "0062317148"
+          },
+          {
+            "isbn13": "9780062351203",
+            "isbn10": "0062351206"
+          },
+          {
+            "isbn13": "9780062060006",
+            "isbn10": "0062060007"
+          },
+          {
+            "isbn13": "9780062349859",
+            "isbn10": "0062349856"
+          },
+          {
+            "isbn13": "9780062349873",
+            "isbn10": "0062349872"
+          },
+          {
+            "isbn13": "9780062402660",
+            "isbn10": "0062402668"
+          },
+          {
+            "isbn13": "9780007466726",
+            "isbn10": "0007466722"
+          },
+          {
+            "isbn13": "9780007466733",
+            "isbn10": "0007466730"
+          },
+          {
+            "isbn13": "9780062351210",
+            "isbn10": "0062351214"
+          },
+          {
+            "isbn13": "9780062414083",
+            "isbn10": "0062414089"
+          },
+          {
+            "isbn13": "9780062414090",
+            "isbn10": "0062414097"
+          },
+          {
+            "isbn13": "9780062392176",
+            "isbn10": "0062392174"
+          },
+          {
+            "isbn13": "9780062392190",
+            "isbn10": "0062392190"
+          },
+          {
+            "isbn13": "9780062349866",
+            "isbn10": "0062349864"
+          },
+          {
+            "isbn13": "9780062424402",
+            "isbn10": "0062424408"
+          },
+          {
+            "isbn13": "9780062484291",
+            "isbn10": "006248429X"
+          }
+        ],
+        "sunday_review_link": "",
+        "age_group": "",
+        "primary_isbn13": "9780062349873",
+        "article_chapter_link": "",
+        "book_image_width": 128,
+        "publisher": "HarperTeen",
+        "primary_isbn10": "0062349872",
+        "book_image_height": 193,
+        "dagger": 0
+      },
+      {
+        "author": "Jeffrey Brown",
+        "price": 0,
+        "title": "STAR WARS: JEDI ACADEMY",
+        "rank": 6,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "contributor": "by Jeffrey Brown",
+        "amazon_product_url": "http://www.amazon.com/The-Phantom-Bully-Star-Wars/dp/0545621267?tag=thenewyorktim-20",
+        "contributor_note": "",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780545621267.jpg",
+        "description": "A jedi chronicles his training in these graphic novels.",
+        "weeks_on_list": 2,
+        "book_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780545505178",
+            "isbn10": "0545505178"
+          },
+          {
+            "isbn13": "9780545621250",
+            "isbn10": "0545621259"
+          },
+          {
+            "isbn13": "9780545621267",
+            "isbn10": "0545621267"
+          }
+        ],
+        "sunday_review_link": "",
+        "age_group": "Ages 8 to 12",
+        "primary_isbn13": "9780545883771",
+        "article_chapter_link": "",
+        "book_image_width": 338,
+        "publisher": "Scholastic",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "dagger": 0
+      },
+      {
+        "author": "Laini Taylor",
+        "price": 0,
+        "title": "DAUGHTER OF SMOKE AND BONE",
+        "rank": 7,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "contributor": "by Laini Taylor",
+        "amazon_product_url": "http://www.amazon.com/Dreams-Gods-Monsters-Daughter-Smoke-ebook/dp/B00ECE9NLC?tag=thenewyorktim-20",
+        "contributor_note": "",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316280167.jpg",
+        "description": "Humans, seraphim and chimera in an epic battle.",
+        "weeks_on_list": 2,
+        "book_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780316133975",
+            "isbn10": "0316133973"
+          },
+          {
+            "isbn13": "9780316280167",
+            "isbn10": "031628016X"
+          },
+          {
+            "isbn13": "9780316134071",
+            "isbn10": "0316134074"
+          },
+          {
+            "isbn13": "9780316133999",
+            "isbn10": "031613399X"
+          },
+          {
+            "isbn13": "9780316192149",
+            "isbn10": "0316192147"
+          },
+          {
+            "isbn13": "9780316133982",
+            "isbn10": "0316133981"
+          },
+          {
+            "isbn13": "9780316134026",
+            "isbn10": "0316134023"
+          },
+          {
+            "isbn13": "9780316215404",
+            "isbn10": "0316215406"
+          }
+        ],
+        "sunday_review_link": "//www.nytimes.com/2011/10/16/books/review/daughter-of-smoke-and-bone-by-laini-taylor-book-review.html",
+        "age_group": "Ages 14 and up",
+        "primary_isbn13": "9780316280167",
+        "article_chapter_link": "",
+        "book_image_width": 128,
+        "publisher": "Little, Brown & Company",
+        "primary_isbn10": "031628016X",
+        "book_image_height": 191,
+        "dagger": 0
+      },
+      {
+        "author": "Jeff Kinney",
+        "price": 0,
+        "title": "DIARY OF A WIMPY KID",
+        "rank": 8,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "contributor": "written and illustrated by Jeff Kinney",
+        "amazon_product_url": "http://www.amazon.com/Diary-Wimpy-Kid-Hard-Luck/dp/1419711326?tag=thenewyorktim-20",
+        "contributor_note": "written and illustrated by Jeff Kinney",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781419711329.jpg",
+        "description": "The travails and challenges of adolescence.",
+        "weeks_on_list": 331,
+        "book_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780810993136",
+            "isbn10": "0810993139"
+          },
+          {
+            "isbn13": "9780810984912",
+            "isbn10": "0810984911"
+          },
+          {
+            "isbn13": "9780810970687",
+            "isbn10": "0810970686"
+          },
+          {
+            "isbn13": "9780810994737",
+            "isbn10": "0810994739"
+          },
+          {
+            "isbn13": "9780810983915",
+            "isbn10": "0810983915"
+          },
+          {
+            "isbn13": "9780810996168",
+            "isbn10": "0810996162"
+          },
+          {
+            "isbn13": "9780810997820",
+            "isbn10": "0810997827"
+          },
+          {
+            "isbn13": "9781419702235",
+            "isbn10": "1419702238"
+          },
+          {
+            "isbn13": "9781419706424",
+            "isbn10": "141970642X"
+          },
+          {
+            "isbn13": "9781419705847",
+            "isbn10": "1419705849"
+          },
+          {
+            "isbn13": "9781419707667",
+            "isbn10": "1419707663"
+          },
+          {
+            "isbn13": "9781419707674",
+            "isbn10": "1419707671"
+          },
+          {
+            "isbn13": "9781613124505",
+            "isbn10": "1613124503"
+          },
+          {
+            "isbn13": "9781419711879",
+            "isbn10": "1419711873"
+          },
+          {
+            "isbn13": "9781419711329",
+            "isbn10": "1419711326"
+          },
+          {
+            "isbn13": "9781419711824",
+            "isbn10": "1419711822"
+          },
+          {
+            "isbn13": "9781419711831",
+            "isbn10": "1419711830"
+          },
+          {
+            "isbn13": "9781419711893",
+            "isbn10": "141971189X"
+          },
+          {
+            "isbn13": "9781419715389",
+            "isbn10": "1419715380"
+          },
+          {
+            "isbn13": "9781419717017",
+            "isbn10": "1419717014"
+          },
+          {
+            "isbn13": "9781613128275",
+            "isbn10": "1613128274"
+          }
+        ],
+        "sunday_review_link": "",
+        "age_group": "",
+        "primary_isbn13": "9781419711893",
+        "article_chapter_link": "",
+        "book_image_width": 341,
+        "publisher": "Abrams Books",
+        "primary_isbn10": "141971189X",
+        "book_image_height": 500,
+        "dagger": 0
+      },
+      {
+        "author": "Tui T Sutherland",
+        "price": 0,
+        "title": "WINGS OF FIRE",
+        "rank": 9,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "contributor": "by Tui T. Sutherland",
+        "amazon_product_url": "http://www.amazon.com/Wings-Fire-Book-Five-Brightest/dp/0545349222?tag=thenewyorktim-20",
+        "contributor_note": "",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780545349215.jpg",
+        "description": "Only the five dragonets of destiny can unite the seven, warring dragon tribes.",
+        "weeks_on_list": 7,
+        "book_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780545349215",
+            "isbn10": "0545349214"
+          },
+          {
+            "isbn13": "9780545349208",
+            "isbn10": "0545349206"
+          },
+          {
+            "isbn13": "9780545349246",
+            "isbn10": "0545349249"
+          },
+          {
+            "isbn13": "9780545349239",
+            "isbn10": "0545349230"
+          },
+          {
+            "isbn13": "9780545349192",
+            "isbn10": "0545349192"
+          },
+          {
+            "isbn13": "9780545349222",
+            "isbn10": "0545349222"
+          },
+          {
+            "isbn13": "9780545349253",
+            "isbn10": "0545349257"
+          },
+          {
+            "isbn13": "9780545349185",
+            "isbn10": "0545349184"
+          },
+          {
+            "isbn13": "9780545685344",
+            "isbn10": "0545685346"
+          },
+          {
+            "isbn13": "9780545685375",
+            "isbn10": "0545685370"
+          },
+          {
+            "isbn13": "9780545349277",
+            "isbn10": "0545349273"
+          },
+          {
+            "isbn13": "9780545685443",
+            "isbn10": "0545685443"
+          },
+          {
+            "isbn13": "9780545685467",
+            "isbn10": "054568546X"
+          },
+          {
+            "isbn13": "9780545855723",
+            "isbn10": "0545855721"
+          },
+          {
+            "isbn13": "9781338053616",
+            "isbn10": "1338053612"
+          },
+          {
+            "isbn13": "9781338053647",
+            "isbn10": "1338053647"
+          },
+          {
+            "isbn13": "9780545685368",
+            "isbn10": "0545685362"
+          }
+        ],
+        "sunday_review_link": "",
+        "age_group": "",
+        "primary_isbn13": "9780545685375",
+        "article_chapter_link": "",
+        "book_image_width": 331,
+        "publisher": "Scholastic",
+        "primary_isbn10": "0545685370",
+        "book_image_height": 500,
+        "dagger": 0
+      },
+      {
+        "author": "Veronica Roth",
+        "price": 0,
+        "title": "DIVERGENT",
+        "rank": 10,
+        "rank_last_week": 0,
+        "asterisk": 0,
+        "contributor": "by Veronica Roth",
+        "amazon_product_url": "http://www.amazon.com/Divergent-Veronica-Roth/dp/0062024035?tag=thenewyorktim-20",
+        "contributor_note": "",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062024039.jpg",
+        "description": "A girl must prove herself in a dystopia divided into five factions.",
+        "weeks_on_list": 90,
+        "book_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780062024022",
+            "isbn10": "0062024027"
+          },
+          {
+            "isbn13": "9780062024039",
+            "isbn10": "0062024035"
+          },
+          {
+            "isbn13": "9780062024046",
+            "isbn10": "0062024043"
+          },
+          {
+            "isbn13": "9780062237422",
+            "isbn10": "006223742X"
+          },
+          {
+            "isbn13": "9780062077011",
+            "isbn10": "0062077015"
+          },
+          {
+            "isbn13": "9780062114457",
+            "isbn10": "006211445X"
+          },
+          {
+            "isbn13": "9780062209276",
+            "isbn10": "0062209272"
+          },
+          {
+            "isbn13": "9780062024060",
+            "isbn10": "006202406X"
+          },
+          {
+            "isbn13": "9780062285638",
+            "isbn10": "0062285637"
+          },
+          {
+            "isbn13": "9780062278784",
+            "isbn10": "0062278789"
+          },
+          {
+            "isbn13": "9780062289858",
+            "isbn10": "0062289853"
+          },
+          {
+            "isbn13": "9780062289841",
+            "isbn10": "0062289845"
+          },
+          {
+            "isbn13": "9781594137457",
+            "isbn10": "1594137455"
+          },
+          {
+            "isbn13": "9780007536740",
+            "isbn10": "0007536747"
+          },
+          {
+            "isbn13": "9780062345219",
+            "isbn10": "0062345214"
+          },
+          {
+            "isbn13": "9780062352163",
+            "isbn10": "0062352164"
+          },
+          {
+            "isbn13": "9780062285676",
+            "isbn10": "006228567X"
+          },
+          {
+            "isbn13": "9780062359384",
+            "isbn10": "006235938X"
+          },
+          {
+            "isbn13": "9780062352170",
+            "isbn10": "0062352172"
+          },
+          {
+            "isbn13": "9780062024053",
+            "isbn10": "0062024051"
+          },
+          {
+            "isbn13": "9780062372857",
+            "isbn10": "0062372858"
+          },
+          {
+            "isbn13": "9780062372840",
+            "isbn10": "006237284X"
+          },
+          {
+            "isbn13": "9780062024077",
+            "isbn10": "0062024078"
+          },
+          {
+            "isbn13": "9780062421364",
+            "isbn10": "0062421360"
+          },
+          {
+            "isbn13": "9780062394989",
+            "isbn10": "0062394983"
+          },
+          {
+            "isbn13": "9780062420091",
+            "isbn10": "0062420097"
+          },
+          {
+            "isbn13": "9780062420084",
+            "isbn10": "0062420089"
+          },
+          {
+            "isbn13": "9780062300805",
+            "isbn10": "0062300806"
+          }
+        ],
+        "sunday_review_link": "//www.nytimes.com/2011/05/15/books/review/young-adult-books-divergent-by-veronica-roth.html",
+        "age_group": "",
+        "primary_isbn13": "9780062209276",
+        "article_chapter_link": "",
+        "book_image_width": 183,
+        "publisher": "HarperCollins Publishers",
+        "primary_isbn10": "0062209272",
+        "book_image_height": 276,
+        "dagger": 0
+      }
+    ],
+    "published_date": "2015-07-26",
+    "bestsellers_date": "2015-07-11",
+    "published_date_description": "",
+    "list_name_encoded": "series-books",
+    "updated": "WEEKLY",
+    "corrections": [],
+    "list_name": "Series Books",
+    "display_name": "Children\u2019s Series",
+    "next_published_date": "2015-08-02",
+    "previous_published_date": "2015-07-19",
+    "normal_list_ends_at": 10
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "last_modified": "2016-04-28T11:03:27-04:00"
+}

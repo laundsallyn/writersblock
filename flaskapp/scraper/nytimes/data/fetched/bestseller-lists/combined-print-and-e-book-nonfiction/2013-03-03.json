@@ -1,0 +1,881 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2013-03-03",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0062238868",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "primary_isbn13": "9780062238863",
+        "description": "A member of the Navy SEALs, recently shot to death in Texas, discusses his battlefield experiences.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062082374.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 20,
+        "amazon_product_url": "http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=thenewyorktim-20",
+        "contributor": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+        "title": "AMERICAN SNIPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062082353",
+            "isbn13": "9780062082350"
+          },
+          {
+            "isbn10": "006208237X",
+            "isbn13": "9780062082374"
+          },
+          {
+            "isbn10": "0062209493",
+            "isbn13": "9780062209498"
+          },
+          {
+            "isbn10": "0062107062",
+            "isbn13": "9780062107060"
+          },
+          {
+            "isbn10": "0062238868",
+            "isbn13": "9780062238863"
+          },
+          {
+            "isbn10": "0062290797",
+            "isbn13": "9780062290793"
+          },
+          {
+            "isbn10": "0062376578",
+            "isbn13": "9780062376572"
+          },
+          {
+            "isbn10": "0062376330",
+            "isbn13": "9780062376336"
+          },
+          {
+            "isbn10": "0062297872",
+            "isbn13": "9780062297877"
+          },
+          {
+            "isbn10": "0062082361",
+            "isbn13": "9780062082367"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brandi Glanville with Leslie Bruce",
+        "primary_isbn13": "9781476707648",
+        "description": "One of the \u201cReal Housewives of Beverly Hills\u201d describes growing up poor, her contentious divorce, her D.U.I. and other adventures.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476707648.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Drinking-Tweeting-Other-Brandi-Blunders-ebook/dp/B00A6CCEDS?tag=thenewyorktim-20",
+        "contributor": "by Brandi Glanville with Leslie Bruce",
+        "title": "DRINKING AND TWEETING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476707626",
+            "isbn13": "9781476707624"
+          }
+        ],
+        "publisher": "Gallery Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451695195",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eben Alexander",
+        "primary_isbn13": "9781451695199",
+        "description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+        "book_review_link": "",
+        "book_image_height": 300,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451695199.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 17,
+        "amazon_product_url": "http://www.amazon.com/Proof-Heaven-Neurosurgeons-Journey-Afterlife/dp/1451695195?tag=thenewyorktim-20",
+        "contributor": "by Eben Alexander",
+        "title": "PROOF OF HEAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451695187",
+            "isbn13": "9781451695182"
+          },
+          {
+            "isbn10": "1451695195",
+            "isbn13": "9781451695199"
+          },
+          {
+            "isbn10": "1451695209",
+            "isbn13": "9781451695205"
+          },
+          {
+            "isbn10": "1476753024",
+            "isbn13": "9781476753027"
+          },
+          {
+            "isbn10": "1442359315",
+            "isbn13": "9781442359314"
+          },
+          {
+            "isbn10": "1410458806",
+            "isbn13": "9781410458803"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0310417341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ben C Carson and Candy Carson",
+        "primary_isbn13": "9780310417347",
+        "description": "A doctor explores what makes America great.",
+        "book_review_link": "",
+        "book_image_height": 449,
+        "book_image": "https://s1.nyt.com/du/books/images/9780310330714.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/America-Beautiful-Rediscovering-Nation-Great/dp/0310330718?tag=thenewyorktim-20",
+        "contributor": "by Ben C. Carson and Candy Carson",
+        "title": "AMERICA THE BEAUTIFUL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0310330718",
+            "isbn13": "9780310330714"
+          },
+          {
+            "isbn10": "0310330912",
+            "isbn13": "9780310330912"
+          },
+          {
+            "isbn10": "0310417341",
+            "isbn13": "9780310417347"
+          }
+        ],
+        "publisher": "Zondervan"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307594882",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sonia Sotomayor",
+        "primary_isbn13": "9780307594884",
+        "description": "The Supreme Court justice recalls growing up in the Bronx, attending Princeton, working for the Manhattan District Attorney\u2019s office and becoming a federal judge. \u00a0",
+        "book_review_link": "//www.nytimes.com/2013/01/22/books/my-beloved-world-a-memoir-by-sonia-sotomayor.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307594884.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 341,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/My-Beloved-World-Sonia-Sotomayor-ebook/dp/B00957T7CQ?tag=thenewyorktim-20",
+        "contributor": "by Sonia Sotomayor",
+        "title": "MY BELOVED WORLD",
+        "sunday_review_link": "//www.nytimes.com/2013/01/20/books/review/my-beloved-world-by-sonia-sotomayor.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307594882",
+            "isbn13": "9780307594884"
+          },
+          {
+            "isbn10": "0307913104",
+            "isbn13": "9780307913104"
+          },
+          {
+            "isbn10": "034580483X",
+            "isbn13": "9780345804839"
+          },
+          {
+            "isbn10": "159413703X",
+            "isbn13": "9781594137037"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805096663",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805096668",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of John F. Kennedy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805096668.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 20,
+        "amazon_product_url": "http://www.amazon.com/Killing-Kennedy-The-End-Camelot-ebook/dp/B0079886DY?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING KENNEDY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805096663",
+            "isbn13": "9780805096668"
+          },
+          {
+            "isbn10": "0805096671",
+            "isbn13": "9780805096675"
+          },
+          {
+            "isbn10": "1427226849",
+            "isbn13": "9781427226846"
+          },
+          {
+            "isbn10": "1410452964",
+            "isbn13": "9781410452962"
+          },
+          {
+            "isbn10": "1250092337",
+            "isbn13": "9781250092335"
+          }
+        ],
+        "publisher": "Henry Holt & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805093079",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805093070",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805093070.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 72,
+        "amazon_product_url": "http://www.amazon.com/Killing-Lincoln-Shocking-Assassination-Changed-ebook/dp/B004ULORYU?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING LINCOLN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805093079",
+            "isbn13": "9780805093070"
+          },
+          {
+            "isbn10": "1429996870",
+            "isbn13": "9781429996877"
+          },
+          {
+            "isbn10": "1427213127",
+            "isbn13": "9781427213129"
+          },
+          {
+            "isbn10": "1410443000",
+            "isbn13": "9781410443007"
+          },
+          {
+            "isbn10": "1250012163",
+            "isbn13": "9781250012166"
+          }
+        ],
+        "publisher": "Henry Holt & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061967556",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Amity Shlaes",
+        "primary_isbn13": "9780061967559",
+        "description": "The 30th president is reclaimed as a conservative hero in this biography.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062097972.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Coolidge-Amity-Shlaes/dp/0061967556?tag=thenewyorktim-20",
+        "contributor": "by Amity Shlaes",
+        "title": "COOLIDGE",
+        "sunday_review_link": "//www.nytimes.com/2013/02/17/books/review/coolidge-by-amity-shlaes.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061967556",
+            "isbn13": "9780061967559"
+          },
+          {
+            "isbn10": "0062119125",
+            "isbn13": "9780062119124"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307352153",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Cain",
+        "primary_isbn13": "9780307352156",
+        "description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307452207.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 13,
+        "amazon_product_url": "http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B004J4WNL2?tag=thenewyorktim-20",
+        "contributor": "by Susan Cain",
+        "title": "QUIET",
+        "sunday_review_link": "//www.nytimes.com/2012/02/12/books/review/susan-cains-quiet-argues-for-the-power-of-introverts.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307352145",
+            "isbn13": "9780307352149"
+          },
+          {
+            "isbn10": "0307452204",
+            "isbn13": "9780307452207"
+          },
+          {
+            "isbn10": "0307352153",
+            "isbn13": "9780307352156"
+          },
+          {
+            "isbn10": "1611734207",
+            "isbn13": "9781611734201"
+          },
+          {
+            "isbn10": "0739341243",
+            "isbn13": "9780739341247"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0547928173",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Terry Francona and Dan Shaughnessy",
+        "primary_isbn13": "9780547928173",
+        "description": "The manager\u2019s Red Sox years.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780547928173.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Francona-The-Red-Sox-Years/dp/0547928173?tag=thenewyorktim-20",
+        "contributor": "by Terry Francona and Dan Shaughnessy",
+        "title": "FRANCONA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0547928173",
+            "isbn13": "9780547928173"
+          },
+          {
+            "isbn10": "0547928262",
+            "isbn13": "9780547928265"
+          },
+          {
+            "isbn10": "1427233586",
+            "isbn13": "9781427233585"
+          },
+          {
+            "isbn10": "0544227875",
+            "isbn13": "9780544227873"
+          }
+        ],
+        "publisher": "Houghton Mifflin Harcourt Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525953728",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mark Owen with Kevin Maurer",
+        "primary_isbn13": "9780525953722",
+        "description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+        "book_review_link": "//www.nytimes.com/2012/09/03/books/no-easy-day-by-mark-owen-with-kevin-maurer.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101611302.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 24,
+        "amazon_product_url": "http://www.amazon.com/No-Easy-Day-Firsthand-Account/dp/0451468740?tag=thenewyorktim-20",
+        "contributor": "by Mark Owen with Kevin Maurer",
+        "title": "NO EASY DAY",
+        "sunday_review_link": "//www.nytimes.com/2012/10/21/books/review/no-easy-day-by-mark-owen.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953728",
+            "isbn13": "9780525953722"
+          },
+          {
+            "isbn10": "1611761565",
+            "isbn13": "9781611761566"
+          },
+          {
+            "isbn10": "0451468740",
+            "isbn13": "9780451468741"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439150222",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mike Piazza with Lonnie Wheeler",
+        "primary_isbn13": "9781439150221",
+        "description": "The catcher\u2019s memoir.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439163030.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Long-Shot-Mike-Piazza-ebook/dp/B008J4DVVY?tag=thenewyorktim-20",
+        "contributor": "by Mike Piazza with Lonnie Wheeler",
+        "title": "LONG SHOT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439150222",
+            "isbn13": "9781439150221"
+          },
+          {
+            "isbn10": "1439163030",
+            "isbn13": "9781439163030"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307700666",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lawrence Wright",
+        "primary_isbn13": "9780307700667",
+        "description": "The Pulitzer Prize-winning author examines the world of Scientology.\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/01/14/books/going-clear-by-lawrence-wright-examines-scientology.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307700667.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 347,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Going-Clear-Scientology-Hollywood-Vintage/dp/0307745309?tag=thenewyorktim-20",
+        "contributor": "by Lawrence Wright",
+        "title": "GOING CLEAR",
+        "sunday_review_link": "//www.nytimes.com/2013/01/20/books/review/going-clear-lawrence-wrights-book-on-scientology.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307700666",
+            "isbn13": "9780307700667"
+          },
+          {
+            "isbn10": "0307745309",
+            "isbn13": "9780307745309"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812992946",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Al Gore",
+        "primary_isbn13": "9780812992946",
+        "description": "The six drivers of global change that are reshaping our world.\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/01/24/books/the-future-by-al-gore.html",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679644309.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Future-Drivers-Global-Change-ebook/dp/B009MYD9EE?tag=thenewyorktim-20",
+        "contributor": "by Al Gore",
+        "title": "FUTURE",
+        "sunday_review_link": "//www.nytimes.com/2013/02/10/books/review/the-future-six-drivers-of-global-change-by-al-gore.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812992946",
+            "isbn13": "9780812992946"
+          },
+          {
+            "isbn10": "067964430X",
+            "isbn13": "9780679644309"
+          },
+          {
+            "isbn10": "0449015467",
+            "isbn13": "9780449015469"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062248499",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jenna Miscavige Hill with Lisa Pulitzer",
+        "primary_isbn13": "9780062248497",
+        "description": "How the niece of the Scientology leader David Miscavige left the church at 21.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062248497.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Beyond-Belief-Secret-Scientology-Harrowing-ebook/dp/B008XOJ7C2?tag=thenewyorktim-20",
+        "contributor": "by Jenna Miscavige Hill with Lisa Pulitzer",
+        "title": "BEYOND BELIEF",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062248472",
+            "isbn13": "9780062248473"
+          },
+          {
+            "isbn10": "0062248499",
+            "isbn13": "9780062248497"
+          },
+          {
+            "isbn10": "0062248480",
+            "isbn13": "9780062248480"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603751",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9780679603757",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; a 2014 movie.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062238396",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cissy Houston with Lisa Dickey",
+        "primary_isbn13": "9780062238399",
+        "description": "The gospel singer discusses her daughter Whitney\u2019s life.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062238399.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Remembering-Whitney-Story-Night-Stopped-ebook/dp/B008CH224K?tag=thenewyorktim-20",
+        "contributor": "by Cissy Houston with Lisa Dickey",
+        "title": "REMEMBERING WHITNEY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062238396",
+            "isbn13": "9780062238399"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400067669",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jon Meacham",
+        "primary_isbn13": "9781400067664",
+        "description": "The Pulitzer Prize-winning journalist celebrates Jefferson\u2019s skills as a practical politician.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679645368.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Thomas-Jefferson-The-Art-Power-ebook/dp/B0089EHKE8?tag=thenewyorktim-20",
+        "contributor": "by Jon Meacham",
+        "title": "THOMAS JEFFERSON",
+        "sunday_review_link": "//www.nytimes.com/2012/11/11/books/review/thomas-jefferson-the-art-of-power-by-jon-meacham.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400067669",
+            "isbn13": "9781400067664"
+          },
+          {
+            "isbn10": "0679645365",
+            "isbn13": "9780679645368"
+          },
+          {
+            "isbn10": "0307990877",
+            "isbn13": "9780307990877"
+          },
+          {
+            "isbn10": "0739334611",
+            "isbn13": "9780739334614"
+          },
+          {
+            "isbn10": "0812979486",
+            "isbn13": "9780812979480"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1416549838",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Doris Kearns Goodwin",
+        "primary_isbn13": "9781416549833",
+        "description": "The political genius of Abraham Lincoln, revealed in his relationship with his cabinet; originally published in 2005.",
+        "book_review_link": "//www.nytimes.com/2005/10/25/books/25kaku.html",
+        "book_image_height": 180,
+        "book_image": "https://s1.nyt.com/du/books/images/9780743270755.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 119,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0743270754?tag=thenewyorktim-20",
+        "contributor": "by Doris Kearns Goodwin",
+        "title": "TEAM OF RIVALS",
+        "sunday_review_link": "//www.nytimes.com/2005/11/06/books/review/06mcpherson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0743270754",
+            "isbn13": "9780743270755"
+          },
+          {
+            "isbn10": "1451688091",
+            "isbn13": "9781451688092"
+          },
+          {
+            "isbn10": "0684824906",
+            "isbn13": "9780684824901"
+          },
+          {
+            "isbn10": "1416549838",
+            "isbn13": "9781416549833"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Antonio Mendez and Matt Baglio",
+        "primary_isbn13": "9781101601204",
+        "description": "An account of the daring rescue of six Americans from Tehran that inspired the movie.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670026227.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Argo-Hollywood-Pulled-Audacious-History/dp/0670026220?tag=thenewyorktim-20",
+        "contributor": "by Antonio Mendez and Matt Baglio",
+        "title": "ARGO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670026220",
+            "isbn13": "9780670026227"
+          },
+          {
+            "isbn10": "0147509734",
+            "isbn13": "9780147509734"
+          }
+        ],
+        "publisher": "Penguin Group"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2013-02-16",
+    "previous_published_date": "2013-02-24",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2013-03-10"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

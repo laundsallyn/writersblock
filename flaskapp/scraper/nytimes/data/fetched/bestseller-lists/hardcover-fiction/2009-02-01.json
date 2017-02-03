@@ -1,0 +1,694 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2009-02-01",
+    "books": [
+      {
+        "price": 27.95,
+        "primary_isbn10": "142720599X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich",
+        "primary_isbn13": "9781427205995",
+        "description": "The bounty hunter Stephanie Plum hunts an evil genius and his sidekick, who are hiding in New Jersey\u2019s Pine Barrens.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312383343.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Plum-Spooky-Stephanie-Between-Numbers/dp/142720599X?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich",
+        "title": "PLUM SPOOKY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312383347",
+            "isbn13": "9780312383343"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0316068047",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephenie Meyer",
+        "primary_isbn13": "9780316068048",
+        "description": "Aliens have taken control of the minds and bodies of most human beings, but one woman won\u2019t surrender.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316218504.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 36,
+        "amazon_product_url": "http://www.amazon.com/The-Host-Novel-Stephenie-Meyer/dp/0316218502?tag=thenewyorktim-20",
+        "contributor": "by Stephenie Meyer",
+        "title": "THE HOST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316068055",
+            "isbn13": "9780316068055"
+          },
+          {
+            "isbn10": "0316068047",
+            "isbn13": "9780316068048"
+          },
+          {
+            "isbn10": "0316043044",
+            "isbn13": "9780316043045"
+          },
+          {
+            "isbn10": "0316128651",
+            "isbn13": "9780316128650"
+          },
+          {
+            "isbn10": "0316218502",
+            "isbn13": "9780316218504"
+          },
+          {
+            "isbn10": "0316218510",
+            "isbn13": "9780316218511"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399155171",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "W E B Griffin",
+        "primary_isbn13": "9780399155178",
+        "description": "An Army officer and special presidential agent is targeted for death \u2014 but by whom?",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399155178.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 339,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Black-Ops-Presidential-Agent-Novel/dp/0399155171?tag=thenewyorktim-20",
+        "contributor": "by W. E. B. Griffin",
+        "title": "BLACK OPS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0515147397",
+            "isbn13": "9780515147391"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0399155473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780399155475",
+        "description": "In the weeks before an election, a president must deal with crises ranging fom loose nukes in Pakistan to the reappearance of a rogue C.I.A. agent to a threatened sex scandal.",
+        "book_review_link": "",
+        "book_image_height": 276,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399155475.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Mounting-Fears-Will-Lee-No/dp/0399155473?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "MOUNTING FEARS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0061374229",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Wroblewski",
+        "primary_isbn13": "9780061374227",
+        "description": "A young mute who can communicate with the dogs his family raises takes refuge with three of them in the Wisconsin woods after his father\u2019s death.",
+        "book_review_link": "//www.nytimes.com/2008/06/13/books/13book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061374234.jpg",
+        "rank": 5,
+        "article_chapter_link": "//www.nytimes.com/2008/07/09/books/09dogs.html",
+        "rank_last_week": 5,
+        "book_image_width": 332,
+        "first_chapter_link": "//www.nytimes.com/2008/08/03/books/chapters/chapter-edgar-sawtelle.html",
+        "age_group": "",
+        "weeks_on_list": 32,
+        "amazon_product_url": "http://www.amazon.com/Story-Edgar-Sawtelle-David-Wroblewski/dp/B005DIGU4O?tag=thenewyorktim-20",
+        "contributor": "by David Wroblewski",
+        "title": "THE STORY OF EDGAR SAWTELLE",
+        "sunday_review_link": "//www.nytimes.com/2008/08/03/books/review/Peed-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061374237",
+            "isbn13": "9780061374234"
+          }
+        ],
+        "publisher": "Ecco"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399155163",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patricia Cornwell",
+        "primary_isbn13": "9780399155161",
+        "description": "The forensic pathologist Kay Scarpetta takes on a new assignment in New York.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425230169.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 164,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Scarpetta-Kay-Patricia-Cornwell/dp/B0040RMEXA?tag=thenewyorktim-20",
+        "contributor": "by Patricia Cornwell",
+        "title": "SCARPETTA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425230163",
+            "isbn13": "9780425230169"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316018724",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson",
+        "primary_isbn13": "9780316018722",
+        "description": "Alex Cross chases the leader of a lethal teenage gang.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316018722.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 258,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Cross-Country-Alex-James-Patterson/dp/0316018724?tag=thenewyorktim-20",
+        "contributor": "by James Patterson",
+        "title": "CROSS COUNTRY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "044653630X",
+            "isbn13": "9780446536301"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 22,
+        "primary_isbn10": "0385340990",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Ann Shaffer and Annie Barrows",
+        "primary_isbn13": "9780385340991",
+        "description": "A journalist travels to the island of Guernsey to meet residents who resisted the Nazi occupation.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385341004.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 317,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Guernsey-Literary-Potato-Peel-Society/dp/0385340990?tag=thenewyorktim-20",
+        "contributor": "by Mary Ann Shaffer and Annie Barrows",
+        "title": "THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385341008",
+            "isbn13": "9780385341004"
+          },
+          {
+            "isbn10": "0440337976",
+            "isbn13": "9780440337973"
+          }
+        ],
+        "publisher": "Dial"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "034550075X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Julie Garwood",
+        "primary_isbn13": "9780345500755",
+        "description": "A reporter and her bodyguard uncover a conspiracy in Alaska.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345500762.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Fire-Ice-Novel-Julie-Garwood/dp/034550075X?tag=thenewyorktim-20",
+        "contributor": "by Julie Garwood",
+        "title": "FIRE AND ICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345500768",
+            "isbn13": "9780345500762"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 29.95,
+        "primary_isbn10": "0060393491",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Wally Lamb",
+        "primary_isbn13": "9780060393496",
+        "description": "A man reconstructs five generations of family history.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780060393496.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 183,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/The-Hour-I-First-Believed/dp/0060393491?tag=thenewyorktim-20",
+        "contributor": "by Wally Lamb",
+        "title": "THE HOUR I FIRST BELIEVED",
+        "sunday_review_link": "//www.nytimes.com/2008/12/14/books/review/Thomas-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0060988436",
+            "isbn13": "9780060988432"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0670020486",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janice Y K Lee",
+        "primary_isbn13": "9780670020485",
+        "description": "An Englishwoman in 1950s Hong Kong discovers devastating secrets from the years of the Japanese occupation.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670020485.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Piano-Teacher-A-Novel/dp/0143116533?tag=thenewyorktim-20",
+        "contributor": "by Janice Y. K. Lee",
+        "title": "THE PIANO TEACHER",
+        "sunday_review_link": "//www.nytimes.com/2009/01/18/books/review/Fugard-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0143116533",
+            "isbn13": "9780143116530"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0441015891",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9780441015894",
+        "description": "Following a deadly explosion at a vampire summit, the cocktail waitress Sookie Stackhouse faces danger.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780441017010.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 174,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/From-Worse-Southern-Vampire-Mysteries/dp/0441015891?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "FROM DEAD TO WORSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441017010",
+            "isbn13": "9780441017010"
+          }
+        ],
+        "publisher": "ACE"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0805087729",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard North Patterson",
+        "primary_isbn13": "9780805087727",
+        "description": "A San Francisco lawyer agrees to defend a Nigerian reformer whose wife he loved in college.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805087727.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Eclipse-Richard-North-Patterson/dp/0805087729?tag=thenewyorktim-20",
+        "contributor": "by Richard North Patterson",
+        "title": "ECLIPSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Holt"
+      },
+      {
+        "price": 24.99,
+        "primary_isbn10": "0316032220",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Josh Bazell",
+        "primary_isbn13": "9780316032223",
+        "description": "A former hit man for the mob who has become a doctor is threatened when a gangster patient recognizes him.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316032223.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 322,
+        "first_chapter_link": "//www.nytimes.com/2009/01/11/books/chapters/chapter-beat-the-reaper.html",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Beat-Reaper-Novel-Josh-Bazell/dp/0316032212?tag=thenewyorktim-20",
+        "contributor": "by Josh Bazell",
+        "title": "BEAT THE REAPER",
+        "sunday_review_link": "//www.nytimes.com/2009/01/11/books/review/Ruff-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316032212",
+            "isbn13": "9780316032216"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 23.95,
+        "primary_isbn10": "0307264238",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Toni Morrison",
+        "primary_isbn13": "9780307264237",
+        "description": "In 17th-\u00adcentury America, a slave mother urges a Northern farmer to buy her daughter so that she can have a better life; from the Nobel Prize-winning author of \u201cBeloved.\u201d",
+        "book_review_link": "//www.nytimes.com/2008/11/04/books/04kaku.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307264237.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 318,
+        "first_chapter_link": "//www.nytimes.com/2008/11/30/books/chapter-a-mercy.html",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/A-Mercy-Toni-Morrison/dp/0307276767?tag=thenewyorktim-20",
+        "contributor": "by Toni Morrison",
+        "title": "A MERCY",
+        "sunday_review_link": "//www.nytimes.com/2008/11/30/books/review/Gates-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307276767",
+            "isbn13": "9780307276766"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446579939",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9780446579933",
+        "description": "A Marine returning home sets out to track down the woman whose photo he found in Iraq.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446542180.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Lucky-One-Nicholas-Sparks-ebook/dp/B0018QQQK8?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "THE LUCKY ONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446618322",
+            "isbn13": "9780446618328"
+          },
+          {
+            "isbn10": "0446698342",
+            "isbn13": "9780446698344"
+          },
+          {
+            "isbn10": "0446542180",
+            "isbn13": "9780446542180"
+          },
+          {
+            "isbn10": "1455508969",
+            "isbn13": "9781455508969"
+          },
+          {
+            "isbn10": "1455508977",
+            "isbn13": "9781455508976"
+          },
+          {
+            "isbn10": "0446579939",
+            "isbn13": "9780446579933"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446195502",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446195508",
+        "description": "Members of Washington\u2019s Camel Club rally to save their leader, who is hiding out in the town of Divine, Va.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446544887.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 156,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Divine-Justice-Camel-David-Baldacci/dp/0446544884?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "DIVINE JUSTICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "039915521X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jayne Ann Krentz",
+        "primary_isbn13": "9780399155215",
+        "description": "Two members of the Arcane Society, dedicated to paranormal research, encounter a group of criminal sensitives.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780515147384.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 174,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Running-Hot-Arcane-Society-Book/dp/039915521X?tag=thenewyorktim-20",
+        "contributor": "by Jayne Ann Krentz",
+        "title": "RUNNING HOT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0515147389",
+            "isbn13": "9780515147384"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399155295",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Dirk Cussler",
+        "primary_isbn13": "9780399155291",
+        "description": "In his 20th adventure, Dirk Pitt searches for a crucial element that will help reverse global warming.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399155291.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Arctic-Drift-Dirk-Novel-Adventure/dp/0399155295?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Dirk Cussler",
+        "title": "ARCTIC DRIFT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425231453",
+            "isbn13": "9780425231456"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307269752",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269751",
+        "description": "A hacker and a journalist investigate the 40-year-old disappearance of a Swedish heiress.",
+        "book_review_link": "//www.nytimes.com/2008/09/30/books/30kaku.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307949486.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 280,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Girl-Dragon-Tattoo-Stieg-Larsson/dp/0307269752?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WITH THE DRAGON TATTOO",
+        "sunday_review_link": "//www.nytimes.com/2008/09/14/books/review/Berenson-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307454541",
+            "isbn13": "9780307454546"
+          },
+          {
+            "isbn10": "0307473473",
+            "isbn13": "9780307473479"
+          },
+          {
+            "isbn10": "0307272117",
+            "isbn13": "9780307272119"
+          },
+          {
+            "isbn10": "0739384155",
+            "isbn13": "9780739384152"
+          },
+          {
+            "isbn10": "0307269752",
+            "isbn13": "9780307269751"
+          },
+          {
+            "isbn10": "0307949494",
+            "isbn13": "9780307949493"
+          },
+          {
+            "isbn10": "0307949486",
+            "isbn13": "9780307949486"
+          }
+        ],
+        "publisher": "Knopf"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2009-01-17",
+    "previous_published_date": "2009-01-25",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2009-02-08"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,758 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2013-04-14",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J R Ward",
+        "primary_isbn13": "9781101607718",
+        "description": "Book 11 of the Black Dagger Brotherhood series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451239358.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lover-Last-Black-Dagger-Brotherhood/dp/0451418808?tag=thenewyorktim-20",
+        "contributor": "by J. R. Ward",
+        "title": "LOVER AT LAST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451239350",
+            "isbn13": "9780451239358"
+          },
+          {
+            "isbn10": "0451418808",
+            "isbn13": "9780451418807"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316128651",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephenie Meyer",
+        "primary_isbn13": "9780316128650",
+        "description": "In this first adult novel by the author of the Twilight series for teenagers, aliens have taken control of the minds and bodies of most humans, but one woman won\u2019t surrender; originally published in 2008.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316218504.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Host-Novel-Stephenie-Meyer/dp/0316218502?tag=thenewyorktim-20",
+        "contributor": "by Stephenie Meyer",
+        "title": "THE HOST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316068055",
+            "isbn13": "9780316068055"
+          },
+          {
+            "isbn10": "0316068047",
+            "isbn13": "9780316068048"
+          },
+          {
+            "isbn10": "0316043044",
+            "isbn13": "9780316043045"
+          },
+          {
+            "isbn10": "0316128651",
+            "isbn13": "9780316128650"
+          },
+          {
+            "isbn10": "0316218502",
+            "isbn13": "9780316218504"
+          },
+          {
+            "isbn10": "0316218510",
+            "isbn13": "9780316218511"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9781101611029",
+        "description": "Six years after the woman he loved married another man, Jake Fisher discovers that neither she nor their life together were what theyseemed, and he sets out to uncover the truth.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101611029.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Six-Years-Harlan-Coben/dp/045141411X?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "SIX YEARS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953485",
+            "isbn13": "9780525953487"
+          },
+          {
+            "isbn10": "1410456064",
+            "isbn13": "9781410456069"
+          },
+          {
+            "isbn10": "045141411X",
+            "isbn13": "9780451414113"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ron Carr",
+        "primary_isbn13": "9781460309674",
+        "description": "Hank Cooper inherits a beachfront property in Thunder Point, Ore., and finds himself with a community\u2019s destiny in his hands.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780778314479.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 315,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Wanderer-Book-Thunder-Point-ebook/dp/B00ALTVIHO?tag=thenewyorktim-20",
+        "contributor": "by Robyn Carr",
+        "title": "THE WANDERER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778314472",
+            "isbn13": "9780778314479"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062075837",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeaniene Frost",
+        "primary_isbn13": "9780062075833",
+        "description": "Leila\u2019s psychic abilities have been sputtering, her vampire lover seems distant, and now she\u2019s in the crosshairs of a killer who may be closer than she realizes.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062075833.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Twice-Tempted-Night-Prince-Jeaniene/dp/0062076108?tag=thenewyorktim-20",
+        "contributor": "by Jeaniene Frost",
+        "title": "TWICE TEMPTED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062076108",
+            "isbn13": "9780062076106"
+          },
+          {
+            "isbn10": "0062075837",
+            "isbn13": "9780062075833"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jasinda Wilder",
+        "primary_isbn13": "A00B00BUPMC8C",
+        "description": "Years after her boyfriend\u2019s accidental death, Nell Hawthorne encounters his older brother, and they embark on a painful but ultimately healing relationship.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": null,
+        "contributor": "by Jasinda Wilder",
+        "title": "FALLING INTO YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Jasinda Wilder"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812984617",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elizabeth Strout",
+        "primary_isbn13": "9780812984613",
+        "description": "Two brothers, both lawyers, come together in a small Maine town to defend their good-for-nothing nephew; by the Pulitzer Prize-winning author of \u201cOlive Kitteridge.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/03/28/books/the-burgess-boys-a-novel-by-elizabeth-strout.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400067688.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Burgess-Boys-A-Novel-ebook/dp/B009MYAWIA?tag=thenewyorktim-20",
+        "contributor": "by Elizabeth Strout",
+        "title": "THE BURGESS BOYS",
+        "sunday_review_link": "//www.nytimes.com/2013/04/28/books/review/the-burgess-boys-by-elizabeth-strout.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400067685",
+            "isbn13": "9781400067688"
+          },
+          {
+            "isbn10": "0812984617",
+            "isbn13": "9780812984613"
+          },
+          {
+            "isbn10": "0812979516",
+            "isbn13": "9780812979510"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439149704",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9781439149706",
+        "description": "A New Hampshire baker finds herself in the midst of two Holocaust stories: her grandmother\u2019s story of survival, and the confessions of an elderly German man, an SS officer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439149706.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Storyteller-Jodi-Picoult-ebook/dp/B008J48RA4?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "THE STORYTELLER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102767",
+            "isbn13": "9781439102763"
+          },
+          {
+            "isbn10": "1439149704",
+            "isbn13": "9781439149706"
+          },
+          {
+            "isbn10": "1611736870",
+            "isbn13": "9781611736878"
+          },
+          {
+            "isbn10": "1439102775",
+            "isbn13": "9781439102770"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097527",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson",
+        "primary_isbn13": "9780316097529",
+        "description": "While Alex Cross pursues a Washington serial killer (or killers?), someone is after him.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316097529.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Alex-Cross-Run-James-Patterson-ebook/dp/B0076DCP16?tag=thenewyorktim-20",
+        "contributor": "by James Patterson",
+        "title": "ALEX CROSS, RUN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097519",
+            "isbn13": "9780316097512"
+          },
+          {
+            "isbn10": "0316097527",
+            "isbn13": "9780316097529"
+          },
+          {
+            "isbn10": "1455521507",
+            "isbn13": "9781455521500"
+          },
+          {
+            "isbn10": "0446571849",
+            "isbn13": "9780446571845"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 43,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Mallery",
+        "primary_isbn13": "9781460306390",
+        "description": "Three women on Blackberry Island, bound by the strongest of friendships, are at crucial turning points in their lives.",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9781460306390.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Three-Sisters-Blackberry-Island-Mallery/dp/0778314340?tag=thenewyorktim-20",
+        "contributor": "by Susan Mallery",
+        "title": "THREE SISTERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778314340",
+            "isbn13": "9780778314349"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sherryl Woods",
+        "primary_isbn13": "9781460309681",
+        "description": "An emergency brings Emily back home to the North Carolina coast, where the man she once loved \u2014 now a widower with a young son \u2014 longs for a second chance.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780778314363.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Sand-Castle-Ocean-Breeze-Novel/dp/0778314367?tag=thenewyorktim-20",
+        "contributor": "by Sherryl Woods",
+        "title": "SAND CASTLE BAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778314367",
+            "isbn13": "9780778314363"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0988982900",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J Lynn",
+        "primary_isbn13": "9780988982901",
+        "description": "Nineteen-year-old Avery Morgansten hopes she can escape the tragedy in her past when she goes to college, but she begins to receive threats.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": null,
+        "contributor": "by J. Lynn",
+        "title": "WAIT FOR YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0988982900",
+            "isbn13": "9780988982901"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "JA Redmerski",
+        "primary_isbn13": "9781455548996",
+        "description": "A woman impulsively boards a Greyhound bus to start everything afresh, and meets a man with a dark secret.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455548996.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Edge-Never-J-A-Redmerski-ebook/dp/B00BL3P5E6?tag=thenewyorktim-20",
+        "contributor": "by  J.A. Redmerski",
+        "title": "THE EDGE OF NEVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jacqueline Winspear",
+        "primary_isbn13": "9780062049629",
+        "description": "In 1933, the private investigator Maisie Dobbs helps an Indian man whose sister\u2019s murder has been ignored by Scotland Yard.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062049605.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Leaving-Everything-Most-Loved-Maisie-ebook/dp/B008QXXQOU?tag=thenewyorktim-20",
+        "contributor": "by Jacqueline Winspear",
+        "title": "LEAVING EVERYTHING MOST LOVED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062049607",
+            "isbn13": "9780062049605"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephanie Laurens",
+        "primary_isbn13": "9780062066275",
+        "description": "After breaking up an ill-suited couple, Henrietta Cynster, known in Regency-era London as \u201cthe Matchbreaker,\u201d is obligated to find the perfect bride for the debonair James Glossup.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062068644.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/And-Then-Fell-Cynster-Sisters-ebook/dp/B008CH2088?tag=thenewyorktim-20",
+        "contributor": "by Stephanie Laurens",
+        "title": "AND THEN SHE FELL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062068644",
+            "isbn13": "9780062068644"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Maeve Binchy",
+        "primary_isbn13": "9780385350082",
+        "description": "An unlikely collection of guests gather at an inn by the sea on Ireland\u2019s west coast; the final book by Binchy, who died in 2012.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307273574.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 341,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/A-Week-Winter-Maeve-Binchy/dp/0307273571?tag=thenewyorktim-20",
+        "contributor": "by Maeve Binchy",
+        "title": "A WEEK IN WINTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307273571",
+            "isbn13": "9780307273574"
+          },
+          {
+            "isbn10": "1410455513",
+            "isbn13": "9781410455512"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "JC Reed",
+        "primary_isbn13": "A00B00BTJQZNC",
+        "description": "Brooke Stewart, a New Yorker who avoids relationships, embarks on an affair with Jeff Mayfield, a millionaire playboy.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": null,
+        "contributor": "by J.C. Reed",
+        "title": "SURRENDER YOUR LOVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "J.C. Reed"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446574244",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9780446574242",
+        "description": "A mysterious young woman, while putting down roots in a small North Carolina town, is still haunted by a dark secret from her past.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455523542.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Safe-Haven-Nicholas-Sparks/dp/044654759X?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "SAFE HAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "044654759X",
+            "isbn13": "9780446547598"
+          },
+          {
+            "isbn10": "0446574244",
+            "isbn13": "9780446574242"
+          },
+          {
+            "isbn10": "0446573671",
+            "isbn13": "9780446573672"
+          },
+          {
+            "isbn10": "0446547603",
+            "isbn13": "9780446547604"
+          },
+          {
+            "isbn10": "0446547573",
+            "isbn13": "9780446547574"
+          },
+          {
+            "isbn10": "1455523542",
+            "isbn13": "9781455523542"
+          },
+          {
+            "isbn10": "1455523550",
+            "isbn13": "9781455523559"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476711100",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kyra Davis",
+        "primary_isbn13": "9781476711102",
+        "description": "Kasie Fitzgerald sleeps with a man in Las Vegas. She meant for it to be just one night, but she winds up wanting more. Part 1 of the Just One Night series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476711102.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": null,
+        "contributor": "by Kyra Davis",
+        "title": "THE STRANGER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476711100",
+            "isbn13": "9781476711102"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2013-03-30",
+    "previous_published_date": "2013-04-07",
+    "normal_list_ends_at": 20,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2013-04-21"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

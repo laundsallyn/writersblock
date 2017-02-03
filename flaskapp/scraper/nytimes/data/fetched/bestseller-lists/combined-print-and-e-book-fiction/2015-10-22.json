@@ -1,0 +1,783 @@
+{
+  "results": {
+    "normal_list_ends_at": 15,
+    "corrections": [
+      {
+        "correction_date": "2015-10-10",
+        "correction_text": "An earlier version of this list misstated part of the title of a book to which \"Shadows of Self,\" by Brandon Sanderson, is a follow-up. It is \"The Alloy of Law,\" not \"The Alloy of Love.\"\n",
+        "list_id": 7178,
+        "correction_id": 89
+      }
+    ],
+    "bestsellers_date": "2015-10-10",
+    "display_name": "Combined Print & E-Book Fiction",
+    "next_published_date": "2015-11-01",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "books": [
+      {
+        "description": "The counterterrorism operative Mitch Rapp must control the damage from a leak of C.I.A. documents. Mills finished the book for Flynn, who died in 2013.",
+        "publisher": "Emily Bestler/Atria",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476783454",
+            "isbn13": "9781476783451"
+          },
+          {
+            "isbn10": "1476783470",
+            "isbn13": "9781476783475"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "THE SURVIVOR",
+        "first_chapter_link": "",
+        "author": "Vince Flynn and Kyle Mills",
+        "rank_last_week": 0,
+        "contributor": "by Vince Flynn and Kyle Mills",
+        "contributor_note": "",
+        "primary_isbn13": "9781476783475",
+        "primary_isbn10": "1476783470",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 1,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476783475.jpg",
+        "amazon_product_url": "http://www.amazon.com/Survivor-Mitch-Rapp-Novel-Book-ebook/dp/B00UDCI7RI?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+        "publisher": "Crown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0804139024",
+            "isbn13": "9780804139021"
+          },
+          {
+            "isbn10": "0553418025",
+            "isbn13": "9780553418026"
+          },
+          {
+            "isbn10": "0091956145",
+            "isbn13": "9780091956141"
+          },
+          {
+            "isbn10": "1594138540",
+            "isbn13": "9781594138546"
+          },
+          {
+            "isbn10": "1101903589",
+            "isbn13": "9781101903582"
+          },
+          {
+            "isbn10": "110190500X",
+            "isbn13": "9781101905005"
+          }
+        ],
+        "weeks_on_list": 20,
+        "dagger": 0,
+        "title": "THE MARTIAN",
+        "first_chapter_link": "",
+        "author": "Andy Weir",
+        "rank_last_week": 1,
+        "contributor": "by Andy Weir",
+        "contributor_note": "",
+        "primary_isbn13": "9780804139038",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 2,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804139038.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A collection of three official prequels to \u201cA Song of Ice and Fire.\u201d",
+        "publisher": "Bantam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0345533488",
+            "isbn13": "9780345533487"
+          },
+          {
+            "isbn10": "0345539117",
+            "isbn13": "9780345539113"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "A KNIGHT OF THE SEVEN KINGDOMS",
+        "first_chapter_link": "",
+        "author": "George R R Martin",
+        "rank_last_week": 0,
+        "contributor": "by George R. R. Martin",
+        "contributor_note": "",
+        "primary_isbn13": "9780345533487",
+        "primary_isbn10": "0345533488",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 3,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345539113.jpg",
+        "amazon_product_url": "http://www.amazon.com/Knight-Seven-Kingdoms-Song-Fire/dp/0345533488?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "When bodies are found at a Hamptons estate where a series of grisly murders once occurred, a local detective and former New York City cop investigates.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316410985",
+            "isbn13": "9780316410984"
+          },
+          {
+            "isbn10": "0316337978",
+            "isbn13": "9780316337977"
+          },
+          {
+            "isbn10": "145558990X",
+            "isbn13": "9781455589906"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "THE MURDER HOUSE",
+        "first_chapter_link": "",
+        "author": "James Patterson and David Ellis",
+        "rank_last_week": 2,
+        "contributor": "by James Patterson and David Ellis",
+        "contributor_note": "",
+        "primary_isbn13": "9780316337977",
+        "primary_isbn10": "0316337978",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 4,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316337977.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Murder-House-James-Patterson-ebook/dp/B00QQQL8JY?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "In a follow-up to \u201cThe Alloy of Law,\u201d the Mistborn world is shaken by terrorism and assassination.",
+        "publisher": "Tor/Tom Doherty",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0765378558",
+            "isbn13": "9780765378552"
+          },
+          {
+            "isbn10": "1466862661",
+            "isbn13": "9781466862661"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "SHADOWS OF SELF",
+        "first_chapter_link": "",
+        "author": "Brandon Sanderson",
+        "rank_last_week": 0,
+        "contributor": "by Brandon Sanderson",
+        "contributor_note": "",
+        "primary_isbn13": "9781466862661",
+        "primary_isbn10": "1466862661",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 5,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780765378552.jpg",
+        "amazon_product_url": "http://www.amazon.com/Shadows-Self-Mistborn-Brandon-Sanderson-ebook/dp/B00R697CGS?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+        "publisher": "Knopf",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0385354282",
+            "isbn13": "9780385354288"
+          },
+          {
+            "isbn10": "0385354290",
+            "isbn13": "9780385354295"
+          },
+          {
+            "isbn10": "110194675X",
+            "isbn13": "9781101946756"
+          }
+        ],
+        "weeks_on_list": 6,
+        "dagger": 0,
+        "title": "THE GIRL IN THE SPIDER'S WEB",
+        "first_chapter_link": "",
+        "author": "David Lagercrantz",
+        "rank_last_week": 5,
+        "contributor": "by David Lagercrantz",
+        "contributor_note": "",
+        "primary_isbn13": "9780385354295",
+        "primary_isbn10": "0385354290",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 6,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385354288.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Spiders-Web-continuing/dp/0385354282?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Jack Reacher pries open a missing-persons case that takes him across the country and into the shadowy reaches of the Internet.",
+        "publisher": "Delacorte",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0804178771",
+            "isbn13": "9780804178778"
+          },
+          {
+            "isbn10": "080417878X",
+            "isbn13": "9780804178785"
+          },
+          {
+            "isbn10": "0804178798",
+            "isbn13": "9780804178792"
+          }
+        ],
+        "weeks_on_list": 5,
+        "dagger": 0,
+        "title": "MAKE ME",
+        "first_chapter_link": "",
+        "author": "Lee Child",
+        "rank_last_week": 4,
+        "contributor": "by Lee Child",
+        "contributor_note": "",
+        "primary_isbn13": "9780804178785",
+        "primary_isbn10": "080417878X",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 7,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804178785.jpg",
+        "amazon_product_url": "http://www.amazon.com/Make-Me-Jack-Reacher-Novel-ebook/dp/B00R04MDAE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Two strangers trying to reach Seattle for Christmas share a rental car, and much else.",
+        "publisher": "Ballantine",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0553391690",
+            "isbn13": "9780553391695"
+          },
+          {
+            "isbn10": "0553391704",
+            "isbn13": "9780553391701"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "DASHING THROUGH THE SNOW",
+        "first_chapter_link": "",
+        "author": "Debbie Macomber",
+        "rank_last_week": 0,
+        "contributor": "by Debbie Macomber",
+        "contributor_note": "",
+        "primary_isbn13": "9780553391701",
+        "primary_isbn10": "0553391704",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 8,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553391701.jpg",
+        "amazon_product_url": "http://www.amazon.com/Dashing-Through-Snow-Christmas-Novel/dp/0553391690?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+        "publisher": "Riverhead",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1594633665",
+            "isbn13": "9781594633669"
+          },
+          {
+            "isbn10": "0698185390",
+            "isbn13": "9780698185395"
+          },
+          {
+            "isbn10": "1410477762",
+            "isbn13": "9781410477767"
+          },
+          {
+            "isbn10": "0857522329",
+            "isbn13": "9780857522320"
+          },
+          {
+            "isbn10": "1448171687",
+            "isbn13": "9781448171682"
+          },
+          {
+            "isbn10": "1594634122",
+            "isbn13": "9781594634123"
+          },
+          {
+            "isbn10": "038568231X",
+            "isbn13": "9780385682312"
+          }
+        ],
+        "weeks_on_list": 39,
+        "dagger": 0,
+        "title": "THE GIRL ON THE TRAIN",
+        "first_chapter_link": "",
+        "author": "Paula Hawkins",
+        "rank_last_week": 9,
+        "contributor": "by Paula Hawkins",
+        "contributor_note": "",
+        "primary_isbn13": "9780698185395",
+        "primary_isbn10": "0698185390",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "rank": 9,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594633669.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html"
+      },
+      {
+        "description": "In a sequel to \u201cMe Before You,\u201d Louisa Clark tries to put her life back together after the death of Will Traynor, and joins a grief support group that may lead her to new love.",
+        "publisher": "Pamela Dorman/Viking",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525426590",
+            "isbn13": "9780525426592"
+          },
+          {
+            "isbn10": "0698152042",
+            "isbn13": "9780698152045"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "AFTER YOU",
+        "first_chapter_link": "",
+        "author": "Jojo Moyes",
+        "rank_last_week": 3,
+        "contributor": "by Jojo Moyes",
+        "contributor_note": "",
+        "primary_isbn13": "9780698152045",
+        "primary_isbn10": "0698152042",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 10,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698152045.jpg",
+        "amazon_product_url": "http://www.amazon.com/After-You-Novel-Jojo-Moyes/dp/0525426590?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+        "publisher": "Scribner",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "weeks_on_list": 56,
+        "dagger": 0,
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "first_chapter_link": "",
+        "author": "Anthony Doerr",
+        "rank_last_week": 13,
+        "contributor": "by Anthony Doerr",
+        "contributor_note": "",
+        "primary_isbn13": "9781476746586",
+        "primary_isbn10": "1476746583",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "rank": 11,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476746586.jpg",
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Americans and Chinese compete to take control of what may be a spaceship approaching Saturn.",
+        "publisher": "Putnam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0399176950",
+            "isbn13": "9780399176951"
+          },
+          {
+            "isbn10": "0698411676",
+            "isbn13": "9780698411678"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "SATURN RUN",
+        "first_chapter_link": "",
+        "author": "John Sandford and Ctein",
+        "rank_last_week": 0,
+        "contributor": "by John Sandford and Ctein",
+        "contributor_note": "",
+        "primary_isbn13": "9780698411678",
+        "primary_isbn10": "0698411676",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 12,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698411678.jpg",
+        "amazon_product_url": "http://www.amazon.com/Saturn-Run-John-Sandford/dp/0399176950?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "When her husband is murdered, a wealthy Atlanta woman discovers shocking secrets about him that lead her to reconnect with her estranged sister; together they investigate the long-ago disappearance of a third sister.",
+        "publisher": "Morrow/HarperCollins",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062429051",
+            "isbn13": "9780062429056"
+          },
+          {
+            "isbn10": "006242906X",
+            "isbn13": "9780062429063"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "PRETTY GIRLS",
+        "first_chapter_link": "",
+        "author": "Karin Slaughter",
+        "rank_last_week": 7,
+        "contributor": "by Karin Slaughter",
+        "contributor_note": "",
+        "primary_isbn13": "9780062429063",
+        "primary_isbn10": "006242906X",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 13,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062429063.jpg",
+        "amazon_product_url": "http://www.amazon.com/Pretty-Girls-Novel-Karin-Slaughter/dp/0062429051?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+        "publisher": "Doubleday",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038553714X",
+            "isbn13": "9780385537148"
+          },
+          {
+            "isbn10": "0385539169",
+            "isbn13": "9780385539166"
+          },
+          {
+            "isbn10": "0385539177",
+            "isbn13": "9780385539173"
+          },
+          {
+            "isbn10": "1101964871",
+            "isbn13": "9781101964873"
+          },
+          {
+            "isbn10": "0345543254",
+            "isbn13": "9780345543257"
+          }
+        ],
+        "weeks_on_list": 24,
+        "dagger": 0,
+        "title": "GRAY MOUNTAIN",
+        "first_chapter_link": "",
+        "author": "John Grisham",
+        "rank_last_week": 14,
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "primary_isbn13": "9780345543257",
+        "primary_isbn10": "0345543254",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 14,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385537148.jpg",
+        "amazon_product_url": "http://www.amazon.com/Gray-Mountain-Novel-John-Grisham/dp/038553714X?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+        "publisher": "Harper",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062409859",
+            "isbn13": "9780062409850"
+          },
+          {
+            "isbn10": "0062409883",
+            "isbn13": "9780062409881"
+          },
+          {
+            "isbn10": "0062409875",
+            "isbn13": "9780062409874"
+          },
+          {
+            "isbn10": "1473535409",
+            "isbn13": "9781473535404"
+          },
+          {
+            "isbn10": "0062454811",
+            "isbn13": "9780062454812"
+          }
+        ],
+        "weeks_on_list": 12,
+        "dagger": 0,
+        "title": "GO SET A WATCHMAN",
+        "first_chapter_link": "",
+        "author": "Harper Lee",
+        "rank_last_week": 0,
+        "contributor": "by Harper Lee",
+        "contributor_note": "",
+        "primary_isbn13": "9780062409850",
+        "primary_isbn10": "0062409859",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/07/14/books/review/harper-lees-go-set-a-watchman.html",
+        "rank": 15,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062409850.jpg",
+        "amazon_product_url": "http://www.amazon.com/Go-Set-Watchman-A-Novel/dp/0062409859?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2015/07/11/books/review-harper-lees-go-set-a-watchman-gives-atticus-finch-a-dark-side.html"
+      },
+      {
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "publisher": "St. Martin's",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0312577222",
+            "isbn13": "9780312577223"
+          },
+          {
+            "isbn10": "1466850604",
+            "isbn13": "9781466850606"
+          },
+          {
+            "isbn10": "1628995017",
+            "isbn13": "9781628995015"
+          },
+          {
+            "isbn10": "1250080401",
+            "isbn13": "9781250080400"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "THE NIGHTINGALE",
+        "first_chapter_link": "",
+        "author": "Kristin Hannah",
+        "rank_last_week": 0,
+        "contributor": "by Kristin Hannah",
+        "contributor_note": "",
+        "primary_isbn13": "9781466850606",
+        "primary_isbn10": "1466850604",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 16,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781466850606.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "With a failed career and a broken heart, a woman returns to her hometown and faces big expectations \u2014 and a chance for love. New in the Chesapeake Shores series.",
+        "publisher": "Mira",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0778317668",
+            "isbn13": "9780778317661"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "WILLOW BROOK ROAD",
+        "first_chapter_link": "",
+        "author": "Sherryl Woods",
+        "rank_last_week": 0,
+        "contributor": "by Sherryl Woods",
+        "contributor_note": "",
+        "primary_isbn13": "9780778317661",
+        "primary_isbn10": "0778317668",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 17,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781460390191.jpg",
+        "amazon_product_url": "http://www.amazon.com/Willow-Brook-Chesapeake-Shores-Novel/dp/0778317668?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "",
+        "publisher": "Berkley",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "042527019X",
+            "isbn13": "9780425270196"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "ALL I WANT",
+        "first_chapter_link": "",
+        "author": "Jill Shalvis",
+        "rank_last_week": 0,
+        "contributor": "by Jill Shalvis",
+        "contributor_note": "",
+        "primary_isbn13": "9781101638477",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 18,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101638477.jpg",
+        "amazon_product_url": "http://www.amazon.com/All-Want-Animal-Magnetism-Novel/dp/042527019X?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Dooley, the adopted son of the Mitford character Father Tim Kavanagh, marries his childhood sweetheart.",
+        "publisher": "Putnam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0399167455",
+            "isbn13": "9780399167454"
+          },
+          {
+            "isbn10": "0698141415",
+            "isbn13": "9780698141414"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "COME RAIN OR COME SHINE",
+        "first_chapter_link": "",
+        "author": "Jan Karon",
+        "rank_last_week": 0,
+        "contributor": "by Jan Karon",
+        "contributor_note": "",
+        "primary_isbn13": "9780399167454",
+        "primary_isbn10": "0399167455",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 19,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399167454.jpg",
+        "amazon_product_url": "http://www.amazon.com/Come-Rain-Shine-Mitford-Novel/dp/0399167455?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A \"Fifty Shades of Grey\" sequel, told from Christian\u2019s point of view, revisits the tortured romance between the controlling billionaire and the unassuming Ana.",
+        "publisher": "Vintage",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1101946342",
+            "isbn13": "9781101946343"
+          },
+          {
+            "isbn10": "1784753254",
+            "isbn13": "9781784753252"
+          },
+          {
+            "isbn10": "1101946350",
+            "isbn13": "9781101946350"
+          },
+          {
+            "isbn10": "1101971541",
+            "isbn13": "9781101971543"
+          },
+          {
+            "isbn10": "1473535956",
+            "isbn13": "9781473535954"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "GREY",
+        "first_chapter_link": "",
+        "author": "E L James",
+        "rank_last_week": 0,
+        "contributor": "by E. L. James",
+        "contributor_note": "",
+        "primary_isbn13": "9781101946343",
+        "primary_isbn10": "1101946342",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 20,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101946350.jpg",
+        "amazon_product_url": "http://www.amazon.com/Grey-Fifty-Shades-Told-Christian-ebook/dp/B00Y6QF0PE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      }
+    ],
+    "previous_published_date": "2015-10-18",
+    "published_date": "2015-10-25"
+  },
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "num_results": 20,
+  "last_modified": "2015-11-09T15:52:02-05:00"
+}

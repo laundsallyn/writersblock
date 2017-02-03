@@ -1,0 +1,828 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2015-10-04",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Andy Weir",
+        "primary_isbn13": "9780804139038",
+        "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804139038.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 17,
+        "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+        "contributor": "by Andy Weir",
+        "title": "THE MARTIAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804139024",
+            "isbn13": "9780804139021"
+          },
+          {
+            "isbn10": "0553418025",
+            "isbn13": "9780553418026"
+          },
+          {
+            "isbn10": "0091956145",
+            "isbn13": "9780091956141"
+          },
+          {
+            "isbn10": "1594138540",
+            "isbn13": "9781594138546"
+          },
+          {
+            "isbn10": "1101903589",
+            "isbn13": "9781101903582"
+          },
+          {
+            "isbn10": "110190500X",
+            "isbn13": "9781101905005"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9780698161474",
+        "description": "Lt. Eve Dallas races the clock to save a woman kidnapped by a couple on a murder spree; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698161474.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Devoted-Death-J-D-Robb-ebook/dp/B00SI0B74M?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "DEVOTED IN DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "039917088X",
+            "isbn13": "9780399170881"
+          },
+          {
+            "isbn10": "0425279146",
+            "isbn13": "9780425279144"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "080417878X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780804178785",
+        "description": "In his 20th appearance, Jack Reacher pries open a missing-persons case that takes him across the country and into the shadowy reaches of the Internet.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804178785.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 323,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Make-Me-Jack-Reacher-Novel-ebook/dp/B00R04MDAE?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "MAKE ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804178771",
+            "isbn13": "9780804178778"
+          },
+          {
+            "isbn10": "080417878X",
+            "isbn13": "9780804178785"
+          },
+          {
+            "isbn10": "0804178798",
+            "isbn13": "9780804178792"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385354290",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Lagercrantz",
+        "primary_isbn13": "9780385354295",
+        "description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385354288.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 347,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Spiders-Web-continuing/dp/0385354282?tag=thenewyorktim-20",
+        "contributor": "by David Lagercrantz",
+        "title": "THE GIRL IN THE SPIDER'S WEB",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385354282",
+            "isbn13": "9780385354288"
+          },
+          {
+            "isbn10": "0385354290",
+            "isbn13": "9780385354295"
+          },
+          {
+            "isbn10": "110194675X",
+            "isbn13": "9781101946756"
+          },
+          {
+            "isbn10": "1101872004",
+            "isbn13": "9781101872000"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Catherine Coulter and JT Ellison",
+        "primary_isbn13": "9780698189317",
+        "description": "The F.B.I. agent Nicholas Drummond and his partner, Mike Caine, investigate a violent environmental group with the help of the C.I.A. and Mossad.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698189317.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 335,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-End-Game-Brit-Novel-ebook/dp/B00SI028CW?tag=thenewyorktim-20",
+        "contributor": "by Catherine Coulter and J.T. Ellison",
+        "title": "THE END GAME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399173803",
+            "isbn13": "9780399173806"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455591742",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Meredith Wild",
+        "primary_isbn13": "9781455591749",
+        "description": "A newlywed's hacker past catches up with him.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455591749.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Hard-Love-The-Hacker-Series-ebook/dp/B00W22ITCU?tag=thenewyorktim-20",
+        "contributor": "by Meredith Wild",
+        "title": "HARD LOVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455591742",
+            "isbn13": "9781455591749"
+          },
+          {
+            "isbn10": "1455591769",
+            "isbn13": "9781455591763"
+          }
+        ],
+        "publisher": "Forever"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345543181",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich and Lee Goldberg",
+        "primary_isbn13": "9780345543189",
+        "description": "The F.B.I. agent Kate O\u2019Hare and her con man partner, Nicholas Fox, pose as gamblers in order to bring down a casino magnate involved in money laundering.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345543189.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Scam-Fox-OHare-Novel/dp/0345543165?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich and Lee Goldberg",
+        "title": "THE SCAM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345543165",
+            "isbn13": "9780345543165"
+          },
+          {
+            "isbn10": "0345543181",
+            "isbn13": "9780345543189"
+          },
+          {
+            "isbn10": "0345543173",
+            "isbn13": "9780345543172"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0698185390",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Paula Hawkins",
+        "primary_isbn13": "9780698185395",
+        "description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 36,
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "contributor": "by Paula Hawkins",
+        "title": "THE GIRL ON THE TRAIN",
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594633665",
+            "isbn13": "9781594633669"
+          },
+          {
+            "isbn10": "0698185390",
+            "isbn13": "9780698185395"
+          },
+          {
+            "isbn10": "1410477762",
+            "isbn13": "9781410477767"
+          },
+          {
+            "isbn10": "0857522329",
+            "isbn13": "9780857522320"
+          },
+          {
+            "isbn10": "1448171687",
+            "isbn13": "9781448171682"
+          },
+          {
+            "isbn10": "1594634122",
+            "isbn13": "9781594634123"
+          },
+          {
+            "isbn10": "038568231X",
+            "isbn13": "9780385682312"
+          },
+          {
+            "isbn10": "1594634025",
+            "isbn13": "9781594634024"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0698405129",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lauren Groff",
+        "primary_isbn13": "9780698405127",
+        "description": "A marriage viewed from two perspectives.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698405127.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Fates-Furies-Novel-Lauren-Groff/dp/1594634475?tag=thenewyorktim-20",
+        "contributor": "by Lauren Groff",
+        "title": "FATES AND FURIES",
+        "sunday_review_link": "//www.nytimes.com/2015/09/13/books/review/lauren-groffs-fates-and-furies.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594634475",
+            "isbn13": "9781594634475"
+          },
+          {
+            "isbn10": "0698405129",
+            "isbn13": "9780698405127"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345543254",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780345543257",
+        "description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537148.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 21,
+        "amazon_product_url": "http://www.amazon.com/Gray-Mountain-Novel-John-Grisham/dp/038553714X?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "GRAY MOUNTAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "038553714X",
+            "isbn13": "9780385537148"
+          },
+          {
+            "isbn10": "0385539169",
+            "isbn13": "9780385539166"
+          },
+          {
+            "isbn10": "0385539177",
+            "isbn13": "9780385539173"
+          },
+          {
+            "isbn10": "1101964871",
+            "isbn13": "9781101964873"
+          },
+          {
+            "isbn10": "0345543254",
+            "isbn13": "9780345543257"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476746583",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anthony Doerr",
+        "primary_isbn13": "9781476746586",
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 53,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "contributor": "by Anthony Doerr",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062409859",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harper Lee",
+        "primary_isbn13": "9780062409850",
+        "description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+        "book_review_link": "//www.nytimes.com/2015/07/11/books/review-harper-lees-go-set-a-watchman-gives-atticus-finch-a-dark-side.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062409850.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Go-Set-Watchman-A-Novel/dp/0062409859?tag=thenewyorktim-20",
+        "contributor": "by Harper Lee",
+        "title": "GO SET A WATCHMAN",
+        "sunday_review_link": "//www.nytimes.com/2015/07/14/books/review/harper-lees-go-set-a-watchman.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062409859",
+            "isbn13": "9780062409850"
+          },
+          {
+            "isbn10": "0062409883",
+            "isbn13": "9780062409881"
+          },
+          {
+            "isbn10": "0062409875",
+            "isbn13": "9780062409874"
+          },
+          {
+            "isbn10": "1473535409",
+            "isbn13": "9781473535404"
+          },
+          {
+            "isbn10": "0062454811",
+            "isbn13": "9780062454812"
+          },
+          {
+            "isbn10": "0062409867",
+            "isbn13": "9780062409867"
+          },
+          {
+            "isbn10": "0062561022",
+            "isbn13": "9780062561022"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "110161434X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Grafton",
+        "primary_isbn13": "9781101614341",
+        "description": "A variety of X\u2019s lead Kinsey Millhone into deep secrets and a cold case.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399163845.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/X-Kinsey-Millhone-Book-24-ebook/dp/B00TY3ZKJA?tag=thenewyorktim-20",
+        "contributor": "by Sue Grafton",
+        "title": "X",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399163840",
+            "isbn13": "9780399163845"
+          },
+          {
+            "isbn10": "110161434X",
+            "isbn13": "9781101614341"
+          },
+          {
+            "isbn10": "1410480240",
+            "isbn13": "9781410480248"
+          }
+        ],
+        "publisher": "Marian Wood/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "142689998X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Marie Force",
+        "primary_isbn13": "9781426899980",
+        "description": "As her husband is about to assume the vice presidency, a lieutenant investigates the disappearance of two students.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781426899980.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Fatal-Frenzy-The-Series-Book-ebook/dp/B00TOVKUZ6?tag=thenewyorktim-20",
+        "contributor": "by Marie Force",
+        "title": "FATAL FRENZY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "142689998X",
+            "isbn13": "9781426899980"
+          }
+        ],
+        "publisher": "Carina"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Alessandra Torre",
+        "primary_isbn13": "9781940941707",
+        "description": "A woman's life is upended when Hollywood's most eligible bachelor descends on her small town.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781940941707.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Hollywood-Dirt-Alessandra-Torre-ebook/dp/B014UA70U8?tag=thenewyorktim-20",
+        "contributor": "by Alessandra Torre",
+        "title": "HOLLYWOOD DIRT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "EverAfter Romance"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1466851899",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "William R Forstchen",
+        "primary_isbn13": "9781466851894",
+        "description": "In a follow-up to \u201cOne Second After,\u201d a New Regime imposes tyranny in the aftermath of a nuclear attack.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466851894.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/One-Year-After-A-Novel/dp/0765376709?tag=thenewyorktim-20",
+        "contributor": "by William R. Forstchen",
+        "title": "ONE YEAR AFTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765376709",
+            "isbn13": "9780765376701"
+          },
+          {
+            "isbn10": "1466851899",
+            "isbn13": "9781466851894"
+          },
+          {
+            "isbn10": "0765376717",
+            "isbn13": "9780765376718"
+          }
+        ],
+        "publisher": "Forge"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1466850604",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kristin Hannah",
+        "primary_isbn13": "9781466850606",
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "contributor": "by Kristin Hannah",
+        "title": "THE NIGHTINGALE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312577222",
+            "isbn13": "9780312577223"
+          },
+          {
+            "isbn10": "1466850604",
+            "isbn13": "9781466850606"
+          },
+          {
+            "isbn10": "1628995017",
+            "isbn13": "9781628995015"
+          },
+          {
+            "isbn10": "1250080401",
+            "isbn13": "9781250080400"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1101946342",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781101946343",
+        "description": "A \"Fifty Shades of Grey\" sequel, told from Christian\u2019s point of view, revisits the tortured romance between the controlling billionaire and the unassuming Ana.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101946350.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Grey-Fifty-Shades-Told-Christian-ebook/dp/B00Y6QF0PE?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1101946342",
+            "isbn13": "9781101946343"
+          },
+          {
+            "isbn10": "1784753254",
+            "isbn13": "9781784753252"
+          },
+          {
+            "isbn10": "1101946350",
+            "isbn13": "9781101946350"
+          },
+          {
+            "isbn10": "1101971541",
+            "isbn13": "9781101971543"
+          },
+          {
+            "isbn10": "1473535956",
+            "isbn13": "9781473535954"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476777950",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christina Lauren",
+        "primary_isbn13": "9781476777955",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476777955.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 323,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dark-Wild-Night-Seasons/dp/1476777942?tag=thenewyorktim-20",
+        "contributor": "by Christina Lauren",
+        "title": "DARK WILD NIGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476777950",
+            "isbn13": "9781476777955"
+          },
+          {
+            "isbn10": "1476777942",
+            "isbn13": "9781476777948"
+          }
+        ],
+        "publisher": "Gallery"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Castle",
+        "primary_isbn13": "9781484724941",
+        "description": "The N.Y.P.D. homicide detective Nikki Heat attempts to stop a killer while her fianc\u00e9, the journalist Jameson Rook, meddles in the case.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781484724941.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Driving-Heat-Nikki-Richard-Castle/dp/1401324827?tag=thenewyorktim-20",
+        "contributor": "by Richard Castle",
+        "title": "DRIVING HEAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401324827",
+            "isbn13": "9781401324827"
+          }
+        ],
+        "publisher": "Kingswell"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2015-09-19",
+    "previous_published_date": "2015-09-27",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2015-10-11"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

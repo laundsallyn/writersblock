@@ -1,0 +1,853 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2012-09-16",
+    "books": [
+      {
+        "price": 25,
+        "primary_isbn10": "030758836X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears on her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 13,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0312655460",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Louise Penny",
+        "primary_isbn13": "9780312655464",
+        "description": "Chief Inspector Armand Gamache of the S\u00fbret\u00e9 du Qu\u00e9bec investigates a murder at a remote abbey.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312655464.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Beautiful-Mystery-Inspector-Gamache-ebook/dp/B0071VURHW?tag=thenewyorktim-20",
+        "contributor": "by Louise Penny",
+        "title": "THE BEAUTIFUL MYSTERY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312655460",
+            "isbn13": "9780312655464"
+          },
+          {
+            "isbn10": "1250015278",
+            "isbn13": "9781250015273"
+          }
+        ],
+        "publisher": "Minotaur"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "0345515633",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tess Gerritsen",
+        "primary_isbn13": "9780345515636",
+        "description": "The detective Jane Rizzoli and the medical examiner Maura Isles protect a boy whose family and foster family have all been murdered.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345535955.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Last-bonus-short-story-John-ebook/dp/B007MDK4RC?tag=thenewyorktim-20",
+        "contributor": "by Tess Gerritsen",
+        "title": "LAST TO DIE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345515633",
+            "isbn13": "9780345515636"
+          },
+          {
+            "isbn10": "0345535952",
+            "isbn13": "9780345535955"
+          },
+          {
+            "isbn10": "1409030369",
+            "isbn13": "9781409030362"
+          },
+          {
+            "isbn10": "0345515528",
+            "isbn13": "9780345515520"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1439102430",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathy Reichs",
+        "primary_isbn13": "9781439102435",
+        "description": "The forensic anthropologist Temperance Brennan pursues a case involving infanticide, murder and corruption; the 15th novel in the series behind the show \u201cBones.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439112823.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Bones-Are-Forever-A-Novel-ebook/dp/B0061PEAUY?tag=thenewyorktim-20",
+        "contributor": "by Kathy Reichs",
+        "title": "BONES ARE FOREVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102430",
+            "isbn13": "9781439102435"
+          },
+          {
+            "isbn10": "1439112827",
+            "isbn13": "9781439112823"
+          },
+          {
+            "isbn10": "1446492869",
+            "isbn13": "9781446492864"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "1451681739",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "M L Stedman",
+        "primary_isbn13": "9781451681734",
+        "description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451681758.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Light-Between-Oceans-Novel-ebook/dp/B0064CL1T2?tag=thenewyorktim-20",
+        "contributor": "by M. L. Stedman",
+        "title": "THE LIGHT BETWEEN OCEANS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451681739",
+            "isbn13": "9781451681734"
+          },
+          {
+            "isbn10": "1451681763",
+            "isbn13": "9781451681765"
+          },
+          {
+            "isbn10": "1451681755",
+            "isbn13": "9781451681758"
+          },
+          {
+            "isbn10": "1594136327",
+            "isbn13": "9781594136320"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 56,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0345528921",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Debbie Macomber",
+        "primary_isbn13": "9780345528926",
+        "description": "A young widow buys a bed-and-breakfast.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345535115.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Harbor-bonus-short-story-First/dp/0345535251?tag=thenewyorktim-20",
+        "contributor": "by Debbie Macomber",
+        "title": "THE INN AT ROSE HARBOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345528921",
+            "isbn13": "9780345528926"
+          },
+          {
+            "isbn10": "0345535111",
+            "isbn13": "9780345535115"
+          },
+          {
+            "isbn10": "0739378287",
+            "isbn13": "9780739378281"
+          },
+          {
+            "isbn10": "0345535251",
+            "isbn13": "9780345535252"
+          },
+          {
+            "isbn10": "0553393650",
+            "isbn13": "9780553393651"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0312554192",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emily Giffin",
+        "primary_isbn13": "9780312554194",
+        "description": "A woman\u2019s successful life is disrupted by the appearance of an 18-year-old girl with a link to her past.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429957861.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Where-We-Belong-Emily-Giffin-ebook/dp/B0071NMK66?tag=thenewyorktim-20",
+        "contributor": "by Emily Giffin",
+        "title": "WHERE WE BELONG",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312554192",
+            "isbn13": "9780312554194"
+          },
+          {
+            "isbn10": "1429957867",
+            "isbn13": "9781429957861"
+          },
+          {
+            "isbn10": "0312554184",
+            "isbn13": "9780312554187"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0385343213",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780385343213",
+        "description": "Three boys and two girls who meet in kindergarten maintain their bonds as they grow to adulthood.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385343213.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Friends-Forever-Novel-Danielle-Steel-ebook/dp/B0062OCNX0?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "FRIENDS FOREVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385343213",
+            "isbn13": "9780385343213"
+          },
+          {
+            "isbn10": "0345533569",
+            "isbn13": "9780345533562"
+          },
+          {
+            "isbn10": "1409092593",
+            "isbn13": "9781409092599"
+          },
+          {
+            "isbn10": "0307990656",
+            "isbn13": "9780307990655"
+          },
+          {
+            "isbn10": "0440245249",
+            "isbn13": "9780440245247"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "034551064X",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Anne Perry",
+        "primary_isbn13": "9780345510648",
+        "description": "A murder case for William Monk of the Thames River Police culminates in a government minister\u2019s corruption trial.",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345510648.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Sunless-Sea-William-Novel-Novels/dp/034551064X?tag=thenewyorktim-20",
+        "contributor": "by Anne Perry",
+        "title": "A SUNLESS SEA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "034551064X",
+            "isbn13": "9780345510648"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0553807749",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dean Koontz",
+        "primary_isbn13": "9780553807745",
+        "description": "Odd Thomas, who can communicate with the dead, explores the mysteries of an old estate now owned by a billionaire.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553593099.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Odd-Apocalypse-An-Thomas-Novel-ebook/dp/B0064C3TWE?tag=thenewyorktim-20",
+        "contributor": "by Dean Koontz",
+        "title": "ODD APOCALYPSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553807749",
+            "isbn13": "9780553807745"
+          },
+          {
+            "isbn10": "0345533585",
+            "isbn13": "9780345533586"
+          },
+          {
+            "isbn10": "0007327110",
+            "isbn13": "9780007327119"
+          },
+          {
+            "isbn10": "0307990672",
+            "isbn13": "9780307990679"
+          },
+          {
+            "isbn10": "0553593099",
+            "isbn13": "9780553593099"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "1439192987",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Brad Thor",
+        "primary_isbn13": "9781439192986",
+        "description": "If the counterterrorism operative Scot Harvath can discover who targeted him for death, he can prevent a terrorist attack.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439193020.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 275,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Black-List-Thriller-Brad-Thor-ebook/dp/B004T4KX0U?tag=thenewyorktim-20",
+        "contributor": "by Brad Thor",
+        "title": "BLACK LIST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439192987",
+            "isbn13": "9781439192986"
+          },
+          {
+            "isbn10": "1439193061",
+            "isbn13": "9781439193068"
+          },
+          {
+            "isbn10": "1439193029",
+            "isbn13": "9781439193020"
+          }
+        ],
+        "publisher": "Emily Bestler/Atria"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "1416550763",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christie Golden",
+        "primary_isbn13": "9781416550761",
+        "description": "A World of Warcraft fantasy novel.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416550761.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/World-Warcraft-Jaina-Proudmoore-Tides/dp/1416550763?tag=thenewyorktim-20",
+        "contributor": "by Christie Golden",
+        "title": "JAINA PROUDMOORE: TIDES OF WAR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416550747",
+            "isbn13": "9781416550747"
+          },
+          {
+            "isbn10": "1416550763",
+            "isbn13": "9781416550761"
+          }
+        ],
+        "publisher": "Gallery Books"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "145162607X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Philippa Gregory",
+        "primary_isbn13": "9781451626070",
+        "description": "Chicanery in the court of Edward IV, narrated by Anne Neville.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451626087.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Kingmakers-Daughter-Cousins-War-ebook/dp/B006BAEQB2?tag=thenewyorktim-20",
+        "contributor": "by Philippa Gregory",
+        "title": "THE KINGMAKER\u2019S DAUGHTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "145162607X",
+            "isbn13": "9781451626070"
+          },
+          {
+            "isbn10": "1451626142",
+            "isbn13": "9781451626148"
+          },
+          {
+            "isbn10": "1451626088",
+            "isbn13": "9781451626087"
+          }
+        ],
+        "publisher": "Touchstone/Simon & Schuster"
+      },
+      {
+        "price": 28.95,
+        "primary_isbn10": "0670023485",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Deborah Harkness",
+        "primary_isbn13": "9780670023486",
+        "description": "An Oxford scholar/witch and a vampire geneticist pursue history, secrets and each other in Elizabethan London.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670023486.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Shadow-Night-All-Souls-Trilogy/dp/0143123629?tag=thenewyorktim-20",
+        "contributor": "by Deborah Harkness",
+        "title": "SHADOW OF NIGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670023485",
+            "isbn13": "9780670023486"
+          },
+          {
+            "isbn10": "0143123629",
+            "isbn13": "9780143123620"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0316204277",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Maria Semple",
+        "primary_isbn13": "9780316204279",
+        "description": "A renowned and reclusive Seattle architect disappears, leaving her 15-year-old daughter to piece together the clues.",
+        "book_review_link": "//www.nytimes.com/2012/08/07/books/whered-you-go-bernadette-a-maria-semple-novel.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316204286.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Whered-You-Go-Bernadette-Novel-ebook/dp/B006L8942U?tag=thenewyorktim-20",
+        "contributor": "by Maria Semple",
+        "title": "WHERE'D YOU GO, BERNADETTE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316204277",
+            "isbn13": "9780316204279"
+          },
+          {
+            "isbn10": "0316204285",
+            "isbn13": "9780316204286"
+          },
+          {
+            "isbn10": "0316204269",
+            "isbn13": "9780316204262"
+          },
+          {
+            "isbn10": "1594136319",
+            "isbn13": "9781594136313"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307959945",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Peter Heller",
+        "primary_isbn13": "9780307959942",
+        "description": "After a flu pandemic kills much of the population, a pilot sets off in his Cessna to follow the voice on a staticky radio transmission.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307960931.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Dog-Stars-Peter-Heller-ebook/dp/B007GZELF2?tag=thenewyorktim-20",
+        "contributor": "by Peter Heller",
+        "title": "THE DOG STARS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307959945",
+            "isbn13": "9780307959942"
+          },
+          {
+            "isbn10": "0307960935",
+            "isbn13": "9780307960931"
+          },
+          {
+            "isbn10": "0307950476",
+            "isbn13": "9780307950475"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399157514",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "W E B Griffin and William E Butterworth IV",
+        "primary_isbn13": "9780399157516",
+        "description": "In the seventh book in the Men at War series, O.S.S. agents must sabotage Germany\u2019s rocket plans and protect the Manhattan Project.",
+        "book_review_link": "",
+        "book_image_height": 171,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101517680.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Spymasters-Men-War-Novel/dp/B00F6EABQI?tag=thenewyorktim-20",
+        "contributor": "by W. E. B. Griffin and William E. Butterworth IV",
+        "title": "THE SPYMASTERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157514",
+            "isbn13": "9780399157516"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345523474",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Terry Brooks",
+        "primary_isbn13": "9780345523471",
+        "description": "In the first book of a new fantasy series, the Dark Legacy of Shannara, Druids, Elves and humans unite to try to capture the Elfstones and rescue the troubled Four Lands.",
+        "book_review_link": "",
+        "book_image_height": 214,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345523471.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Wards-Faerie-Dark-Legacy-Shannara-ebook/dp/B007QPHKDC?tag=thenewyorktim-20",
+        "contributor": "by Terry Brooks",
+        "title": "WARDS OF FAERIE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345523474",
+            "isbn13": "9780345523471"
+          },
+          {
+            "isbn10": "0345523490",
+            "isbn13": "9780345523495"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062073125",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Silva",
+        "primary_isbn13": "9780062073129",
+        "description": "Gabriel Allon, an art restorer and spy for the Israeli secret service, discovers a global criminal enterprise behind a murder at the Vatican.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 205,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062253835.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Fallen-Angel-Gabriel-Allon/dp/006207315X?tag=thenewyorktim-20",
+        "contributor": "by Daniel Silva",
+        "title": "THE FALLEN ANGEL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062073125",
+            "isbn13": "9780062073129"
+          },
+          {
+            "isbn10": "0062073176",
+            "isbn13": "9780062073174"
+          },
+          {
+            "isbn10": "0007433328",
+            "isbn13": "9780007433322"
+          },
+          {
+            "isbn10": "0062128140",
+            "isbn13": "9780062128140"
+          },
+          {
+            "isbn10": "0062253832",
+            "isbn13": "9780062253835"
+          },
+          {
+            "isbn10": "006207315X",
+            "isbn13": "9780062073150"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2012-09-01",
+    "previous_published_date": "2012-09-09",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2012-09-23"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,792 @@
+{
+  "results": {
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "bestsellers_date": "2015-06-13",
+    "display_name": "Combined Print & E-Book Fiction",
+    "next_published_date": "2015-07-05",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "books": [
+      {
+        "description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+        "publisher": "Riverhead",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1594633665",
+            "isbn13": "9781594633669"
+          },
+          {
+            "isbn10": "0698185390",
+            "isbn13": "9780698185395"
+          },
+          {
+            "isbn10": "1410477762",
+            "isbn13": "9781410477767"
+          },
+          {
+            "isbn10": "0857522329",
+            "isbn13": "9780857522320"
+          },
+          {
+            "isbn10": "1448171687",
+            "isbn13": "9781448171682"
+          },
+          {
+            "isbn10": "1594634122",
+            "isbn13": "9781594634123"
+          },
+          {
+            "isbn10": "038568231X",
+            "isbn13": "9780385682312"
+          }
+        ],
+        "weeks_on_list": 22,
+        "dagger": 0,
+        "title": "THE GIRL ON THE TRAIN",
+        "first_chapter_link": "",
+        "author": "Paula Hawkins",
+        "rank_last_week": 2,
+        "contributor": "by Paula Hawkins",
+        "contributor_note": "",
+        "primary_isbn13": "9780698185395",
+        "primary_isbn10": "0698185390",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "rank": 1,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594633669.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html"
+      },
+      {
+        "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+        "publisher": "Crown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0804139024",
+            "isbn13": "9780804139021"
+          },
+          {
+            "isbn10": "0553418025",
+            "isbn13": "9780553418026"
+          },
+          {
+            "isbn10": "0091956145",
+            "isbn13": "9780091956141"
+          },
+          {
+            "isbn10": "1594138540",
+            "isbn13": "9781594138546"
+          },
+          {
+            "isbn10": "1101903589",
+            "isbn13": "9781101903582"
+          },
+          {
+            "isbn10": "110190500X",
+            "isbn13": "9781101905005"
+          }
+        ],
+        "weeks_on_list": 3,
+        "dagger": 0,
+        "title": "THE MARTIAN",
+        "first_chapter_link": "",
+        "author": "Andy Weir",
+        "rank_last_week": 0,
+        "contributor": "by Andy Weir",
+        "contributor_note": "",
+        "primary_isbn13": "9780804139038",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 2,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804139038.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A deranged reader\u2019s infatuation with a Salingeresque novelist has dangerous and long-lasting consequences in a sequel to \u201cMr. Mercedes.\u201d",
+        "publisher": "Scribner",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501100076",
+            "isbn13": "9781501100079"
+          },
+          {
+            "isbn10": "1501100130",
+            "isbn13": "9781501100130"
+          },
+          {
+            "isbn10": "1410479501",
+            "isbn13": "9781410479501"
+          },
+          {
+            "isbn10": "1501100122",
+            "isbn13": "9781501100123"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "FINDERS KEEPERS",
+        "first_chapter_link": "",
+        "author": "Stephen King",
+        "rank_last_week": 1,
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "primary_isbn13": "9781501100079",
+        "primary_isbn10": "1501100076",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/05/31/books/review/stephen-kings-finders-keepers.html",
+        "rank": 3,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781501100130.jpg",
+        "amazon_product_url": "http://www.amazon.com/Finders-Keepers-Novel-Stephen-King-ebook/dp/B00P42WROG?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+        "publisher": "Scribner",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "weeks_on_list": 39,
+        "dagger": 0,
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "first_chapter_link": "",
+        "author": "Anthony Doerr",
+        "rank_last_week": 4,
+        "contributor": "by Anthony Doerr",
+        "contributor_note": "",
+        "primary_isbn13": "9781476746586",
+        "primary_isbn10": "1476746583",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "rank": 4,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476746586.jpg",
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The vampire hunter Anita Blake helps the F.B.I. investigate zombie porn.",
+        "publisher": "Berkley",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0425255719",
+            "isbn13": "9780425255711"
+          },
+          {
+            "isbn10": "0698140303",
+            "isbn13": "9780698140301"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "DEAD ICE",
+        "first_chapter_link": "",
+        "author": "Laurell K Hamilton",
+        "rank_last_week": 0,
+        "contributor": "by Laurell K. Hamilton",
+        "contributor_note": "",
+        "primary_isbn13": "9780698140301",
+        "primary_isbn10": "0698140303",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 5,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780425255711.jpg",
+        "amazon_product_url": "http://www.amazon.com/Dead-Anita-Blake-Vampire-Hunter/dp/0425255719?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Secrets are revealed and love stories play out against the backdrop of a series of panic-inducing plane crashes in 1950s New Jersey.",
+        "publisher": "Knopf",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1101875046",
+            "isbn13": "9781101875049"
+          },
+          {
+            "isbn10": "1101875054",
+            "isbn13": "9781101875056"
+          },
+          {
+            "isbn10": "0804194769",
+            "isbn13": "9780804194761"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "IN THE UNLIKELY EVENT",
+        "first_chapter_link": "",
+        "author": "Judy Blume",
+        "rank_last_week": 3,
+        "contributor": "by Judy Blume",
+        "contributor_note": "",
+        "primary_isbn13": "9781101875056",
+        "primary_isbn10": "1101875054",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/05/31/books/review/judy-blumes-in-the-unlikely-event.html",
+        "rank": 6,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101875056.jpg",
+        "amazon_product_url": "http://www.amazon.com/In-Unlikely-Event-Judy-Blume-ebook/dp/B00R04MDYA?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A surveillance expert monitors the activities of a newly resurgent Russia.",
+        "publisher": "Grand Central",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0446580856",
+            "isbn13": "9780446580854"
+          },
+          {
+            "isbn10": "145558231X",
+            "isbn13": "9781455582310"
+          },
+          {
+            "isbn10": "1455589594",
+            "isbn13": "9781455589593"
+          },
+          {
+            "isbn10": "0446699624",
+            "isbn13": "9780446699624"
+          }
+        ],
+        "weeks_on_list": 3,
+        "dagger": 0,
+        "title": "RADIANT ANGEL",
+        "first_chapter_link": "",
+        "author": "Nelson DeMille",
+        "rank_last_week": 5,
+        "contributor": "by Nelson DeMille",
+        "contributor_note": "",
+        "primary_isbn13": "9781455582310",
+        "primary_isbn10": "145558231X",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 7,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780446580854.jpg",
+        "amazon_product_url": "http://www.amazon.com/Radiant-Angel-John-Corey-Novel/dp/0446580856?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Three friends in South Carolina\u2019s Lowcountry grapple with the challenges of being unmarried.",
+        "publisher": "Morrow/HarperCollins",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062132563",
+            "isbn13": "9780062132567"
+          },
+          {
+            "isbn10": "0062132571",
+            "isbn13": "9780062132574"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "ALL THE SINGLE LADIES",
+        "first_chapter_link": "",
+        "author": "Dorothea Benton Frank",
+        "rank_last_week": 0,
+        "contributor": "by Dorothea Benton Frank",
+        "contributor_note": "",
+        "primary_isbn13": "9780062132574",
+        "primary_isbn10": "0062132571",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 8,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062132574.jpg",
+        "amazon_product_url": "http://www.amazon.com/All-Single-Ladies-A-Novel-ebook/dp/B00NEOM5FM?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The life of a successful New York magazine writer is shaken when secrets from her past are revealed in a documentary.",
+        "publisher": "Simon & Schuster",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476789630",
+            "isbn13": "9781476789637"
+          },
+          {
+            "isbn10": "1476789657",
+            "isbn13": "9781476789651"
+          },
+          {
+            "isbn10": "1476789649",
+            "isbn13": "9781476789644"
+          }
+        ],
+        "weeks_on_list": 5,
+        "dagger": 0,
+        "title": "LUCKIEST GIRL ALIVE",
+        "first_chapter_link": "",
+        "author": "Jessica Knoll",
+        "rank_last_week": 8,
+        "contributor": "by Jessica Knoll",
+        "contributor_note": "",
+        "primary_isbn13": "9781476789651",
+        "primary_isbn10": "1476789657",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 9,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476789651.jpg",
+        "amazon_product_url": "http://www.amazon.com/Luckiest-Girl-Alive-A-Novel-ebook/dp/B00LD1OITO?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A police detective who left the force when his family was murdered teams up with his former partner to solve the case.",
+        "publisher": "Grand Central",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1455559822",
+            "isbn13": "9781455559824"
+          },
+          {
+            "isbn10": "1455589489",
+            "isbn13": "9781455589487"
+          },
+          {
+            "isbn10": "1455586382",
+            "isbn13": "9781455586387"
+          },
+          {
+            "isbn10": "1455559814",
+            "isbn13": "9781455559817"
+          },
+          {
+            "isbn10": "1455559806",
+            "isbn13": "9781455559800"
+          }
+        ],
+        "weeks_on_list": 8,
+        "dagger": 0,
+        "title": "MEMORY MAN",
+        "first_chapter_link": "",
+        "author": "David Baldacci",
+        "rank_last_week": 6,
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "primary_isbn13": "9781455586387",
+        "primary_isbn10": "1455586382",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 10,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455586387.jpg",
+        "amazon_product_url": "http://www.amazon.com/Memory-Amos-Decker-David-Baldacci-ebook/dp/B00N7TDP8K?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "publisher": "St. Martin's",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0312577222",
+            "isbn13": "9780312577223"
+          },
+          {
+            "isbn10": "1466850604",
+            "isbn13": "9781466850606"
+          },
+          {
+            "isbn10": "1628995017",
+            "isbn13": "9781628995015"
+          },
+          {
+            "isbn10": "1250080401",
+            "isbn13": "9781250080400"
+          }
+        ],
+        "weeks_on_list": 19,
+        "dagger": 0,
+        "title": "THE NIGHTINGALE",
+        "first_chapter_link": "",
+        "author": "Kristin Hannah",
+        "rank_last_week": 9,
+        "contributor": "by Kristin Hannah",
+        "contributor_note": "",
+        "primary_isbn13": "9781466850606",
+        "primary_isbn10": "1466850604",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 11,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781466850606.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A guilt-racked survivor of the Napoleonic wars strikes a marriage bargain with a woman who had resigned herself to spinsterhood; a Survivors\u2019 Club novel.",
+        "publisher": "Signet",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0451469674",
+            "isbn13": "9780451469670"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "ONLY A PROMISE",
+        "first_chapter_link": "",
+        "author": "Mary Balogh",
+        "rank_last_week": 0,
+        "contributor": "by Mary Balogh",
+        "contributor_note": "",
+        "primary_isbn13": "9780698156098",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 12,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780451469670.jpg",
+        "amazon_product_url": "http://www.amazon.com/Only-Promise-Survivors-Club-Novel/dp/0451469674?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "An impromptu couple find that their pretended engagement is becoming increasingly attractive.",
+        "publisher": "Denise Grover Swank",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1939996236",
+            "isbn13": "9781939996237"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "THE SUBSTITUTE",
+        "first_chapter_link": "",
+        "author": "Denise Grover Swank",
+        "rank_last_week": 0,
+        "contributor": "by Denise Grover Swank",
+        "contributor_note": "",
+        "primary_isbn13": "9781939996237",
+        "primary_isbn10": "1939996236",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 13,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781939996237.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Substitute-Wedding-Pact-ebook/dp/B00M7C185A?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "When a video of a shocking crime surfaces, it casts suspicion on a San Francisco detective's colleagues.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "031640702X",
+            "isbn13": "9780316407021"
+          },
+          {
+            "isbn10": "031640876X",
+            "isbn13": "9780316408769"
+          },
+          {
+            "isbn10": "1455584991",
+            "isbn13": "9781455584994"
+          }
+        ],
+        "weeks_on_list": 6,
+        "dagger": 0,
+        "title": "14TH DEADLY SIN",
+        "first_chapter_link": "",
+        "author": "James Patterson and Maxine Paetro",
+        "rank_last_week": 7,
+        "contributor": "by James Patterson and Maxine Paetro",
+        "contributor_note": "",
+        "primary_isbn13": "9780316408769",
+        "primary_isbn10": "031640876X",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 14,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316407021.jpg",
+        "amazon_product_url": "http://www.amazon.com/14th-Deadly-Womens-Murder-Club/dp/031640702X?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A laid-off reporter investigates his ailing father\u2019s past after he discovers millions of dollars hidden in the old man\u2019s house.",
+        "publisher": "Dutton",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525954619",
+            "isbn13": "9780525954613"
+          },
+          {
+            "isbn10": "069819084X",
+            "isbn13": "9780698190849"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "THE FIXER",
+        "first_chapter_link": "",
+        "author": "Joseph Finder",
+        "rank_last_week": 0,
+        "contributor": "by Joseph Finder",
+        "contributor_note": "",
+        "primary_isbn13": "9780698190849",
+        "primary_isbn10": "069819084X",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/06/14/books/review/the-fixer-by-joseph-finder.html",
+        "rank": 15,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780525954613.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Fixer-Joseph-Finder/dp/0525954619?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "After witnessing a coordinated lion ambush in Africa, a young biologist races to warn world leaders about the reasons for escalating animal attacks on cities.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316097446",
+            "isbn13": "9780316097444"
+          },
+          {
+            "isbn10": "0316097438",
+            "isbn13": "9780316097437"
+          },
+          {
+            "isbn10": "0446571792",
+            "isbn13": "9780446571791"
+          },
+          {
+            "isbn10": "1455525154",
+            "isbn13": "9781455525157"
+          },
+          {
+            "isbn10": "1455536709",
+            "isbn13": "9781455536702"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "ZOO",
+        "first_chapter_link": "",
+        "author": "James Patterson and Michael Ledwidge",
+        "rank_last_week": 0,
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "contributor_note": "",
+        "primary_isbn13": "9780316097437",
+        "primary_isbn10": "0316097438",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 16,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780446571791.jpg",
+        "amazon_product_url": "http://www.amazon.com/Zoo-James-Patterson-ebook/dp/B0076DFB2G?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "",
+        "publisher": "St. Martin's",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250007046",
+            "isbn13": "9781250007049"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "BLUEPRINTS",
+        "first_chapter_link": "",
+        "author": "Barbara Delinsky",
+        "rank_last_week": 0,
+        "contributor": "by Barbara Delinsky",
+        "contributor_note": "",
+        "primary_isbn13": "9781466878853",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 17,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781466878853.jpg",
+        "amazon_product_url": "http://www.amazon.com/Blueprints-A-Novel-Barbara-Delinsky-ebook/dp/B00PP63PAQ?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "",
+        "publisher": "Loveswept",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1101886773",
+            "isbn13": "9781101886779"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "ZACK",
+        "first_chapter_link": "",
+        "author": "Sawyer Bennett",
+        "rank_last_week": 0,
+        "contributor": "by Sawyer Bennett",
+        "contributor_note": "",
+        "primary_isbn13": "9781101886779",
+        "primary_isbn10": "1101886773",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 18,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101886779.jpg",
+        "amazon_product_url": "http://www.amazon.com/Zack-Cold-Hockey-Novel-Carolina-ebook/dp/B00R04OX5C?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A man sets out to thwart an American weapons designer.",
+        "publisher": "Putnam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0399167323",
+            "isbn13": "9780399167324"
+          },
+          {
+            "isbn10": "1410477460",
+            "isbn13": "9781410477460"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "PIRANHA",
+        "first_chapter_link": "",
+        "author": "Clive Cussler and Boyd Morrison",
+        "rank_last_week": 0,
+        "contributor": "by Clive Cussler and Boyd Morrison",
+        "contributor_note": "",
+        "primary_isbn13": "9780698140769",
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 19,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698140769.jpg",
+        "amazon_product_url": "http://www.amazon.com/Piranha-Oregon-Files-Clive-Cussler-ebook/dp/B00O2BKMWE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The first volume of the series featuring an 18th-century Scottish warrior and a World War II-era nurse who has been sucked back across two centuries to be at his side; first published in 1991.",
+        "publisher": "Dell",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0440335167",
+            "isbn13": "9780440335160"
+          },
+          {
+            "isbn10": "0440212561",
+            "isbn13": "9780440212560"
+          },
+          {
+            "isbn10": "0385319959",
+            "isbn13": "9780385319959"
+          },
+          {
+            "isbn10": "0553393693",
+            "isbn13": "9780553393699"
+          },
+          {
+            "isbn10": "0553393707",
+            "isbn13": "9780553393705"
+          },
+          {
+            "isbn10": "0440423201",
+            "isbn13": "9780440423201"
+          },
+          {
+            "isbn10": "0385302304",
+            "isbn13": "9780385302302"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "OUTLANDER",
+        "first_chapter_link": "",
+        "author": "Diana Gabaldon",
+        "rank_last_week": 0,
+        "contributor": "by Diana Gabaldon",
+        "contributor_note": "",
+        "primary_isbn13": "9780440335160",
+        "primary_isbn10": "0440335167",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 20,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780440212560.jpg",
+        "amazon_product_url": "http://www.amazon.com/Outlander-Diana-Gabaldon/dp/0440212561?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      }
+    ],
+    "previous_published_date": "2015-06-21",
+    "published_date": "2015-06-28"
+  },
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "num_results": 20,
+  "last_modified": "2015-12-09T12:11:13-05:00"
+}

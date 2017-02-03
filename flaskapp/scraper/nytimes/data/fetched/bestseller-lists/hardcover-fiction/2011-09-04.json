@@ -1,0 +1,849 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2011-09-04",
+    "books": [
+      {
+        "price": 29.99,
+        "primary_isbn10": "0765327724",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Terry Goodkind",
+        "primary_isbn13": "9780765327727",
+        "description": "A return to the lives of Richard Rahl and Kahlan Amnell, in a tale of a new threat to their world.",
+        "book_review_link": "",
+        "book_image_height": 477,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765327727.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Omen-Machine-Sword-Truth-ebook/dp/B004DNW65W?tag=thenewyorktim-20",
+        "contributor": "by Terry Goodkind",
+        "title": "THE OMEN MACHINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765327724",
+            "isbn13": "9780765327727"
+          },
+          {
+            "isbn10": "1429965010",
+            "isbn13": "9781429965019"
+          },
+          {
+            "isbn10": "0765329697",
+            "isbn13": "9780765329691"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "141658661X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Thor",
+        "primary_isbn13": "9781416586616",
+        "description": "The covert counterterrorism operative Scot Harvath has a plan to stop a terrorist group that wants to take down the United States.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416586616.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Full-Black-Thriller-Brad-Thor/dp/1451675240?tag=thenewyorktim-20",
+        "contributor": "by Brad Thor",
+        "title": "FULL BLACK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "141658661X",
+            "isbn13": "9781416586616"
+          },
+          {
+            "isbn10": "1416586768",
+            "isbn13": "9781416586760"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s Mississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 4,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 11,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 105,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0446554987",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Douglas Preston and Lincoln Child",
+        "primary_isbn13": "9780446554985",
+        "description": "Devastated by the murder of his wife, Special Agent Aloysius Pendergast seeks retribution. But as he hunts her betrayers, a monstrous conspiracy emerges.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446554985.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Cold-Vengeance-Douglas-Preston/dp/0446554979?tag=thenewyorktim-20",
+        "contributor": "by Douglas Preston and Lincoln Child",
+        "title": "COLD VENGEANCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446554987",
+            "isbn13": "9780446554985"
+          },
+          {
+            "isbn10": "1455500135",
+            "isbn13": "9781455500130"
+          },
+          {
+            "isbn10": "044657600X",
+            "isbn13": "9780446576000"
+          },
+          {
+            "isbn10": "1609413865",
+            "isbn13": "9781609413866"
+          },
+          {
+            "isbn10": "0446554979",
+            "isbn13": "9780446554978"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "045146379X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jim Butcher",
+        "primary_isbn13": "9780451463791",
+        "description": "Harry Dresden, the wizard detective in Chicago, has been murdered. But that doesn\u2019t stop him when his friends are in danger.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101476178.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 282,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Ghost-Story-Novel-Dresden-Files-ebook/dp/B004H4XI0Y?tag=thenewyorktim-20",
+        "contributor": "by Jim Butcher",
+        "title": "GHOST STORY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "045146379X",
+            "isbn13": "9780451463791"
+          },
+          {
+            "isbn10": "0142429066",
+            "isbn13": "9780142429068"
+          },
+          {
+            "isbn10": "0451464079",
+            "isbn13": "9780451464071"
+          }
+        ],
+        "publisher": "Roc"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "052595225X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Julie Garwood",
+        "primary_isbn13": "9780525952251",
+        "description": "A doctor who witnesses the shooting of an F.B.I. agent finds herself drawn to the agent leading the case.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525952251.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Ideal-Man-Julie-Garwood-ebook/dp/B004XFZ8PK?tag=thenewyorktim-20",
+        "contributor": "by Julie Garwood",
+        "title": "THE IDEAL MAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "052595225X",
+            "isbn13": "9780525952251"
+          },
+          {
+            "isbn10": "0451235134",
+            "isbn13": "9780451235138"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0062072188",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Silva",
+        "primary_isbn13": "9780062072184",
+        "description": "To stop a network of death, an international operative must reach into his violent past.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062072184.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Portrait-Gabriel-Allon-Daniel-Silva-ebook/dp/B004KKXWMO?tag=thenewyorktim-20",
+        "contributor": "by Daniel Silva",
+        "title": "PORTRAIT OF A SPY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062072188",
+            "isbn13": "9780062072184"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399157557",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "W E B Griffin and William E Butterworth IV",
+        "primary_isbn13": "9780399157554",
+        "description": "Weeks after Hitler\u2019s suicide, Cletus Frade and his O.S.S. colleagues face battles.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780515150988.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Victory-Honor-HONOR-W-E-B-Griffin-ebook/dp/B0052RHEQY?tag=thenewyorktim-20",
+        "contributor": "by W. E. B. Griffin and William E. Butterworth IV",
+        "title": "VICTORY AND HONOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157557",
+            "isbn13": "9780399157554"
+          },
+          {
+            "isbn10": "0515150983",
+            "isbn13": "9780515150988"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 65,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316036218",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316036214",
+        "description": "Nina Bloom is forced to confront the past and the killer she thought she had escaped.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316127233.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Now-You-See-James-Patterson/dp/1455515515?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "NOW YOU SEE HER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316036218",
+            "isbn13": "9780316036214"
+          },
+          {
+            "isbn10": "0316120553",
+            "isbn13": "9780316120555"
+          },
+          {
+            "isbn10": "031612723X",
+            "isbn13": "9780316127233"
+          },
+          {
+            "isbn10": "0446574708",
+            "isbn13": "9780446574709"
+          },
+          {
+            "isbn10": "1455515515",
+            "isbn13": "9781455515516"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0062049801",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Ann Patchett",
+        "primary_isbn13": "9780062049803",
+        "description": "In Brazil, a medical researcher seeks her former mentor, who is developing a miracle fertility drug.",
+        "book_review_link": "//www.nytimes.com/2011/06/02/books/state-of-wonder-by-ann-patchett-book-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062049827.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/State-Wonder-Novel-Ann-Patchett/dp/006204981X?tag=thenewyorktim-20",
+        "contributor": "by Ann Patchett",
+        "title": "STATE OF WONDER",
+        "sunday_review_link": "//www.nytimes.com/2011/06/19/books/review/book-review-state-of-wonder-by-ann-patchett.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062049801",
+            "isbn13": "9780062049803"
+          },
+          {
+            "isbn10": "0062049828",
+            "isbn13": "9780062049827"
+          },
+          {
+            "isbn10": "006204981X",
+            "isbn13": "9780062049810"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0670022691",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Amor Towles",
+        "primary_isbn13": "9780670022694",
+        "description": "A chance encounter and its consequences provide a 25-year-old woman access to the New York social circle in the 1930s.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670022694.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Rules-Civility-Novel-Amor-Towles-ebook/dp/B004IYJDVG?tag=thenewyorktim-20",
+        "contributor": "by Amor Towles",
+        "title": "RULES OF CIVILITY",
+        "sunday_review_link": "//www.nytimes.com/2011/08/14/books/review/rules-of-civility-by-amor-towles-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670022691",
+            "isbn13": "9780670022694"
+          },
+          {
+            "isbn10": "0143121162",
+            "isbn13": "9780143121169"
+          },
+          {
+            "isbn10": "1444708872",
+            "isbn13": "9781444708875"
+          },
+          {
+            "isbn10": "1594135517",
+            "isbn13": "9781594135514"
+          },
+          {
+            "isbn10": "1444708856",
+            "isbn13": "9781444708851"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0345521307",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Paula McLain",
+        "primary_isbn13": "9780345521309",
+        "description": "Ernest Hemingway's first wife narrates this novel set in Paris.",
+        "book_review_link": "//www.nytimes.com/2011/02/28/books/28book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345521323.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 268,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 21,
+        "amazon_product_url": "http://www.amazon.com/The-Paris-Wife-A-Novel-ebook/dp/B004DEPELY?tag=thenewyorktim-20",
+        "contributor": "by Paula McLain",
+        "title": "THE PARIS WIFE",
+        "sunday_review_link": "//www.nytimes.com/2011/03/20/books/review/book-review-the-paris-wife-by-paula-mclain.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345521307",
+            "isbn13": "9780345521309"
+          },
+          {
+            "isbn10": "0345521323",
+            "isbn13": "9780345521323"
+          },
+          {
+            "isbn10": "1611730171",
+            "isbn13": "9781611730173"
+          },
+          {
+            "isbn10": "0345521315",
+            "isbn13": "9780345521316"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0670022314",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lev Grossman",
+        "primary_isbn13": "9780670022311",
+        "description": "In this second volume, following \u201cThe Magicians,\u201d Quentin and his friends are now rulers in the kingdom of Fillory.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670022311.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Magician-King-Novel-Magicians-ebook/dp/B004XFZ8X2?tag=thenewyorktim-20",
+        "contributor": "by Lev Grossman",
+        "title": "THE MAGICIAN KING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316071099",
+            "isbn13": "9780316071093"
+          },
+          {
+            "isbn10": "0670022314",
+            "isbn13": "9780670022311"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "0345509161",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Christie Golden",
+        "primary_isbn13": "9780345509161",
+        "description": "The Jedi face the Sith, a deposed dictator and an evil entity hungry to become a god; a \u201cStar Wars: Fate of the Jedi\u201d book.",
+        "book_review_link": "",
+        "book_image_height": 210,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345509161.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Ascension-Star-Wars-Fate-Legends-ebook/dp/B004J4WM7M?tag=thenewyorktim-20",
+        "contributor": "by Christie Golden",
+        "title": "ASCENSION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345509161",
+            "isbn13": "9780345509161"
+          },
+          {
+            "isbn10": "0345519590",
+            "isbn13": "9780345519597"
+          },
+          {
+            "isbn10": "0345509153",
+            "isbn13": "9780345509154"
+          }
+        ],
+        "publisher": "LucasBooks"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345527682",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich",
+        "primary_isbn13": "9780345527684",
+        "description": "No one is sure why dead bodies are turning up in shallow graves on an empty construction lot, but it soon becomes clear that the bounty hunter Stephanie Plum is on the killer\u2019s list.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345527691.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Smokin-Seventeen-Stephanie-Janet-Evanovich/dp/0345527704?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich",
+        "title": "SMOKIN\u2019 SEVENTEEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345527682",
+            "isbn13": "9780345527684"
+          },
+          {
+            "isbn10": "0345527690",
+            "isbn13": "9780345527691"
+          },
+          {
+            "isbn10": "0345527704",
+            "isbn13": "9780345527707"
+          },
+          {
+            "isbn10": "0307932230",
+            "isbn13": "9780307932235"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446583146",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446583145",
+        "description": "After the death of his devoted wife, a father struggles to keep his family together, and in the process learns to love again.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 276,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446583145.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/One-Summer-David-Baldacci/dp/0446583154?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "ONE SUMMER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446583146",
+            "isbn13": "9780446583145"
+          },
+          {
+            "isbn10": "0446583170",
+            "isbn13": "9780446583176"
+          },
+          {
+            "isbn10": "0446583154",
+            "isbn13": "9780446583152"
+          },
+          {
+            "isbn10": "0446583162",
+            "isbn13": "9780446583169"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385340303",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780385340304",
+        "description": "Three very different people \u2014 a woman, her daughter and a former football player \u2014 arrive at their own crucial turning points on the same day.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385340304.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Happy-Birthday-Novel-Danielle-Steel-ebook/dp/B004J4WLDW?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "HAPPY BIRTHDAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385340303",
+            "isbn13": "9780385340304"
+          },
+          {
+            "isbn10": "0440423317",
+            "isbn13": "9780440423317"
+          },
+          {
+            "isbn10": "1423320964",
+            "isbn13": "9781423320968"
+          },
+          {
+            "isbn10": "0440243343",
+            "isbn13": "9780440243342"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451617720",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jennifer Weiner",
+        "primary_isbn13": "9781451617726",
+        "description": "Told from alternating perspectives, this timely tale delves into women\u2019s lives, with themes of class and entitlement, surrogacy and donorship.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451617726.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Then-Came-You-A-Novel-ebook/dp/B004G8QSC6?tag=thenewyorktim-20",
+        "contributor": "by Jennifer Weiner",
+        "title": "THEN CAME YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451617720",
+            "isbn13": "9781451617726"
+          },
+          {
+            "isbn10": "1451617747",
+            "isbn13": "9781451617740"
+          },
+          {
+            "isbn10": "1451617739",
+            "isbn13": "9781451617733"
+          }
+        ],
+        "publisher": "Atria"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2011-08-20",
+    "previous_published_date": "2011-08-28",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2011-09-11"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

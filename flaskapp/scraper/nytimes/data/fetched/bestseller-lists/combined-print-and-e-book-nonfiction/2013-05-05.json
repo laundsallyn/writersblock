@@ -1,0 +1,897 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2013-05-05",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0385349947",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sheryl Sandberg with Nell Scovell",
+        "primary_isbn13": "9780385349949",
+        "description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence and to cultivate a will to lead.",
+        "book_review_link": "//www.nytimes.com/2013/03/07/books/sheryl-sandbergs-lean-in.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385349956.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Lean-In-Women-Work-Will-ebook/dp/B009LMTDL0?tag=thenewyorktim-20",
+        "contributor": "by Sheryl Sandberg with Nell Scovell",
+        "title": "LEAN IN",
+        "sunday_review_link": "//www.nytimes.com/2013/03/10/books/review/sheryl-sandbergs-lean-in.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385349947",
+            "isbn13": "9780385349949"
+          },
+          {
+            "isbn10": "0385394233",
+            "isbn13": "9780385394239"
+          },
+          {
+            "isbn10": "0553544470",
+            "isbn13": "9780553544473"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316175862",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tina Fey",
+        "primary_isbn13": "9780316175869",
+        "description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+        "book_review_link": "//www.nytimes.com/2011/04/04/books/bossypants-by-tina-fey-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316056892.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 51,
+        "amazon_product_url": "http://www.amazon.com/Bossypants-Tina-Fey/dp/0316056898?tag=thenewyorktim-20",
+        "contributor": "by Tina Fey",
+        "title": "BOSSYPANTS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316056863",
+            "isbn13": "9780316056861"
+          },
+          {
+            "isbn10": "031617789X",
+            "isbn13": "9780316177894"
+          },
+          {
+            "isbn10": "0316175862",
+            "isbn13": "9780316175869"
+          },
+          {
+            "isbn10": "031619803X",
+            "isbn13": "9780316198035"
+          },
+          {
+            "isbn10": "0316056871",
+            "isbn13": "9780316056878"
+          },
+          {
+            "isbn10": "0316056898",
+            "isbn13": "9780316056892"
+          },
+          {
+            "isbn10": "1609419693",
+            "isbn13": "9781609419691"
+          },
+          {
+            "isbn10": "0606267212",
+            "isbn13": "9780606267212"
+          },
+          {
+            "isbn10": "0751547832",
+            "isbn13": "9780751547832"
+          }
+        ],
+        "publisher": "Reagan Arthur/Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451695195",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eben Alexander",
+        "primary_isbn13": "9781451695199",
+        "description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+        "book_review_link": "",
+        "book_image_height": 300,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451695199.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 26,
+        "amazon_product_url": "http://www.amazon.com/Proof-Heaven-Neurosurgeons-Journey-Afterlife/dp/1451695195?tag=thenewyorktim-20",
+        "contributor": "by Eben Alexander",
+        "title": "PROOF OF HEAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451695187",
+            "isbn13": "9781451695182"
+          },
+          {
+            "isbn10": "1451695195",
+            "isbn13": "9781451695199"
+          },
+          {
+            "isbn10": "1451695209",
+            "isbn13": "9781451695205"
+          },
+          {
+            "isbn10": "1476753024",
+            "isbn13": "9781476753027"
+          },
+          {
+            "isbn10": "1442359315",
+            "isbn13": "9781442359314"
+          },
+          {
+            "isbn10": "1410458806",
+            "isbn13": "9781410458803"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307476073",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cheryl Strayed",
+        "primary_isbn13": "9780307476074",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 43,
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "contributor": "by Cheryl Strayed",
+        "title": "WILD",
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307592731",
+            "isbn13": "9780307592736"
+          },
+          {
+            "isbn10": "0307957659",
+            "isbn13": "9780307957658"
+          },
+          {
+            "isbn10": "0307476073",
+            "isbn13": "9780307476074"
+          },
+          {
+            "isbn10": "1594136742",
+            "isbn13": "9781594136740"
+          },
+          {
+            "isbn10": "0307970299",
+            "isbn13": "9780307970299"
+          },
+          {
+            "isbn10": "1101873442",
+            "isbn13": "9781101873441"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451621396",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susannah Cahalan",
+        "primary_isbn13": "9781451621396",
+        "description": "A medical mystery in which doctors struggle to discover why a young reporter suddenly experiences seizures, hallucinations and eventually near catatonia.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451621389.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Brain-Fire-My-Month-Madness/dp/1451621388?tag=thenewyorktim-20",
+        "contributor": "by Susannah Cahalan",
+        "title": "BRAIN ON FIRE",
+        "sunday_review_link": "//www.nytimes.com/2012/12/23/books/review/brain-on-fire-by-susannah-cahalan.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "145162137X",
+            "isbn13": "9781451621372"
+          },
+          {
+            "isbn10": "1451621396",
+            "isbn13": "9781451621396"
+          },
+          {
+            "isbn10": "1611749786",
+            "isbn13": "9781611749786"
+          },
+          {
+            "isbn10": "1451621388",
+            "isbn13": "9781451621389"
+          }
+        ],
+        "publisher": "Free Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "111845295X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Gerzema and Michael D\u2019Antonio",
+        "primary_isbn13": "9781118452950",
+        "description": "How feminine values of nurturing, listening and collaborating are redefining success for both genders.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781118452950.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Athena-Doctrine-Women-Future/dp/111845295X?tag=thenewyorktim-20",
+        "contributor": "by John Gerzema and Michael D\u2019Antonio",
+        "title": "ATHENA DOCTRINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "111845295X",
+            "isbn13": "9781118452950"
+          }
+        ],
+        "publisher": "Jossey-Bass"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805096671",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805096675",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of John F. Kennedy, a tragedy that has left a lasting imprint on the nation.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805096668.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 29,
+        "amazon_product_url": "http://www.amazon.com/Killing-Kennedy-The-End-Camelot-ebook/dp/B0079886DY?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING KENNEDY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805096663",
+            "isbn13": "9780805096668"
+          },
+          {
+            "isbn10": "0805096671",
+            "isbn13": "9780805096675"
+          },
+          {
+            "isbn10": "1427226849",
+            "isbn13": "9781427226846"
+          },
+          {
+            "isbn10": "1410452964",
+            "isbn13": "9781410452962"
+          },
+          {
+            "isbn10": "1250092337",
+            "isbn13": "9781250092335"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062238868",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "primary_isbn13": "9780062238863",
+        "description": "A member of the Navy SEALs who had the most career sniper kills in United States military history discusses his childhood, his marriage and his battlefield experiences during the Iraq war. Kyle was recently shot to death in Texas.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062082374.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 29,
+        "amazon_product_url": "http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=thenewyorktim-20",
+        "contributor": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+        "title": "AMERICAN SNIPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062082353",
+            "isbn13": "9780062082350"
+          },
+          {
+            "isbn10": "006208237X",
+            "isbn13": "9780062082374"
+          },
+          {
+            "isbn10": "0062209493",
+            "isbn13": "9780062209498"
+          },
+          {
+            "isbn10": "0062107062",
+            "isbn13": "9780062107060"
+          },
+          {
+            "isbn10": "0062238868",
+            "isbn13": "9780062238863"
+          },
+          {
+            "isbn10": "0062290797",
+            "isbn13": "9780062290793"
+          },
+          {
+            "isbn10": "0062376578",
+            "isbn13": "9780062376572"
+          },
+          {
+            "isbn10": "0062376330",
+            "isbn13": "9780062376336"
+          },
+          {
+            "isbn10": "0062297872",
+            "isbn13": "9780062297877"
+          },
+          {
+            "isbn10": "0062082361",
+            "isbn13": "9780062082367"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0393081575",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Roach",
+        "primary_isbn13": "9780393081572",
+        "description": "A science writer\u2019s pilgrimage down the digestive tract; by the author of \u201cStiff,\u201d \u201cSpook,\u201d \u201cBonk\u201d and \u201cPacking for Mars.\u201d",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780393240306.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Gulp-Adventures-Alimentary-Mary-Roach-ebook/dp/B00AN86JZ4?tag=thenewyorktim-20",
+        "contributor": "by Mary Roach",
+        "title": "GULP",
+        "sunday_review_link": "//www.nytimes.com/2013/04/28/books/review/gulp-by-mary-roach.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0393081575",
+            "isbn13": "9780393081572"
+          },
+          {
+            "isbn10": "0393348741",
+            "isbn13": "9780393348743"
+          }
+        ],
+        "publisher": "Norton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062213652",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Debbie Reynolds and Dorian Hannaway",
+        "primary_isbn13": "9780062213655",
+        "description": "A second memoir by the actress, singer and dancer presents stories about her show-business friends, her man and money troubles, and her children.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062213655.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Unsinkable-A-Memoir-Debbie-Reynolds/dp/0062213652?tag=thenewyorktim-20",
+        "contributor": "by Debbie Reynolds and Dorian Hannaway",
+        "title": "UNSINKABLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062213652",
+            "isbn13": "9780062213655"
+          },
+          {
+            "isbn10": "0062213660",
+            "isbn13": "9780062213662"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451692706",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gabrielle Reece with Karen Karbo",
+        "primary_isbn13": "9781451692709",
+        "description": "The athlete and fashion model discusses her marriage, relationship issues and aging gracefully.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451692662.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Foot-Too-Big-Glass-Slipper-ebook/dp/B008J48HRM?tag=thenewyorktim-20",
+        "contributor": "by Gabrielle Reece with Karen Karbo",
+        "title": "MY FOOT IS TOO BIG FOR THE GLASS SLIPPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451692668",
+            "isbn13": "9781451692662"
+          },
+          {
+            "isbn10": "1451692706",
+            "isbn13": "9781451692709"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307352153",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Cain",
+        "primary_isbn13": "9780307352156",
+        "description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307452207.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 22,
+        "amazon_product_url": "http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B004J4WNL2?tag=thenewyorktim-20",
+        "contributor": "by Susan Cain",
+        "title": "QUIET",
+        "sunday_review_link": "//www.nytimes.com/2012/02/12/books/review/susan-cains-quiet-argues-for-the-power-of-introverts.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307352145",
+            "isbn13": "9780307352149"
+          },
+          {
+            "isbn10": "0307452204",
+            "isbn13": "9780307452207"
+          },
+          {
+            "isbn10": "0307352153",
+            "isbn13": "9780307352156"
+          },
+          {
+            "isbn10": "1611734207",
+            "isbn13": "9781611734201"
+          },
+          {
+            "isbn10": "0739341243",
+            "isbn13": "9780739341247"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594204802",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mark Mazzetti",
+        "primary_isbn13": "9781594204807",
+        "description": "The Times\u2019s national security correspondent describes how the lines between the C.I.A. and the American military have been blurred.",
+        "book_review_link": "//www.nytimes.com/2013/04/25/books/the-way-of-the-knife-by-mark-mazzetti.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594204807.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Way-Knife-Secret-Earth/dp/1594204802?tag=thenewyorktim-20",
+        "contributor": "by Mark Mazzetti",
+        "title": "WAY OF THE KNIFE",
+        "sunday_review_link": "//www.nytimes.com/2013/05/12/books/review/the-way-of-the-knife-by-mark-mazzetti.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594204802",
+            "isbn13": "9781594204807"
+          }
+        ],
+        "publisher": "Penguin Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455506125",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charles Graeber",
+        "primary_isbn13": "9781455506125",
+        "description": "A journalist tells the story of Charlie Cullen, the serial killer known as \u201cthe Angel of Death,\u201d implicated in the deaths of as many as 300 patients in a string of hospitals.",
+        "book_review_link": "//www.nytimes.com/2013/04/12/books/the-good-nurse-by-charles-graeber.html",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446505291.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Good-Nurse-Medicine-Madness/dp/0446505293?tag=thenewyorktim-20",
+        "contributor": "by Charles Graeber",
+        "title": "THE GOOD NURSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446505293",
+            "isbn13": "9780446505291"
+          },
+          {
+            "isbn10": "1455506125",
+            "isbn13": "9781455506125"
+          },
+          {
+            "isbn10": "1455574139",
+            "isbn13": "9781455574131"
+          }
+        ],
+        "publisher": "Twelve"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400064163",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9781400064168",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II after his plane went down over the Pacific.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 19,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 115,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0310330912",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ben C Carson and Candy Carson",
+        "primary_isbn13": "9780310330912",
+        "description": "A doctor explores what makes America great.",
+        "book_review_link": "",
+        "book_image_height": 449,
+        "book_image": "https://s1.nyt.com/du/books/images/9780310330714.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/America-Beautiful-Rediscovering-Nation-Great/dp/0310330718?tag=thenewyorktim-20",
+        "contributor": "by Ben C. Carson and Candy Carson",
+        "title": "AMERICA THE BEAUTIFUL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0310330718",
+            "isbn13": "9780310330714"
+          },
+          {
+            "isbn10": "0310330912",
+            "isbn13": "9780310330912"
+          },
+          {
+            "isbn10": "0310417341",
+            "isbn13": "9780310417347"
+          }
+        ],
+        "publisher": "Zondervan"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429996870",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9781429996877",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805093070.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 80,
+        "amazon_product_url": "http://www.amazon.com/Killing-Lincoln-Shocking-Assassination-Changed-ebook/dp/B004ULORYU?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING LINCOLN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805093079",
+            "isbn13": "9780805093070"
+          },
+          {
+            "isbn10": "1429996870",
+            "isbn13": "9781429996877"
+          },
+          {
+            "isbn10": "1427213127",
+            "isbn13": "9781427213129"
+          },
+          {
+            "isbn10": "1410443000",
+            "isbn13": "9781410443007"
+          },
+          {
+            "isbn10": "1250012163",
+            "isbn13": "9781250012166"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0684864835",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Frank McCourt",
+        "primary_isbn13": "9780684864839",
+        "description": "An Irish-American writer recalls his childhood amid the miseries of Limerick; originally published in 1996.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780684874357.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Angelas-Ashes-Frank-McCourt/dp/0684874350?tag=thenewyorktim-20",
+        "contributor": "by Frank McCourt",
+        "title": "ANGELA'S ASHES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0684864835",
+            "isbn13": "9780684864839"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0374533555",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Kahneman",
+        "primary_isbn13": "9780374533557",
+        "description": "The winner of the Nobel in economic science discusses how we make choices in business and personal life and when we can and cannot trust our intuitions.",
+        "book_review_link": "//www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429969352.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 17,
+        "amazon_product_url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20",
+        "contributor": "by Daniel Kahneman",
+        "title": "THINKING, FAST AND SLOW",
+        "sunday_review_link": "//www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374275637",
+            "isbn13": "9780374275631"
+          },
+          {
+            "isbn10": "0739357980",
+            "isbn13": "9780739357989"
+          },
+          {
+            "isbn10": "0374533555",
+            "isbn13": "9780374533557"
+          },
+          {
+            "isbn10": "0606275649",
+            "isbn13": "9780606275644"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670026557",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Adam Grant",
+        "primary_isbn13": "9780670026555",
+        "description": "A Wharton professor\u2019s research discloses that success depends on how we interact with others, and he argues that \"givers\" do better than \"takers.\"\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101622841.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Give-Take-Revolutionary-Approach-Success/dp/0670026557?tag=thenewyorktim-20",
+        "contributor": "by Adam Grant",
+        "title": "GIVE AND TAKE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670026557",
+            "isbn13": "9780670026555"
+          },
+          {
+            "isbn10": "0143124986",
+            "isbn13": "9780143124986"
+          }
+        ],
+        "publisher": "Viking"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2013-04-20",
+    "previous_published_date": "2013-04-28",
+    "normal_list_ends_at": 20,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2013-05-12"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

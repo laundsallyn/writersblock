@@ -1,0 +1,888 @@
+{
+  "results": {
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "bestsellers_date": "2014-12-20",
+    "display_name": "Combined Print & E-Book Fiction",
+    "next_published_date": "2015-01-11",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "books": [
+      {
+        "description": "A lawyer joins a legal clinic in a small Virginia town, and becomes involved in litigation against the coal mining industry.",
+        "publisher": "Doubleday",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038553714X",
+            "isbn13": "9780385537148"
+          },
+          {
+            "isbn10": "0385539169",
+            "isbn13": "9780385539166"
+          },
+          {
+            "isbn10": "0385539177",
+            "isbn13": "9780385539173"
+          },
+          {
+            "isbn10": "1101964871",
+            "isbn13": "9781101964873"
+          },
+          {
+            "isbn10": "0345543254",
+            "isbn13": "9780345543257"
+          }
+        ],
+        "weeks_on_list": 9,
+        "dagger": 0,
+        "title": "GRAY MOUNTAIN",
+        "first_chapter_link": "",
+        "author": "John Grisham",
+        "rank_last_week": 4,
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "primary_isbn13": "9780385537148",
+        "primary_isbn10": "038553714X",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 1,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385537148.jpg",
+        "amazon_product_url": "http://www.amazon.com/Gray-Mountain-Novel-John-Grisham/dp/038553714X?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "publisher": "Crown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "weeks_on_list": 108,
+        "dagger": 0,
+        "title": "GONE GIRL",
+        "first_chapter_link": "",
+        "author": "Gillian Flynn",
+        "rank_last_week": 3,
+        "contributor": "by Gillian Flynn",
+        "contributor_note": "",
+        "primary_isbn13": "9780307588388",
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "rank": 2,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307588388.jpg",
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html"
+      },
+      {
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+        "publisher": "Scribner",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "weeks_on_list": 14,
+        "dagger": 0,
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "first_chapter_link": "",
+        "author": "Anthony Doerr",
+        "rank_last_week": 1,
+        "contributor": "by Anthony Doerr",
+        "contributor_note": "",
+        "primary_isbn13": "9781476746609",
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "rank": 3,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476746586.jpg",
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Detective Alex Cross\u2019s family is kidnapped by a madman who wants to turn Cross into a perfect killer.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "031621096X",
+            "isbn13": "9780316210966"
+          },
+          {
+            "isbn10": "1455515825",
+            "isbn13": "9781455515820"
+          },
+          {
+            "isbn10": "1455515833",
+            "isbn13": "9781455515837"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "title": "HOPE TO DIE",
+        "first_chapter_link": "",
+        "author": "James Patterson",
+        "rank_last_week": 5,
+        "contributor": "by James Patterson",
+        "contributor_note": "",
+        "primary_isbn13": "9780316210966",
+        "primary_isbn10": "031621096X",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 4,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316210942.jpg",
+        "amazon_product_url": "http://www.amazon.com/Hope-Alex-Cross-James-Patterson/dp/031621096X?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "John Puller, a special agent with the Army, hunts for his brother, who was convicted of treason and has escaped from prison.",
+        "publisher": "Grand Central",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1455521191",
+            "isbn13": "9781455521197"
+          },
+          {
+            "isbn10": "1455521272",
+            "isbn13": "9781455521272"
+          },
+          {
+            "isbn10": "1455530174",
+            "isbn13": "9781455530175"
+          },
+          {
+            "isbn10": "1455521167",
+            "isbn13": "9781455521166"
+          },
+          {
+            "isbn10": "1455521256",
+            "isbn13": "9781455521258"
+          }
+        ],
+        "weeks_on_list": 5,
+        "dagger": 0,
+        "title": "THE ESCAPE",
+        "first_chapter_link": "",
+        "author": "David Baldacci",
+        "rank_last_week": 2,
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "primary_isbn13": "9781455521272",
+        "primary_isbn10": "1455521272",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 5,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455521197.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Escape-John-Puller-Book-ebook/dp/B00IRISI42?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The continuing relationship over five decades between a disgraced clergyman and a drug-addicted musician whom he mentored as a boy.",
+        "publisher": "Scribner",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476770387",
+            "isbn13": "9781476770383"
+          },
+          {
+            "isbn10": "1476770409",
+            "isbn13": "9781476770406"
+          },
+          {
+            "isbn10": "141047383X",
+            "isbn13": "9781410473837"
+          },
+          {
+            "isbn10": "1476770395",
+            "isbn13": "9781476770390"
+          }
+        ],
+        "weeks_on_list": 6,
+        "dagger": 0,
+        "title": "REVIVAL",
+        "first_chapter_link": "",
+        "author": "Stephen King",
+        "rank_last_week": 8,
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "primary_isbn13": "9781476770383",
+        "primary_isbn10": "1476770387",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2014/11/23/books/review/stephen-kings-revival.html",
+        "rank": 6,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476770406.jpg",
+        "amazon_product_url": "http://www.amazon.com/Revival-A-Novel-Stephen-King-ebook/dp/B00ILHW6AG?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2014/11/14/books/stephen-kings-revival.html"
+      },
+      {
+        "description": "The Los Angeles detective Harry Bosch and his new partner investigate two long-unsolved cases.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316225932",
+            "isbn13": "9780316225939"
+          },
+          {
+            "isbn10": "0316297070",
+            "isbn13": "9780316297073"
+          },
+          {
+            "isbn10": "0316225924",
+            "isbn13": "9780316225922"
+          },
+          {
+            "isbn10": "0316410705",
+            "isbn13": "9780316410700"
+          },
+          {
+            "isbn10": "1455524190",
+            "isbn13": "9781455524198"
+          },
+          {
+            "isbn10": "1455524182",
+            "isbn13": "9781455524181"
+          }
+        ],
+        "weeks_on_list": 7,
+        "dagger": 0,
+        "title": "THE BURNING ROOM",
+        "first_chapter_link": "",
+        "author": "Michael Connelly",
+        "rank_last_week": 6,
+        "contributor": "by Michael Connelly",
+        "contributor_note": "",
+        "primary_isbn13": "9780316225922",
+        "primary_isbn10": "0316225924",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 7,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316225939.jpg",
+        "amazon_product_url": "http://www.amazon.com/Burning-Room-Harry-Bosch-Novel/dp/0316225932?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A discovery of mineral deposits has changed North Korea\u2019s fortunes and made the country even more of a threat for President Jack Ryan.",
+        "publisher": "Putnam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0399173358",
+            "isbn13": "9780399173356"
+          },
+          {
+            "isbn10": "1410474909",
+            "isbn13": "9781410474902"
+          },
+          {
+            "isbn10": "0425279774",
+            "isbn13": "9780425279779"
+          }
+        ],
+        "weeks_on_list": 3,
+        "dagger": 0,
+        "title": "TOM CLANCY FULL FORCE AND EFFECT",
+        "first_chapter_link": "",
+        "author": "Mark Greaney",
+        "rank_last_week": 9,
+        "contributor": "by Mark Greaney",
+        "contributor_note": "",
+        "primary_isbn13": "9780399173356",
+        "primary_isbn10": "0399173358",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 8,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698185364.jpg",
+        "amazon_product_url": "http://www.amazon.com/Clancy-Full-Force-Effect-Novel/dp/0399173358?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+        "publisher": "Amy Einhorn/Putnam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0399167064",
+            "isbn13": "9780399167065"
+          },
+          {
+            "isbn10": "0698138635",
+            "isbn13": "9780698138636"
+          },
+          {
+            "isbn10": "1410472035",
+            "isbn13": "9781410472038"
+          },
+          {
+            "isbn10": "0425274861",
+            "isbn13": "9780425274866"
+          },
+          {
+            "isbn10": "1594139067",
+            "isbn13": "9781594139062"
+          }
+        ],
+        "weeks_on_list": 15,
+        "dagger": 0,
+        "title": "BIG LITTLE LIES",
+        "first_chapter_link": "",
+        "author": "Liane Moriarty",
+        "rank_last_week": 10,
+        "contributor": "by Liane Moriarty",
+        "contributor_note": "",
+        "primary_isbn13": "9780698138636",
+        "primary_isbn10": "0698138635",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 9,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698138636.jpg",
+        "amazon_product_url": "http://www.amazon.com/Big-Little-Lies-Liane-Moriarty-ebook/dp/B00HDMMISA?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2014/07/25/books/in-big-little-lies-liane-moriarty-finds-new-complications.html"
+      },
+      {
+        "description": "After searching for her mother, who has disappeared, for more than 10 years, a woman employs a psychic and a private detective.",
+        "publisher": "Ballantine",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0345544927",
+            "isbn13": "9780345544926"
+          },
+          {
+            "isbn10": "0345544935",
+            "isbn13": "9780345544933"
+          },
+          {
+            "isbn10": "1410463737",
+            "isbn13": "9781410463739"
+          },
+          {
+            "isbn10": "0345544943",
+            "isbn13": "9780345544940"
+          },
+          {
+            "isbn10": "1594138761",
+            "isbn13": "9781594138768"
+          }
+        ],
+        "weeks_on_list": 10,
+        "dagger": 0,
+        "title": "LEAVING TIME",
+        "first_chapter_link": "",
+        "author": "Jodi Picoult",
+        "rank_last_week": 12,
+        "contributor": "by Jodi Picoult",
+        "contributor_note": "",
+        "primary_isbn13": "9780345544926",
+        "primary_isbn10": "0345544927",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 10,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345544933.jpg",
+        "amazon_product_url": "http://www.amazon.com/Leaving-Time-Novel-Jodi-Picoult-ebook/dp/B00HXYKYIE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Eva and Gideon's love is threatened by old wounds; a Crossfire novel.",
+        "publisher": "Berkley",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0425273865",
+            "isbn13": "9780425273869"
+          }
+        ],
+        "weeks_on_list": 5,
+        "dagger": 0,
+        "title": "CAPTIVATED BY YOU",
+        "first_chapter_link": "",
+        "author": "Sylvia Day",
+        "rank_last_week": 13,
+        "contributor": "by Sylvia Day",
+        "contributor_note": "",
+        "primary_isbn13": "9780698153462",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 11,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698153462.jpg",
+        "amazon_product_url": "http://www.amazon.com/Captivated-By-You-Crossfire-Novel/dp/0425273865?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+        "publisher": "Crown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0804139024",
+            "isbn13": "9780804139021"
+          },
+          {
+            "isbn10": "0553418025",
+            "isbn13": "9780553418026"
+          },
+          {
+            "isbn10": "0091956145",
+            "isbn13": "9780091956141"
+          },
+          {
+            "isbn10": "1594138540",
+            "isbn13": "9781594138546"
+          },
+          {
+            "isbn10": "1101903589",
+            "isbn13": "9781101903582"
+          },
+          {
+            "isbn10": "110190500X",
+            "isbn13": "9781101905005"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "THE MARTIAN",
+        "first_chapter_link": "",
+        "author": "Andy Weir",
+        "rank_last_week": 0,
+        "contributor": "by Andy Weir",
+        "contributor_note": "",
+        "primary_isbn13": "9780553418026",
+        "primary_isbn10": "0553418025",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 12,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804139038.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+        "publisher": "Morrow/HarperCollins",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0061950726",
+            "isbn13": "9780061950728"
+          },
+          {
+            "isbn10": "1594137374",
+            "isbn13": "9781594137372"
+          },
+          {
+            "isbn10": "0606356649",
+            "isbn13": "9780606356640"
+          },
+          {
+            "isbn10": "006195070X",
+            "isbn13": "9780061950704"
+          }
+        ],
+        "weeks_on_list": 38,
+        "dagger": 0,
+        "title": "ORPHAN TRAIN",
+        "first_chapter_link": "",
+        "author": "Christina Baker Kline",
+        "rank_last_week": 15,
+        "contributor": "by Christina Baker Kline",
+        "contributor_note": "",
+        "primary_isbn13": "9780061950728",
+        "primary_isbn10": "0061950726",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 13,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062101204.jpg",
+        "amazon_product_url": "http://www.amazon.com/Orphan-Train-Christina-Baker-Kline-ebook/dp/B0089LOG02?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A woman who was spared when her mother and sisters were murdered begins to reinvestigate the case against her imprisoned brother.",
+        "publisher": "Broadway",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0307459926",
+            "isbn13": "9780307459923"
+          },
+          {
+            "isbn10": "0307341577",
+            "isbn13": "9780307341570"
+          },
+          {
+            "isbn10": "1101902884",
+            "isbn13": "9781101902882"
+          },
+          {
+            "isbn10": "0553418483",
+            "isbn13": "9780553418484"
+          }
+        ],
+        "weeks_on_list": 7,
+        "dagger": 0,
+        "title": "DARK PLACES",
+        "first_chapter_link": "",
+        "author": "Gillian Flynn",
+        "rank_last_week": 0,
+        "contributor": "by Gillian Flynn",
+        "contributor_note": "",
+        "primary_isbn13": "9780307459923",
+        "primary_isbn10": "0307459926",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 14,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307341570.jpg",
+        "amazon_product_url": "http://www.amazon.com/Dark-Places-Novel-Gillian-Flynn/dp/0307341577?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Twelve stories by a former Marine who served in Iraq; winner of the 2014 National Book Award.",
+        "publisher": "Penguin Press",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1594204993",
+            "isbn13": "9781594204999"
+          },
+          {
+            "isbn10": "0143126822",
+            "isbn13": "9780143126829"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "REDEPLOYMENT",
+        "first_chapter_link": "",
+        "author": "Phil Klay",
+        "rank_last_week": 0,
+        "contributor": "by Phil Klay",
+        "contributor_note": "",
+        "primary_isbn13": "9781594204999",
+        "primary_isbn10": "1594204993",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2014/03/09/books/review/redeployment-by-phil-klay.html",
+        "rank": 15,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594204999.jpg",
+        "amazon_product_url": "http://www.amazon.com/Redeployment-Phil-Klay/dp/1594204993?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2014/02/27/books/redeployment-iraq-war-stories-by-phil-klay.html"
+      },
+      {
+        "description": "After his mother is killed in a museum explosion, a young man grapples with the world alone while hiding a prized Dutch painting.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "THE GOLDFINCH",
+        "first_chapter_link": "",
+        "author": "Donna Tartt",
+        "rank_last_week": 0,
+        "contributor": "by Donna Tartt",
+        "contributor_note": "",
+        "primary_isbn13": "9780316055437",
+        "primary_isbn10": "0316055433",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "rank": 16,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316248679.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html"
+      },
+      {
+        "description": "Kay Scarpetta finds herself in pursuit of a serial sniper in the series's 22nd installment.",
+        "publisher": "Morrow/HarperCollins",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062325345",
+            "isbn13": "9780062325341"
+          },
+          {
+            "isbn10": "006232537X",
+            "isbn13": "9780062325372"
+          },
+          {
+            "isbn10": "1410471284",
+            "isbn13": "9781410471284"
+          },
+          {
+            "isbn10": "0062325353",
+            "isbn13": "9780062325358"
+          },
+          {
+            "isbn10": "0062379712",
+            "isbn13": "9780062379719"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "FLESH AND BLOOD",
+        "first_chapter_link": "",
+        "author": "Patricia Cornwell",
+        "rank_last_week": 0,
+        "contributor": "by Patricia Cornwell",
+        "contributor_note": "",
+        "primary_isbn13": "9780062325341",
+        "primary_isbn10": "0062325345",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 17,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062325365.jpg",
+        "amazon_product_url": "http://www.amazon.com/Flesh-Blood-Scarpetta-Novel-Novels-ebook/dp/B00ICN2Z78?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Fresh from a stay at a psychiatric hospital, a newspaper reporter returns (reluctantly) to her hometown to cover the murders of two girls.",
+        "publisher": "Broadway",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0307341550",
+            "isbn13": "9780307341556"
+          },
+          {
+            "isbn10": "0307351483",
+            "isbn13": "9780307351487"
+          },
+          {
+            "isbn10": "1101902876",
+            "isbn13": "9781101902875"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "SHARP OBJECTS",
+        "first_chapter_link": "",
+        "author": "Gillian Flynn",
+        "rank_last_week": 0,
+        "contributor": "by Gillian Flynn",
+        "contributor_note": "",
+        "primary_isbn13": "9780307341556",
+        "primary_isbn10": "0307341550",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 18,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307341556.jpg",
+        "amazon_product_url": "http://www.amazon.com/Sharp-Objects-Novel-Gillian-Flynn/dp/0307341550?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A Spanish shepherd boy ventures to Egypt in search of treasure and his destiny.",
+        "publisher": "HarperCollins",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0061122416",
+            "isbn13": "9780061122415"
+          },
+          {
+            "isbn10": "0062502182",
+            "isbn13": "9780062502186"
+          },
+          {
+            "isbn10": "0062502174",
+            "isbn13": "9780062502179"
+          },
+          {
+            "isbn10": "0060887966",
+            "isbn13": "9780060887964"
+          },
+          {
+            "isbn10": "0060834838",
+            "isbn13": "9780060834838"
+          },
+          {
+            "isbn10": "0061741248",
+            "isbn13": "9780061741241"
+          },
+          {
+            "isbn10": "0062315005",
+            "isbn13": "9780062315007"
+          },
+          {
+            "isbn10": "0062326775",
+            "isbn13": "9780062326775"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "THE ALCHEMIST",
+        "first_chapter_link": "",
+        "author": "Paulo Coelho",
+        "rank_last_week": 0,
+        "contributor": "by Paulo Coelho",
+        "contributor_note": "",
+        "primary_isbn13": "9780061122415",
+        "primary_isbn10": "0061122416",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 19,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061122415.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Alchemist-Paulo-Coelho/dp/0061122416?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "In Book 3 of the Century trilogy, five interconnected families face the defining moments of America from the 1960s to the \u201980s.",
+        "publisher": "Dutton",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525953094",
+            "isbn13": "9780525953098"
+          },
+          {
+            "isbn10": "0698160576",
+            "isbn13": "9780698160576"
+          },
+          {
+            "isbn10": "1410475468",
+            "isbn13": "9781410475466"
+          },
+          {
+            "isbn10": "0451474015",
+            "isbn13": "9780451474018"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "EDGE OF ETERNITY",
+        "first_chapter_link": "",
+        "author": "Ken Follett",
+        "rank_last_week": 0,
+        "contributor": "by Ken Follett",
+        "contributor_note": "",
+        "primary_isbn13": "9780525953098",
+        "primary_isbn10": "0525953094",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 20,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780525953098.jpg",
+        "amazon_product_url": "http://www.amazon.com/Edge-Eternity-Three-Century-Trilogy/dp/0525953094?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      }
+    ],
+    "previous_published_date": "2014-12-28",
+    "published_date": "2015-01-04"
+  },
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "num_results": 20,
+  "last_modified": "2015-12-09T12:11:11-05:00"
+}

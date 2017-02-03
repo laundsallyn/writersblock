@@ -1,0 +1,861 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2012-07-08",
+    "books": [
+      {
+        "price": 28,
+        "primary_isbn10": "0345527771",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich",
+        "primary_isbn13": "9780345527776",
+        "description": "The Salem, Mass., pastry chef Lizzy Tucker and her partner, Diesel, take up a murdered Harvard professor\u2019s quest for a powerful ancient relic.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345527776.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Wicked-Business-Lizzy-Diesel-Lizzie/dp/0345527798?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich",
+        "title": "WICKED BUSINESS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345527771",
+            "isbn13": "9780345527776"
+          },
+          {
+            "isbn10": "034552778X",
+            "isbn13": "9780345527783"
+          },
+          {
+            "isbn10": "0345527798",
+            "isbn13": "9780345527790"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "030758836X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0385536070",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385536073",
+        "description": "A pitcher beans a promising rookie, ending both their careers; years later, the pitcher\u2019s son brings them together.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385536080.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 280,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/Calico-Joe-Novel-John-Grisham/dp/0345541332?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "CALICO JOE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385536070",
+            "isbn13": "9780385536073"
+          },
+          {
+            "isbn10": "0385536089",
+            "isbn13": "9780385536080"
+          },
+          {
+            "isbn10": "0307990745",
+            "isbn13": "9780307990747"
+          },
+          {
+            "isbn10": "0385536097",
+            "isbn13": "9780385536097"
+          },
+          {
+            "isbn10": "0345536649",
+            "isbn13": "9780345536648"
+          },
+          {
+            "isbn10": "0345541332",
+            "isbn13": "9780345541338"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "1400069483",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Alan Furst",
+        "primary_isbn13": "9781400069484",
+        "description": "In Paris in 1938, an actor stumbles into the clutches of Nazi conspirators who want to exploit his celebrity.",
+        "book_review_link": "//www.nytimes.com/2012/06/04/books/mission-to-paris-by-alan-furst.html",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400069484.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Mission-Paris-Novel-Alan-Furst/dp/0812981820?tag=thenewyorktim-20",
+        "contributor": "by Alan Furst",
+        "title": "MISSION TO PARIS",
+        "sunday_review_link": "//www.nytimes.com/2012/06/24/books/review/mission-to-paris-by-alan-furst.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400069483",
+            "isbn13": "9781400069484"
+          },
+          {
+            "isbn10": "0679604227",
+            "isbn13": "9780679604228"
+          },
+          {
+            "isbn10": "0812981820",
+            "isbn13": "9780812981827"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0061692042",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Ford",
+        "primary_isbn13": "9780061692048",
+        "description": "A boy takes refuge in Saskatchewan after his parents commit a robbery.",
+        "book_review_link": "//www.nytimes.com/2012/05/22/books/canada-a-novel-by-richard-ford.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061692048.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Canada-Richard-Ford-ebook/dp/B006FO3ERQ?tag=thenewyorktim-20",
+        "contributor": "by Richard Ford",
+        "title": "CANADA",
+        "sunday_review_link": "//www.nytimes.com/2012/06/10/books/review/canada-by-richard-ford.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061692042",
+            "isbn13": "9780061692048"
+          },
+          {
+            "isbn10": "006209680X",
+            "isbn13": "9780062096807"
+          },
+          {
+            "isbn10": "0062128515",
+            "isbn13": "9780062128515"
+          },
+          {
+            "isbn10": "0061692034",
+            "isbn13": "9780061692031"
+          }
+        ],
+        "publisher": "Ecco/HarperCollins Publishers"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 46,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0446572993",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446572996",
+        "description": "A hit man who has become a target of the government rescues a teenage girl whose parents have been murdered.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446573009.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/The-Innocent-David-Baldacci-ebook/dp/B006VFLIYK?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE INNOCENT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446572993",
+            "isbn13": "9780446572996"
+          },
+          {
+            "isbn10": "0446573000",
+            "isbn13": "9780446573009"
+          },
+          {
+            "isbn10": "1455513369",
+            "isbn13": "9781455513369"
+          },
+          {
+            "isbn10": "1447213521",
+            "isbn13": "9781447213529"
+          },
+          {
+            "isbn10": "1455519006",
+            "isbn13": "9781455519002"
+          },
+          {
+            "isbn10": "0446572985",
+            "isbn13": "9780446572989"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399160132",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Clive Cussler and Graham Brown",
+        "primary_isbn13": "9780399160134",
+        "description": "The 10th NUMA Files novel.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399160134.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Storm-NUMA-Files-ebook/dp/B0074VPJLS?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Graham Brown",
+        "title": "THE STORM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399160132",
+            "isbn13": "9780399160134"
+          },
+          {
+            "isbn10": "042525965X",
+            "isbn13": "9780425259658"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0385531389",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lincoln Child",
+        "primary_isbn13": "9780385531382",
+        "description": "Professor Jeremy Logan, an \u201cenigmalogist,\u201d is called to Egypt to assist at a pharaoh\u2019s newly discovered tomb.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385531399.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Third-Gate-Lincoln-Child/dp/0307473740?tag=thenewyorktim-20",
+        "contributor": "by Lincoln Child",
+        "title": "THE THIRD GATE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385531389",
+            "isbn13": "9780385531382"
+          },
+          {
+            "isbn10": "0385531397",
+            "isbn13": "9780385531399"
+          },
+          {
+            "isbn10": "0307473740",
+            "isbn13": "9780307473745"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0061961299",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dorothea Benton Frank",
+        "primary_isbn13": "9780061961298",
+        "description": "The widow of a New York City firefighter returns to her Lowcountry South Carolina home.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061961298.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Porch-Lights-Dorothea-Benton-Frank-ebook/dp/B007JLKHAQ?tag=thenewyorktim-20",
+        "contributor": "by Dorothea Benton Frank",
+        "title": "PORCH LIGHTS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061961299",
+            "isbn13": "9780061961298"
+          },
+          {
+            "isbn10": "0062194860",
+            "isbn13": "9780062194862"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399157689",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9780399157684",
+        "description": "When a Minnesota family is murdered, the Minneapolis investigator Lucas Davenport believes a Mexican drug gang is involved.",
+        "book_review_link": "",
+        "book_image_height": 171,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101584910.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Stolen-Prey-John-Sandford-ebook/dp/B0072NWK5G?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "STOLEN PREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157689",
+            "isbn13": "9780399157684"
+          },
+          {
+            "isbn10": "0425260992",
+            "isbn13": "9780425260999"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316097497",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316097499",
+        "description": "Detective Lindsay Boxer and the Women\u2019s Murder Club investigate a possible serial killer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446571821.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/11th-Hour-Womens-Murder-Club/dp/0446571830?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "11TH HOUR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097497",
+            "isbn13": "9780316097499"
+          },
+          {
+            "isbn10": "0316208086",
+            "isbn13": "9780316208086"
+          },
+          {
+            "isbn10": "0316097489",
+            "isbn13": "9780316097482"
+          },
+          {
+            "isbn10": "0446571822",
+            "isbn13": "9780446571821"
+          },
+          {
+            "isbn10": "0446571830",
+            "isbn13": "9780446571838"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0062067753",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Terry Pratchett and Stephen Baxter",
+        "primary_isbn13": "9780062067753",
+        "description": "A scientist invents a device that allows travel to alternate Earths.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062067753.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Long-Earth-Terry-Pratchett/dp/0062067753?tag=thenewyorktim-20",
+        "contributor": "by Terry Pratchett and Stephen Baxter",
+        "title": "THE LONG EARTH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062067753",
+            "isbn13": "9780062067753"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0345527356",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeff Shaara",
+        "primary_isbn13": "9780345527356",
+        "description": "A re-creation of the Battle of Shiloh in 1862.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345527356.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Blaze-Glory-Novel-Battle-Shiloh/dp/0345527356?tag=thenewyorktim-20",
+        "contributor": "by Jeff Shaara",
+        "title": "A BLAZE OF GLORY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345527356",
+            "isbn13": "9780345527356"
+          },
+          {
+            "isbn10": "0345527372",
+            "isbn13": "9780345527370"
+          },
+          {
+            "isbn10": "0307990648",
+            "isbn13": "9780307990648"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0805090037",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Hilary Mantel",
+        "primary_isbn13": "9780805090031",
+        "description": "In this sequel to \u201cWolf Hall,\u201d Thomas Cromwell conspires against Anne Boleyn.",
+        "book_review_link": "//www.nytimes.com/2012/05/02/books/bring-up-the-bodies-a-wolf-hall-sequel-by-hilary-mantel.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429947657.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Bring-Bodies-Wolf-Hall-Book/dp/125002417X?tag=thenewyorktim-20",
+        "contributor": "by Hilary Mantel",
+        "title": "BRING UP THE BODIES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805090037",
+            "isbn13": "9780805090031"
+          },
+          {
+            "isbn10": "1429947659",
+            "isbn13": "9781429947657"
+          },
+          {
+            "isbn10": "000747735X",
+            "isbn13": "9780007477357"
+          },
+          {
+            "isbn10": "125002417X",
+            "isbn13": "9781250024176"
+          },
+          {
+            "isbn10": "1250077605",
+            "isbn13": "9781250077608"
+          },
+          {
+            "isbn10": "0007315104",
+            "isbn13": "9780007315109"
+          }
+        ],
+        "publisher": "John Macrae/Holt"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "193636574X",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Dave Eggers",
+        "primary_isbn13": "9781936365746",
+        "description": "A hard-pressed American businessman flies to Saudi Arabia in hopes of selling the king on a lucrative technology contract.",
+        "book_review_link": "//www.nytimes.com/2012/06/14/books/dave-eggerss-new-novel-a-hologram-for-the-king.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781936365746.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/A-Hologram-King-Dave-Eggers/dp/193636574X?tag=thenewyorktim-20",
+        "contributor": "by Dave Eggers",
+        "title": "A HOLOGRAM FOR THE KING",
+        "sunday_review_link": "//www.nytimes.com/2012/07/22/books/review/a-hologram-for-the-king-by-dave-eggers.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "193636574X",
+            "isbn13": "9781936365746"
+          },
+          {
+            "isbn10": "0307947513",
+            "isbn13": "9780307947512"
+          }
+        ],
+        "publisher": "McSweeney's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399158839",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ridley Pearson",
+        "primary_isbn13": "9780399158834",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399158834.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Risk-Agent-Ridley-Pearson/dp/0399158839?tag=thenewyorktim-20",
+        "contributor": "by Ridley Pearson",
+        "title": "THE RISK AGENT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158839",
+            "isbn13": "9780399158834"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451658907",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781451658903",
+        "description": "King returns to the Dark Tower universe, his western-fantasy series, as he explores the early days of the gunslinger Roland.",
+        "book_review_link": "",
+        "book_image_height": 207,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451658927.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Wind-Through-Keyhole-Tower-ebook/dp/B005GG0MTC?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "THE WIND THROUGH THE KEYHOLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451658907",
+            "isbn13": "9781451658903"
+          },
+          {
+            "isbn10": "1451658923",
+            "isbn13": "9781451658927"
+          },
+          {
+            "isbn10": "1451658915",
+            "isbn13": "9781451658910"
+          },
+          {
+            "isbn10": "1451658095",
+            "isbn13": "9781451658095"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1937007448",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9781937007447",
+        "description": "The Vampire King of Louisiana is in Bon Temps, where the telepathic waitress Sookie Stackhouse is investigating a murder that has more to do with her than she imagines.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781937007447.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Deadlocked-Sookie-Stackhouse-Novel-Blood-ebook/dp/B0072NZZGM?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "DEADLOCKED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1937007448",
+            "isbn13": "9781937007447"
+          },
+          {
+            "isbn10": "0575096608",
+            "isbn13": "9780575096608"
+          },
+          {
+            "isbn10": "0425256383",
+            "isbn13": "9780425256381"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446564478",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eric Van Lustbader",
+        "primary_isbn13": "9780446564472",
+        "description": "Robert Ludlum\u2019s character Jason Bourne must discover the identity of an amnesiac being pursued by the Mossad.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781609419455.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Robert-Ludlums-Bourne-Imperative-Jason/dp/0446564478?tag=thenewyorktim-20",
+        "contributor": "by Eric Van Lustbader",
+        "title": "THE BOURNE IMPERATIVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446564478",
+            "isbn13": "9780446564472"
+          },
+          {
+            "isbn10": "1609419456",
+            "isbn13": "9781609419455"
+          },
+          {
+            "isbn10": "1455513504",
+            "isbn13": "9781455513505"
+          },
+          {
+            "isbn10": "044656446X",
+            "isbn13": "9780446564465"
+          }
+        ],
+        "publisher": "Grand Central"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2012-06-23",
+    "previous_published_date": "2012-07-01",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2012-07-15"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

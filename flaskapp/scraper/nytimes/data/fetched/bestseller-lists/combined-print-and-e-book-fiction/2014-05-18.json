@@ -1,0 +1,821 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2014-05-18",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "145552123X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9781455521234",
+        "description": "As the government hit man Will Robie and his partner, Jessica Reel, prepare for a mission, they face a new adversary.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455521234.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Target-Will-Robie-David-Baldacci-ebook/dp/B00EHMFC78?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE TARGET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455521205",
+            "isbn13": "9781455521203"
+          },
+          {
+            "isbn10": "1455581984",
+            "isbn13": "9781455581986"
+          },
+          {
+            "isbn10": "145552123X",
+            "isbn13": "9781455521234"
+          },
+          {
+            "isbn10": "1455521183",
+            "isbn13": "9781455521180"
+          },
+          {
+            "isbn10": "1455521264",
+            "isbn13": "9781455521265"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062311107",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Greg Iles",
+        "primary_isbn13": "9780062311108",
+        "description": "Penn Cage, a former prosecutor in Natchez, Miss., delves into the secrets of his father, a doctor who has been accused of murdering an African-American nurse.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062311078.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 341,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Natchez-Burning-Novel-Penn-Cage/dp/0062311077?tag=thenewyorktim-20",
+        "contributor": "by Greg Iles",
+        "title": "NATCHEZ BURNING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062311077",
+            "isbn13": "9780062311078"
+          },
+          {
+            "isbn10": "0062311107",
+            "isbn13": "9780062311108"
+          },
+          {
+            "isbn10": "0062326392",
+            "isbn13": "9780062326393"
+          },
+          {
+            "isbn10": "0062311093",
+            "isbn13": "9780062311092"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316248679",
+        "description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 28,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 75,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1101617284",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9781101617281",
+        "description": "A freelance writer who may have witnessed a murder-suicide joins the dead man\u2019s brother to learn what happened.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101617281.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Collector-Nora-Roberts/dp/0399164456?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "THE COLLECTOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399164456",
+            "isbn13": "9780399164453"
+          },
+          {
+            "isbn10": "1101617284",
+            "isbn13": "9781101617281"
+          },
+          {
+            "isbn10": "0399171088",
+            "isbn13": "9780399171086"
+          },
+          {
+            "isbn10": "042527831X",
+            "isbn13": "9780425278314"
+          },
+          {
+            "isbn10": "0515154121",
+            "isbn13": "9780515154122"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1460331184",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Mallery",
+        "primary_isbn13": "9781460331187",
+        "description": "In Fool\u2019s Gold, Calif., Angel Whittaker, a bodyguard trainer, meets his match in Taryn Crawford, a tough-talking public relations executive.",
+        "book_review_link": "",
+        "book_image_height": 202,
+        "book_image": "https://s1.nyt.com/du/books/images/9781460331187.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/When-Met-Hqn-Susan-Mallery-ebook/dp/B00GPDYJ2Q?tag=thenewyorktim-20",
+        "contributor": "by Susan Mallery",
+        "title": "WHEN WE MET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373778651",
+            "isbn13": "9780373778652"
+          },
+          {
+            "isbn10": "1460331184",
+            "isbn13": "9781460331187"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jasinda Wilder",
+        "primary_isbn13": "A00B00IRGU5OU",
+        "description": "A desperate woman learns that her mysterious benefactor demands something in return.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": null,
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": null,
+        "contributor": "by Jasinda Wilder",
+        "title": "ALPHA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Jasinda Wilder"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Iris Johansen",
+        "primary_isbn13": "9781250020031",
+        "description": "The C.I.A. operative Catherine Ling must spearhead the rescue of an American journalist kidnapped in Tibet.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250020048.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Live-See-Tomorrow-Catherine-Ling/dp/1250020042?tag=thenewyorktim-20",
+        "contributor": "by Iris Johansen",
+        "title": "LIVE TO SEE TOMORROW",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250020042",
+            "isbn13": "9781250020048"
+          },
+          {
+            "isbn10": "1250053072",
+            "isbn13": "9781250053077"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jay Crownover",
+        "primary_isbn13": "9780062333049",
+        "description": "Sparks fly between a nurse and a chastened bad boy; a Marked Men novel.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062333049.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Nash-A-Marked-Men-Novel-ebook/dp/B00FOPTO3A?tag=thenewyorktim-20",
+        "contributor": "by Jay Crownover",
+        "title": "NASH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christina Baker Kline",
+        "primary_isbn13": "9780062101204",
+        "description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062101204.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/Orphan-Train-Christina-Baker-Kline-ebook/dp/B0089LOG02?tag=thenewyorktim-20",
+        "contributor": "by Christina Baker Kline",
+        "title": "ORPHAN TRAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061950726",
+            "isbn13": "9780061950728"
+          },
+          {
+            "isbn10": "1594137374",
+            "isbn13": "9781594137372"
+          },
+          {
+            "isbn10": "0606356649",
+            "isbn13": "9780606356640"
+          },
+          {
+            "isbn10": "006195070X",
+            "isbn13": "9780061950704"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1460331222",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gena Showalter",
+        "primary_isbn13": "9781460331224",
+        "description": "An Angels of the Dark tale featuring the winged warrior Thane and Elin Vale, the rescued slave who becomes his obsession.",
+        "book_review_link": "",
+        "book_image_height": 203,
+        "book_image": "https://s1.nyt.com/du/books/images/9780373778447.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Burning-Dawn-Hqn-Gena-Showalter-ebook/dp/B00GPDSU6W?tag=thenewyorktim-20",
+        "contributor": "by Gena Showalter",
+        "title": "BURNING DAWN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373778449",
+            "isbn13": "9780373778447"
+          },
+          {
+            "isbn10": "1460331222",
+            "isbn13": "9781460331224"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bella Andre, Barbara Freethy and others",
+        "primary_isbn13": "9781928068112",
+        "description": "A collection of 14 contemporary romances.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": null,
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": null,
+        "contributor": "by Bella Andre, Barbara Freethy and others",
+        "title": "A SWEET LIFE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Smashwords"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9781101636237",
+        "description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636237.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 37,
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "THE HUSBAND'S SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062066293",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephanie Laurens",
+        "primary_isbn13": "9780062066299",
+        "description": "Violet Matcham and Montague \u2014 London\u2019s \u201cmost experienced man-of-business\u201d \u2014 race to expose a cunning and cold-blooded killer; a Casebook of Barnaby Adair novel.",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062066299.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Masterful-Mr-Montague-Casebook-ebook/dp/B00FJ2YTU6?tag=thenewyorktim-20",
+        "contributor": "by Stephanie Laurens",
+        "title": "THE MASTERFUL MR. MONTAGUE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062068660",
+            "isbn13": "9780062068668"
+          },
+          {
+            "isbn10": "0062066293",
+            "isbn13": "9780062066299"
+          }
+        ],
+        "publisher": "Avon/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316211249",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Marshall Karp",
+        "primary_isbn13": "9780316211246",
+        "description": "Zach Jordan and his partner are called when the body of a wealthy woman is discovered in Central Park.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316211239.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/NYPD-Red-2-James-Patterson-ebook/dp/B00DTUHI2Q?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Marshall Karp",
+        "title": "NYPD RED 2",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316211230",
+            "isbn13": "9780316211239"
+          },
+          {
+            "isbn10": "0316211249",
+            "isbn13": "9780316211246"
+          },
+          {
+            "isbn10": "0316324655",
+            "isbn13": "9780316324656"
+          },
+          {
+            "isbn10": "0316211265",
+            "isbn13": "9780316211260"
+          },
+          {
+            "isbn10": "1455515973",
+            "isbn13": "9781455515974"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476749108",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781476749105",
+        "description": "Five years after her husband was brazenly murdered, the producer of a true-crime television show must contend with participants and their secrets.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476749105.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Ive-Got-You-Under-Skin-ebook/dp/B00DPM7SV4?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "I'VE GOT YOU UNDER MY SKIN",
+        "sunday_review_link": "//www.nytimes.com/2014/06/01/books/review/in-my-skin-by-brittney-griner.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "147674906X",
+            "isbn13": "9781476749068"
+          },
+          {
+            "isbn10": "1476749108",
+            "isbn13": "9781476749105"
+          },
+          {
+            "isbn10": "1410466264",
+            "isbn13": "9781410466266"
+          },
+          {
+            "isbn10": "1476749086",
+            "isbn13": "9781476749082"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stacy Borel",
+        "primary_isbn13": "A00B00JUC8DNK",
+        "description": "A woman who takes on a male roommate gets more than either bargained for; part of the Core Four series.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": null,
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": null,
+        "contributor": "by Stacy Borel",
+        "title": "BENDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Stacy Borel"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Monk Kidd",
+        "primary_isbn13": "9780698175242",
+        "description": "The bond between a wealthy Charleston girl, who grows up to become an abolitionist, and the slave she is given for her 11th birthday.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670024780.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Invention-Wings-A-Novel/dp/0670024783?tag=thenewyorktim-20",
+        "contributor": "by Sue Monk Kidd",
+        "title": "THE INVENTION OF WINGS",
+        "sunday_review_link": "//www.nytimes.com/2014/01/26/books/review/the-invention-of-wings-by-sue-monk-kidd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670024783",
+            "isbn13": "9780670024780"
+          },
+          {
+            "isbn10": "1410465322",
+            "isbn13": "9781410465320"
+          },
+          {
+            "isbn10": "0143121707",
+            "isbn13": "9780143121701"
+          },
+          {
+            "isbn10": "1594138869",
+            "isbn13": "9781594138867"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553897845",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553897845",
+        "description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553897845.jpg",
+        "rank": 19,
+        "article_chapter_link": "//www.nytimes.com/2011/04/10/arts/television/game-of-thrones-on-hbo-from-george-r-r-martin-novels.html",
+        "rank_last_week": 0,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A GAME OF THRONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553573403",
+            "isbn13": "9780553573404"
+          },
+          {
+            "isbn10": "0553386794",
+            "isbn13": "9780553386790"
+          },
+          {
+            "isbn10": "0553381687",
+            "isbn13": "9780553381689"
+          },
+          {
+            "isbn10": "0553593714",
+            "isbn13": "9780553593716"
+          },
+          {
+            "isbn10": "0553897845",
+            "isbn13": "9780553897845"
+          },
+          {
+            "isbn10": "0553103547",
+            "isbn13": "9780553103540"
+          },
+          {
+            "isbn10": "044042321X",
+            "isbn13": "9780440423218"
+          },
+          {
+            "isbn10": "0553588486",
+            "isbn13": "9780553588484"
+          },
+          {
+            "isbn10": "0345535537",
+            "isbn13": "9780345535535"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0991379640",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laurelin Paige",
+        "primary_isbn13": "9780991379644",
+        "description": "Collects \"Fixed on You,\" \"Found in You\" and \"Forever With You,\" the story of Alayna Wither and Hudson Pierce.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780991379644.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 464,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Fixed-Trilogy-Found-Forever-ebook/dp/B00IX9UTLU?tag=thenewyorktim-20",
+        "contributor": "by Laurelin Paige",
+        "title": "THE FIXED TRILOGY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0991379640",
+            "isbn13": "9780991379644"
+          }
+        ],
+        "publisher": "Laurelin Paige"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2014-05-03",
+    "previous_published_date": "2014-05-11",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2014-05-25"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

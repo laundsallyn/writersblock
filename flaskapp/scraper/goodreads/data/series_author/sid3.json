@@ -1,0 +1,1378 @@
+{
+  "GoodreadsResponse": {
+    "Request": {
+      "authentication": "true",
+      "key": "UEjJ8JPVjwhYdPBBzZw",
+      "method": "series_list"
+    },
+    "series_works": {
+      "series_work": [
+        {
+          "id": "676051",
+          "user_position": null,
+          "series": {
+            "id": "135256",
+            "title": "999 Words",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "14414530",
+            "best_book": {
+              "id": "9528467",
+              "title": "Obama's Wars in 999 Words: What I Learned from Bob Woodward's Fly-on-the-Wall Reporting",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://d.gr-assets.com/books/1408618002m/9528467.jpg"
+            },
+            "books_count": "1",
+            "original_publication_day": "10",
+            "original_publication_month": "10",
+            "original_publication_year": "2010",
+            "original_title": "Obama's Wars in 999 Words: What I Learned from Bob Woodward's Fly-on-the-Wall Reporting",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "3",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675986",
+          "user_position": null,
+          "series": {
+            "id": "135243",
+            "title": "What Every Human Should Know",
+            "description": null,
+            "note": null,
+            "series_works_count": "6",
+            "primary_work_count": "6",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "13040028",
+            "best_book": {
+              "id": "8193217",
+              "title": "Isaac Asimov in 999 Words: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "13",
+            "original_publication_month": "3",
+            "original_publication_year": "2010",
+            "original_title": "Isaac Asimov in 999 Words: What Every Human Should Know",
+            "ratings_count": "2",
+            "ratings_sum": "9",
+            "reviews_count": "3",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675685",
+          "user_position": null,
+          "series": {
+            "id": "135187",
+            "title": "Cool Maps",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "6668459",
+            "best_book": {
+              "id": "6477256",
+              "title": "Cool Maps of Iraq: History, Oil Wealth, Politics, Population, Religion, Satellite, and More",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "11",
+            "original_publication_month": "12",
+            "original_publication_year": "2007",
+            "original_title": "Cool Maps of Iraq: History, Oil Wealth, Politics, Population, Religion, Satellite, and More",
+            "ratings_count": "0",
+            "ratings_sum": "0",
+            "reviews_count": "2",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675680",
+          "user_position": null,
+          "series": {
+            "id": "135184",
+            "title": "Why It Matters Today",
+            "description": null,
+            "note": null,
+            "series_works_count": "2",
+            "primary_work_count": "2",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "2425532",
+            "best_book": {
+              "id": "2418355",
+              "title": "Borodino: Why It Matters Today",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "30",
+            "original_publication_month": "11",
+            "original_publication_year": "2007",
+            "original_title": "Borodino: Why It Matters Today",
+            "ratings_count": "3",
+            "ratings_sum": "14",
+            "reviews_count": "4",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675669",
+          "user_position": "2",
+          "series": {
+            "id": "135182",
+            "title": "Colorful Aircraft",
+            "description": null,
+            "note": null,
+            "series_works_count": "1",
+            "primary_work_count": "1",
+            "numbered": "true"
+          },
+          "work": {
+            "id": "2272962",
+            "best_book": {
+              "id": "2266945",
+              "title": "X-47A and X-47B: Unmanned Combat Air Vehicle (UCAVs) (Colorful Aircraft, #2)",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "5",
+            "original_publication_month": "11",
+            "original_publication_year": "2007",
+            "original_title": "X-47 Unmanned Combat Air Vehicle (UCAV)",
+            "ratings_count": "2",
+            "ratings_sum": "10",
+            "reviews_count": "4",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675668",
+          "user_position": "1",
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "2425531",
+            "best_book": {
+              "id": "2418354",
+              "title": "CVN-78 Gerald R. Ford, U.S. Navy Aircraft Carrier (Colorful Ships, #1)",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "2",
+            "original_publication_month": "11",
+            "original_publication_year": "2007",
+            "original_title": "CVN-78 Gerald R. Ford, U.S. Navy Aircraft Carrier",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "2",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675667",
+          "user_position": "2",
+          "series": {
+            "id": "135180",
+            "title": "Cool Maps for Curious Kids",
+            "description": null,
+            "note": null,
+            "series_works_count": "1",
+            "primary_work_count": "1",
+            "numbered": "true"
+          },
+          "work": {
+            "id": "2170548",
+            "best_book": {
+              "id": "2165021",
+              "title": "Cool Maps for Curious Kids #2: Afghanistan, an Unauthorized Tour of the Land of a Thousand Splendid Suns and the Kite Runner (Cool Maps for Curious Kids, #2)",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "21",
+            "original_publication_month": "10",
+            "original_publication_year": "2007",
+            "original_title": "Cool Maps for Curious Kids #2: Afghanistan, an Unauthorized Tour of the Land of a Thousand Splendid Suns and the Kite Runner",
+            "ratings_count": "25",
+            "ratings_sum": "115",
+            "reviews_count": "48",
+            "text_reviews_count": "3",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675665",
+          "user_position": "3",
+          "series": {
+            "id": "135179",
+            "title": "Colorful Info for Curious Minds",
+            "description": null,
+            "note": null,
+            "series_works_count": "1",
+            "primary_work_count": "1",
+            "numbered": "true"
+          },
+          "work": {
+            "id": "2425533",
+            "best_book": {
+              "id": "2418356",
+              "title": "Colorful Info for Curious Minds #3: The Nine Current Supreme Court Justices (Colorful Info for Curious Minds, #3)",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "28",
+            "original_publication_month": "10",
+            "original_publication_year": "2007",
+            "original_title": "Colorful Info for Curious Minds #3: The Nine Current Supreme Court Justices",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "1",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675662",
+          "user_position": "1",
+          "series": {
+            "id": "135177",
+            "title": "Cool Science Images for Curious Kids",
+            "description": null,
+            "note": null,
+            "series_works_count": "1",
+            "primary_work_count": "1",
+            "numbered": "true"
+          },
+          "work": {
+            "id": "2119752",
+            "best_book": {
+              "id": "2114324",
+              "title": "Cool Science Images for Curious Kids #1: Our Splendid Sun (Cool Science Images for Curious Kids, #1)",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "28",
+            "original_publication_month": "10",
+            "original_publication_year": "2007",
+            "original_title": "Cool Science Images for Curious Kids #1: Our Splendid Sun",
+            "ratings_count": "2",
+            "ratings_sum": "10",
+            "reviews_count": "2",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675686",
+          "user_position": null,
+          "series": {
+            "id": "135187",
+            "title": "Cool Maps",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "2515505",
+            "best_book": {
+              "id": "2508134",
+              "title": "Cool Maps of Indonesia: An Unauthorized View of the Land of Eat, Pray, Love",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "13",
+            "original_publication_month": "12",
+            "original_publication_year": "2007",
+            "original_title": "Cool Maps of Indonesia: An Unauthorized View of the Land of Eat, Pray, Love",
+            "ratings_count": "21",
+            "ratings_sum": "72",
+            "reviews_count": "77",
+            "text_reviews_count": "2",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675681",
+          "user_position": null,
+          "series": {
+            "id": "135184",
+            "title": "Why It Matters Today",
+            "description": null,
+            "note": null,
+            "series_works_count": "2",
+            "primary_work_count": "2",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "2692449",
+            "best_book": {
+              "id": "2667221",
+              "title": "Napoleon in Moscow: Why It Matters Today",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "8",
+            "original_publication_month": "12",
+            "original_publication_year": "2007",
+            "original_title": "Napoleon In Moscow: Why It Matters Today",
+            "ratings_count": "1",
+            "ratings_sum": "4",
+            "reviews_count": "1",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675670",
+          "user_position": "3",
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "2425530",
+            "best_book": {
+              "id": "2418353",
+              "title": "CVN-77 George H. W. Bush, U.S. Navy Aircraft Carrier (Colorful Ships, #3)",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "9",
+            "original_publication_month": "11",
+            "original_publication_year": "2007",
+            "original_title": "CVN-77 George H. W. Bush, U.S. Navy Aircraft Carrier",
+            "ratings_count": "2",
+            "ratings_sum": "9",
+            "reviews_count": "3",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "676052",
+          "user_position": null,
+          "series": {
+            "id": "135256",
+            "title": "999 Words",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "27134365",
+            "best_book": {
+              "id": "19101726",
+              "title": "Napoleon in 999 Words: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "29",
+            "original_publication_month": "4",
+            "original_publication_year": "2010",
+            "original_title": "Napoleon in 999 Words: What Every Human Should Know",
+            "ratings_count": "3",
+            "ratings_sum": "15",
+            "reviews_count": "3",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675987",
+          "user_position": null,
+          "series": {
+            "id": "135243",
+            "title": "What Every Human Should Know",
+            "description": null,
+            "note": null,
+            "series_works_count": "6",
+            "primary_work_count": "6",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "40370379",
+            "best_book": {
+              "id": "20993976",
+              "title": "Dogs in 999 Words: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "24",
+            "original_publication_month": "3",
+            "original_publication_year": "2010",
+            "original_title": "Dogs in 999 Words: What Every Human Should Know",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "1",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675687",
+          "user_position": null,
+          "series": {
+            "id": "135187",
+            "title": "Cool Maps",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "3094214",
+            "best_book": {
+              "id": "3063308",
+              "title": "Cool Maps of France: Paris and Beyond",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "5",
+            "original_publication_month": "2",
+            "original_publication_year": "2008",
+            "original_title": "Cool Maps of France: Paris and Beyond",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "2",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675694",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "3288125",
+            "best_book": {
+              "id": "3252958",
+              "title": "CVN-68 Nimitz, U.S. Navy Aircraft Carrier",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "14",
+            "original_publication_month": "1",
+            "original_publication_year": "2008",
+            "original_title": "CVN-68 Nimitz, U.S. Navy Aircraft Carrier",
+            "ratings_count": "3",
+            "ratings_sum": "15",
+            "reviews_count": "5",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "676053",
+          "user_position": null,
+          "series": {
+            "id": "135256",
+            "title": "999 Words",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "26920239",
+            "best_book": {
+              "id": "18914485",
+              "title": "Robert A. Heinlein in 999 Words: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "2",
+            "original_publication_day": "4",
+            "original_publication_month": "5",
+            "original_publication_year": "2010",
+            "original_title": "Robert A. Heinlein in 999 Words: What Every Human Should Know",
+            "ratings_count": "6",
+            "ratings_sum": "28",
+            "reviews_count": "9",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675988",
+          "user_position": null,
+          "series": {
+            "id": "135243",
+            "title": "What Every Human Should Know",
+            "description": null,
+            "note": null,
+            "series_works_count": "6",
+            "primary_work_count": "6",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "27134365",
+            "best_book": {
+              "id": "19101726",
+              "title": "Napoleon in 999 Words: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "29",
+            "original_publication_month": "4",
+            "original_publication_year": "2010",
+            "original_title": "Napoleon in 999 Words: What Every Human Should Know",
+            "ratings_count": "3",
+            "ratings_sum": "15",
+            "reviews_count": "3",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675688",
+          "user_position": null,
+          "series": {
+            "id": "135187",
+            "title": "Cool Maps",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "15957323",
+            "best_book": {
+              "id": "11037210",
+              "title": "Cool Maps of France's Overseas Territories and Departments",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "25",
+            "original_publication_month": "2",
+            "original_publication_year": "2008",
+            "original_title": "Cool Maps of France's Overseas Territories and Departments",
+            "ratings_count": "0",
+            "ratings_sum": "0",
+            "reviews_count": "0",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675695",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "3458115",
+            "best_book": {
+              "id": "3417765",
+              "title": "CVN-69 Dwight D. Eisenhower, U.S. Navy Aircraft Carrier",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "29",
+            "original_publication_month": "2",
+            "original_publication_year": "2008",
+            "original_title": "CVN-69 Dwight D. Eisenhower, U.S. Navy Aircraft Carrier",
+            "ratings_count": "3",
+            "ratings_sum": "13",
+            "reviews_count": "4",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "676054",
+          "user_position": null,
+          "series": {
+            "id": "135256",
+            "title": "999 Words",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "40370379",
+            "best_book": {
+              "id": "20993976",
+              "title": "Dogs in 999 Words: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "24",
+            "original_publication_month": "3",
+            "original_publication_year": "2010",
+            "original_title": "Dogs in 999 Words: What Every Human Should Know",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "1",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675989",
+          "user_position": null,
+          "series": {
+            "id": "135243",
+            "title": "What Every Human Should Know",
+            "description": null,
+            "note": null,
+            "series_works_count": "6",
+            "primary_work_count": "6",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "26920239",
+            "best_book": {
+              "id": "18914485",
+              "title": "Robert A. Heinlein in 999 Words: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "2",
+            "original_publication_day": "4",
+            "original_publication_month": "5",
+            "original_publication_year": "2010",
+            "original_title": "Robert A. Heinlein in 999 Words: What Every Human Should Know",
+            "ratings_count": "6",
+            "ratings_sum": "28",
+            "reviews_count": "9",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675689",
+          "user_position": null,
+          "series": {
+            "id": "135187",
+            "title": "Cool Maps",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "2701273",
+            "best_book": {
+              "id": "2675984",
+              "title": "Cool Maps of Cuba: An Atlas of History, Population, Resources Before and after Fidel Castro",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "28",
+            "original_publication_month": "12",
+            "original_publication_year": "2007",
+            "original_title": "Cool Maps of Cuba: An Atlas of History, Population, Resources Before and after Fidel Castro",
+            "ratings_count": "2",
+            "ratings_sum": "9",
+            "reviews_count": "3",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675696",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "3143427",
+            "best_book": {
+              "id": "3112149",
+              "title": "CVN-70 Carl Vinson, U.S. Navy Aircraft Carrier",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "25",
+            "original_publication_month": "2",
+            "original_publication_year": "2008",
+            "original_title": "CVN-70 Carl Vinson, U.S. Navy Aircraft Carrier",
+            "ratings_count": "3",
+            "ratings_sum": "15",
+            "reviews_count": "4",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "676055",
+          "user_position": null,
+          "series": {
+            "id": "135256",
+            "title": "999 Words",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "13040028",
+            "best_book": {
+              "id": "8193217",
+              "title": "Isaac Asimov in 999 Words: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "13",
+            "original_publication_month": "3",
+            "original_publication_year": "2010",
+            "original_title": "Isaac Asimov in 999 Words: What Every Human Should Know",
+            "ratings_count": "2",
+            "ratings_sum": "9",
+            "reviews_count": "3",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "676056",
+          "user_position": null,
+          "series": {
+            "id": "135256",
+            "title": "999 Words",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "39900196",
+            "best_book": {
+              "id": "20617278",
+              "title": "Unauthorized Guide to Pok\u00e9mon for Contemporary Parents in 999 Words",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "2",
+            "original_publication_day": "9",
+            "original_publication_month": "5",
+            "original_publication_year": "2010",
+            "original_title": "Unauthorized Guide to Pok\u00e9mon for Contemporary Parents in 999 Words",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "4",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675690",
+          "user_position": null,
+          "series": {
+            "id": "135187",
+            "title": "Cool Maps",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "2739603",
+            "best_book": {
+              "id": "2714057",
+              "title": "Cool Maps of Iran: Persian History, Oil Wealth, Politics, Population, Religion, Satellite, Wmd and More",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "28",
+            "original_publication_month": "12",
+            "original_publication_year": "2007",
+            "original_title": "Cool Maps of Iran: Persian History, Oil Wealth, Politics, Population, Religion, Satellite, WMD and More",
+            "ratings_count": "0",
+            "ratings_sum": "0",
+            "reviews_count": "0",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675697",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "4149635",
+            "best_book": {
+              "id": "4102476",
+              "title": "CVN-74 John C. Stennis, U.S. Navy Aircraft Carrier",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "23",
+            "original_publication_month": "7",
+            "original_publication_year": "2008",
+            "original_title": "CVN-74 John C. Stennis, U.S. Navy Aircraft Carrier",
+            "ratings_count": "2",
+            "ratings_sum": "10",
+            "reviews_count": "3",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "676004",
+          "user_position": null,
+          "series": {
+            "id": "135243",
+            "title": "What Every Human Should Know",
+            "description": null,
+            "note": null,
+            "series_works_count": "6",
+            "primary_work_count": "6",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "13124975",
+            "best_book": {
+              "id": "8276676",
+              "title": "Homo Floresiensis (The \"Hobbits\" of Flores Island) in 999 Words: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "30",
+            "original_publication_month": "4",
+            "original_publication_year": "2010",
+            "original_title": "Homo Floresiensis (The \"Hobbits\" of Flores Island) in 999 Words: What Every Human Should Know",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "4",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675693",
+          "user_position": null,
+          "series": {
+            "id": "135187",
+            "title": "Cool Maps",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "2900881",
+            "best_book": {
+              "id": "2874718",
+              "title": "Cool Maps of Baghdad: The Emerald City and Other Cities of Iraq",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "1",
+            "original_publication_month": "1",
+            "original_publication_year": "2008",
+            "original_title": "Cool Maps of Baghdad: The Emerald City and Other Cities of Iraq",
+            "ratings_count": "1",
+            "ratings_sum": "4",
+            "reviews_count": "1",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675698",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "5040775",
+            "best_book": {
+              "id": "4974917",
+              "title": "CVN-76 Ronald Reagan, U.S. Navy Aircraft Carrier",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "15",
+            "original_publication_month": "1",
+            "original_publication_year": "2008",
+            "original_title": "CVN-76 Ronald Reagan, U.S. Navy Aircraft Carrier",
+            "ratings_count": "2",
+            "ratings_sum": "9",
+            "reviews_count": "3",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "676057",
+          "user_position": null,
+          "series": {
+            "id": "135256",
+            "title": "999 Words",
+            "description": null,
+            "note": null,
+            "series_works_count": "7",
+            "primary_work_count": "7",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "13124975",
+            "best_book": {
+              "id": "8276676",
+              "title": "Homo Floresiensis (The \"Hobbits\" of Flores Island) in 999 Words: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "30",
+            "original_publication_month": "4",
+            "original_publication_year": "2010",
+            "original_title": "Homo Floresiensis (The \"Hobbits\" of Flores Island) in 999 Words: What Every Human Should Know",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "4",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "676005",
+          "user_position": null,
+          "series": {
+            "id": "135243",
+            "title": "What Every Human Should Know",
+            "description": null,
+            "note": null,
+            "series_works_count": "6",
+            "primary_work_count": "6",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "14563374",
+            "best_book": {
+              "id": "9675520",
+              "title": "With the Marines in the Pacific in World War II: What Every Human Should Know",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://d.gr-assets.com/books/1408614877m/9675520.jpg"
+            },
+            "books_count": "2",
+            "original_publication_day": "7",
+            "original_publication_month": "7",
+            "original_publication_year": "2010",
+            "original_title": "With the Marines in the Pacific in World War II: What Every Human Should Know",
+            "ratings_count": "4",
+            "ratings_sum": "17",
+            "reviews_count": "6",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675699",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "5854039",
+            "best_book": {
+              "id": "5682486",
+              "title": "CVN-73 George Washington, U.S. Navy Aircraft Carrier",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "20",
+            "original_publication_month": "5",
+            "original_publication_year": "2008",
+            "original_title": "CVN-73 George Washington, U.S. Navy Aircraft Carrier",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "2",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675701",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "6109925",
+            "best_book": {
+              "id": "5937476",
+              "title": "CVN-71 Theodore Roosevelt, U.S. Navy Aircraft Carrier",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "1",
+            "original_publication_month": "3",
+            "original_publication_year": "2008",
+            "original_title": "CVN-71 Theodore Roosevelt, U.S. Navy Aircraft Carrier",
+            "ratings_count": "0",
+            "ratings_sum": "0",
+            "reviews_count": "1",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675702",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "15601484",
+            "best_book": {
+              "id": "10691508",
+              "title": "CVN-75 Harry S. Truman, U.S. Navy Aircraft Carrier",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "28",
+            "original_publication_month": "8",
+            "original_publication_year": "2008",
+            "original_title": "CVN-75 Harry S. Truman, U.S. Navy Aircraft Carrier",
+            "ratings_count": "1",
+            "ratings_sum": "4",
+            "reviews_count": "1",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675706",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "3087635",
+            "best_book": {
+              "id": "3056734",
+              "title": "SSN-23 Jimmy Carter, U.S. Navy Submarine",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "31",
+            "original_publication_month": "1",
+            "original_publication_year": "2008",
+            "original_title": "SSN-23 Jimmy Carter, U.S. Navy Submarine",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "1",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "675707",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "3159399",
+            "best_book": {
+              "id": "3128002",
+              "title": "DDG-81 Winston S. Churchill, U.S. Navy Destroyer",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "23",
+            "original_publication_month": "1",
+            "original_publication_year": "2008",
+            "original_title": "DDG-81 Winston S. Churchill, U.S. Navy Destroyer",
+            "ratings_count": "1",
+            "ratings_sum": "5",
+            "reviews_count": "1",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        },
+        {
+          "id": "676002",
+          "user_position": null,
+          "series": {
+            "id": "135181",
+            "title": "Colorful Ships",
+            "description": null,
+            "note": null,
+            "series_works_count": "13",
+            "primary_work_count": "13",
+            "numbered": "false"
+          },
+          "work": {
+            "id": "42572150",
+            "best_book": {
+              "id": "5602948",
+              "title": "CVN-72 Abraham Lincoln, U.S. Navy Aircraft Carrier",
+              "author": {
+                "id": "3",
+                "name": "W. Frederick Zimmerman"
+              },
+              "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+            },
+            "books_count": "1",
+            "original_publication_day": "5",
+            "original_publication_month": "3",
+            "original_publication_year": "2008",
+            "original_title": "CVN-72 Abraham Lincoln, U.S. Navy Aircraft Carrier",
+            "ratings_count": "2",
+            "ratings_sum": "10",
+            "reviews_count": "3",
+            "text_reviews_count": "0",
+            "average_rating": null
+          }
+        }
+      ]
+    }
+  }
+}

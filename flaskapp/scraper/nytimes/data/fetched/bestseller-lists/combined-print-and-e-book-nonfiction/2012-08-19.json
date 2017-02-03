@@ -1,0 +1,929 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2012-08-19",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0307592731",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cheryl Strayed",
+        "primary_isbn13": "9780307592736",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "contributor": "by Cheryl Strayed",
+        "title": "WILD",
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307592731",
+            "isbn13": "9780307592736"
+          },
+          {
+            "isbn10": "0307957659",
+            "isbn13": "9780307957658"
+          },
+          {
+            "isbn10": "0307476073",
+            "isbn13": "9780307476074"
+          },
+          {
+            "isbn10": "1594136742",
+            "isbn13": "9781594136740"
+          },
+          {
+            "isbn10": "0307970299",
+            "isbn13": "9780307970299"
+          },
+          {
+            "isbn10": "1101873442",
+            "isbn13": "9781101873441"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603751",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9780679603757",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 80,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307888762",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ben Macintyre",
+        "primary_isbn13": "9780307888761",
+        "description": "How the Allies tricked the Nazis into believing that on D-Day they would attack somewhere other than Normandy.",
+        "book_review_link": "//www.nytimes.com/2012/08/09/books/double-cross-and-agent-garbo.html",
+        "book_image_height": 450,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307888761.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 296,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Double-Cross-Story-D-Day-Spies/dp/0307888770?tag=thenewyorktim-20",
+        "contributor": "by Ben Macintyre",
+        "title": "DOUBLE CROSS",
+        "sunday_review_link": "//www.nytimes.com/2012/09/02/books/review/double-cross-by-ben-macintyre.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307888754",
+            "isbn13": "9780307888754"
+          },
+          {
+            "isbn10": "0307888762",
+            "isbn13": "9780307888761"
+          },
+          {
+            "isbn10": "1408819902",
+            "isbn13": "9781408819906"
+          },
+          {
+            "isbn10": "0307990435",
+            "isbn13": "9780307990433"
+          },
+          {
+            "isbn10": "0307888770",
+            "isbn13": "9780307888778"
+          },
+          {
+            "isbn10": "1408830620",
+            "isbn13": "9781408830628"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805093079",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805093070",
+        "description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805093070.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 44,
+        "amazon_product_url": "http://www.amazon.com/Killing-Lincoln-Shocking-Assassination-Changed-ebook/dp/B004ULORYU?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING LINCOLN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805093079",
+            "isbn13": "9780805093070"
+          },
+          {
+            "isbn10": "1429996870",
+            "isbn13": "9781429996877"
+          },
+          {
+            "isbn10": "1427213127",
+            "isbn13": "9781427213129"
+          },
+          {
+            "isbn10": "1410443000",
+            "isbn13": "9781410443007"
+          },
+          {
+            "isbn10": "1250012163",
+            "isbn13": "9781250012166"
+          }
+        ],
+        "publisher": "Henry Holt & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030740885X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780307408853",
+        "description": "William E. Dodd, the U.S. ambassador to Germany, and his daughter, Martha, in 1930s Berlin.",
+        "book_review_link": "//www.nytimes.com/2011/05/20/books/in-the-garden-of-beasts-by-erik-larson-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307887955.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 49,
+        "amazon_product_url": "http://www.amazon.com/In-Garden-Beasts-American-Hitlers-ebook/dp/B004HFRJM6?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "IN THE GARDEN OF BEASTS",
+        "sunday_review_link": "//www.nytimes.com/2011/06/12/books/review/book-review-in-the-garden-of-beasts-by-erik-larson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307408841",
+            "isbn13": "9780307408846"
+          },
+          {
+            "isbn10": "0307887952",
+            "isbn13": "9780307887955"
+          },
+          {
+            "isbn10": "0739378147",
+            "isbn13": "9780739378144"
+          },
+          {
+            "isbn10": "0307914577",
+            "isbn13": "9780307914576"
+          },
+          {
+            "isbn10": "030740885X",
+            "isbn13": "9780307408853"
+          },
+          {
+            "isbn10": "1446464504",
+            "isbn13": "9781446464502"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062124250",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Caitlin Moran",
+        "primary_isbn13": "9780062124258",
+        "description": "An approach to feminism that's part memoir, part polemic.",
+        "book_review_link": "//www.nytimes.com/2012/07/27/books/how-to-be-a-woman-by-caitlin-moran.html",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062124296.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/How-Be-Woman-Caitlin-Moran/dp/0062124293?tag=thenewyorktim-20",
+        "contributor": "by Caitlin Moran",
+        "title": "HOW TO BE A WOMAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062124250",
+            "isbn13": "9780062124258"
+          },
+          {
+            "isbn10": "0062124293",
+            "isbn13": "9780062124296"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400052181",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rebecca Skloot",
+        "primary_isbn13": "9781400052189",
+        "description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400052189.jpg",
+        "rank": 7,
+        "article_chapter_link": "//www.nytimes.com/2010/02/02/health/02seco.html",
+        "rank_last_week": 7,
+        "book_image_width": 182,
+        "first_chapter_link": "//www.nytimes.com/2010/03/03/books/excerpt-immortal-life-of-henrietta-lacks.html",
+        "age_group": "",
+        "weeks_on_list": 67,
+        "amazon_product_url": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=thenewyorktim-20",
+        "contributor": "by Rebecca Skloot",
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "sunday_review_link": "//www.nytimes.com/2010/02/07/books/review/Margonelli-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400052173",
+            "isbn13": "9781400052172"
+          },
+          {
+            "isbn10": "0307589382",
+            "isbn13": "9780307589385"
+          },
+          {
+            "isbn10": "1410427927",
+            "isbn13": "9781410427922"
+          },
+          {
+            "isbn10": "1400052181",
+            "isbn13": "9781400052189"
+          },
+          {
+            "isbn10": "1594134324",
+            "isbn13": "9781594134326"
+          },
+          {
+            "isbn10": "0451486315",
+            "isbn13": "9780451486318"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451648553",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Walter Isaacson",
+        "primary_isbn13": "9781451648553",
+        "description": "A biography of the entrepreneur and Apple visionary who died last year, based on 40 interviews with Jobs conducted over two years.",
+        "book_review_link": "//www.nytimes.com/2011/10/22/books/steve-jobs-by-walter-isaacson-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451648553.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 41,
+        "amazon_product_url": "http://www.amazon.com/Steve-Jobs-Walter-Isaacson-ebook/dp/B004W2UBYW?tag=thenewyorktim-20",
+        "contributor": "by Walter Isaacson",
+        "title": "STEVE JOBS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451648537",
+            "isbn13": "9781451648539"
+          },
+          {
+            "isbn10": "1451648553",
+            "isbn13": "9781451648553"
+          },
+          {
+            "isbn10": "1442346272",
+            "isbn13": "9781442346277"
+          },
+          {
+            "isbn10": "1442346949",
+            "isbn13": "9781442346949"
+          },
+          {
+            "isbn10": "1410445224",
+            "isbn13": "9781410445223"
+          },
+          {
+            "isbn10": "030795028X",
+            "isbn13": "9780307950284"
+          },
+          {
+            "isbn10": "1408703742",
+            "isbn13": "9781408703748"
+          },
+          {
+            "isbn10": "1451648545",
+            "isbn13": "9781451648546"
+          },
+          {
+            "isbn10": "1594136793",
+            "isbn13": "9781594136795"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1596987855",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Edward Klein",
+        "primary_isbn13": "9781596987852",
+        "description": "A journalist argues that President Obama is callow, arrogant and unable to lead.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781596983144.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/The-Amateur-Edward-Klein/dp/1596987855?tag=thenewyorktim-20",
+        "contributor": "by Edward Klein",
+        "title": "AMATEUR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1596987855",
+            "isbn13": "9781596987852"
+          },
+          {
+            "isbn10": "1596983140",
+            "isbn13": "9781596983144"
+          }
+        ],
+        "publisher": "Regnery Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "074324754X",
+        "asterisk": 0,
+        "dagger": 1,
+        "author": "Jeannette Walls",
+        "primary_isbn13": "9780743247542",
+        "description": "The author recalls a bizarre childhood during which she was constantly moved from place to place.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780743247542.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 316,
+        "first_chapter_link": "//www.nytimes.com/2005/03/13/books/chapters/0313-1st-walls.html",
+        "age_group": "",
+        "weeks_on_list": 26,
+        "amazon_product_url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=thenewyorktim-20",
+        "contributor": "by Jeannette Walls",
+        "title": "THE GLASS CASTLE",
+        "sunday_review_link": "//www.nytimes.com/2005/03/13/books/review/013COVERPROSE.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "074324754X",
+            "isbn13": "9780743247542"
+          },
+          {
+            "isbn10": "1416550607",
+            "isbn13": "9781416550600"
+          },
+          {
+            "isbn10": "1439156964",
+            "isbn13": "9781439156964"
+          },
+          {
+            "isbn10": "1416544666",
+            "isbn13": "9781416544661"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849949203",
+        "description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 78,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316017930",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Malcolm Gladwell",
+        "primary_isbn13": "9780316017930",
+        "description": "Why some people succeed \u2014 it has to do with luck and opportunities as well as talent.",
+        "book_review_link": "//www.nytimes.com/2008/11/18/books/18kaku.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316017930.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 184,
+        "first_chapter_link": "//www.nytimes.com/2008/11/30/books/chapters/chapter-outliers.html",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930?tag=thenewyorktim-20",
+        "contributor": "by Malcolm Gladwell",
+        "title": "OUTLIERS",
+        "sunday_review_link": "//www.nytimes.com/2008/11/30/books/review/Leonhardt-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316017922",
+            "isbn13": "9780316017923"
+          },
+          {
+            "isbn10": "0316040347",
+            "isbn13": "9780316040341"
+          },
+          {
+            "isbn10": "0316017930",
+            "isbn13": "9780316017930"
+          },
+          {
+            "isbn10": "1600243916",
+            "isbn13": "9781600243912"
+          },
+          {
+            "isbn10": "031602497X",
+            "isbn13": "9780316024976"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603859",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charles Duhigg",
+        "primary_isbn13": "9780679603856",
+        "description": "A Times reporter\u2019s account of the science behind how we form, and break, habits.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812981605.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/The-Power-Habit-What-Business/dp/081298160X?tag=thenewyorktim-20",
+        "contributor": "by Charles Duhigg",
+        "title": "THE POWER OF HABIT",
+        "sunday_review_link": "//www.nytimes.com/2012/03/11/books/review/the-power-of-habit-by-charles-duhigg.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400069289",
+            "isbn13": "9781400069286"
+          },
+          {
+            "isbn10": "0679603859",
+            "isbn13": "9780679603856"
+          },
+          {
+            "isbn10": "030796664X",
+            "isbn13": "9780307966643"
+          },
+          {
+            "isbn10": "1847946240",
+            "isbn13": "9781847946249"
+          },
+          {
+            "isbn10": "081298160X",
+            "isbn13": "9780812981605"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345520483",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jack McCallum",
+        "primary_isbn13": "9780345520487",
+        "description": "The story of the 1992 U.S. men\u2019s Olympic basketball team.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345520487.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Dream-Team-Greatest-Conquered-Basketball-ebook/dp/B005X0JRG0?tag=thenewyorktim-20",
+        "contributor": "by Jack McCallum",
+        "title": "DREAM TEAM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345520483",
+            "isbn13": "9780345520487"
+          },
+          {
+            "isbn10": "0345520505",
+            "isbn13": "9780345520500"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Joan Rivers",
+        "primary_isbn13": "9781101580882",
+        "description": "The comedian\u2019s humorous reflections.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425248300.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/I-Hate-Everyone-Starting-Me-ebook/dp/B0072O0066?tag=thenewyorktim-20",
+        "contributor": "by Joan Rivers",
+        "title": "I HATE EVERYONE...STARTING WITH ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425248305",
+            "isbn13": "9780425248300"
+          },
+          {
+            "isbn10": "0425255891",
+            "isbn13": "9780425255896"
+          },
+          {
+            "isbn10": "1611760658",
+            "isbn13": "9781611760651"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jenny Lawson",
+        "primary_isbn13": "9781101573082",
+        "description": "A blogger recalls her unusual upbringing.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 171,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101573082.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Lets-Pretend-This-Never-Happened-ebook/dp/B0065S8R38?tag=thenewyorktim-20",
+        "contributor": "by Jenny Lawson",
+        "title": "LET'S PRETEND THIS NEVER HAPPENED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159010",
+            "isbn13": "9780399159015"
+          },
+          {
+            "isbn10": "0425261018",
+            "isbn13": "9780425261019"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0770436145",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Wessel",
+        "primary_isbn13": "9780770436148",
+        "description": "A journalist reviews the politics behind the federal budget, explores where the money goes and argues that current trends are unsustainable.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780770436148.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Red-Ink-High-Stakes-Politics-Federal-ebook/dp/B0076PGLDC?tag=thenewyorktim-20",
+        "contributor": "by David Wessel",
+        "title": "RED INK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0770436145",
+            "isbn13": "9780770436148"
+          },
+          {
+            "isbn10": "0770436153",
+            "isbn13": "9780770436155"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jaycee Dugard",
+        "primary_isbn13": "9781451629200",
+        "description": "A woman describes being kidnapped when she was 11 years old and held prisoner for 18 years by a convicted rapist and his wife.",
+        "book_review_link": "//www.nytimes.com/2011/07/18/books/jaycee-dugards-stolen-life-18-years-of-abuse-review.html",
+        "book_image_height": 386,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451629194.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 250,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/A-Stolen-Life-Memoir-ebook/dp/B004ZZS4CC?tag=thenewyorktim-20",
+        "contributor": "by Jaycee Dugard",
+        "title": "A STOLEN LIFE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451629184",
+            "isbn13": "9781451629187"
+          },
+          {
+            "isbn10": "1451629192",
+            "isbn13": "9781451629194"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316056871",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tina Fey",
+        "primary_isbn13": "9780316056878",
+        "description": "A memoir from the former \u201cSaturday Night Live\u201d star and writer, who was also the creator of \u201c30 Rock.\u201d Originally published in 2011.",
+        "book_review_link": "//www.nytimes.com/2011/04/04/books/bossypants-by-tina-fey-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316056892.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Bossypants-Tina-Fey/dp/0316056898?tag=thenewyorktim-20",
+        "contributor": "by Tina Fey",
+        "title": "BOSSYPANTS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316056863",
+            "isbn13": "9780316056861"
+          },
+          {
+            "isbn10": "031617789X",
+            "isbn13": "9780316177894"
+          },
+          {
+            "isbn10": "0316175862",
+            "isbn13": "9780316175869"
+          },
+          {
+            "isbn10": "031619803X",
+            "isbn13": "9780316198035"
+          },
+          {
+            "isbn10": "0316056871",
+            "isbn13": "9780316056878"
+          },
+          {
+            "isbn10": "0316056898",
+            "isbn13": "9780316056892"
+          },
+          {
+            "isbn10": "1609419693",
+            "isbn13": "9781609419691"
+          },
+          {
+            "isbn10": "0606267212",
+            "isbn13": "9780606267212"
+          },
+          {
+            "isbn10": "0751547832",
+            "isbn13": "9780751547832"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439127700",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nancy Gibbs and Michael Duffy",
+        "primary_isbn13": "9781439127704",
+        "description": "Two journalists examine the relationships between sitting presidents and their predecessors.\u00a0",
+        "book_review_link": "//www.nytimes.com/2012/04/18/books/the-presidents-club-by-nancy-gibbs-and-michael-duffy.html",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439148716.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Presidents-Club-Exclusive-Fraternity-ebook/dp/B005GG0MIS?tag=thenewyorktim-20",
+        "contributor": "by Nancy Gibbs and Michael Duffy",
+        "title": "THE PRESIDENTS CLUB",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439127700",
+            "isbn13": "9781439127704"
+          },
+          {
+            "isbn10": "1439148716",
+            "isbn13": "9781439148716"
+          },
+          {
+            "isbn10": "1439127727",
+            "isbn13": "9781439127728"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2012-08-04",
+    "previous_published_date": "2012-08-12",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2012-08-26"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

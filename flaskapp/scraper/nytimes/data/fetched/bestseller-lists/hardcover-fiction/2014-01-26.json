@@ -1,0 +1,861 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2014-01-26",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0670024783",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Monk Kidd",
+        "primary_isbn13": "9780670024780",
+        "description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670024780.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Invention-Wings-A-Novel/dp/0670024783?tag=thenewyorktim-20",
+        "contributor": "by Sue Monk Kidd",
+        "title": "THE INVENTION OF WINGS",
+        "sunday_review_link": "//www.nytimes.com/2014/01/26/books/review/the-invention-of-wings-by-sue-monk-kidd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670024783",
+            "isbn13": "9780670024780"
+          },
+          {
+            "isbn10": "1410465322",
+            "isbn13": "9781410465320"
+          },
+          {
+            "isbn10": "0143121707",
+            "isbn13": "9780143121701"
+          },
+          {
+            "isbn10": "1594138869",
+            "isbn13": "9781594138867"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316055433",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316055437",
+        "description": "\u00a0A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0425270793",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christine Feehan",
+        "primary_isbn13": "9780425270790",
+        "description": "The 25th book in the Carpathian series follows the story of Skyler Daratrazanoff and Dimitri Tirunul begun in \u201cDark Lycan.\u201d\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698136922.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dark-Wolf-Carpathian-Christine-Feehan-ebook/dp/B00DGZKJAW?tag=thenewyorktim-20",
+        "contributor": "by Christine Feehan",
+        "title": "DARK WOLF",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425270793",
+            "isbn13": "9780425270790"
+          },
+          {
+            "isbn10": "0515154628",
+            "isbn13": "9780515154627"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399164154",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780399164156",
+        "description": "In the 28th Stone Barrington novel, the New York lawyer takes on a complicated new client.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399164156.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Standup-Stone-Barrington-Stuart-Woods/dp/0399164154?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "STANDUP GUY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399164154",
+            "isbn13": "9780399164156"
+          },
+          {
+            "isbn10": "045146687X",
+            "isbn13": "9780451466877"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385537131",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385537131",
+        "description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/10/31/books/sycamore-row-by-john-grisham.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537926.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/Sycamore-Jake-Brigance-John-Grisham/dp/0385537131?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "SYCAMORE ROW",
+        "sunday_review_link": "//www.nytimes.com/2013/11/10/books/review/sycamore-row-by-john-grisham.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537131",
+            "isbn13": "9780385537131"
+          },
+          {
+            "isbn10": "0385537921",
+            "isbn13": "9780385537926"
+          },
+          {
+            "isbn10": "0553393618",
+            "isbn13": "9780553393613"
+          },
+          {
+            "isbn10": "0345543246",
+            "isbn13": "9780345543240"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399160671",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "W E B Griffin and William E Butterworth IV",
+        "primary_isbn13": "9780399160677",
+        "description": "Despite their antipathy, the president calls on Charley Castillo to take action against Mexican drug cartels and Somali pirates.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399160677.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Hazardous-Duty-Presidential-Agent-Novel-ebook/dp/B00C5R7E1O?tag=thenewyorktim-20",
+        "contributor": "by W. E. B. Griffin and William E. Butterworth IV",
+        "title": "HAZARDOUS DUTY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399160671",
+            "isbn13": "9780399160677"
+          },
+          {
+            "isbn10": "1410464776",
+            "isbn13": "9781410464774"
+          },
+          {
+            "isbn10": "0515154539",
+            "isbn13": "9780515154535"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061969702",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bernard Cornwell",
+        "primary_isbn13": "9780061969706",
+        "description": "The fate of the English nation is at stake as the Saxon kingdom battles the Danes in the early 10th century.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062199348.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Pagan-Lord-Saxon-Tales-ebook/dp/B00DB32RH2?tag=thenewyorktim-20",
+        "contributor": "by Bernard Cornwell",
+        "title": "THE PAGAN LORD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061969702",
+            "isbn13": "9780061969706"
+          },
+          {
+            "isbn10": "006219934X",
+            "isbn13": "9780062199348"
+          },
+          {
+            "isbn10": "0062298666",
+            "isbn13": "9780062298669"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062294377",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitch Albom",
+        "primary_isbn13": "9780062294371",
+        "description": "A small Michigan town is transformed when its residents receive phone calls said to be from heaven.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062294395.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 362,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/The-First-Phone-Call-Heaven/dp/0062294377?tag=thenewyorktim-20",
+        "contributor": "by Mitch Albom",
+        "title": "THE FIRST PHONE CALL FROM HEAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062294377",
+            "isbn13": "9780062294371"
+          },
+          {
+            "isbn10": "0062305778",
+            "isbn13": "9780062305770"
+          },
+          {
+            "isbn10": "0062294407",
+            "isbn13": "9780062294401"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525953086",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Gardner",
+        "primary_isbn13": "9780525953081",
+        "description": "The Boston detective D.\u2009D. Warren, seriously injured at a crime scene, is treated by a pain therapist whose father was a serial killer.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698148529.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Fear-Nothing-Detective-Warren-Novel-ebook/dp/B00DGZKPLK?tag=thenewyorktim-20",
+        "contributor": "by Lisa Gardner",
+        "title": "FEAR NOTHING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953086",
+            "isbn13": "9780525953081"
+          },
+          {
+            "isbn10": "0451469399",
+            "isbn13": "9780451469397"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399165126",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jayne Ann Krentz",
+        "primary_isbn13": "9780399165122",
+        "description": "When Lucy Sheridan returns to the California town of Summer River after her aunt\u2019s death, she discovers that the events of her last visit there were more complicated than she knew.",
+        "book_review_link": "",
+        "book_image_height": 186,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101620984.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/River-Road-Jayne-Ann-Krentz-ebook/dp/B00DGZKRZY?tag=thenewyorktim-20",
+        "contributor": "by Jayne Ann Krentz",
+        "title": "RIVER ROAD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399165126",
+            "isbn13": "9780399165122"
+          },
+          {
+            "isbn10": "0515155020",
+            "isbn13": "9780515155020"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399160477",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tom Clancy with Mark Greaney",
+        "primary_isbn13": "9780399160479",
+        "description": "President Jack Ryan and his son, a covert intelligence expert, try to counter a Russian threat in Tom Clancy\u2019s last novel before his death.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636497.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Command-Authority-Jack-Ryan-Novel-ebook/dp/B00EOARZ4G?tag=thenewyorktim-20",
+        "contributor": "by Tom Clancy with Mark Greaney",
+        "title": "COMMAND AUTHORITY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399160477",
+            "isbn13": "9780399160479"
+          },
+          {
+            "isbn10": "1410464970",
+            "isbn13": "9781410464972"
+          },
+          {
+            "isbn10": "0425275132",
+            "isbn13": "9780425275139"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030758836X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears on her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 71,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476727651",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781476727653",
+        "description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another threatened child with a gift.",
+        "book_review_link": "//www.nytimes.com/2013/09/16/books/doctor-sleep-is-stephen-kings-sequel-to-the-shining.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451698855.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/Doctor-Sleep-Stephen-King/dp/1451698852?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "DOCTOR SLEEP",
+        "sunday_review_link": "//www.nytimes.com/2013/09/22/books/review/stephen-kings-shining-sequel-doctor-sleep.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476727651",
+            "isbn13": "9781476727653"
+          },
+          {
+            "isbn10": "147672766X",
+            "isbn13": "9781476727660"
+          },
+          {
+            "isbn10": "1410462447",
+            "isbn13": "9781410462442"
+          },
+          {
+            "isbn10": "1451698852",
+            "isbn13": "9781451698855"
+          },
+          {
+            "isbn10": "1476779414",
+            "isbn13": "9781476779416"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316069515",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Michael Connelly",
+        "primary_isbn13": "9780316069519",
+        "description": "Mickey Haller, a.k.a. the Lincoln lawyer, defends a \u201cdigital pimp\u201d accused of murder and confronts an angry daughter.",
+        "book_review_link": "//www.nytimes.com/2013/12/09/books/mickey-haller-lincoln-lawyer-returns-in-gods-of-guilt.html",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316069502.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Gods-Guilt-Lincoln-Lawyer-Novel/dp/1455575992?tag=thenewyorktim-20",
+        "contributor": "by Michael Connelly",
+        "title": "THE GODS OF GUILT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316069515",
+            "isbn13": "9780316069519"
+          },
+          {
+            "isbn10": "031640554X",
+            "isbn13": "9780316405546"
+          },
+          {
+            "isbn10": "0316069507",
+            "isbn13": "9780316069502"
+          },
+          {
+            "isbn10": "1455575992",
+            "isbn13": "9781455575992"
+          },
+          {
+            "isbn10": "0316069493",
+            "isbn13": "9780316069496"
+          },
+          {
+            "isbn10": "0446556793",
+            "isbn13": "9780446556798"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316210919",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson",
+        "primary_isbn13": "9780316210911",
+        "description": "Alex Cross\u2019s family is threatened by a genius intent on proving that he is the greatest mind in the history of crime.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316210911.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 321,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Cross-My-Heart-Alex-ebook/dp/B00BAXFAVK?tag=thenewyorktim-20",
+        "contributor": "by James Patterson",
+        "title": "CROSS MY HEART",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316210919",
+            "isbn13": "9780316210911"
+          },
+          {
+            "isbn10": "0316210927",
+            "isbn13": "9780316210928"
+          },
+          {
+            "isbn10": "0316324639",
+            "isbn13": "9780316324632"
+          },
+          {
+            "isbn10": "1455515817",
+            "isbn13": "9781455515813"
+          },
+          {
+            "isbn10": "1455515809",
+            "isbn13": "9781455515806"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455521310",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9781455521319",
+        "description": "Sean King and Michelle Maxwell, former Secret Service agents turned private investigators, scrutinize the report of a soldier\u2019s mysterious death in Afghanistan.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455521227.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/King-Maxwell-David-Baldacci/dp/1455521310?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "KING AND MAXWELL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455521310",
+            "isbn13": "9781455521319"
+          },
+          {
+            "isbn10": "1455576204",
+            "isbn13": "9781455576203"
+          },
+          {
+            "isbn10": "1455521248",
+            "isbn13": "9781455521241"
+          },
+          {
+            "isbn10": "1455521299",
+            "isbn13": "9781455521296"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399165266",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert Knott",
+        "primary_isbn13": "9780399165269",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399165269.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Robert-Parkers-River-Hitch-Novel/dp/0399165266?tag=thenewyorktim-20",
+        "contributor": "by Robert Knott",
+        "title": "ROBERT B. PARKER'S BULL RIVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399165266",
+            "isbn13": "9780399165269"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553808036",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dean Koontz",
+        "primary_isbn13": "9780553808032",
+        "description": "A grotesque man living in exile beneath the city encounters a teenage girl hiding from dangerous enemies.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553808032.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Innocence-A-Novel-Dean-Koontz/dp/0553808036?tag=thenewyorktim-20",
+        "contributor": "by Dean Koontz",
+        "title": "INNOCENCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553808036",
+            "isbn13": "9780553808032"
+          },
+          {
+            "isbn10": "0345539656",
+            "isbn13": "9780345539656"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345542886",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich",
+        "primary_isbn13": "9780345542885",
+        "description": "The New Jersey bounty hunter Stephanie Plum pursues a powerful mobster on the lam.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345542892.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 305,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Takedown-Twenty-Stephanie-Janet-Evanovich/dp/0345542894?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich",
+        "title": "TAKEDOWN TWENTY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345542886",
+            "isbn13": "9780345542885"
+          },
+          {
+            "isbn10": "0345542908",
+            "isbn13": "9780345542908"
+          },
+          {
+            "isbn10": "0345542894",
+            "isbn13": "9780345542892"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455520659",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9781455520657",
+        "description": "The lives of two couples converge unexpectedly. While 91-year-old Ira is visited by his beloved wife (who passed away years earlier), Sophia, a college student, is enthralled by a young cowboy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455520640.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Longest-Ride-Nicholas-Sparks/dp/1455520640?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "THE LONGEST RIDE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455520659",
+            "isbn13": "9781455520657"
+          },
+          {
+            "isbn10": "1455576018",
+            "isbn13": "9781455576012"
+          },
+          {
+            "isbn10": "1455520667",
+            "isbn13": "9781455520664"
+          },
+          {
+            "isbn10": "1455520640",
+            "isbn13": "9781455520640"
+          },
+          {
+            "isbn10": "1455520632",
+            "isbn13": "9781455520633"
+          },
+          {
+            "isbn10": "1455584738",
+            "isbn13": "9781455584734"
+          },
+          {
+            "isbn10": "145558472X",
+            "isbn13": "9781455584727"
+          }
+        ],
+        "publisher": "Grand Central"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2014-01-11",
+    "previous_published_date": "2014-01-19",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2014-02-02"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

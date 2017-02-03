@@ -1,0 +1,877 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2013-12-15",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0385349173",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charles Krauthammer",
+        "primary_isbn13": "9780385349178",
+        "description": "Three decades\u2019 worth of essays from the conservative columnist.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385349178.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 335,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Things-That-Matter-Passions-Pastimes/dp/0385349173?tag=thenewyorktim-20",
+        "contributor": "by Charles Krauthammer",
+        "title": "THINGS THAT MATTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385349173",
+            "isbn13": "9780385349178"
+          },
+          {
+            "isbn10": "0385349181",
+            "isbn13": "9780385349185"
+          },
+          {
+            "isbn10": "0553398326",
+            "isbn13": "9780553398328"
+          },
+          {
+            "isbn10": "0804194513",
+            "isbn13": "9780804194518"
+          },
+          {
+            "isbn10": "038534919X",
+            "isbn13": "9780385349192"
+          }
+        ],
+        "publisher": "Crown Forum"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316204366",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Malcolm Gladwell",
+        "primary_isbn13": "9780316204361",
+        "description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+        "book_review_link": "//www.nytimes.com/2013/10/03/books/david-and-goliath-by-malcolm-gladwell.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316204361.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 348,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204366?tag=thenewyorktim-20",
+        "contributor": "by Malcolm Gladwell",
+        "title": "DAVID AND GOLIATH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/malcolm-gladwells-david-and-goliath.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316204366",
+            "isbn13": "9780316204361"
+          },
+          {
+            "isbn10": "0316204382",
+            "isbn13": "9780316204385"
+          },
+          {
+            "isbn10": "1611137527",
+            "isbn13": "9781611137521"
+          },
+          {
+            "isbn10": "0316239852",
+            "isbn13": "9780316239851"
+          },
+          {
+            "isbn10": "0316204374",
+            "isbn13": "9780316204378"
+          },
+          {
+            "isbn10": "031625178X",
+            "isbn13": "9780316251785"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805098542",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805098549",
+        "description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805098549.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Killing-Jesus-Bill-OReilly/dp/0805098542?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING JESUS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805098542",
+            "isbn13": "9780805098549"
+          },
+          {
+            "isbn10": "1410462420",
+            "isbn13": "9781410462428"
+          },
+          {
+            "isbn10": "1427233322",
+            "isbn13": "9781427233325"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "159523103X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brian Kilmeade and Don Yaeger",
+        "primary_isbn13": "9781595231031",
+        "description": "The story of the Culper spy ring, which aided the American cause during the Revolution.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698137653.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/George-Washingtons-Secret-Six-Revolution-ebook/dp/B00C5R7FP4?tag=thenewyorktim-20",
+        "contributor": "by Brian Kilmeade and Don Yaeger",
+        "title": "GEORGE WASHINGTON'S SECRET SIX",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "159523103X",
+            "isbn13": "9781595231031"
+          },
+          {
+            "isbn10": "1611762278",
+            "isbn13": "9781611762273"
+          },
+          {
+            "isbn10": "1595231102",
+            "isbn13": "9781595231109"
+          },
+          {
+            "isbn10": "073520943X",
+            "isbn13": "9780735209435"
+          }
+        ],
+        "publisher": "Sentinel"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476764743",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Glenn Beck with Kevin Balfe and Hannah Beck",
+        "primary_isbn13": "9781476764740",
+        "description": "Little-known stories from the American past.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476764757.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Miracles-Massacres-Untold-Stories-America-ebook/dp/B00EWWLKPQ?tag=thenewyorktim-20",
+        "contributor": "by Glenn Beck with Kevin Balfe and Hannah Beck",
+        "title": "MIRACLES AND MASSACRES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476764743",
+            "isbn13": "9781476764740"
+          },
+          {
+            "isbn10": "1442369671",
+            "isbn13": "9781442369672"
+          }
+        ],
+        "publisher": "Threshold Editions/Mercury Radio Arts"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "141654786X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Doris Kearns Goodwin",
+        "primary_isbn13": "9781416547860",
+        "description": "The relationship between Theodore Roosevelt and William Howard Taft and the activities of the muckraking press, from the author of \u201cTeam of Rivals.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/11/12/books/bully-pulpit-doris-kearns-goodwins-book-on-roosevelt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416547860.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 339,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Bully-Pulpit-Roosevelt-Journalism/dp/141654786X?tag=thenewyorktim-20",
+        "contributor": "by Doris Kearns Goodwin",
+        "title": "THE BULLY PULPIT",
+        "sunday_review_link": "//www.nytimes.com/2013/11/17/books/review/doris-kearns-goodwins-bully-pulpit.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "141654786X",
+            "isbn13": "9781416547860"
+          },
+          {
+            "isbn10": "1442362626",
+            "isbn13": "9781442362628"
+          },
+          {
+            "isbn10": "1442353155",
+            "isbn13": "9781442353152"
+          },
+          {
+            "isbn10": "1410463222",
+            "isbn13": "9781410463227"
+          },
+          {
+            "isbn10": "1442365706",
+            "isbn13": "9781442365704"
+          },
+          {
+            "isbn10": "1416547878",
+            "isbn13": "9781416547877"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250038820",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brandon Stanton",
+        "primary_isbn13": "9781250038821",
+        "description": "Four hundred color photos of New Yorkers, with brief commentary by Stanton.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250038821.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 389,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Humans-New-York-Brandon-Stanton/dp/1250038820?tag=thenewyorktim-20",
+        "contributor": "by Brandon Stanton",
+        "title": "HUMANS OF NEW YORK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250038820",
+            "isbn13": "9781250038821"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316322407",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Malala Yousafzai with Christina Lamb",
+        "primary_isbn13": "9780316322409",
+        "description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316322409.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 321,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Am-Malala-Stood-Education-Taliban/dp/0316322407?tag=thenewyorktim-20",
+        "contributor": "by Malala Yousafzai with Christina Lamb",
+        "title": "I AM MALALA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316322407",
+            "isbn13": "9780316322409"
+          },
+          {
+            "isbn10": "147897978X",
+            "isbn13": "9781478979784"
+          },
+          {
+            "isbn10": "031628663X",
+            "isbn13": "9780316286633"
+          },
+          {
+            "isbn10": "0316322423",
+            "isbn13": "9780316322423"
+          },
+          {
+            "isbn10": "1478902337",
+            "isbn13": "9781478902331"
+          },
+          {
+            "isbn10": "0297870939",
+            "isbn13": "9780297870937"
+          },
+          {
+            "isbn10": "1478983701",
+            "isbn13": "9781478983705"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385521707",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ari Shavit",
+        "primary_isbn13": "9780385521703",
+        "description": "An Israeli journalist expresses both solidarity with and criticism of his countrymen in this memoir and history.",
+        "book_review_link": "//www.nytimes.com/2013/11/20/books/ari-shavits-my-promised-land.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385521703.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/My-Promised-Land-Triumph-Tragedy-ebook/dp/B009QJMXI8?tag=thenewyorktim-20",
+        "contributor": "by Ari Shavit",
+        "title": "MY PROMISED LAND",
+        "sunday_review_link": "//www.nytimes.com/2013/11/24/books/review/my-promised-land-by-ari-shavit.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385521707",
+            "isbn13": "9780385521703"
+          },
+          {
+            "isbn10": "0385359594",
+            "isbn13": "9780385359597"
+          }
+        ],
+        "publisher": "Spiegel & Grau"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476745374",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Si Robertson with Mark Schlabach",
+        "primary_isbn13": "9781476745374",
+        "description": "Tales from Phil\u2019s youngest brother, retired from the Army, who works in the Duck Commander workshop.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476745398.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/Si-cology-Tales-Wisdom-Dynastys-Favorite-ebook/dp/B00C0CPCVI?tag=thenewyorktim-20",
+        "contributor": "by Si Robertson with Mark Schlabach",
+        "title": "SI-COLOGY 1",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476745374",
+            "isbn13": "9781476745374"
+          },
+          {
+            "isbn10": "1476745390",
+            "isbn13": "9781476745398"
+          },
+          {
+            "isbn10": "159415483X",
+            "isbn13": "9781594154836"
+          }
+        ],
+        "publisher": "Howard Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0804139571",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ron Burgundy",
+        "primary_isbn13": "9780804139571",
+        "description": "A \u201cmemoir\u201d in the voice of Will Ferrell\u2019s anchorman character.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804139588.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Let-Me-Off-Top-Musings-ebook/dp/B00EIGS388?tag=thenewyorktim-20",
+        "contributor": "by Ron Burgundy",
+        "title": "LET ME OFF AT THE TOP!",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804139571",
+            "isbn13": "9780804139571"
+          },
+          {
+            "isbn10": "080413958X",
+            "isbn13": "9780804139588"
+          }
+        ],
+        "publisher": "Crown Archetype"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476731497",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clint Hill and Lisa McCubbin",
+        "primary_isbn13": "9781476731490",
+        "description": "Recollections from the Secret Service agent assigned to President Kennedy in Dallas.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476731513.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 404,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Five-Days-November-Clint-Hill-ebook/dp/B00BSBVDH4?tag=thenewyorktim-20",
+        "contributor": "by Clint Hill and Lisa McCubbin",
+        "title": "FIVE DAYS IN NOVEMBER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476731497",
+            "isbn13": "9781476731490"
+          },
+          {
+            "isbn10": "1476731519",
+            "isbn13": "9781476731513"
+          }
+        ],
+        "publisher": "Gallery Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451695195",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eben Alexander",
+        "primary_isbn13": "9781451695199",
+        "description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+        "book_review_link": "",
+        "book_image_height": 300,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451695199.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 56,
+        "amazon_product_url": "http://www.amazon.com/Proof-Heaven-Neurosurgeons-Journey-Afterlife/dp/1451695195?tag=thenewyorktim-20",
+        "contributor": "by Eben Alexander",
+        "title": "PROOF OF HEAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451695187",
+            "isbn13": "9781451695182"
+          },
+          {
+            "isbn10": "1451695195",
+            "isbn13": "9781451695199"
+          },
+          {
+            "isbn10": "1451695209",
+            "isbn13": "9781451695205"
+          },
+          {
+            "isbn10": "1476753024",
+            "isbn13": "9781476753027"
+          },
+          {
+            "isbn10": "1442359315",
+            "isbn13": "9781442359314"
+          },
+          {
+            "isbn10": "1410458806",
+            "isbn13": "9781410458803"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385530900",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Pat Conroy",
+        "primary_isbn13": "9780385530903",
+        "description": "In this memoir, Conroy mourns the abusive father on whom \u201cThe Great Santini\u201d was based.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385530859.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Death-Santini-Story-Father/dp/0385530900?tag=thenewyorktim-20",
+        "contributor": "by Pat Conroy",
+        "title": "THE DEATH OF SANTINI",
+        "sunday_review_link": "//www.nytimes.com/2013/11/17/books/review/pat-conroys-death-of-santini.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385530900",
+            "isbn13": "9780385530903"
+          },
+          {
+            "isbn10": "0385530854",
+            "isbn13": "9780385530859"
+          },
+          {
+            "isbn10": "0385343523",
+            "isbn13": "9780385343527"
+          },
+          {
+            "isbn10": "0804121176",
+            "isbn13": "9780804121170"
+          },
+          {
+            "isbn10": "0307989828",
+            "isbn13": "9780307989826"
+          }
+        ],
+        "publisher": "Nan A. Talese/Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385530269",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Piper Kerman",
+        "primary_isbn13": "9780385530262",
+        "description": "A memoir by a Brooklyn woman whose relationship with a drug runner gets her sentenced to a year in prison. The basis for the Netflix series, originally published in 2010.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385530262.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Orange-Is-New-Black-Womens-ebook/dp/B0036S4B6M?tag=thenewyorktim-20",
+        "contributor": "by Piper Kerman",
+        "title": "ORANGE IS THE NEW BLACK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385530269",
+            "isbn13": "9780385530262"
+          },
+          {
+            "isbn10": "0385523394",
+            "isbn13": "9780385523394"
+          },
+          {
+            "isbn10": "0812986180",
+            "isbn13": "9780812986181"
+          },
+          {
+            "isbn10": "1410472124",
+            "isbn13": "9781410472120"
+          },
+          {
+            "isbn10": "1452607664",
+            "isbn13": "9781452607665"
+          },
+          {
+            "isbn10": "1452657661",
+            "isbn13": "9781452657660"
+          }
+        ],
+        "publisher": "Spiegel & Grau"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805096663",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805096668",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the assassination of John F. Kennedy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805096668.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Killing-Kennedy-The-End-Camelot-ebook/dp/B0079886DY?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING KENNEDY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805096663",
+            "isbn13": "9780805096668"
+          },
+          {
+            "isbn10": "0805096671",
+            "isbn13": "9780805096675"
+          },
+          {
+            "isbn10": "1427226849",
+            "isbn13": "9781427226846"
+          },
+          {
+            "isbn10": "1410452964",
+            "isbn13": "9781410452962"
+          },
+          {
+            "isbn10": "1250092337",
+            "isbn13": "9781250092335"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316017930",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Malcolm Gladwell",
+        "primary_isbn13": "9780316017930",
+        "description": "Why some people succeed; from the author of \"Blink\" and \"The Tipping Point.\" Originally published in 2008.",
+        "book_review_link": "//www.nytimes.com/2008/11/18/books/18kaku.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316017930.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 184,
+        "first_chapter_link": "//www.nytimes.com/2008/11/30/books/chapters/chapter-outliers.html",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930?tag=thenewyorktim-20",
+        "contributor": "by Malcolm Gladwell",
+        "title": "OUTLIERS",
+        "sunday_review_link": "//www.nytimes.com/2008/11/30/books/review/Leonhardt-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316017922",
+            "isbn13": "9780316017923"
+          },
+          {
+            "isbn10": "0316040347",
+            "isbn13": "9780316040341"
+          },
+          {
+            "isbn10": "0316017930",
+            "isbn13": "9780316017930"
+          },
+          {
+            "isbn10": "1600243916",
+            "isbn13": "9781600243912"
+          },
+          {
+            "isbn10": "031602497X",
+            "isbn13": "9780316024976"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0767919408",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill Bryson",
+        "primary_isbn13": "9780767919401",
+        "description": "The events of the summer of 1927: Charles Lindbergh\u2019s trans-Atlantic flight, Babe Ruth\u2019s 60 homers, the great Mississippi flood.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537827.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/One-Summer-America-Bill-Bryson-ebook/dp/B00C8S9VKM?tag=thenewyorktim-20",
+        "contributor": "by Bill Bryson",
+        "title": "ONE SUMMER",
+        "sunday_review_link": "//www.nytimes.com/2013/11/24/books/review/bill-brysons-one-summer-america-1927.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0767919408",
+            "isbn13": "9780767919401"
+          },
+          {
+            "isbn10": "0767919416",
+            "isbn13": "9780767919418"
+          },
+          {
+            "isbn10": "0739315293",
+            "isbn13": "9780739315293"
+          },
+          {
+            "isbn10": "0375434321",
+            "isbn13": "9780375434327"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594204403",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mark Halperin and John Heilemann",
+        "primary_isbn13": "9781594204401",
+        "description": "Insider reporting on the election of 2012 from the authors of \u201cGame Change.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/11/05/books/double-down-by-mark-halperin-and-john-heilemann.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101638705.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Double-Down-Game-Change-2012-ebook/dp/B00C5R7EE6?tag=thenewyorktim-20",
+        "contributor": "by Mark Halperin and John Heilemann",
+        "title": "DOUBLE DOWN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594204403",
+            "isbn13": "9781594204401"
+          },
+          {
+            "isbn10": "1611762154",
+            "isbn13": "9781611762150"
+          }
+        ],
+        "publisher": "Penguin Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385349947",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sheryl Sandberg with Nell Scovell",
+        "primary_isbn13": "9780385349949",
+        "description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+        "book_review_link": "//www.nytimes.com/2013/03/07/books/sheryl-sandbergs-lean-in.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385349956.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Lean-In-Women-Work-Will-ebook/dp/B009LMTDL0?tag=thenewyorktim-20",
+        "contributor": "by Sheryl Sandberg with Nell Scovell",
+        "title": "LEAN IN",
+        "sunday_review_link": "//www.nytimes.com/2013/03/10/books/review/sheryl-sandbergs-lean-in.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385349947",
+            "isbn13": "9780385349949"
+          },
+          {
+            "isbn10": "0385394233",
+            "isbn13": "9780385394239"
+          },
+          {
+            "isbn10": "0553544470",
+            "isbn13": "9780553544473"
+          }
+        ],
+        "publisher": "Knopf"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2013-11-30",
+    "previous_published_date": "2013-12-08",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2013-12-22"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

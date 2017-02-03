@@ -1,0 +1,825 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2013-05-19",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "031621082X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316210829",
+        "description": "One week after the birth of her baby, Detective Lindsay Boxer must return to work to investigate a string of grisly murders; a Women\u2019s Murder Club novel.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316210843.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/12th-Never-Womens-Murder-Club/dp/1455515795?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "12TH OF NEVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031621082X",
+            "isbn13": "9780316210829"
+          },
+          {
+            "isbn10": "0316210870",
+            "isbn13": "9780316210874"
+          },
+          {
+            "isbn10": "0316252492",
+            "isbn13": "9780316252492"
+          },
+          {
+            "isbn10": "1455515795",
+            "isbn13": "9781455515790"
+          },
+          {
+            "isbn10": "1455515787",
+            "isbn13": "9781455515783"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455521213",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9781455521210",
+        "description": "The government hitman Will Robie uncovers a serious threat as he attempts to take out a fellow assassin who has gone rogue.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455521289.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Will-Robie-David-Baldacci/dp/1455521302?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE HIT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455521213",
+            "isbn13": "9781455521210"
+          },
+          {
+            "isbn10": "1455529478",
+            "isbn13": "9781455529476"
+          },
+          {
+            "isbn10": "1455521280",
+            "isbn13": "9781455521289"
+          },
+          {
+            "isbn10": "1455521175",
+            "isbn13": "9781455521173"
+          },
+          {
+            "isbn10": "1455521302",
+            "isbn13": "9781455521302"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399159894",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9780399159893",
+        "description": "A former criminal attorney who has been acquitted of his wife\u2019s murder retreats to his family home on a New England cliff.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399159893.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Whiskey-Beach-Nora-Roberts/dp/0399159894?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "WHISKEY BEACH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159894",
+            "isbn13": "9780399159893"
+          },
+          {
+            "isbn10": "039916460X",
+            "isbn13": "9780399164606"
+          },
+          {
+            "isbn10": "0425269817",
+            "isbn13": "9780425269817"
+          },
+          {
+            "isbn10": "0515154296",
+            "isbn13": "9780515154290"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "125000098X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeffrey Archer",
+        "primary_isbn13": "9781250000989",
+        "description": "In Volume 3 of the Clifton Chronicles, the focus shifts to a new generation \u2014 Sebastian, the son of Harry and Emma Clifton.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250022370.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Best-Kept-Secret-Clifton-Chronicles/dp/1250040779?tag=thenewyorktim-20",
+        "contributor": "by Jeffrey Archer",
+        "title": "BEST KEPT SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "125000098X",
+            "isbn13": "9781250000989"
+          },
+          {
+            "isbn10": "1410458350",
+            "isbn13": "9781410458353"
+          },
+          {
+            "isbn10": "1250040779",
+            "isbn13": "9781250040770"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062200577",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Joe Hill",
+        "primary_isbn13": "9780062200570",
+        "description": "In a creepy battle between real and imaginary worlds, a brave biker chick is pitted against a ghoulish villain who lures children to a place where it is always Christmas.",
+        "book_review_link": "//www.nytimes.com/2013/04/29/books/nos4a2-a-novel-by-joe-hill.html",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062200594.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/NOS4A2-Joe-Hill-ebook/dp/B009NF6Z2K?tag=thenewyorktim-20",
+        "contributor": "by Joe Hill",
+        "title": "NOS4A2",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062200577",
+            "isbn13": "9780062200570"
+          },
+          {
+            "isbn10": "0062200593",
+            "isbn13": "9780062200594"
+          },
+          {
+            "isbn10": "0062200585",
+            "isbn13": "9780062200587"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451668945",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781451668940",
+        "description": "Two sisters are threatened by a dark secret from their family's past.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451668964.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Daddys-Gone-Hunting-Higgins-Clark-ebook/dp/B009R659L8?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "DADDY'S GONE A HUNTING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451668945",
+            "isbn13": "9781451668940"
+          },
+          {
+            "isbn10": "1451668961",
+            "isbn13": "9781451668964"
+          },
+          {
+            "isbn10": "141045598X",
+            "isbn13": "9781410455987"
+          },
+          {
+            "isbn10": "1451668953",
+            "isbn13": "9781451668957"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030758836X",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears on her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 48,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312577214",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kristin Hannah",
+        "primary_isbn13": "9780312577216",
+        "description": "A woman must deal with her personal issues before she can keep her promise to help the family of her deceased friend.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312577216.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Fly-Away-Kristin-Hannah/dp/0312577214?tag=thenewyorktim-20",
+        "contributor": "by Kristin Hannah",
+        "title": "FLY AWAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312577214",
+            "isbn13": "9780312577216"
+          },
+          {
+            "isbn10": "1250031818",
+            "isbn13": "9781250031815"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316176486",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Kate Atkinson",
+        "primary_isbn13": "9780316176484",
+        "description": "A woman appears in different versions of the same events, centered on World War II.\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/03/26/books/life-after-life-a-novel-by-kate-atkinson.html",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316176484.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Life-After-A-Novel-ebook/dp/B008TUQ60G?tag=thenewyorktim-20",
+        "contributor": "by Kate Atkinson",
+        "title": "LIFE AFTER LIFE",
+        "sunday_review_link": "//www.nytimes.com/2013/04/28/books/review/life-after-life-by-kate-atkinson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316176486",
+            "isbn13": "9780316176484"
+          },
+          {
+            "isbn10": "0316230804",
+            "isbn13": "9780316230803"
+          },
+          {
+            "isbn10": "0316176494",
+            "isbn13": "9780316176491"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385535309",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Edward Rutherfurd",
+        "primary_isbn13": "9780385535304",
+        "description": "Characters real and imaginary in the City of Light.",
+        "book_review_link": "",
+        "book_image_height": 196,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385535304.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Paris-The-Novel-Edward-Rutherfurd-ebook/dp/B009Y4I5N2?tag=thenewyorktim-20",
+        "contributor": "by Edward Rutherfurd",
+        "title": "PARIS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385535309",
+            "isbn13": "9780385535304"
+          },
+          {
+            "isbn10": "0385535317",
+            "isbn13": "9780385535311"
+          },
+          {
+            "isbn10": "0345530764",
+            "isbn13": "9780345530769"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400067685",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elizabeth Strout",
+        "primary_isbn13": "9781400067688",
+        "description": "Two brothers, both lawyers, come together in a small Maine town to defend their troubled nephew.\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/03/28/books/the-burgess-boys-a-novel-by-elizabeth-strout.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400067688.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/The-Burgess-Boys-A-Novel-ebook/dp/B009MYAWIA?tag=thenewyorktim-20",
+        "contributor": "by Elizabeth Strout",
+        "title": "THE BURGESS BOYS",
+        "sunday_review_link": "//www.nytimes.com/2013/04/28/books/review/the-burgess-boys-by-elizabeth-strout.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400067685",
+            "isbn13": "9781400067688"
+          },
+          {
+            "isbn10": "0812984617",
+            "isbn13": "9780812984613"
+          },
+          {
+            "isbn10": "0812979516",
+            "isbn13": "9780812979510"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0778314936",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Wiggs",
+        "primary_isbn13": "9780778314936",
+        "description": "When a woman inherits half a hundred-acre apple orchard in Sonoma County to be shared with a half-sister she never knew she had, she discovers the pleasures of family and love.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 188,
+        "book_image": "https://s1.nyt.com/du/books/images/9781460311899.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Apple-Orchard-Susan-Wiggs/dp/0778314936?tag=thenewyorktim-20",
+        "contributor": "by Susan Wiggs",
+        "title": "THE APPLE ORCHARD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778314936",
+            "isbn13": "9780778314936"
+          },
+          {
+            "isbn10": "0778318338",
+            "isbn13": "9780778318330"
+          }
+        ],
+        "publisher": "Harlequin Mira"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594488398",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Meg Wolitzer",
+        "primary_isbn13": "9781594488399",
+        "description": "Six friends meet in the 1970s at a summer arts camp, and pursue success, and one another, over succeeding decades.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594488399.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Interestings-Novel-Meg-Wolitzer/dp/1594632340?tag=thenewyorktim-20",
+        "contributor": "by Meg Wolitzer",
+        "title": "THE INTERESTINGS",
+        "sunday_review_link": "//www.nytimes.com/2013/04/21/books/review/the-interestings-by-meg-wolitzer.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594488398",
+            "isbn13": "9781594488399"
+          },
+          {
+            "isbn10": "1594632340",
+            "isbn13": "9781594632341"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 71,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812993845",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sophie Kinsella",
+        "primary_isbn13": "9780812993844",
+        "description": "A woman tries to break up her sister\u2019s impulsive marriage.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812993844.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Wedding-Night-Novel-Sophie-Kinsella-ebook/dp/B009MYARIK?tag=thenewyorktim-20",
+        "contributor": "by Sophie Kinsella",
+        "title": "WEDDING NIGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812993845",
+            "isbn13": "9780812993844"
+          },
+          {
+            "isbn10": "0812993853",
+            "isbn13": "9780812993851"
+          },
+          {
+            "isbn10": "0812984277",
+            "isbn13": "9780812984279"
+          }
+        ],
+        "publisher": "Dial"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345532740",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Lauren Graham",
+        "primary_isbn13": "9780345532749",
+        "description": "A young actress tries to make it in New York City, by a star of \u201cGilmore Girls\u201d and \u201cParenthood.\u201d\u00a0",
+        "book_review_link": "",
+        "book_image_height": 188,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345532749.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Someday-Maybe-A-Novel/dp/0345532767?tag=thenewyorktim-20",
+        "contributor": "by Lauren Graham",
+        "title": "SOMEDAY, SOMEDAY, MAYBE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345532740",
+            "isbn13": "9780345532749"
+          },
+          {
+            "isbn10": "0345532767",
+            "isbn13": "9780345532763"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525953485",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9780525953487",
+        "description": "Six years after the woman he loved married another man, Jake discovers that neither she nor their life together were what they seemed.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101611029.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Six-Years-Harlan-Coben/dp/045141411X?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "SIX YEARS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953485",
+            "isbn13": "9780525953487"
+          },
+          {
+            "isbn10": "1410456064",
+            "isbn13": "9781410456069"
+          },
+          {
+            "isbn10": "045141411X",
+            "isbn13": "9780451414113"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307596907",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Claire Messud",
+        "primary_isbn13": "9780307596901",
+        "description": "The quiet life of a teacher and frustrated artist is upended by her friendship with a glamorous couple and their son; from the author of \u201cThe Emperor\u2019s Children.\u201d\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/05/03/books/the-woman-upstairs-by-claire-messud.html",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307596901.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Woman-Upstairs-Claire-Messud/dp/0307596907?tag=thenewyorktim-20",
+        "contributor": "by Claire Messud",
+        "title": "THE WOMAN UPSTAIRS",
+        "sunday_review_link": "//www.nytimes.com/2013/05/05/books/review/the-woman-upstairs-by-claire-messud.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307596907",
+            "isbn13": "9780307596901"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062105620",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Isabel Allende",
+        "primary_isbn13": "9780062105622",
+        "description": "A girl who has been raised by her Chilean exile grandparents gets into trouble after her grandfather dies; her grandmother helps her escape to an island off the coast of C",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062105622.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Mayas-Notebook-Novel-Isabel-Allende/dp/0062105620?tag=thenewyorktim-20",
+        "contributor": "by Isabel Allende",
+        "title": "MAYA'S NOTEBOOK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062105620",
+            "isbn13": "9780062105622"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250010071",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Scottoline",
+        "primary_isbn13": "9781250010070",
+        "description": "An Army doctor returns home from Afghanistan to find that the life he left behind has fallen apart.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250025999.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dont-Go-Lisa-Scottoline-ebook/dp/B008BU6THE?tag=thenewyorktim-20",
+        "contributor": "by Lisa Scottoline",
+        "title": "DON'T GO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250010071",
+            "isbn13": "9781250010070"
+          },
+          {
+            "isbn10": "125001008X",
+            "isbn13": "9781250010087"
+          }
+        ],
+        "publisher": "St. Martin's"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2013-05-04",
+    "previous_published_date": "2013-05-12",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2013-05-26"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

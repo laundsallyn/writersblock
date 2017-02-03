@@ -1,0 +1,871 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2013-12-29",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0385537921",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385537926",
+        "description": "\u00a0A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/10/31/books/sycamore-row-by-john-grisham.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537926.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Sycamore-Jake-Brigance-John-Grisham/dp/0385537131?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "SYCAMORE ROW",
+        "sunday_review_link": "//www.nytimes.com/2013/11/10/books/review/sycamore-row-by-john-grisham.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537131",
+            "isbn13": "9780385537131"
+          },
+          {
+            "isbn10": "0385537921",
+            "isbn13": "9780385537926"
+          },
+          {
+            "isbn10": "0553393618",
+            "isbn13": "9780553393613"
+          },
+          {
+            "isbn10": "0345543246",
+            "isbn13": "9780345543240"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316248679",
+        "description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399160477",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tom Clancy with Mark Greaney",
+        "primary_isbn13": "9780399160479",
+        "description": "President Jack Ryan and his son, a covert intelligence expert, try to counter a Russian threat in Clancy\u2019s last novel before his death.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636497.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Command-Authority-Jack-Ryan-Novel-ebook/dp/B00EOARZ4G?tag=thenewyorktim-20",
+        "contributor": "by Tom Clancy with Mark Greaney",
+        "title": "COMMAND AUTHORITY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399160477",
+            "isbn13": "9780399160479"
+          },
+          {
+            "isbn10": "1410464970",
+            "isbn13": "9781410464972"
+          },
+          {
+            "isbn10": "0425275132",
+            "isbn13": "9780425275139"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345539656",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dean Koontz",
+        "primary_isbn13": "9780345539656",
+        "description": "A grotesque man living in exile beneath the city encounters a teenage girl hiding from dangerous enemies.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553808032.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Innocence-A-Novel-Dean-Koontz/dp/0553808036?tag=thenewyorktim-20",
+        "contributor": "by Dean Koontz",
+        "title": "INNOCENCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553808036",
+            "isbn13": "9780553808032"
+          },
+          {
+            "isbn10": "0345539656",
+            "isbn13": "9780345539656"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316069507",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Connelly",
+        "primary_isbn13": "9780316069502",
+        "description": "Mickey Haller, a.k.a. the Lincoln lawyer, defends a \u201cdigital pimp\u201d accused of murder.",
+        "book_review_link": "//www.nytimes.com/2013/12/09/books/mickey-haller-lincoln-lawyer-returns-in-gods-of-guilt.html",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316069502.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Gods-Guilt-Lincoln-Lawyer-Novel/dp/1455575992?tag=thenewyorktim-20",
+        "contributor": "by Michael Connelly",
+        "title": "THE GODS OF GUILT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316069515",
+            "isbn13": "9780316069519"
+          },
+          {
+            "isbn10": "031640554X",
+            "isbn13": "9780316405546"
+          },
+          {
+            "isbn10": "0316069507",
+            "isbn13": "9780316069502"
+          },
+          {
+            "isbn10": "1455575992",
+            "isbn13": "9781455575992"
+          },
+          {
+            "isbn10": "0316069493",
+            "isbn13": "9780316069496"
+          },
+          {
+            "isbn10": "0446556793",
+            "isbn13": "9780446556798"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062294377",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitch Albom",
+        "primary_isbn13": "9780062294371",
+        "description": "A small Michigan town is transformed when its residents receive phone calls said to be from heaven.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062294395.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 362,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-First-Phone-Call-Heaven/dp/0062294377?tag=thenewyorktim-20",
+        "contributor": "by Mitch Albom",
+        "title": "THE FIRST PHONE CALL FROM HEAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062294377",
+            "isbn13": "9780062294371"
+          },
+          {
+            "isbn10": "0062305778",
+            "isbn13": "9780062305770"
+          },
+          {
+            "isbn10": "0062294407",
+            "isbn13": "9780062294401"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345542908",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich",
+        "primary_isbn13": "9780345542908",
+        "description": "The New Jersey bounty hunter Stephanie Plum pursues a mobster on the lam.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345542892.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 305,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Takedown-Twenty-Stephanie-Janet-Evanovich/dp/0345542894?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich",
+        "title": "TAKEDOWN TWENTY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345542886",
+            "isbn13": "9780345542885"
+          },
+          {
+            "isbn10": "0345542908",
+            "isbn13": "9780345542908"
+          },
+          {
+            "isbn10": "0345542894",
+            "isbn13": "9780345542892"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316210919",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson",
+        "primary_isbn13": "9780316210911",
+        "description": "Alex Cross\u2019s family is threatened.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316210911.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 321,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Cross-My-Heart-Alex-ebook/dp/B00BAXFAVK?tag=thenewyorktim-20",
+        "contributor": "by James Patterson",
+        "title": "CROSS MY HEART",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316210919",
+            "isbn13": "9780316210911"
+          },
+          {
+            "isbn10": "0316210927",
+            "isbn13": "9780316210928"
+          },
+          {
+            "isbn10": "0316324639",
+            "isbn13": "9780316324632"
+          },
+          {
+            "isbn10": "1455515817",
+            "isbn13": "9781455515813"
+          },
+          {
+            "isbn10": "1455515809",
+            "isbn13": "9781455515806"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9781455521227",
+        "description": "Sean King and Michelle Maxwell, former Secret Service agents turned private investigators, scrutinize the report of a soldier\u2019s mysterious death in Afghanistan.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455521227.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/King-Maxwell-David-Baldacci/dp/1455521310?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "KING AND MAXWELL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455521310",
+            "isbn13": "9781455521319"
+          },
+          {
+            "isbn10": "1455576204",
+            "isbn13": "9781455576203"
+          },
+          {
+            "isbn10": "1455521248",
+            "isbn13": "9781455521241"
+          },
+          {
+            "isbn10": "1455521299",
+            "isbn13": "9781455521296"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476727651",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781476727653",
+        "description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+        "book_review_link": "//www.nytimes.com/2013/09/16/books/doctor-sleep-is-stephen-kings-sequel-to-the-shining.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451698855.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/Doctor-Sleep-Stephen-King/dp/1451698852?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "DOCTOR SLEEP",
+        "sunday_review_link": "//www.nytimes.com/2013/09/22/books/review/stephen-kings-shining-sequel-doctor-sleep.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476727651",
+            "isbn13": "9781476727653"
+          },
+          {
+            "isbn10": "147672766X",
+            "isbn13": "9781476727660"
+          },
+          {
+            "isbn10": "1410462447",
+            "isbn13": "9781410462442"
+          },
+          {
+            "isbn10": "1451698852",
+            "isbn13": "9781451698855"
+          },
+          {
+            "isbn10": "1476779414",
+            "isbn13": "9781476779416"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476759553",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jamie McGuire",
+        "primary_isbn13": "9781476759555",
+        "description": "What really happened on the day, and night, of Abby and Travis\u2019s elopement; a Beautiful Disaster novella.",
+        "book_review_link": "",
+        "book_image_height": 202,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476759555.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Beautiful-Wedding-Novella-Maddox-Brothers-ebook/dp/B00FCAW93O?tag=thenewyorktim-20",
+        "contributor": "by Jamie McGuire",
+        "title": "A BEAUTIFUL WEDDING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476759553",
+            "isbn13": "9781476759555"
+          },
+          {
+            "isbn10": "1476759545",
+            "isbn13": "9781476759548"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455520659",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9781455520657",
+        "description": "The lives of two couples converge unexpectedly.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455520640.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 13,
+        "amazon_product_url": "http://www.amazon.com/The-Longest-Ride-Nicholas-Sparks/dp/1455520640?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "THE LONGEST RIDE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455520659",
+            "isbn13": "9781455520657"
+          },
+          {
+            "isbn10": "1455576018",
+            "isbn13": "9781455576012"
+          },
+          {
+            "isbn10": "1455520667",
+            "isbn13": "9781455520664"
+          },
+          {
+            "isbn10": "1455520640",
+            "isbn13": "9781455520640"
+          },
+          {
+            "isbn10": "1455520632",
+            "isbn13": "9781455520633"
+          },
+          {
+            "isbn10": "1455584738",
+            "isbn13": "9781455584734"
+          },
+          {
+            "isbn10": "145558472X",
+            "isbn13": "9781455584727"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "159463176X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Khaled Hosseini",
+        "primary_isbn13": "9781594631764",
+        "description": "A multigenerational family saga centers on a brother and sister born in Afghanistan; by the author of \"The Kite Runner.\"",
+        "book_review_link": "//www.nytimes.com/2013/05/21/books/and-the-mountains-echoed-by-khaled-hosseini.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594632389.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 320,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/And-Mountains-Echoed-Khaled-Hosseini/dp/1594632383?tag=thenewyorktim-20",
+        "contributor": "by Khaled Hosseini",
+        "title": "AND THE MOUNTAINS ECHOED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "159463176X",
+            "isbn13": "9781594631764"
+          },
+          {
+            "isbn10": "159463209X",
+            "isbn13": "9781594632099"
+          },
+          {
+            "isbn10": "1410458792",
+            "isbn13": "9781410458797"
+          },
+          {
+            "isbn10": "1408842440",
+            "isbn13": "9781408842447"
+          },
+          {
+            "isbn10": "1594632383",
+            "isbn13": "9781594632389"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laurann Dohner",
+        "primary_isbn13": "9781419939754",
+        "description": "Jeanie loves a New Species and is willing to pay for that love with pain, tears and heartbreak; Book 11 of the New Species series.",
+        "book_review_link": "",
+        "book_image_height": 171,
+        "book_image": "https://s1.nyt.com/du/books/images/9781419939754.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/True-New-Species-Laurann-Dohner-ebook/dp/B00G6MYKYS?tag=thenewyorktim-20",
+        "contributor": "by Laurann Dohner",
+        "title": "TRUE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Ellora's Cave"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385537859",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dan Brown",
+        "primary_isbn13": "9780385537858",
+        "description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+        "book_review_link": "//www.nytimes.com/2013/05/13/books/inferno-by-dan-brown.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400079155.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 21,
+        "amazon_product_url": "http://www.amazon.com/Inferno-Robert-Langdon-Dan-Brown/dp/1400079152?tag=thenewyorktim-20",
+        "contributor": "by Dan Brown",
+        "title": "INFERNO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537859",
+            "isbn13": "9780385537858"
+          },
+          {
+            "isbn10": "0345806484",
+            "isbn13": "9780345806482"
+          },
+          {
+            "isbn10": "0385537867",
+            "isbn13": "9780385537865"
+          },
+          {
+            "isbn10": "0804172269",
+            "isbn13": "9780804172264"
+          },
+          {
+            "isbn10": "0345806492",
+            "isbn13": "9780345806499"
+          },
+          {
+            "isbn10": "1400079152",
+            "isbn13": "9781400079155"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patricia Cornwell",
+        "primary_isbn13": "9781101636428",
+        "description": "The murder of a computer engineer at M.I.T. leads Kay Scarpetta, the chief medical examiner of Massachusetts, in unexpected directions.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636428.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dust-Scarpetta-Novel-Patricia-Cornwell-ebook/dp/B00C5R7B0I?tag=thenewyorktim-20",
+        "contributor": "by Patricia Cornwell",
+        "title": "DUST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157573",
+            "isbn13": "9780399157578"
+          },
+          {
+            "isbn10": "0425270041",
+            "isbn13": "9780425270042"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Barbara Freethy",
+        "primary_isbn13": "9780983599357",
+        "description": "A reckless photographer helps a woman delve into the mysteries of her past.",
+        "book_review_link": "",
+        "book_image_height": 186,
+        "book_image": "https://s1.nyt.com/du/books/images/9780983599357.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dont-Say-Word-Barbara-Freethy-ebook/dp/B004LB5BR6?tag=thenewyorktim-20",
+        "contributor": "by Barbara Freethy",
+        "title": "DON'T SAY A WORD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0983651728",
+            "isbn13": "9780983651727"
+          }
+        ],
+        "publisher": "Barbara Freethy"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "H M Ward",
+        "primary_isbn13": "9781630350079",
+        "description": "A night goes from bliss to chaos in a matter of moments; a Ferro Family novel.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781630350079.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 313,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Arrangement-12-Ferro-Family-ebook/dp/B00H7LVL8K?tag=thenewyorktim-20",
+        "contributor": "by H. M. Ward",
+        "title": "THE ARRANGEMENT 12",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Laree Bailey Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9781101626368",
+        "description": "In the first book of the Cousins O'Dwyer trilogy, Iona Sheehan moves to Ireland to investigate her family's history.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101626368.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 339,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dark-Witch-Cousins-ODwyer-Trilogy-ebook/dp/B00BC25992?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "DARK WITCH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425259854",
+            "isbn13": "9780425259856"
+          },
+          {
+            "isbn10": "1594136777",
+            "isbn13": "9781594136771"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812550706",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Orson Scott Card",
+        "primary_isbn13": "9780812550702",
+        "description": "To develop a secure defense against a hostile alien race's next attack, government agencies breed child geniuses and train them as soldiers.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812550702.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 291,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Enders-Game-The-Ender-Quintet/dp/0812550706?tag=thenewyorktim-20",
+        "contributor": "by Orson Scott Card",
+        "title": "ENDER'S GAME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812550706",
+            "isbn13": "9780812550702"
+          },
+          {
+            "isbn10": "0765342294",
+            "isbn13": "9780765342294"
+          },
+          {
+            "isbn10": "142996393X",
+            "isbn13": "9781429963930"
+          },
+          {
+            "isbn10": "0765337541",
+            "isbn13": "9780765337542"
+          },
+          {
+            "isbn10": "0312853238",
+            "isbn13": "9780312853235"
+          },
+          {
+            "isbn10": "0765317389",
+            "isbn13": "9780765317384"
+          },
+          {
+            "isbn10": "0312932081",
+            "isbn13": "9780312932084"
+          },
+          {
+            "isbn10": "0765338149",
+            "isbn13": "9780765338143"
+          },
+          {
+            "isbn10": "076537062X",
+            "isbn13": "9780765370624"
+          },
+          {
+            "isbn10": "0765337320",
+            "isbn13": "9780765337320"
+          },
+          {
+            "isbn10": "0765374811",
+            "isbn13": "9780765374813"
+          },
+          {
+            "isbn10": "0765374722",
+            "isbn13": "9780765374721"
+          },
+          {
+            "isbn10": "0765338211",
+            "isbn13": "9780765338211"
+          },
+          {
+            "isbn10": "0812532538",
+            "isbn13": "9780812532531"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2013-12-14",
+    "previous_published_date": "2013-12-22",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2014-01-05"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

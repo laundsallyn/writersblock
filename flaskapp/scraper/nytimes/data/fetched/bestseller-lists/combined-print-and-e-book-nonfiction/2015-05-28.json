@@ -1,0 +1,869 @@
+{
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "results": {
+    "previous_published_date": "2015-05-24",
+    "bestsellers_date": "2015-05-16",
+    "corrections": [],
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "book_image_width": 241,
+        "article_chapter_link": "",
+        "contributor": "by David McCullough",
+        "book_review_link": "//www.nytimes.com/2015/05/04/books/review-the-wright-brothers-by-david-mccullough.html",
+        "primary_isbn13": "9781476728742",
+        "description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight; by the author of \u201c1776\u201d and \u201cThe Greater Journey.\u201d",
+        "dagger": 0,
+        "primary_isbn10": "1476728747",
+        "isbns": [
+          {
+            "isbn13": "9781476728742",
+            "isbn10": "1476728747"
+          },
+          {
+            "isbn13": "9781476728766",
+            "isbn10": "1476728763"
+          },
+          {
+            "isbn13": "9781410478757",
+            "isbn10": "1410478750"
+          },
+          {
+            "isbn13": "9781442376083",
+            "isbn10": "1442376082"
+          },
+          {
+            "isbn13": "9781476728759",
+            "isbn10": "1476728755"
+          }
+        ],
+        "book_image_height": 350,
+        "publisher": "Simon & Schuster",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781476728742.jpg",
+        "age_group": "",
+        "title": "THE WRIGHT BROTHERS",
+        "author": "David McCullough",
+        "asterisk": 0,
+        "rank_last_week": 1,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 1,
+        "sunday_review_link": "//www.nytimes.com/2015/05/10/books/review/the-wright-brothers-by-david-mccullough.html",
+        "amazon_product_url": "http://www.amazon.com/The-Wright-Brothers-David-McCullough-ebook/dp/B00LD1RWP6?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Dana Perino",
+        "book_review_link": "",
+        "primary_isbn13": "9781455584901",
+        "description": "The Fox News contributor and former press secretary under President George W. Bush reviews her life and career and shares lessons she has learned.",
+        "dagger": 1,
+        "primary_isbn10": "1455584908",
+        "isbns": [
+          {
+            "isbn13": "9781455584901",
+            "isbn10": "1455584908"
+          },
+          {
+            "isbn13": "9781455584895",
+            "isbn10": "1455584894"
+          },
+          {
+            "isbn13": "9781455589494",
+            "isbn10": "1455589497"
+          },
+          {
+            "isbn13": "9781478927921",
+            "isbn10": "1478927925"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Twelve",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781455584901.jpg",
+        "age_group": "",
+        "title": "AND THE GOOD NEWS IS ...",
+        "author": "Dana Perino",
+        "asterisk": 0,
+        "rank_last_week": 6,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 4,
+        "rank": 2,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/And-Good-News-Is-Lessons/dp/1455584908?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 332,
+        "article_chapter_link": "",
+        "contributor": "by Tom Brokaw",
+        "book_review_link": "",
+        "primary_isbn13": "9781400069699",
+        "description": "The journalist describes the year following his diagnosis with multiple myeloma.",
+        "dagger": 0,
+        "primary_isbn10": "1400069696",
+        "isbns": [
+          {
+            "isbn13": "9781400069699",
+            "isbn10": "1400069696"
+          },
+          {
+            "isbn13": "9780679604662",
+            "isbn10": "0679604669"
+          },
+          {
+            "isbn13": "9780147520937",
+            "isbn10": "0147520932"
+          },
+          {
+            "isbn13": "9780804195003",
+            "isbn10": "0804195005"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Random House",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780679604662.jpg",
+        "age_group": "",
+        "title": "LUCKY LIFE INTERRUPTED",
+        "author": "Tom Brokaw",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 1,
+        "rank": 3,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Lucky-Life-Interrupted-Memoir-Hope-ebook/dp/B00U4VBND8?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 326,
+        "article_chapter_link": "",
+        "contributor": "by Daniel James Brown",
+        "book_review_link": "",
+        "primary_isbn13": "9780143125471",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "dagger": 0,
+        "primary_isbn10": "0143125478",
+        "isbns": [
+          {
+            "isbn13": "9780670025817",
+            "isbn10": "067002581X"
+          },
+          {
+            "isbn13": "9780143125471",
+            "isbn10": "0143125478"
+          },
+          {
+            "isbn13": "9781594137792",
+            "isbn10": "159413779X"
+          },
+          {
+            "isbn13": "9781611761696",
+            "isbn10": "1611761697"
+          },
+          {
+            "isbn13": "9781410459541",
+            "isbn10": "1410459543"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Penguin",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101622742.jpg",
+        "age_group": "",
+        "title": "THE BOYS IN THE BOAT",
+        "author": "Daniel James Brown",
+        "asterisk": 0,
+        "rank_last_week": 9,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 52,
+        "rank": 4,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Peter Schweizer",
+        "book_review_link": "",
+        "primary_isbn13": "9780062369284",
+        "description": "An examination of donations made to the Clinton Foundation by foreign entities.",
+        "dagger": 0,
+        "primary_isbn10": "0062369288",
+        "isbns": [
+          {
+            "isbn13": "9780062369284",
+            "isbn10": "0062369288"
+          },
+          {
+            "isbn13": "9780062369307",
+            "isbn10": "006236930X"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Harper/HarperCollins",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062369307.jpg",
+        "age_group": "",
+        "title": "CLINTON CASH",
+        "author": "Peter Schweizer",
+        "asterisk": 0,
+        "rank_last_week": 2,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 5,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Clinton-Cash-Foreign-Governments-Businesses-ebook/dp/B00Q33PRDS?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 184,
+        "article_chapter_link": "",
+        "contributor": "by Erik Larson",
+        "book_review_link": "",
+        "primary_isbn13": "9780307408860",
+        "description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+        "dagger": 0,
+        "primary_isbn10": "0307408868",
+        "isbns": [
+          {
+            "isbn13": "9780307408860",
+            "isbn10": "0307408868"
+          },
+          {
+            "isbn13": "9780553446753",
+            "isbn10": "0553446754"
+          },
+          {
+            "isbn13": "9780553551624",
+            "isbn10": "0553551620"
+          },
+          {
+            "isbn13": "9780804194617",
+            "isbn10": "0804194610"
+          },
+          {
+            "isbn13": "9780307408877",
+            "isbn10": "0307408876"
+          }
+        ],
+        "book_image_height": 281,
+        "publisher": "Crown",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780307408860.jpg",
+        "age_group": "",
+        "title": "DEAD WAKE",
+        "author": "Erik Larson",
+        "asterisk": 0,
+        "rank_last_week": 10,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 10,
+        "rank": 6,
+        "sunday_review_link": "//www.nytimes.com/2015/03/08/books/review/erik-larsons-dead-wake-about-the-lusitania.html",
+        "amazon_product_url": "http://www.amazon.com/Dead-Wake-Last-Crossing-Lusitania/dp/0307408868?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 329,
+        "article_chapter_link": "",
+        "contributor": "by David Brooks",
+        "book_review_link": "",
+        "primary_isbn13": "9780812993257",
+        "description": "The Times columnist extols personal virtues like kindness and honesty in a materialistic age.",
+        "dagger": 0,
+        "primary_isbn10": "081299325X",
+        "isbns": [
+          {
+            "isbn13": "9780812993257",
+            "isbn10": "081299325X"
+          },
+          {
+            "isbn13": "9780679645030",
+            "isbn10": "0679645039"
+          },
+          {
+            "isbn13": "9780553551860",
+            "isbn10": "0553551868"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Random House",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780812993257.jpg",
+        "age_group": "",
+        "title": "THE ROAD TO CHARACTER",
+        "author": "David Brooks",
+        "asterisk": 0,
+        "rank_last_week": 8,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 5,
+        "rank": 7,
+        "sunday_review_link": "//www.nytimes.com/2015/04/26/books/review/the-road-to-character-by-david-brooks.html",
+        "amazon_product_url": "http://www.amazon.com/The-Road-Character-David-Brooks/dp/081299325X?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 329,
+        "article_chapter_link": "",
+        "contributor": "by Melissa Rivers",
+        "book_review_link": "",
+        "primary_isbn13": "9781101903827",
+        "description": "A memoir of life, often uproarious, with the comedian Joan Rivers, written by her daughter.",
+        "dagger": 0,
+        "primary_isbn10": "1101903821",
+        "isbns": [
+          {
+            "isbn13": "9781101903827",
+            "isbn10": "1101903821"
+          },
+          {
+            "isbn13": "9781101903834",
+            "isbn10": "110190383X"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Crown Archetype",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101903834.jpg",
+        "age_group": "",
+        "title": "THE BOOK OF JOAN",
+        "author": "Melissa Rivers",
+        "asterisk": 0,
+        "rank_last_week": 4,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 8,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/The-Book-Joan-Mischief-Manipulation-ebook/dp/B00Q1IFLRM?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Amanda Berry and Gina DeJesus with Mary Jordan and Kevin Sullivan",
+        "book_review_link": "",
+        "primary_isbn13": "9780525427650",
+        "description": "Two of the women abducted and abused by a Cleveland school bus driver until they escaped after 10 years tell their story.",
+        "dagger": 0,
+        "primary_isbn10": "0525427651",
+        "isbns": [
+          {
+            "isbn13": "9780525427650",
+            "isbn10": "0525427651"
+          },
+          {
+            "isbn13": "9780525429906",
+            "isbn10": "0525429905"
+          },
+          {
+            "isbn13": "9780143108207",
+            "isbn10": "0143108204"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Viking",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780698178953.jpg",
+        "age_group": "",
+        "title": "HOPE",
+        "author": "Amanda Berry and Gina DeJesus with Mary Jordan and Kevin Sullivan",
+        "asterisk": 0,
+        "rank_last_week": 3,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 3,
+        "rank": 9,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Hope-A-Memoir-Survival-Cleveland-ebook/dp/B00OYXWLCE?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 408,
+        "article_chapter_link": "",
+        "contributor": "by David Fisher",
+        "book_review_link": "",
+        "primary_isbn13": "9781627795074",
+        "description": "Stories of the American West; a companion volume to the Fox News series.",
+        "dagger": 0,
+        "primary_isbn10": "1627795073",
+        "isbns": [
+          {
+            "isbn13": "9781627795074",
+            "isbn10": "1627795073"
+          },
+          {
+            "isbn13": "9781627795081",
+            "isbn10": "1627795081"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Holt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781627795081.jpg",
+        "age_group": "",
+        "title": "BILL O'REILLY'S LEGENDS AND LIES",
+        "author": "David Fisher",
+        "asterisk": 0,
+        "rank_last_week": 11,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 6,
+        "rank": 10,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Bill-OReillys-Legends-Lies-Real-ebook/dp/B00SEO84VQ?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 328,
+        "article_chapter_link": "",
+        "contributor": "by Willie Nelson with David Ritz",
+        "book_review_link": "",
+        "primary_isbn13": "9780316403559",
+        "description": "The country music star discusses his life\u2019s journey, from selling encyclopedias to professional fame.",
+        "dagger": 0,
+        "primary_isbn10": "0316403555",
+        "isbns": [
+          {
+            "isbn13": "9780316403559",
+            "isbn10": "0316403555"
+          },
+          {
+            "isbn13": "9780316339315",
+            "isbn10": "0316339318"
+          },
+          {
+            "isbn13": "9780316403566",
+            "isbn10": "0316403563"
+          },
+          {
+            "isbn13": "9781478952527",
+            "isbn10": "1478952520"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Little, Brown",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316403566.jpg",
+        "age_group": "",
+        "title": "IT'S A LONG STORY",
+        "author": "Willie Nelson with David Ritz",
+        "asterisk": 0,
+        "rank_last_week": 5,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 11,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Its-Long-Story-My-Life-ebook/dp/B00NERQSC0?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+        "book_review_link": "",
+        "primary_isbn13": "9780062376336",
+        "description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war; now a movie.",
+        "dagger": 0,
+        "primary_isbn10": "0062376330",
+        "isbns": [
+          {
+            "isbn13": "9780062082350",
+            "isbn10": "0062082353"
+          },
+          {
+            "isbn13": "9780062082374",
+            "isbn10": "006208237X"
+          },
+          {
+            "isbn13": "9780062209498",
+            "isbn10": "0062209493"
+          },
+          {
+            "isbn13": "9780062107060",
+            "isbn10": "0062107062"
+          },
+          {
+            "isbn13": "9780062238863",
+            "isbn10": "0062238868"
+          },
+          {
+            "isbn13": "9780062290793",
+            "isbn10": "0062290797"
+          },
+          {
+            "isbn13": "9780062376572",
+            "isbn10": "0062376578"
+          },
+          {
+            "isbn13": "9780062376336",
+            "isbn10": "0062376330"
+          },
+          {
+            "isbn13": "9780062297877",
+            "isbn10": "0062297872"
+          },
+          {
+            "isbn13": "9780062082367",
+            "isbn10": "0062082361"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Morrow/HarperCollins",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062082374.jpg",
+        "age_group": "",
+        "title": "AMERICAN SNIPER",
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "asterisk": 0,
+        "rank_last_week": 12,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 65,
+        "rank": 12,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 332,
+        "article_chapter_link": "",
+        "contributor": "by Taya Kyle with Jim DeFelice",
+        "book_review_link": "",
+        "primary_isbn13": "9780062398086",
+        "description": "The widow of Chris Kyle, of \u201cAmerican Sniper\u201d fame, describes her life after his death.",
+        "dagger": 0,
+        "primary_isbn10": "0062398083",
+        "isbns": [
+          {
+            "isbn13": "9780062398086",
+            "isbn10": "0062398083"
+          },
+          {
+            "isbn13": "9780062398109",
+            "isbn10": "0062398105"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Morrow/HarperCollins",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062398109.jpg",
+        "age_group": "",
+        "title": "AMERICAN WIFE",
+        "author": "Taya Kyle with Jim DeFelice",
+        "asterisk": 0,
+        "rank_last_week": 7,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 13,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/American-Wife-Memoir-Faith-Renewal-ebook/dp/B00OG9UA10?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Atul Gawande",
+        "book_review_link": "//www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+        "primary_isbn13": "9780805095159",
+        "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+        "dagger": 0,
+        "primary_isbn10": "0805095152",
+        "isbns": [
+          {
+            "isbn13": "9780805095159",
+            "isbn10": "0805095152"
+          },
+          {
+            "isbn13": "9781427244239",
+            "isbn10": "1427244235"
+          },
+          {
+            "isbn13": "9781410478122",
+            "isbn10": "1410478122"
+          },
+          {
+            "isbn13": "9781514732991",
+            "isbn10": "1514732998"
+          },
+          {
+            "isbn13": "9781250081247",
+            "isbn10": "1250081246"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Metropolitan/Holt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780805095159.jpg",
+        "age_group": "",
+        "title": "BEING MORTAL",
+        "author": "Atul Gawande",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 31,
+        "rank": 14,
+        "sunday_review_link": "//www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+        "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 344,
+        "article_chapter_link": "",
+        "contributor": "by Joseph J. Ellis",
+        "book_review_link": "",
+        "primary_isbn13": "9780385353403",
+        "description": "How Washington, Hamilton, Jay and Madison created the Constitution.",
+        "dagger": 0,
+        "primary_isbn10": "0385353405",
+        "isbns": [
+          {
+            "isbn13": "9780385353403",
+            "isbn10": "0385353405"
+          },
+          {
+            "isbn13": "9780385353410",
+            "isbn10": "0385353413"
+          },
+          {
+            "isbn13": "9780553550733",
+            "isbn10": "055355073X"
+          },
+          {
+            "isbn13": "9780804194655",
+            "isbn10": "0804194653"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Knopf",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780385353403.jpg",
+        "age_group": "",
+        "title": "THE QUARTET",
+        "author": "Joseph J Ellis",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 1,
+        "rank": 15,
+        "sunday_review_link": "//www.nytimes.com/2015/05/10/books/review/the-quartet-by-joseph-j-ellis.html",
+        "amazon_product_url": "http://www.amazon.com/The-Quartet-Orchestrating-Revolution-1783-1789/dp/0385353405?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 333,
+        "article_chapter_link": "",
+        "contributor": "by Michael Morell with Bill Harlow",
+        "book_review_link": "",
+        "primary_isbn13": "9781455585663",
+        "description": "A high-level C.I.A. officer assesses the agency\u2019s counterterrorism successes and failures.",
+        "dagger": 0,
+        "primary_isbn10": "1455585661",
+        "isbns": [
+          {
+            "isbn13": "9781455585663",
+            "isbn10": "1455585661"
+          },
+          {
+            "isbn13": "9781455585687",
+            "isbn10": "1455585688"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Twelve",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781455585687.jpg",
+        "age_group": "",
+        "title": "THE GREAT WAR OF OUR TIME",
+        "author": "Michael Morell with Bill Harlow",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 16,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/The-Great-War-Time-Terrorism-From-ebook/dp/B00NLJKMOG?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 329,
+        "article_chapter_link": "",
+        "contributor": "by Jon Krakauer",
+        "book_review_link": "",
+        "primary_isbn13": "9780385538732",
+        "description": "The author of \u201cInto the Wild\u201d discusses cases of acquaintance rape in Missoula, Mont., home of the University of Montana.",
+        "dagger": 0,
+        "primary_isbn10": "0385538731",
+        "isbns": [
+          {
+            "isbn13": "9780385538732",
+            "isbn10": "0385538731"
+          },
+          {
+            "isbn13": "9780385538749",
+            "isbn10": "038553874X"
+          },
+          {
+            "isbn13": "9780147519320",
+            "isbn10": "0147519322"
+          },
+          {
+            "isbn13": "9780804170567",
+            "isbn10": "0804170568"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Doubleday",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780385538749.jpg",
+        "age_group": "",
+        "title": "MISSOULA",
+        "author": "Jon Krakauer",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 17,
+        "sunday_review_link": "//www.nytimes.com/2015/05/03/books/review/jon-krakauers-missoula-about-rape-in-a-college-town.html",
+        "amazon_product_url": "http://www.amazon.com/Missoula-Rape-Justice-System-College-ebook/dp/B00THFU680?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 322,
+        "article_chapter_link": "",
+        "contributor": "by Sally Mann",
+        "book_review_link": "",
+        "primary_isbn13": "9780316247764",
+        "description": "The photographer\u2019s thoughts on art, photography, family and the South.",
+        "dagger": 0,
+        "primary_isbn10": "0316247766",
+        "isbns": [
+          {
+            "isbn13": "9780316247764",
+            "isbn10": "0316247766"
+          },
+          {
+            "isbn13": "9780316247740",
+            "isbn10": "031624774X"
+          },
+          {
+            "isbn13": "9781478933175",
+            "isbn10": "1478933178"
+          },
+          {
+            "isbn13": "9780316247757",
+            "isbn10": "0316247758"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Little, Brown",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316247764.jpg",
+        "age_group": "",
+        "title": "HOLD STILL",
+        "author": "Sally Mann",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 18,
+        "sunday_review_link": "//www.nytimes.com/2015/05/10/books/review/hold-still-a-memoir-by-sally-mann.html",
+        "amazon_product_url": "http://www.amazon.com/Hold-Still-A-Memoir-Photographs/dp/0316247766?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 324,
+        "article_chapter_link": "",
+        "contributor": "by Cheryl Strayed",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "primary_isbn13": "9780307957658",
+        "description": "A woman\u2019s account of the life-changing 1,100-mile solo hike she took along the Pacific Crest Trail in 1995. A 2014 movie.",
+        "dagger": 0,
+        "primary_isbn10": "0307957659",
+        "isbns": [
+          {
+            "isbn13": "9780307592736",
+            "isbn10": "0307592731"
+          },
+          {
+            "isbn13": "9780307957658",
+            "isbn10": "0307957659"
+          },
+          {
+            "isbn13": "9780307476074",
+            "isbn10": "0307476073"
+          },
+          {
+            "isbn13": "9781594136740",
+            "isbn10": "1594136742"
+          },
+          {
+            "isbn13": "9780307970299",
+            "isbn10": "0307970299"
+          },
+          {
+            "isbn13": "9781101873441",
+            "isbn10": "1101873442"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Knopf",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "age_group": "",
+        "title": "WILD",
+        "author": "Cheryl Strayed",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 19,
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 324,
+        "article_chapter_link": "",
+        "contributor": "by the Countess of Carnarvon",
+        "book_review_link": "",
+        "primary_isbn13": "9780385344975",
+        "description": "The story of Catherine Wendell and her husband, who became the sixth Earl of Carnarvon.",
+        "dagger": 0,
+        "primary_isbn10": "038534497X",
+        "isbns": [
+          {
+            "isbn13": "9780385344975",
+            "isbn10": "038534497X"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Broadway",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780385344975.jpg",
+        "age_group": "",
+        "title": "LADY CATHERINE, THE EARL, AND THE REAL DOWNTON ABBEY",
+        "author": "the Countess of Carnarvon",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 20,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Lady-Catherine-Earl-Downton-Abbey-ebook/dp/B00CNQ7C6O?tag=thenewyorktim-20"
+      }
+    ],
+    "normal_list_ends_at": 15,
+    "published_date_description": "",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2015-05-31",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2015-06-07"
+  },
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "num_results": 20,
+  "status": "OK"
+}

@@ -1,0 +1,811 @@
+{
+  "num_results": 20,
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "results": {
+    "books": [
+      {
+        "sunday_review_link": "",
+        "contributor": "by David Lagercrantz",
+        "book_review_link": "",
+        "publisher": "Knopf",
+        "isbns": [
+          {
+            "isbn13": "9780385354288",
+            "isbn10": "0385354282"
+          },
+          {
+            "isbn13": "9780385354295",
+            "isbn10": "0385354290"
+          },
+          {
+            "isbn13": "9781101946756",
+            "isbn10": "110194675X"
+          },
+          {
+            "isbn13": "9781101872000",
+            "isbn10": "1101872004"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385354288.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780385354295",
+        "contributor_note": "",
+        "rank": 1,
+        "book_image_width": 347,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0385354290",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Spiders-Web-continuing/dp/0385354282?tag=thenewyorktim-20",
+        "title": "THE GIRL IN THE SPIDER'S WEB",
+        "author": "David Lagercrantz"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Andy Weir",
+        "book_review_link": "",
+        "publisher": "Crown",
+        "isbns": [
+          {
+            "isbn13": "9780804139021",
+            "isbn10": "0804139024"
+          },
+          {
+            "isbn13": "9780553418026",
+            "isbn10": "0553418025"
+          },
+          {
+            "isbn13": "9780091956141",
+            "isbn10": "0091956145"
+          },
+          {
+            "isbn13": "9781594138546",
+            "isbn10": "1594138540"
+          },
+          {
+            "isbn13": "9781101903582",
+            "isbn10": "1101903589"
+          },
+          {
+            "isbn13": "9781101905005",
+            "isbn10": "110190500X"
+          }
+        ],
+        "weeks_on_list": 15,
+        "dagger": 0,
+        "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804139038.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 3,
+        "primary_isbn13": "9780804139038",
+        "contributor_note": "",
+        "rank": 2,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 194,
+        "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+        "title": "THE MARTIAN",
+        "author": "Andy Weir"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "contributor": "by Paula Hawkins",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html",
+        "publisher": "Riverhead",
+        "isbns": [
+          {
+            "isbn13": "9781594633669",
+            "isbn10": "1594633665"
+          },
+          {
+            "isbn13": "9780698185395",
+            "isbn10": "0698185390"
+          },
+          {
+            "isbn13": "9781410477767",
+            "isbn10": "1410477762"
+          },
+          {
+            "isbn13": "9780857522320",
+            "isbn10": "0857522329"
+          },
+          {
+            "isbn13": "9781448171682",
+            "isbn10": "1448171687"
+          },
+          {
+            "isbn13": "9781594634123",
+            "isbn10": "1594634122"
+          },
+          {
+            "isbn13": "9780385682312",
+            "isbn10": "038568231X"
+          },
+          {
+            "isbn13": "9781594634024",
+            "isbn10": "1594634025"
+          }
+        ],
+        "weeks_on_list": 34,
+        "dagger": 0,
+        "description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 2,
+        "primary_isbn13": "9780698185395",
+        "contributor_note": "",
+        "rank": 3,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0698185390",
+        "book_image_height": 193,
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "title": "THE GIRL ON THE TRAIN",
+        "author": "Paula Hawkins"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2015/08/30/books/review/jonathan-franzen-purity-review.html",
+        "contributor": "by Jonathan Franzen",
+        "book_review_link": "",
+        "publisher": "Farrar, Straus & Giroux",
+        "isbns": [
+          {
+            "isbn13": "9780374239213",
+            "isbn10": "0374239215"
+          },
+          {
+            "isbn13": "9781410482907",
+            "isbn10": "1410482901"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "A debt-crushed woman named Pip becomes involved with a WikiLeaks-style organization.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780374239213.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780374239213",
+        "contributor_note": "",
+        "rank": 4,
+        "book_image_width": 304,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0374239215",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Purity-Thorndike-Press-Large-Series/dp/1410482901?tag=thenewyorktim-20",
+        "title": "PURITY",
+        "author": "Jonathan Franzen"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Danielle Steel",
+        "book_review_link": "",
+        "publisher": "Delacorte",
+        "isbns": [
+          {
+            "isbn13": "9780345531049",
+            "isbn10": "0345531043"
+          },
+          {
+            "isbn13": "9781101966914",
+            "isbn10": "1101966912"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "A woman recovering from an act of violence in Buenos Aires crosses paths with a D.E.A. agent in Paris, and both are in danger.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804179638.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780804179638",
+        "contributor_note": "",
+        "rank": 5,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Undercover-A-Novel-Danielle-Steel/dp/0345531043?tag=thenewyorktim-20",
+        "title": "UNDERCOVER",
+        "author": "Danielle Steel"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Clive Cussler and Russell Blake",
+        "book_review_link": "",
+        "publisher": "Putnam",
+        "isbns": [
+          {
+            "isbn13": "9780399174322",
+            "isbn10": "039917432X"
+          },
+          {
+            "isbn13": "9780698192096",
+            "isbn10": "0698192095"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "The wealthy couple Sam and Remi Fargo investigate a dangerous legend in the Solomon Islands.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698192096.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780698192096",
+        "contributor_note": "",
+        "rank": 6,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0698192095",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Solomon-Curse-Remi-Fargo-Adventure/dp/039917432X?tag=thenewyorktim-20",
+        "title": "THE SOLOMON CURSE",
+        "author": "Clive Cussler and Russell Blake"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Chuck Wendig",
+        "book_review_link": "",
+        "publisher": "Del Ray",
+        "isbns": [
+          {
+            "isbn13": "9780345511621",
+            "isbn10": "034551162X"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "In this continuation of the 'Star Wars' series, the Imperial elite haven't reckoned on the former rebel fighter Norra Wexley.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804177665.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780345511621",
+        "contributor_note": "",
+        "rank": 7,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "034551162X",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Aftermath-Star-Journey-Force-Awakens/dp/034551162X?tag=thenewyorktim-20",
+        "title": "STAR WARS: AFTERMATH",
+        "author": "Chuck Wendig"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Sue Grafton",
+        "book_review_link": "",
+        "publisher": "Marian Wood/Putnam",
+        "isbns": [
+          {
+            "isbn13": "9780399163845",
+            "isbn10": "0399163840"
+          },
+          {
+            "isbn13": "9781101614341",
+            "isbn10": "110161434X"
+          },
+          {
+            "isbn13": "9781410480248",
+            "isbn10": "1410480240"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "description": "A variety of X\u2019s lead Kinsey Millhone into deep secrets and a cold case.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399163845.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 1,
+        "primary_isbn13": "9781101614341",
+        "contributor_note": "",
+        "rank": 8,
+        "book_image_width": 330,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "110161434X",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/X-Kinsey-Millhone-Book-24-ebook/dp/B00TY3ZKJA?tag=thenewyorktim-20",
+        "title": "X",
+        "author": "Sue Grafton"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Christine Feehan",
+        "book_review_link": "",
+        "publisher": "Berkley",
+        "isbns": [
+          {
+            "isbn13": "9780425277331",
+            "isbn10": "042527733X"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "A vampire slayer disappears in the Carpathians.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698180536.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780698180536",
+        "contributor_note": "",
+        "rank": 9,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Dark-Ghost-A-Carpathian-Novel/dp/042527733X?tag=thenewyorktim-20",
+        "title": "DARK GHOST",
+        "author": "Christine Feehan"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2015/07/14/books/review/harper-lees-go-set-a-watchman.html",
+        "contributor": "by Harper Lee",
+        "book_review_link": "//www.nytimes.com/2015/07/11/books/review-harper-lees-go-set-a-watchman-gives-atticus-finch-a-dark-side.html",
+        "publisher": "Harper",
+        "isbns": [
+          {
+            "isbn13": "9780062409850",
+            "isbn10": "0062409859"
+          },
+          {
+            "isbn13": "9780062409881",
+            "isbn10": "0062409883"
+          },
+          {
+            "isbn13": "9780062409874",
+            "isbn10": "0062409875"
+          },
+          {
+            "isbn13": "9781473535404",
+            "isbn10": "1473535409"
+          },
+          {
+            "isbn13": "9780062454812",
+            "isbn10": "0062454811"
+          },
+          {
+            "isbn13": "9780062409867",
+            "isbn10": "0062409867"
+          },
+          {
+            "isbn13": "9780062561022",
+            "isbn10": "0062561022"
+          }
+        ],
+        "weeks_on_list": 8,
+        "dagger": 0,
+        "description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062409850.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 6,
+        "primary_isbn13": "9780062409850",
+        "contributor_note": "",
+        "rank": 10,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0062409859",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Go-Set-Watchman-A-Novel/dp/0062409859?tag=thenewyorktim-20",
+        "title": "GO SET A WATCHMAN",
+        "author": "Harper Lee"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Sandra Brown",
+        "book_review_link": "",
+        "publisher": "Grand Central",
+        "isbns": [
+          {
+            "isbn13": "9781455581160",
+            "isbn10": "145558116X"
+          },
+          {
+            "isbn13": "9781455581177",
+            "isbn10": "1455581178"
+          },
+          {
+            "isbn13": "9781455563746",
+            "isbn10": "1455563749"
+          },
+          {
+            "isbn13": "9781455581184",
+            "isbn10": "1455581186"
+          }
+        ],
+        "weeks_on_list": 3,
+        "dagger": 0,
+        "description": "A Texas Ranger fights for custody of his daughter amid complications stemming from his attraction to the judge.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455581160.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 7,
+        "primary_isbn13": "9781455581177",
+        "contributor_note": "",
+        "rank": 11,
+        "book_image_width": 332,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1455581178",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Friction-Sandra-Brown-ebook/dp/B00US1STWW?tag=thenewyorktim-20",
+        "title": "FRICTION",
+        "author": "Sandra Brown"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by John Grisham",
+        "book_review_link": "",
+        "publisher": "Doubleday",
+        "isbns": [
+          {
+            "isbn13": "9780385537148",
+            "isbn10": "038553714X"
+          },
+          {
+            "isbn13": "9780385539166",
+            "isbn10": "0385539169"
+          },
+          {
+            "isbn13": "9780385539173",
+            "isbn10": "0385539177"
+          },
+          {
+            "isbn13": "9781101964873",
+            "isbn10": "1101964871"
+          },
+          {
+            "isbn13": "9780345543257",
+            "isbn10": "0345543254"
+          }
+        ],
+        "weeks_on_list": 19,
+        "dagger": 0,
+        "description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537148.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 8,
+        "primary_isbn13": "9780345543257",
+        "contributor_note": "",
+        "rank": 12,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0345543254",
+        "book_image_height": 194,
+        "amazon_product_url": "http://www.amazon.com/Gray-Mountain-Novel-John-Grisham/dp/038553714X?tag=thenewyorktim-20",
+        "title": "GRAY MOUNTAIN",
+        "author": "John Grisham"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Lee Child",
+        "book_review_link": "",
+        "publisher": "Delacorte",
+        "isbns": [],
+        "weeks_on_list": 3,
+        "dagger": 0,
+        "description": "In an e-book short story set in 1989, Jack Reacher must solve the murder of a young officer.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804178846.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 9,
+        "primary_isbn13": "9780804178846",
+        "contributor_note": "",
+        "rank": 13,
+        "book_image_width": 376,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Small-Wars-Reacher-Kindle-Single-ebook/dp/B01208O00U?tag=thenewyorktim-20",
+        "title": "SMALL WARS",
+        "author": "Lee Child"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor": "by Anthony Doerr",
+        "book_review_link": "",
+        "publisher": "Scribner",
+        "isbns": [
+          {
+            "isbn13": "9781476746586",
+            "isbn10": "1476746583"
+          },
+          {
+            "isbn13": "9781410470225",
+            "isbn10": "1410470229"
+          },
+          {
+            "isbn13": "9781476746593",
+            "isbn10": "1476746591"
+          },
+          {
+            "isbn13": "9781501122835",
+            "isbn10": "1501122835"
+          },
+          {
+            "isbn13": "9780007548699",
+            "isbn10": "0007548699"
+          }
+        ],
+        "weeks_on_list": 51,
+        "dagger": 0,
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 12,
+        "primary_isbn13": "9781476746586",
+        "contributor_note": "",
+        "rank": 14,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1476746583",
+        "book_image_height": 192,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "author": "Anthony Doerr"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Mary Balogh",
+        "book_review_link": "",
+        "publisher": "Signet",
+        "isbns": [
+          {
+            "isbn13": "9780451469687",
+            "isbn10": "0451469682"
+          },
+          {
+            "isbn13": "9780698156104",
+            "isbn10": "0698156102"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "An earl returns to his manor in Cornwall to find a reclusive widow in residence.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698156104.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780698156104",
+        "contributor_note": "",
+        "rank": 15,
+        "book_image_width": 310,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0698156102",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Only-Kiss-Survivors-Club-Novel/dp/0451469682?tag=thenewyorktim-20",
+        "title": "ONLY A KISS",
+        "author": "Mary Balogh"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Kristen Ashley",
+        "book_review_link": "",
+        "publisher": "Kristen Ashley",
+        "isbns": [],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "A single mother's sangfroid is compromised when she becomes the object of a cop's amorous affections.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": null,
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "A00B00YUR6BUM",
+        "contributor_note": "",
+        "rank": 16,
+        "book_image_width": null,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": null,
+        "amazon_product_url": null,
+        "title": "HOLD ON",
+        "author": "Kristen Ashley"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Robyn Carr",
+        "book_review_link": "",
+        "publisher": "Mira",
+        "isbns": [
+          {
+            "isbn13": "9780778317494",
+            "isbn10": "0778317498"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "An overprotective mother finds her defensiveness waning when her son befriends the triathlete next door.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781460390153.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780778317494",
+        "contributor_note": "",
+        "rank": 17,
+        "book_image_width": 315,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0778317498",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Wildest-Dreams-Thunder-Point-Robyn/dp/0778317498?tag=thenewyorktim-20",
+        "title": "WILDEST DREAMS",
+        "author": "Ron Carr"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by E. L. James",
+        "book_review_link": "",
+        "publisher": "Vintage",
+        "isbns": [
+          {
+            "isbn13": "9781101946343",
+            "isbn10": "1101946342"
+          },
+          {
+            "isbn13": "9781784753252",
+            "isbn10": "1784753254"
+          },
+          {
+            "isbn13": "9781101946350",
+            "isbn10": "1101946350"
+          },
+          {
+            "isbn13": "9781101971543",
+            "isbn10": "1101971541"
+          },
+          {
+            "isbn13": "9781473535954",
+            "isbn10": "1473535956"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "A \"Fifty Shades of Grey\" sequel, told from Christian\u2019s point of view, revisits the tortured romance between the controlling billionaire and the unassuming Ana.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101946350.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781101946343",
+        "contributor_note": "",
+        "rank": 18,
+        "book_image_width": 325,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1101946342",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Grey-Fifty-Shades-Told-Christian-ebook/dp/B00Y6QF0PE?tag=thenewyorktim-20",
+        "title": "GREY",
+        "author": "E L James"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Nalini Singh",
+        "book_review_link": "",
+        "publisher": "Jove",
+        "isbns": [
+          {
+            "isbn13": "9780425251263",
+            "isbn10": "0425251268"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "\nThe vampire Naasir is called upon to find the sleeping former Archangel of Persia, targeted for murder.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101628904.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781101628904",
+        "contributor_note": "",
+        "rank": 19,
+        "book_image_width": 310,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Archangels-Enigma-Guild-Hunter-Nalini/dp/0425251268?tag=thenewyorktim-20",
+        "title": "ARCHANGEL'S ENIGMA",
+        "author": "Nalini Singh"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Kristin Hannah",
+        "book_review_link": "",
+        "publisher": "St. Martin's",
+        "isbns": [
+          {
+            "isbn13": "9780312577223",
+            "isbn10": "0312577222"
+          },
+          {
+            "isbn13": "9781466850606",
+            "isbn10": "1466850604"
+          },
+          {
+            "isbn13": "9781628995015",
+            "isbn10": "1628995017"
+          },
+          {
+            "isbn13": "9781250080400",
+            "isbn10": "1250080401"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781466850606",
+        "contributor_note": "",
+        "rank": 20,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1466850604",
+        "book_image_height": 195,
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "title": "THE NIGHTINGALE",
+        "author": "Kristin Hannah"
+      }
+    ],
+    "list_name": "Combined Print and E-Book Fiction",
+    "updated": "WEEKLY",
+    "corrections": [],
+    "published_date_description": "",
+    "normal_list_ends_at": 15,
+    "previous_published_date": "2015-09-13",
+    "published_date": "2015-09-20",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "bestsellers_date": "2015-09-05",
+    "next_published_date": "2015-09-27",
+    "display_name": "Combined Print & E-Book Fiction"
+  },
+  "status": "OK"
+}

@@ -1,0 +1,841 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2011-05-22",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0849946158",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849946158",
+        "description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316056863",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tina Fey",
+        "primary_isbn13": "9780316056861",
+        "description": "A memoir from the former Saturday Night Live star and creator of \"30 Rock.\"",
+        "book_review_link": "//www.nytimes.com/2011/04/04/books/bossypants-by-tina-fey-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316056892.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Bossypants-Tina-Fey/dp/0316056898?tag=thenewyorktim-20",
+        "contributor": "by Tina Fey",
+        "title": "BOSSYPANTS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316056863",
+            "isbn13": "9780316056861"
+          },
+          {
+            "isbn10": "031617789X",
+            "isbn13": "9780316177894"
+          },
+          {
+            "isbn10": "0316175862",
+            "isbn13": "9780316175869"
+          },
+          {
+            "isbn10": "031619803X",
+            "isbn13": "9780316198035"
+          },
+          {
+            "isbn10": "0316056871",
+            "isbn13": "9780316056878"
+          },
+          {
+            "isbn10": "0316056898",
+            "isbn13": "9780316056892"
+          },
+          {
+            "isbn10": "1609419693",
+            "isbn13": "9781609419691"
+          },
+          {
+            "isbn10": "0606267212",
+            "isbn13": "9780606267212"
+          },
+          {
+            "isbn10": "0751547832",
+            "isbn13": "9780751547832"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061767891",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Steven Tyler with David Dalton",
+        "primary_isbn13": "9780061767890",
+        "description": "The singer and showman recounts the meteoric rise, fall and rise of Aerosmith over the last three decades.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061959394.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Does-Noise-Head-Bother-You-ebook/dp/B004CFA9HI?tag=thenewyorktim-20",
+        "contributor": "by Steven Tyler with David Dalton",
+        "title": "DOES THE NOISE IN MY HEAD BOTHER YOU?",
+        "sunday_review_link": "//www.nytimes.com/2011/06/26/books/review/book-review-does-the-noise-in-my-head-bother-you-by-steven-tyler.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061767891",
+            "isbn13": "9780061767890"
+          },
+          {
+            "isbn10": "0061959391",
+            "isbn13": "9780061959394"
+          },
+          {
+            "isbn10": "0061767913",
+            "isbn13": "9780061767913"
+          }
+        ],
+        "publisher": "HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "080509329X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rob Lowe",
+        "primary_isbn13": "9780805093292",
+        "description": "The actor charts his professional path, from teen idol to \"The West Wing.\"",
+        "book_review_link": "//www.nytimes.com/2011/04/21/books/rob-lowes-stories-i-only-tell-my-friends-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250008855.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Stories-Only-Tell-Friends-Autobiography-ebook/dp/B004OA62VS?tag=thenewyorktim-20",
+        "contributor": "by Rob Lowe",
+        "title": "STORIES I ONLY TELL MY FRIENDS",
+        "sunday_review_link": "//www.nytimes.com/2011/05/16/books/review/book-review-memoirs-by-shirley-maclaine-and-rob-lowe.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "080509329X",
+            "isbn13": "9780805093292"
+          },
+          {
+            "isbn10": "1429996021",
+            "isbn13": "9781429996020"
+          },
+          {
+            "isbn10": "1250008859",
+            "isbn13": "9781250008855"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451620748",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Shania Twain",
+        "primary_isbn13": "9781451620740",
+        "description": "The country singer and songwriter writes of her hardscrabble origins and her rise to fame.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451620740.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 317,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/From-This-Moment-Shania-Twain-ebook/dp/B004A90BOW?tag=thenewyorktim-20",
+        "contributor": "by Shania Twain",
+        "title": "FROM THIS MOMENT ON",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451620748",
+            "isbn13": "9781451620740"
+          },
+          {
+            "isbn10": "1451620764",
+            "isbn13": "9781451620764"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400064163",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9781400064168",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399157530",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Betty White",
+        "primary_isbn13": "9780399157530",
+        "description": "The seven-time Emmy winner reflects on her seven-decade career in Hollywood.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399157530.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/If-You-Ask-Me-Course-ebook/dp/B004XFYNB0?tag=thenewyorktim-20",
+        "contributor": "by Betty White",
+        "title": "IF YOU ASK ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157530",
+            "isbn13": "9780399157530"
+          },
+          {
+            "isbn10": "0425245284",
+            "isbn13": "9780425245286"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400052181",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rebecca Skloot",
+        "primary_isbn13": "9781400052189",
+        "description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400052189.jpg",
+        "rank": 8,
+        "article_chapter_link": "//www.nytimes.com/2010/02/02/health/02seco.html",
+        "rank_last_week": 5,
+        "book_image_width": 182,
+        "first_chapter_link": "//www.nytimes.com/2010/03/03/books/excerpt-immortal-life-of-henrietta-lacks.html",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=thenewyorktim-20",
+        "contributor": "by Rebecca Skloot",
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "sunday_review_link": "//www.nytimes.com/2010/02/07/books/review/Margonelli-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400052173",
+            "isbn13": "9781400052172"
+          },
+          {
+            "isbn10": "0307589382",
+            "isbn13": "9780307589385"
+          },
+          {
+            "isbn10": "1410427927",
+            "isbn13": "9781410427922"
+          },
+          {
+            "isbn10": "1400052181",
+            "isbn13": "9781400052189"
+          },
+          {
+            "isbn10": "1594134324",
+            "isbn13": "9781594134326"
+          },
+          {
+            "isbn10": "0451486315",
+            "isbn13": "9780451486318"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1401341454",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "selected and introduced  Caroline Kennedy",
+        "primary_isbn13": "9781401341459",
+        "description": "Poems that inspired the former first daughter.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401341459.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/She-Walks-Beauty-Journey-Through/dp/1401341454?tag=thenewyorktim-20",
+        "contributor": "selected and introduced by Caroline Kennedy",
+        "title": "SHE WALKS IN BEAUTY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401341454",
+            "isbn13": "9781401341459"
+          }
+        ],
+        "publisher": "Hyperion"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316007544",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Marcus Luttrell with Patrick Robinson",
+        "primary_isbn13": "9780316007542",
+        "description": "The only survivor of a Navy Seal operation in northern Afghanistan describes the battle, his comrades and his courageous escape.",
+        "book_review_link": "",
+        "book_image_height": 270,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316067607.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 180,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601?tag=thenewyorktim-20",
+        "contributor": "by Marcus Luttrell with Patrick Robinson",
+        "title": "LONE SURVIVOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316007544",
+            "isbn13": "9780316007542"
+          },
+          {
+            "isbn10": "0316044695",
+            "isbn13": "9780316044691"
+          },
+          {
+            "isbn10": "0316067601",
+            "isbn13": "9780316067607"
+          },
+          {
+            "isbn10": "0316067598",
+            "isbn13": "9780316067591"
+          },
+          {
+            "isbn10": "031632406X",
+            "isbn13": "9780316324069"
+          },
+          {
+            "isbn10": "0316324108",
+            "isbn13": "9780316324106"
+          },
+          {
+            "isbn10": "1478927089",
+            "isbn13": "9781478927082"
+          },
+          {
+            "isbn10": "1600242197",
+            "isbn13": "9781600242199"
+          },
+          {
+            "isbn10": "0606352155",
+            "isbn13": "9780606352154"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "054742485X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eric Greitens",
+        "primary_isbn13": "9780547424859",
+        "description": "A member of the Navy Seals describes his military deployments and his larger vision of public service.",
+        "book_review_link": "//www.nytimes.com/2011/05/09/books/seal-team-six-and-the-heart-and-the-fist-reviews.html",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780547424859.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Heart-Fist-education-humanitarian-ebook/dp/B004TC0GZY?tag=thenewyorktim-20",
+        "contributor": "by Eric Greitens",
+        "title": "THE HEART AND THE FIST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "054742485X",
+            "isbn13": "9780547424859"
+          },
+          {
+            "isbn10": "0547549164",
+            "isbn13": "9780547549163"
+          },
+          {
+            "isbn10": "0547750382",
+            "isbn13": "9780547750385"
+          }
+        ],
+        "publisher": "Houghton Mifflin Harcourt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062087142",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitchell Zuckoff",
+        "primary_isbn13": "9780062087140",
+        "description": "After a jungle plane crash in 1945, three survivors were caught between headhunters and enemy Japanese.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061988356.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lost-Shangri-La-Survival-Adventure-Incredible-ebook/dp/B004HD61L8?tag=thenewyorktim-20",
+        "contributor": "by Mitchell Zuckoff",
+        "title": "LOST IN SHANGRI-LA",
+        "sunday_review_link": "//www.nytimes.com/2011/06/05/books/review/book-review-lost-in-shangri-la-by-mitchell-zuckoff.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061988340",
+            "isbn13": "9780061988349"
+          },
+          {
+            "isbn10": "0062087142",
+            "isbn13": "9780062087140"
+          },
+          {
+            "isbn10": "0061988359",
+            "isbn13": "9780061988356"
+          }
+        ],
+        "publisher": "HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594487979",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janny Scott",
+        "primary_isbn13": "9781594487972",
+        "description": "A biography of Barack Obama\u2019s late mother, Stanley Ann Dunham, an anthropologist and development consultant, from a former New York Times reporter.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594487972.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Singular-Woman-Untold-Barack-Obamas-ebook/dp/B004XFYNHE?tag=thenewyorktim-20",
+        "contributor": "by Janny Scott",
+        "title": "A SINGULAR WOMAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594487979",
+            "isbn13": "9781594487972"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307592235",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dick Van Dyke",
+        "primary_isbn13": "9780307592231",
+        "description": "A memoir by the performer, who calls himself \u201ca simple song-and-dance man.\u201d",
+        "book_review_link": "",
+        "book_image_height": 152,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307592231.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 99,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lucky-Life-Out-Show-Business-ebook/dp/B004J4WKOW?tag=thenewyorktim-20",
+        "contributor": "by Dick Van Dyke",
+        "title": "MY LUCKY LIFE IN AND OUT OF SHOW BUSINESS",
+        "sunday_review_link": "//www.nytimes.com/2011/06/05/books/review/book-review-memoirs-by-dick-van-dyke-and-barbara-eden.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307592235",
+            "isbn13": "9780307592231"
+          },
+          {
+            "isbn10": "030759226X",
+            "isbn13": "9780307592262"
+          },
+          {
+            "isbn10": "0307592243",
+            "isbn13": "9780307592248"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385534442",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rex Ryan with Don Yaeger",
+        "primary_isbn13": "9780385534444",
+        "description": "The coach of the New York Jets details the ups and downs of the N.F.L. team\u2019s 2010 season.",
+        "book_review_link": "",
+        "book_image_height": 213,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385534444.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 140,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Play-Like-You-Mean-Leadership-ebook/dp/B004CFAWAW?tag=thenewyorktim-20",
+        "contributor": "by Rex Ryan with Don Yaeger",
+        "title": "PLAY LIKE YOU MEAN IT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385534442",
+            "isbn13": "9780385534444"
+          },
+          {
+            "isbn10": "0385534450",
+            "isbn13": "9780385534451"
+          }
+        ],
+        "publisher": "Knopf Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "034552361X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ashley Judd with Maryanne Vollers",
+        "primary_isbn13": "9780345523617",
+        "description": "A memoir by the actress and humanitarian.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345523617.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/All-That-Is-Bitter-Sweet-ebook/dp/B004C43FXY?tag=thenewyorktim-20",
+        "contributor": "by Ashley Judd with Maryanne Vollers",
+        "title": "ALL THAT IS BITTER AND SWEET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "034552361X",
+            "isbn13": "9780345523617"
+          },
+          {
+            "isbn10": "0345524829",
+            "isbn13": "9780345524829"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1605292885",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Howard Schultz with Joanne Gordon",
+        "primary_isbn13": "9781605292885",
+        "description": "Schultz tells of his second stint as the C.E.O. of Starbucks and how he helped return the company to profitability.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781609613464.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Onward-Starbucks-Fought-without-Losing-ebook/dp/B004OEIQEA?tag=thenewyorktim-20",
+        "contributor": "by Howard Schultz with Joanne Gordon",
+        "title": "ONWARD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1605292885",
+            "isbn13": "9781605292885"
+          }
+        ],
+        "publisher": "Rodale"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "140006760X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Brooks",
+        "primary_isbn13": "9781400067602",
+        "description": "Brooks employs an imaginary couple to suggest that people do not have conscious control of their actions.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400067602.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 265,
+        "first_chapter_link": "//www.nytimes.com/2011/03/13/books/review/excerpt-the-social-animal-by-david-brooks.html",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Social-Animal-Character-Achievement-ebook/dp/B004IK8PFK?tag=thenewyorktim-20",
+        "contributor": "by David Brooks",
+        "title": "THE SOCIAL ANIMAL",
+        "sunday_review_link": "//www.nytimes.com/2011/03/13/books/review/book-review-the-social-animal-by-david-brooks.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "067960393X",
+            "isbn13": "9780679603931"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307279189",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christopher McDougall",
+        "primary_isbn13": "9780307279187",
+        "description": "Secrets of distance running from a Mexican Indian tribe.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307271914.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189?tag=thenewyorktim-20",
+        "contributor": "by Christopher McDougall",
+        "title": "BORN TO RUN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307266303",
+            "isbn13": "9780307266309"
+          },
+          {
+            "isbn10": "0307271919",
+            "isbn13": "9780307271914"
+          },
+          {
+            "isbn10": "0307279189",
+            "isbn13": "9780307279187"
+          },
+          {
+            "isbn10": "0307914550",
+            "isbn13": "9780307914552"
+          }
+        ],
+        "publisher": "Knopf Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451607296",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Shirley MacLaine",
+        "primary_isbn13": "9781451607291",
+        "description": "The actress offers observations on what remains important to her.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451607291.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 182,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Im-Over-All-That-Confessions/dp/1451607296?tag=thenewyorktim-20",
+        "contributor": "by Shirley MacLaine",
+        "title": "I'M OVER ALL THAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451607296",
+            "isbn13": "9781451607291"
+          },
+          {
+            "isbn10": "1451607318",
+            "isbn13": "9781451607314"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2011-05-07",
+    "previous_published_date": "2011-05-15",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2011-05-29"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

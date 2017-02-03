@@ -1,0 +1,876 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2014-04-20",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Lewis",
+        "primary_isbn13": "9780393244670",
+        "description": "The world of high-frequency computer-driven trading, from the author of \u201cLiar\u2019s Poker.\u201d",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780393244670.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM?tag=thenewyorktim-20",
+        "contributor": "by Michael Lewis",
+        "title": "FLASH BOYS",
+        "sunday_review_link": "//www.nytimes.com/2014/04/20/books/review/flash-boys-by-michael-lewis.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0393244660",
+            "isbn13": "9780393244663"
+          },
+          {
+            "isbn10": "1442370270",
+            "isbn13": "9781442370272"
+          },
+          {
+            "isbn10": "0393351599",
+            "isbn13": "9780393351590"
+          }
+        ],
+        "publisher": "Norton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849949203",
+        "description": "A father recounts his 3-year-old son\u2019s encounter with Jesus during an appendectomy.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 110,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J B West with Mary Lynn Kotz",
+        "primary_isbn13": "9781480449794",
+        "description": "Reminiscences of five presidents and their families by a former White House major-domo. First published in 1974.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781480449794.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Upstairs-White-House-First-Ladies-ebook/dp/B00F3QYL06?tag=thenewyorktim-20",
+        "contributor": "by J. B. West with Mary Lynn Kotz",
+        "title": "UPSTAIRS AT THE WHITE HOUSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Open Road"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062265423",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dan Harris",
+        "primary_isbn13": "9780062265425",
+        "description": "A co-anchor of \"Nightline\" reports on the science and spiritual dimensions of meditation and how it has improved his life.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062265425.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/10?tag=thenewyorktim-20",
+        "contributor": "by Dan Harris",
+        "title": "10% HAPPIER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062265423",
+            "isbn13": "9780062265425"
+          },
+          {
+            "isbn10": "0062265431",
+            "isbn13": "9780062265432"
+          }
+        ],
+        "publisher": "It Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0804140847",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Arianna Huffington",
+        "primary_isbn13": "9780804140843",
+        "description": "Personal well-being as the indispensable third measure \u2014 with money and power \u2014 of success.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804140843.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Thrive-Redefining-Success-Creating-Well-Being/dp/0804140847?tag=thenewyorktim-20",
+        "contributor": "by Arianna Huffington",
+        "title": "THRIVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804140847",
+            "isbn13": "9780804140843"
+          },
+          {
+            "isbn10": "0804140855",
+            "isbn13": "9780804140850"
+          },
+          {
+            "isbn10": "0804140863",
+            "isbn13": "9780804140867"
+          }
+        ],
+        "publisher": "Harmony"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062308254",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Matt Kibbe",
+        "primary_isbn13": "9780062308252",
+        "description": "A libertarian manifesto by the president and C.E.O. of FreedomWorks.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062308252.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dont-Hurt-People-Their-Stuff/dp/0062308254?tag=thenewyorktim-20",
+        "contributor": "by Matt Kibbe",
+        "title": "DON'T HURT PEOPLE AND DON'T TAKE THEIR STUFF",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062308254",
+            "isbn13": "9780062308252"
+          },
+          {
+            "isbn10": "0062308289",
+            "isbn13": "9780062308283"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Solomon Northup",
+        "primary_isbn13": "9781443433099",
+        "description": "The narrative, first published in 1853, of a freeman who was kidnapped and sold into slavery, and spent 12 years in bondage before escaping; the basis of the movie.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781443433099.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 17,
+        "amazon_product_url": "http://www.amazon.com/Twelve-Years-Slave-Solomon-Northup-ebook/dp/B00FDS85EM?tag=thenewyorktim-20",
+        "contributor": "by Solomon Northup",
+        "title": "TWELVE YEARS A SLAVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612107141",
+            "isbn13": "9781612107141"
+          },
+          {
+            "isbn10": "1843914719",
+            "isbn13": "9781843914716"
+          },
+          {
+            "isbn10": "1476767343",
+            "isbn13": "9781476767345"
+          },
+          {
+            "isbn10": "0143106708",
+            "isbn13": "9780143106708"
+          },
+          {
+            "isbn10": "1492368288",
+            "isbn13": "9781492368281"
+          },
+          {
+            "isbn10": "0143125419",
+            "isbn13": "9780143125419"
+          },
+          {
+            "isbn10": "0486411435",
+            "isbn13": "9780486411439"
+          },
+          {
+            "isbn10": "1429093374",
+            "isbn13": "9781429093378"
+          },
+          {
+            "isbn10": "1612931081",
+            "isbn13": "9781612931081"
+          },
+          {
+            "isbn10": "1480476900",
+            "isbn13": "9781480476905"
+          },
+          {
+            "isbn10": "1480476889",
+            "isbn13": "9781480476882"
+          },
+          {
+            "isbn10": "1629143499",
+            "isbn13": "9781629143491"
+          },
+          {
+            "isbn10": "1629143502",
+            "isbn13": "9781629143507"
+          },
+          {
+            "isbn10": "0007582951",
+            "isbn13": "9780007582952"
+          },
+          {
+            "isbn10": "0807101508",
+            "isbn13": "9780807101506"
+          }
+        ],
+        "publisher": "Various publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476763305",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kay Robertson and others with Beth Clarkl",
+        "primary_isbn13": "9781476763309",
+        "description": "The \u201cDuck Dynasty\u201d wives discuss their marriages, families and faith. \u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476763576.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Women-Duck-Commander-Surprising/dp/1476763305?tag=thenewyorktim-20",
+        "contributor": "by Kay Robertson and others with Beth Clarkl",
+        "title": "THE WOMEN OF DUCK COMMANDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476763305",
+            "isbn13": "9781476763309"
+          },
+          {
+            "isbn10": "1476763577",
+            "isbn13": "9781476763576"
+          }
+        ],
+        "publisher": "Howard Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Margarete Dos and Kerstin Lieff",
+        "primary_isbn13": "9780762789740",
+        "description": "A daughter traces her German mother\u2019s harrowing experiences in World War II and after.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780762789740.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Letters-From-Berlin-Redeeming-Friendship-ebook/dp/B00A4BOWKE?tag=thenewyorktim-20",
+        "contributor": "by Margarete Dos and Kerstin Lieff",
+        "title": "LETTERS FROM BERLIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0762789735",
+            "isbn13": "9780762789733"
+          }
+        ],
+        "publisher": "Lyons/Globe Pequot"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805098556",
+        "description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805098549.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 28,
+        "amazon_product_url": "http://www.amazon.com/Killing-Jesus-Bill-OReilly/dp/0805098542?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING JESUS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805098542",
+            "isbn13": "9780805098549"
+          },
+          {
+            "isbn10": "1410462420",
+            "isbn13": "9781410462428"
+          },
+          {
+            "isbn10": "1427233322",
+            "isbn13": "9781427233325"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062190040",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Edith H Beer with Susan Dworkin",
+        "primary_isbn13": "9780062190048",
+        "description": "The story of a Jewish woman who hid her identity under a marriage, thus saving her life.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062190048.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Nazi-Officers-Wife-Holocaust-ebook/dp/B006ID6NDQ?tag=thenewyorktim-20",
+        "contributor": "by Edith H. Beer with Susan Dworkin",
+        "title": "THE NAZI OFFICER'S WIFE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062190040",
+            "isbn13": "9780062190048"
+          }
+        ],
+        "publisher": "HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603751",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9780679603757",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 147,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455599735",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chelsea Handler",
+        "primary_isbn13": "9781455599738",
+        "description": "Humorous travel stories.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455599721.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Uganda-Be-Kidding-Chelsea-Handler/dp/1455599735?tag=thenewyorktim-20",
+        "contributor": "by Chelsea Handler",
+        "title": "UGANDA BE KIDDING ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455599735",
+            "isbn13": "9781455599738"
+          },
+          {
+            "isbn10": "1455599727",
+            "isbn13": "9781455599721"
+          },
+          {
+            "isbn10": "1455599719",
+            "isbn13": "9781455599714"
+          },
+          {
+            "isbn10": "1478978171",
+            "isbn13": "9781478978176"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476773955",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jimmy Carter",
+        "primary_isbn13": "9781476773957",
+        "description": "The former president denounces discrimination and violence against women.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476773971.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Call-Action-Women-Religion-Violence-ebook/dp/B00HT53JLQ?tag=thenewyorktim-20",
+        "contributor": "by Jimmy Carter",
+        "title": "CALL TO ACTION",
+        "sunday_review_link": "//www.nytimes.com/2014/06/08/books/review/redeemer-the-life-of-jimmy-carter-and-a-call-to-action.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476773955",
+            "isbn13": "9781476773957"
+          },
+          {
+            "isbn10": "1442372648",
+            "isbn13": "9781442372641"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316007544",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Marcus Luttrell with Patrick Robinson",
+        "primary_isbn13": "9780316007542",
+        "description": "The only survivor of a Navy SEALs operation in northern Afghanistan describes the battle and his escape. First published in 2007; the basis for the movie.",
+        "book_review_link": "",
+        "book_image_height": 270,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316067607.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 180,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 20,
+        "amazon_product_url": "http://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601?tag=thenewyorktim-20",
+        "contributor": "by Marcus Luttrell with Patrick Robinson",
+        "title": "LONE SURVIVOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316007544",
+            "isbn13": "9780316007542"
+          },
+          {
+            "isbn10": "0316044695",
+            "isbn13": "9780316044691"
+          },
+          {
+            "isbn10": "0316067601",
+            "isbn13": "9780316067607"
+          },
+          {
+            "isbn10": "0316067598",
+            "isbn13": "9780316067591"
+          },
+          {
+            "isbn10": "031632406X",
+            "isbn13": "9780316324069"
+          },
+          {
+            "isbn10": "0316324108",
+            "isbn13": "9780316324106"
+          },
+          {
+            "isbn10": "1478927089",
+            "isbn13": "9781478927082"
+          },
+          {
+            "isbn10": "1600242197",
+            "isbn13": "9781600242199"
+          },
+          {
+            "isbn10": "0606352155",
+            "isbn13": "9780606352154"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Kahneman",
+        "primary_isbn13": "9781429969352",
+        "description": "A winner of the Nobel in economic science discusses how we make choices in business and personal life.",
+        "book_review_link": "//www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429969352.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20",
+        "contributor": "by Daniel Kahneman",
+        "title": "THINKING, FAST AND SLOW",
+        "sunday_review_link": "//www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374275637",
+            "isbn13": "9780374275631"
+          },
+          {
+            "isbn10": "0739357980",
+            "isbn13": "9780739357989"
+          },
+          {
+            "isbn10": "0374533555",
+            "isbn13": "9780374533557"
+          },
+          {
+            "isbn10": "0606275649",
+            "isbn13": "9780606275644"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1599951509",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert M Edsel with Bret Witter",
+        "primary_isbn13": "9781599951508",
+        "description": "The fight to preserve art works stolen by the Nazis during World War II. The basis for the movie.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316240055.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Monuments-Men-Greatest-Treasure-ebook/dp/B002LHRLNE?tag=thenewyorktim-20",
+        "contributor": "by Robert M. Edsel with Bret Witter",
+        "title": "THE MONUMENTS MEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316240052",
+            "isbn13": "9780316240055"
+          },
+          {
+            "isbn10": "0316240079",
+            "isbn13": "9780316240079"
+          },
+          {
+            "isbn10": "1599951509",
+            "isbn13": "9781599951508"
+          },
+          {
+            "isbn10": "1599952653",
+            "isbn13": "9781599952659"
+          },
+          {
+            "isbn10": "1599951495",
+            "isbn13": "9781599951492"
+          },
+          {
+            "isbn10": "097743494X",
+            "isbn13": "9780977434947"
+          }
+        ],
+        "publisher": "Center Street"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307452204",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Cain",
+        "primary_isbn13": "9780307452207",
+        "description": "Introverts -- approximately one-third of the population -- are undervalued in American society.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307452207.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B004J4WNL2?tag=thenewyorktim-20",
+        "contributor": "by Susan Cain",
+        "title": "QUIET",
+        "sunday_review_link": "//www.nytimes.com/2012/02/12/books/review/susan-cains-quiet-argues-for-the-power-of-introverts.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307352145",
+            "isbn13": "9780307352149"
+          },
+          {
+            "isbn10": "0307452204",
+            "isbn13": "9780307452207"
+          },
+          {
+            "isbn10": "0307352153",
+            "isbn13": "9780307352156"
+          },
+          {
+            "isbn10": "1611734207",
+            "isbn13": "9781611734201"
+          },
+          {
+            "isbn10": "0739341243",
+            "isbn13": "9780739341247"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439199582",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Scott Eyman",
+        "primary_isbn13": "9781439199589",
+        "description": "A biography of the movie star surveys his life, his death and his legend.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439199589.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/John-Wayne-The-Life-Legend/dp/1439199582?tag=thenewyorktim-20",
+        "contributor": "by Scott Eyman",
+        "title": "JOHN WAYNE",
+        "sunday_review_link": "//www.nytimes.com/2014/03/30/books/review/scott-eymans-john-wayne-the-life-and-legend.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439199582",
+            "isbn13": "9781439199589"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385349947",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sheryl Sandberg with Nell Scovell",
+        "primary_isbn13": "9780385349949",
+        "description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+        "book_review_link": "//www.nytimes.com/2013/03/07/books/sheryl-sandbergs-lean-in.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385349956.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Lean-In-Women-Work-Will-ebook/dp/B009LMTDL0?tag=thenewyorktim-20",
+        "contributor": "by Sheryl Sandberg with Nell Scovell",
+        "title": "LEAN IN",
+        "sunday_review_link": "//www.nytimes.com/2013/03/10/books/review/sheryl-sandbergs-lean-in.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385349947",
+            "isbn13": "9780385349949"
+          },
+          {
+            "isbn10": "0385394233",
+            "isbn13": "9780385394239"
+          },
+          {
+            "isbn10": "0553544470",
+            "isbn13": "9780553544473"
+          }
+        ],
+        "publisher": "Knopf"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2014-04-05",
+    "previous_published_date": "2014-04-13",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2014-04-27"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

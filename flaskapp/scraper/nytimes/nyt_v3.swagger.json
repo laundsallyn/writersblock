@@ -1,0 +1,1230 @@
+{
+  "swagger": "2.0",
+  "schemes": [
+    "https"
+  ],
+  "basePath": "/svc/books/v3",
+  "host": "api.nytimes.com",
+  "info": {
+    "version": "",
+    "title": "Books API",
+    "description": "The Books API provides information about book reviews and The New York Times bestsellers lists.",
+    "logo": {
+      "url": "img/logo_api_books_150X150.png"
+    },
+    "x-lucy/readme": "Books API: Best Sellers\n=======================\n\nWith the Best Sellers request type, you can get data from all New York Times\nbest-seller lists, including rank history for specific best sellers. To learn\nmore about the Book Reviews request type,\ngo [here](<http://developer.nytimes.com/docs/books_api/Books_API_Book_Reviews>).\n\n**Note:** In this document, curly braces { } indicate required items. Square\nbrackets [ ] indicate optional items or placeholders.\n\n**The Best Sellers Request Type at a Glance**\n\n**Base URI**\n\n`http://api.nytimes.com/svc/books/{version}/lists`\n\n**Scope**\n\nNew York Times best-seller lists from June 2008 to present (one-week delay)  \n\n\n**HTTP method**\n\nGET\n\n**Response formats**\n\nJSON (`.json`, default), JSONP (`.jsonp`)\n\n \n\nTo retrieve best-seller lists, you must [sign up for an API key](</signup>) for\nthe Books API. Usage is limited to 5,000 requests per day (rate limits are\nsubject to change). Please read and agree to the [API Terms of Use](</tau>) and\nthe [Attribution Guidelines](</attribution>) before you proceed.\n\nRequests\n--------\n\nThe Best Sellers service uses\na [RESTful](<http://en.wikipedia.org/wiki/Representational_State_Transfer>) style.\nFive request types are available: [get a best-seller\nlist](<http://developer.nytimes.com/docs/books_api/Books_API_Best_Sellers#h3-list>), [search\nbest-seller\nlists](<http://developer.nytimes.com/docs/books_api/Books_API_Best_Sellers#h3-list-search>), [get\nthe history of a best\nseller](<http://developer.nytimes.com/docs/books_api/Books_API_Best_Sellers#h3-history>), [get\nan overview of all of the best-seller lists for a given\nweek](<http://developer.nytimes.com/docs/books_api/Books_API_Best_Sellers#h3-overview>) and [get\nthe names of Times best-seller\nlists.](<http://developer.nytimes.com/docs/books_api/Books_API_Best_Sellers#h3-list-names>)\n\nFor general tips on creating a request URI, see [Constructing a\nRequest](<http://developer.nytimes.com/docs/reference/requests>).\n\n \n\n### BEST-SELLER LISTS\n\nTo get a Times best-seller list, use the following URI structure:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/{version}/lists/[date/]{list-name}[.response_format]?[optional-param1=value1]&[...]&api-key={your-API-key}\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n \n\n### SEARCH BEST-SELLER LISTS\n\nTo search best-seller list data, use the following URI structure:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/{version}/lists[.response_format]?{search-param1=value1}&[...]&[optional-param1=value1]&[...]&api-key={your-API-key}\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n \n\nResponses\n---------\n\nAn HTTP response code of 200 (OK) is returned for all requests that are\nsuccessfully understood and processed. See\nthe [Errors](<http://developer.nytimes.com/docs/books_api/Books_API_Best_Sellers#h2-errors>)section\nfor additional response codes.\n\n### RESULT SETS\n\n-   For best-seller history requests that search by `ISBN`, the\n    default `sort-by` value is `ISBN`. For all other best-seller history\n    requests, the default `sort-by` value is `title`. For list searches, the\n    default `sort-by` value is `rank`.\n\n-   The service returns 20 results at a time. Use the `offset` parameter to page\n    through the results. (For best-seller history requests, the maximum number\n    of results is 20; the `offset` parameter is not available.)\n\n \n\nExamples\n--------\n\n### REQUESTS\n\nThese examples use an `.json` extension for illustration purposes. Also, these\nexamples do not include the required `api-key` parameter. Be sure to include\nyour API key in your request.\n\nGet a Trade Fiction Paperback best-seller list by date:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/v2/lists/2010-10-01/trade-fiction-paperback.json\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nSearch the current Hardcover Fiction list for best sellers that have been on the\nlist for 2 weeks:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/v2/lists.json?list=hardcover-fiction&weeks-on-list=2\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nGet the history of a best seller:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/v2/lists/best-sellers/history.json?title=pioneer\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n### RESPONSES\n\nHere is a portion of a JSON response to the [Trade Fiction Paperback list\nexample](<http://developer.nytimes.com/docs/books_api/Books_API_Best_Sellers#example1>):\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n{\n   \"status\":\"OK\",\n   \"copyright\":\"Copyright (c) 2011 The New York Times Company.  All Rights Reserved.\",\n   \"num_results\":35,\n   \"last_modified\":\"2011-02-10T16:43:13-05:00\",\n   \"results\":[\n      {\n         \"list_name\":\"Trade Fiction Paperback\",\n         \"display_name\":\"Paperback Trade Fiction\",\n         \"bestsellers_date\":\"2010-09-19\",\n         \"published_date\":\"2010-10-03\",\n         \"rank\":1,\n         \"rank_last_week\":1,\n         \"weeks_on_list\":65,\n         \"asterisk\":0,\n         \"dagger\":0,\n         \"isbns\":[\n            {\n               \"isbn10\":\"0307454541\",\n               \"isbn13\":\"9780307454546\",\n            },\n            {\n               \"isbn10\":\"0307473473\",\n               \"isbn13\":\"9780307473479\",\n            },\n            {\n               \"isbn10\":\"0307272117\",\n               \"isbn13\":\"9780307272119\",\n            },\n            {\n               \"isbn10\":\"0739384155\",\n               \"isbn13\":\"9780739384152\",\n            }\n         ],\n         \"book_details\":[\n            {\n               \"title\":\"THE GIRL WITH THE DRAGON TATTOO\",\n               \"description\":\"A hacker and a journalist investigate the disappearance \n                   of a Swedish heiress.\",\n               \"contributor\":\"by Stieg Larsson\",\n               \"author\":\"Stieg Larsson\",\n               \"contributor_note\":\"\",\n               \"price\":14.95,\n               \"age_group\":\"\",\n               \"publisher\":\"Vintage Crime\\/Black Lizard\",\n               \"primary_isbn13\":\"9780307454546\",\n               \"primary_isbn10\":\"0307454541\",\n            }\n         ],\n         \"reviews\":[\n            {\n               \"book_review_link\":\"http:\\/\\/www.nytimes.com\\/2008\\/09\\/30\\\n                   /books\\/30kaku.html\",\n               \"first_chapter_link\":\"\",\n               \"sunday_review_link\":\"http:\\/\\/www.nytimes.com\\/2008\\/09\\/14\\\n                   /books\\/review\\/Berenson-t.html\",\n               \"article_chapter_link\":\"\"\n            }\n         ]\n      },\n      {\n         \"list_name\":\"Trade Fiction Paperback\",\n         \"display_name\":\"Paperback Trade Fiction\",\n         \"bestsellers_date\":\"2010-09-19\",\n         \"published_date\":\"2010-10-03\",\n         \"rank\":20,\n         \"rank_last_week\":18,\n         \"weeks_on_list\":3,\n         \"asterisk\":0,\n         \"dagger\":0,\n         \"isbns\":[\n            {\n               \"isbn10\":\"0312429983\",\n               \"isbn13\":\"9780312429980\",\n            },\n            {\n               \"isbn10\":\"0805080686\",\n               \"isbn13\":\"9780805080681\",\n            }\n         ],\n         ..\n         \"book_details\":[\n            {\n               \"title\":\"WOLF HALL\",\n               \"description\":\"Thomas More and Thomas Cromwell clash in the court \n                  of Henry VIII; winner of the 2009 Man Booker Prize.\",\n               \"contributor\":\"by Hilary Mantel\",\n               \"author\":\"Hilary Mantel\",\n               \"contributor_note\":\"\",\n               \"price\":16,\n               \"age_group\":\"\",\n               \"publisher\":\"Picador\",\n               \"primary_isbn13\":\"9780312429980\",\n               \"primary_isbn10\":\"0312429983\",\n            }\n         ],\n         \"reviews\":[\n            {\n               \"book_review_link\":\"http:\\/\\/www.nytimes.com\\/2009\\/10\\/05\\\n                    /books\\/05maslin.html\",\n               \"first_chapter_link\":\"\",\n               \"sunday_review_link\":\"http:\\/\\/www.nytimes.com\\/2009\\/11\\/01\\\n                    /books\\/review\\/Benfey-t.html\",\n               \"article_chapter_link\":\"http:\\/\\/www.nytimes.com\\/2009\\/10\\/07\\\n                   /books\\/07booker.html\"\n            }\n         ]\n      }\n   ]\n}\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nErrors\n------\n\nThe Best Sellers API returns the [standard\nerrors](<http://developer.nytimes.com/docs/reference/errors>). In addition, an\nerror message will be returned if no results are found for your search request.\nFormatting errors (such as improper date formats) may also be returned.\n\n \n\nBooks API: Book Reviews\n=======================\n\nWith the Book Reviews request type, you can retrieve New York Times book\nreviews. To learn more about the Best Sellers request type,\ngo [here](<http://developer.nytimes.com/docs/books_api/Books_API_Best_Sellers>).\n\n**Note:** In this document, curly braces { } indicate required items. Square\nbrackets [ ] indicate optional items or placeholders.\n\n**The Book Reviews Request Type at a Glance**\n\n**Base URI**\n\n`http://api.nytimes.com/svc/books/{version}/reviews`\n\n**Scope**\n\nNew York Times book reviews  \n\n\n**HTTP method**\n\nGET\n\n**Response formats**\n\nJSON (`.json`, default),  JSONP (`.jsonp`)\n\n \n\nYou can search for book reviews in three ways:\n\n-   [ISBN](<http://developer.nytimes.com/docs/books_api/Books_API_Book_Reviews#h3-isbn>)\n\n-   [Title](<http://developer.nytimes.com/docs/books_api/Books_API_Book_Reviews#h3-title>)\n\n-   [Author](<http://developer.nytimes.com/docs/books_api/Books_API_Book_Reviews#h3-author>)\n\n \n\n### ISBN\n\nSearching by ISBN is the recommended method. You can enter 10- or 13-digit\nISBNs. To search by ISBN, use the following URI structure:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/v3/reviews[.response-format]?isbn={ISBN}&api-key={your-API-key}\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n \n\n### TITLE\n\nYou’ll need to enter the full title of the book. Spaces in the title will be\nconverted into the characters %20. To search by title, use the following URI\nstructure:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/v3/reviews[.response-format]?title={TITLE}&api-key={your-API-key}\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n \n\n### AUTHOR\n\nYou’ll need to enter the author’s first and last name, separated by a space.\nThis space will be converted into the characters %20. To search by author, use\nthe following URI structure:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/v3/reviews[.response-format]?author={AUTHOR}&api-key={your-API-key}\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n \n\nExamples\n--------\n\n### REQUESTS\n\nThese examples use a `.json` extension for illustration purposes. Also, these\nexamples do not include the required `api-key`parameter. Be sure to include your\nAPI key in your request.\n\nGet reviews for a given book by ISBN:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/v3/reviews.json?isbn=9781446484197\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nGet reviews for a given book by title:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/v3/reviews.json?title=1Q84\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nGet reviews for books by a given author:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nhttp://api.nytimes.com/svc/books/v3/reviews.json?author=Haruki%20Murakami\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n### RESPONSES\n\nHere is a JSON response to the ISBN example:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n{\n    status: \"OK\",\n    copyright: \"Copyright (c) 2014 The New York Times Company. All Rights Reserved.\",\n    num_results: 2,\n    results: \n    [\n        {\n            url: \"http://www.nytimes.com/2011/11/10/books/1q84-by-haruki-murakami-review.html\",\n            publication_dt: \"2011-11-10 00:00:00\",\n            byline: \"JANET MASLIN\",\n            book_title: \"1Q84\",\n            book_author: \"Haruki Murakami\",\n            summary: \"In “1Q84,” the Japanese novelist Haruki Murakami writes about characters in a Tokyo with two moons.\",\n            isbn13: \n            [\n                \"9781446484203\",\n                \"9780307476463\",\n                \"9780307593313\",\n                \"9780307957023\",\n                \"9780345802934\",\n                \"9781446484197\",\n                \"9781455830497\",\n                \"9781469258843\",\n                \"9788483832967\"\n            ]\n        },\n        {\n            url: \"http://www.nytimes.com/2011/11/06/books/review/1q84-by-haruki-murakami-translated-by-jay-rubin-and-philip-gabriel-book-review.html\",\n            publication_dt: \"2011-11-06 00:00:00\",\n            byline: \"KATHRYN SCHULZ\",\n            book_title: \"1Q84\",\n            book_author: \"Haruki Murakami\",\n            summary: \"Haruki Murakami has translated Raymond Chandler into Japanese, and there’s a lot of Marlowe to his madness.\",\n            isbn13: \n            [\n                \"9780307476463\",\n                \"9780307593313\",\n                \"9780307957023\",\n                \"9780345802934\",\n                \"9781446484197\",\n                \"9781446484203\",\n                \"9781455830497\",\n                \"9781469258843\",\n                \"9788483832967\"\n            ]\n        }\n    ]\n}\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nHere is a JSON response to the title example:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n{\n    status: \"OK\",\n    copyright: \"Copyright (c) 2014 The New York Times Company. All Rights Reserved.\",\n    num_results: 2,\n    results: \n    [\n        {\n            url: \"http://www.nytimes.com/2011/11/10/books/1q84-by-haruki-murakami-review.html\",\n            publication_dt: \"2011-11-10 00:00:00\",\n            review_type: \"regular\",\n            byline: \"JANET MASLIN\",\n            book_title: \"1Q84\",\n            book_author: \"Haruki Murakami\",\n            summary: \"In “1Q84,” the Japanese novelist Haruki Murakami writes about characters in a Tokyo with two moons.\",\n            isbn13: \n            [\n                \"9781446484203\",\n                \"9780307476463\",\n                \"9780307593313\",\n                \"9780307957023\",\n                \"9780345802934\",\n                \"9781446484197\",\n                \"9781455830497\",\n                \"9781469258843\",\n                \"9788483832967\"\n            ]\n        },\n        {\n            url: \"http://www.nytimes.com/2011/11/06/books/review/1q84-by-haruki-murakami-translated-by-jay-rubin-and-philip-gabriel-book-review.html\",\n            publication_dt: \"2011-11-06 00:00:00\",\n            review_type: \"sunday\",\n            byline: \"KATHRYN SCHULZ\",\n            book_title: \"1Q84\",\n            book_author: \"Haruki Murakami\",\n            summary: \"Haruki Murakami has translated Raymond Chandler into Japanese, and there’s a lot of Marlowe to his madness.\",\n            isbn13: \n            [\n                \"9780307476463\",\n                \"9780307593313\",\n                \"9780307957023\",\n                \"9780345802934\",\n                \"9781446484197\",\n                \"9781446484203\",\n                \"9781455830497\",\n                \"9781469258843\",\n                \"9788483832967\"\n            ]\n        }\n    ]\n}\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nHere is a portion of a JSON response to the author example:\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n{\n    status: \"OK\",\n    copyright: \"Copyright (c) 2014 The New York Times Company. All Rights Reserved.\",\n    num_results: 6,\n    results: \n    [\n        {\n            url: \"http://www.nytimes.com/2011/11/10/books/1q84-by-haruki-murakami-review.html\",\n            publication_dt: \"2011-11-10 00:00:00\",\n            review_type: \"regular\",\n            byline: \"JANET MASLIN\",\n            book_title: \"1Q84\",\n            book_author: \"Haruki Murakami\",\n            summary: \"In “1Q84,” the Japanese novelist Haruki Murakami writes about characters in a Tokyo with two moons.\",\n            isbn13: \n            [\n                \"9781446484203\",\n                \"9780307476463\",\n                \"9780307593313\",\n                \"9780307957023\",\n                \"9780345802934\",\n                \"9781446484197\",\n                \"9781455830497\",\n                \"9781469258843\",\n                \"9788483832967\"\n            ]\n        },\n        {\n            url: \"http://www.nytimes.com/1999/02/17/books/books-of-the-times-an-obsessive-attraction-that-cripples-two-lives.html\",\n            publication_dt: \"1999-02-17 00:00:00\",\n            review_type: \"regular\",\n            byline: \"RICHARD BERNSTEIN\",\n            book_title: \"South of the Border, West of the Sun\",\n            book_author: \"Haruki Murakami\",\n            summary: \"\",\n            isbn13: \n            [\n                \"9780375402517\"\n            ]\n        },\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nErrors\n------\n\nThe Book Reviews request type returns the [standard\nerrors](<http://developer.nytimes.com/docs/reference/errors>). In addition, an\nerror message will be returned if no results are found for your search request.\nFormatting errors (such as improper date formats) may also be returned.\n"
+  },
+  "paths": {
+    "/lists/best-sellers/history.json": {
+      "parameters": [],
+      "get": {
+        "summary": "Best Seller History List",
+        "description": "",
+        "operationId": "GET_lists-best-sellers-history-json",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "age-group",
+            "in": "query",
+            "description": "The target age group for the best seller.",
+            "type": "string"
+          },
+          {
+            "name": "author",
+            "in": "query",
+            "description": "The author of the best seller. The author field does not include additional contributors (see Data Structure for more details about the author and contributor fields).\n\nWhen searching the author field, you can specify any combination of first, middle and last names.\n\nWhen sort-by is set to author, the results will be sorted by author's first name. ",
+            "type": "string"
+          },
+          {
+            "name": "contributor",
+            "in": "query",
+            "description": "The author of the best seller, as well as other contributors such as the illustrator (to search or sort by author name only, use author instead).\n\nWhen searching, you can specify any combination of first, middle and last names of any of the contributors.\n\nWhen sort-by is set to contributor, the results will be sorted by the first name of the first contributor listed. ",
+            "type": "string"
+          },
+          {
+            "name": "isbn",
+            "in": "query",
+            "description": "International Standard Book Number, 10 or 13 digits\n\nA best seller may have both 10-digit and 13-digit ISBNs, and may have multiple ISBNs of each type. To search on multiple ISBNs, separate the ISBNs with semicolons (example: 9780446579933;0061374229).",
+            "type": "string"
+          },
+          {
+            "name": "price",
+            "in": "query",
+            "description": "The publisher's list price of the best seller, including decimal point",
+            "type": "string"
+          },
+          {
+            "name": "publisher",
+            "in": "query",
+            "description": "The standardized name of the publisher",
+            "type": "string"
+          },
+          {
+            "name": "title",
+            "in": "query",
+            "description": "The title of the best seller\n\nWhen searching, you can specify a portion of a title or a full title.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string"
+                },
+                "copyright": {
+                  "type": "string"
+                },
+                "num_results": {
+                  "type": "integer"
+                },
+                "results": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "title": {
+                        "type": "string"
+                      },
+                      "description": {
+                        "type": "string"
+                      },
+                      "contributor": {
+                        "type": "string"
+                      },
+                      "author": {
+                        "type": "string"
+                      },
+                      "contributor_note": {
+                        "type": "string"
+                      },
+                      "price": {
+                        "type": "integer"
+                      },
+                      "age_group": {
+                        "type": "string"
+                      },
+                      "publisher": {
+                        "type": "string"
+                      },
+                      "isbns": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "isbn10": {
+                              "type": "string"
+                            },
+                            "isbn13": {
+                              "type": "string"
+                            }
+                          }
+                        }
+                      },
+                      "ranks_history": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "primary_isbn10": {
+                              "type": "string"
+                            },
+                            "primary_isbn13": {
+                              "type": "string"
+                            },
+                            "rank": {
+                              "type": "integer"
+                            },
+                            "list_name": {
+                              "type": "string"
+                            },
+                            "display_name": {
+                              "type": "string"
+                            },
+                            "published_date": {
+                              "type": "string"
+                            },
+                            "bestsellers_date": {
+                              "type": "string"
+                            },
+                            "weeks_on_list": {
+                              "type": "integer"
+                            },
+                            "ranks_last_week": {
+                              "type": "null"
+                            },
+                            "asterisk": {
+                              "type": "integer"
+                            },
+                            "dagger": {
+                              "type": "integer"
+                            }
+                          }
+                        }
+                      },
+                      "reviews": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "book_review_link": {
+                              "type": "string"
+                            },
+                            "first_chapter_link": {
+                              "type": "string"
+                            },
+                            "sunday_review_link": {
+                              "type": "string"
+                            },
+                            "article_chapter_link": {
+                              "type": "string"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "examples": {
+              "application/json": {
+                "status": "OK",
+                "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+                "num_results": 28970,
+                "results": [
+                  {
+                    "title": "#GIRLBOSS",
+                    "description": "An online fashion retailer traces her path to success.",
+                    "contributor": "by Sophia Amoruso",
+                    "author": "Sophia Amoruso",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Portfolio/Penguin/Putnam",
+                    "isbns": [
+                      {
+                        "isbn10": "039916927X",
+                        "isbn13": "9780399169274"
+                      }
+                    ],
+                    "ranks_history": [
+                      {
+                        "primary_isbn10": "1591847931",
+                        "primary_isbn13": "9781591847939",
+                        "rank": 8,
+                        "list_name": "Business Books",
+                        "display_name": "Business",
+                        "published_date": "2016-03-13",
+                        "bestsellers_date": "2016-02-27",
+                        "weeks_on_list": 0,
+                        "ranks_last_week": null,
+                        "asterisk": 0,
+                        "dagger": 0
+                      }
+                    ],
+                    "reviews": [
+                      {
+                        "book_review_link": "",
+                        "first_chapter_link": "",
+                        "sunday_review_link": "",
+                        "article_chapter_link": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "api-key": []
+          }
+        ]
+      }
+    },
+    "/lists.{format}": {
+      "parameters": [
+        {
+          "name": "format",
+          "in": "path",
+          "required": true,
+          "type": "string",
+          "enum": [
+            "json",
+            "jsonp"
+          ],
+          "x-consoleDefault": "json"
+        }
+      ],
+      "get": {
+        "summary": "Best Seller List",
+        "description": "",
+        "operationId": "GET_lists-format",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "list",
+            "in": "query",
+            "description": "The name of the Times best-seller list. To get valid values, use a list names request.\n\nBe sure to replace spaces with hyphens (e.g., e-book-fiction or hardcover-fiction, not E-Book Fiction or Hardcover Fiction). (The parameter is not case sensitive.)",
+            "type": "string"
+          },
+          {
+            "name": "weeks-on-list",
+            "in": "query",
+            "description": "The number of weeks that the best seller has been on list-name, as of bestsellers-date",
+            "type": "integer"
+          },
+          {
+            "name": "bestsellers-date",
+            "in": "query",
+            "description": "YYYY-MM-DD\n\nThe week-ending date for the sales reflected on list-name. Times best-seller lists are compiled using available book sale data. The bestsellers-date may be significantly earlier than published-date. For additional information, see the explanation at the bottom of any best-seller list page on NYTimes.com (example: Hardcover Fiction, published Dec. 5 but reflecting sales to Nov. 29).",
+            "type": "string",
+            "format": "date-time"
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "YYYY-MM-DD  The date the best-seller list was published on NYTimes.com (compare bestsellers-date)",
+            "type": "string"
+          },
+          {
+            "name": "isbn",
+            "in": "query",
+            "description": "International Standard Book Number, 10 or 13 digits",
+            "type": "string"
+          },
+          {
+            "name": "published-date",
+            "in": "query",
+            "description": "YYYY-MM-DD\n\nThe date the best-seller list was published on NYTimes.com (compare bestsellers-date)",
+            "type": "string"
+          },
+          {
+            "name": "rank",
+            "in": "query",
+            "description": "The rank of the best seller on list-name as of bestsellers-date",
+            "type": "integer"
+          },
+          {
+            "name": "rank-last-week",
+            "in": "query",
+            "description": "The rank of the best seller on list-name one week prior to bestsellers-date",
+            "type": "integer"
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "Sets the starting point of the result set",
+            "type": "integer",
+            "multipleOf": 20
+          },
+          {
+            "name": "sort-order",
+            "in": "query",
+            "description": "Sets the sort order of the result set",
+            "type": "string",
+            "enum": [
+              "ASC",
+              "DESC"
+            ]
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string"
+                },
+                "copyright": {
+                  "type": "string"
+                },
+                "num_results": {
+                  "type": "integer"
+                },
+                "last_modified": {
+                  "type": "string"
+                },
+                "results": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "list_name": {
+                        "type": "string"
+                      },
+                      "display_name": {
+                        "type": "string"
+                      },
+                      "bestsellers_date": {
+                        "type": "string"
+                      },
+                      "published_date": {
+                        "type": "string"
+                      },
+                      "rank": {
+                        "type": "integer"
+                      },
+                      "rank_last_week": {
+                        "type": "integer"
+                      },
+                      "weeks_on_list": {
+                        "type": "integer"
+                      },
+                      "asterisk": {
+                        "type": "integer"
+                      },
+                      "dagger": {
+                        "type": "integer"
+                      },
+                      "amazon_product_url": {
+                        "type": "string"
+                      },
+                      "isbns": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "isbn10": {
+                              "type": "string"
+                            },
+                            "isbn13": {
+                              "type": "string"
+                            }
+                          }
+                        }
+                      },
+                      "book_details": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "title": {
+                              "type": "string"
+                            },
+                            "description": {
+                              "type": "string"
+                            },
+                            "contributor": {
+                              "type": "string"
+                            },
+                            "author": {
+                              "type": "string"
+                            },
+                            "contributor_note": {
+                              "type": "string"
+                            },
+                            "price": {
+                              "type": "integer"
+                            },
+                            "age_group": {
+                              "type": "string"
+                            },
+                            "publisher": {
+                              "type": "string"
+                            },
+                            "primary_isbn13": {
+                              "type": "string"
+                            },
+                            "primary_isbn10": {
+                              "type": "string"
+                            }
+                          }
+                        }
+                      },
+                      "reviews": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "book_review_link": {
+                              "type": "string"
+                            },
+                            "first_chapter_link": {
+                              "type": "string"
+                            },
+                            "sunday_review_link": {
+                              "type": "string"
+                            },
+                            "article_chapter_link": {
+                              "type": "string"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "examples": {
+              "application/json": {
+                "status": "OK",
+                "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+                "num_results": 1,
+                "last_modified": "2016-03-11T13:09:01-05:00",
+                "results": [
+                  {
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "bestsellers_date": "2016-03-05",
+                    "published_date": "2016-03-20",
+                    "rank": 5,
+                    "rank_last_week": 2,
+                    "weeks_on_list": 2,
+                    "asterisk": 0,
+                    "dagger": 0,
+                    "amazon_product_url": "http://www.amazon.com/Girls-Guide-Moving-On-Novel-ebook/dp/B00ZNE17B4?tag=thenewyorktim-20",
+                    "isbns": [
+                      {
+                        "isbn10": "0553391925",
+                        "isbn13": "9780553391923"
+                      }
+                    ],
+                    "book_details": [
+                      {
+                        "title": "A GIRL'S GUIDE TO MOVING ON",
+                        "description": "A mother and her daughter-in-law both leave unhappy marriages and take up with new men.",
+                        "contributor": "by Debbie Macomber",
+                        "author": "Debbie Macomber",
+                        "contributor_note": "",
+                        "price": 0,
+                        "age_group": "",
+                        "publisher": "Ballantine",
+                        "primary_isbn13": "9780553391923",
+                        "primary_isbn10": "0553391925"
+                      }
+                    ],
+                    "reviews": [
+                      {
+                        "book_review_link": "",
+                        "first_chapter_link": "",
+                        "sunday_review_link": "",
+                        "article_chapter_link": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "api-key": []
+          }
+        ]
+      }
+    },
+    "/lists/{date}/{list}.json": {
+      "parameters": [
+        {
+          "name": "date",
+          "in": "path",
+          "required": true,
+          "type": "string"
+        },
+        {
+          "name": "list",
+          "in": "path",
+          "description": "Name of the Best Sellers List. You can get the full list from /lists/names.json",
+          "required": true,
+          "type": "string"
+        }
+      ],
+      "get": {
+        "summary": "Best Seller List by Date",
+        "description": "",
+        "operationId": "GET_lists-date-list-json",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "isbn",
+            "in": "query",
+            "description": "International Standard Book Number, 10 or 13 digits",
+            "type": "integer"
+          },
+          {
+            "name": "list-name",
+            "in": "query",
+            "description": "The name of the Times best-seller list. To get valid values, use a list names request.\n\nBe sure to replace spaces with hyphens (e.g., e-book-fiction or hardcover-fiction, not E-Book Fiction or Hardcover Fiction). (The parameter is not case sensitive.)",
+            "type": "string"
+          },
+          {
+            "name": "published-date",
+            "in": "query",
+            "description": "YYYY-MM-DD\n\nThe date the best-seller list was published on NYTimes.com (compare bestsellers-date)",
+            "type": "string",
+            "format": "date-time"
+          },
+          {
+            "name": "bestsellers-date",
+            "in": "query",
+            "description": "YYYY-MM-DD\n\nThe week-ending date for the sales reflected on list-name. Times best-seller lists are compiled using available book sale data. The bestsellers-date may be significantly earlier than published-date. For additional information, see the explanation at the bottom of any best-seller list page on NYTimes.com (example: Hardcover Fiction, published Dec. 5 but reflecting sales to Nov. 29).",
+            "type": "string"
+          },
+          {
+            "name": "weeks-on-list",
+            "in": "query",
+            "description": "The number of weeks that the best seller has been on list-name, as of bestsellers-date",
+            "type": "integer"
+          },
+          {
+            "name": "rank",
+            "in": "query",
+            "description": "The rank of the best seller on list-name as of bestsellers-date",
+            "type": "string"
+          },
+          {
+            "name": "rank-last-week",
+            "in": "query",
+            "description": "The rank of the best seller on list-name one week prior to bestsellers-date",
+            "type": "integer"
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "Sets the starting point of the result set",
+            "type": "integer",
+            "multipleOf": 20
+          },
+          {
+            "name": "sort-order",
+            "in": "query",
+            "description": "The default is ASC (ascending). The sort-order parameter is used with the sort-by parameter — for details, see each request type.",
+            "type": "string",
+            "enum": [
+              "ASC",
+              "DESC"
+            ]
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string"
+                },
+                "copyright": {
+                  "type": "string"
+                },
+                "num_results": {
+                  "type": "integer"
+                },
+                "last_modified": {
+                  "type": "string"
+                },
+                "results": {
+                  "type": "object",
+                  "properties": {
+                    "list_name": {
+                      "type": "string"
+                    },
+                    "bestsellers_date": {
+                      "type": "string"
+                    },
+                    "published_date": {
+                      "type": "string"
+                    },
+                    "display_name": {
+                      "type": "string"
+                    },
+                    "normal_list_ends_at": {
+                      "type": "integer"
+                    },
+                    "updated": {
+                      "type": "string"
+                    },
+                    "books": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "rank": {
+                            "type": "integer"
+                          },
+                          "rank_last_week": {
+                            "type": "integer"
+                          },
+                          "weeks_on_list": {
+                            "type": "integer"
+                          },
+                          "asterisk": {
+                            "type": "integer"
+                          },
+                          "dagger": {
+                            "type": "integer"
+                          },
+                          "primary_isbn10": {
+                            "type": "string"
+                          },
+                          "primary_isbn13": {
+                            "type": "string"
+                          },
+                          "publisher": {
+                            "type": "string"
+                          },
+                          "description": {
+                            "type": "string"
+                          },
+                          "price": {
+                            "type": "integer"
+                          },
+                          "title": {
+                            "type": "string"
+                          },
+                          "author": {
+                            "type": "string"
+                          },
+                          "contributor": {
+                            "type": "string"
+                          },
+                          "contributor_note": {
+                            "type": "string"
+                          },
+                          "book_image": {
+                            "type": "string"
+                          },
+                          "amazon_product_url": {
+                            "type": "string"
+                          },
+                          "age_group": {
+                            "type": "string"
+                          },
+                          "book_review_link": {
+                            "type": "string"
+                          },
+                          "first_chapter_link": {
+                            "type": "string"
+                          },
+                          "sunday_review_link": {
+                            "type": "string"
+                          },
+                          "article_chapter_link": {
+                            "type": "string"
+                          },
+                          "isbns": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "isbn10": {
+                                  "type": "string"
+                                },
+                                "isbn13": {
+                                  "type": "string"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "corrections": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {}
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "examples": {
+              "application/json": {
+                "status": "OK",
+                "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+                "num_results": 15,
+                "last_modified": "2015-12-25T13:05:20-05:00",
+                "results": {
+                  "list_name": "Trade Fiction Paperback",
+                  "bestsellers_date": "2015-12-19",
+                  "published_date": "2016-01-03",
+                  "display_name": "Paperback Trade Fiction",
+                  "normal_list_ends_at": 10,
+                  "updated": "WEEKLY",
+                  "books": [
+                    {
+                      "rank": 1,
+                      "rank_last_week": 0,
+                      "weeks_on_list": 60,
+                      "asterisk": 0,
+                      "dagger": 0,
+                      "primary_isbn10": "0553418025",
+                      "primary_isbn13": "9780553418026",
+                      "publisher": "Broadway",
+                      "description": "Separated from his crew, an astronaut embarks on a quest to stay alive on Mars. The basis of the movie.",
+                      "price": 0,
+                      "title": "THE MARTIAN",
+                      "author": "Andy Weir",
+                      "contributor": "by Andy Weir",
+                      "contributor_note": "",
+                      "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804139038.jpg",
+                      "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+                      "age_group": "",
+                      "book_review_link": "",
+                      "first_chapter_link": "",
+                      "sunday_review_link": "",
+                      "article_chapter_link": "",
+                      "isbns": [
+                        {
+                          "isbn10": "0804139024",
+                          "isbn13": "9780804139021"
+                        }
+                      ]
+                    }
+                  ],
+                  "corrections": []
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "api-key": []
+          }
+        ]
+      }
+    },
+    "/lists/overview.{format}": {
+      "parameters": [
+        {
+          "name": "format",
+          "in": "path",
+          "required": true,
+          "type": "string",
+          "enum": [
+            "json",
+            "jsonp"
+          ]
+        }
+      ],
+      "get": {
+        "summary": "Best Seller List Overview",
+        "description": "",
+        "operationId": "GET_lists-overview-format",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "published_date",
+            "in": "query",
+            "description": "The best-seller list publication date. YYYY-MM-DD\n\nYou do not have to specify the exact date the list was published. The service will search forward (into the future) for the closest publication date to the date you specify. For example, a request for lists/overview/2013-05-22 will retrieve the list that was published on 05-26.\n\nIf you do not include a published_date, the current week's best-sellers lists will be returned.",
+            "type": "string"
+          },
+          {
+            "name": "api-key",
+            "in": "query",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string"
+                },
+                "copyright": {
+                  "type": "string"
+                },
+                "num_results": {
+                  "type": "integer"
+                },
+                "results": {
+                  "type": "object",
+                  "properties": {
+                    "bestsellers_date": {
+                      "type": "string"
+                    },
+                    "published_date": {
+                      "type": "string"
+                    },
+                    "lists": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "list_id": {
+                            "type": "integer"
+                          },
+                          "list_name": {
+                            "type": "string"
+                          },
+                          "display_name": {
+                            "type": "string"
+                          },
+                          "updated": {
+                            "type": "string"
+                          },
+                          "list_image": {
+                            "type": "string"
+                          },
+                          "books": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "age_group": {
+                                  "type": "string"
+                                },
+                                "author": {
+                                  "type": "string"
+                                },
+                                "contributor": {
+                                  "type": "string"
+                                },
+                                "contributor_note": {
+                                  "type": "string"
+                                },
+                                "created_date": {
+                                  "type": "string"
+                                },
+                                "description": {
+                                  "type": "string"
+                                },
+                                "price": {
+                                  "type": "integer"
+                                },
+                                "primary_isbn13": {
+                                  "type": "string"
+                                },
+                                "primary_isbn10": {
+                                  "type": "string"
+                                },
+                                "publisher": {
+                                  "type": "string"
+                                },
+                                "rank": {
+                                  "type": "integer"
+                                },
+                                "title": {
+                                  "type": "string"
+                                },
+                                "updated_date": {
+                                  "type": "string"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "examples": {
+              "application/json": {
+                "status": "OK",
+                "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+                "num_results": 210,
+                "results": {
+                  "bestsellers_date": "2016-03-05",
+                  "published_date": "2016-03-20",
+                  "lists": [
+                    {
+                      "list_id": 704,
+                      "list_name": "Combined Print and E-Book Fiction",
+                      "display_name": "Combined Print & E-Book Fiction",
+                      "updated": "WEEKLY",
+                      "list_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399175954.jpg",
+                      "books": [
+                        {
+                          "age_group": "",
+                          "author": "Clive Cussler and Justin Scott",
+                          "contributor": "by Clive Cussler and Justin Scott",
+                          "contributor_note": "",
+                          "created_date": "2016-03-10 12:00:22",
+                          "description": "In the ninth book in this series, set in 1906, the New York detective Isaac Bell contends with a crime boss passing as a respectable businessman and a tycoon’s plot against President Theodore Roosevelt.",
+                          "price": 0,
+                          "primary_isbn13": "9780698406421",
+                          "primary_isbn10": "0698406427",
+                          "publisher": "Putnam",
+                          "rank": 1,
+                          "title": "THE GANGSTER",
+                          "updated_date": "2016-03-10 17:00:21"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "api-key": []
+          }
+        ]
+      }
+    },
+    "/lists/names.{format}": {
+      "parameters": [
+        {
+          "name": "format",
+          "in": "path",
+          "required": true,
+          "type": "string",
+          "enum": [
+            "json",
+            "jsonp"
+          ]
+        }
+      ],
+      "get": {
+        "summary": "Best Seller List Names",
+        "description": "",
+        "operationId": "GET_lists-names-format",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "api-key",
+            "in": "query",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string"
+                },
+                "copyright": {
+                  "type": "string"
+                },
+                "num_results": {
+                  "type": "integer"
+                },
+                "results": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "list_name": {
+                        "type": "string"
+                      },
+                      "display_name": {
+                        "type": "string"
+                      },
+                      "list_name_encoded": {
+                        "type": "string"
+                      },
+                      "oldest_published_date": {
+                        "type": "string"
+                      },
+                      "newest_published_date": {
+                        "type": "string"
+                      },
+                      "updated": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "examples": {
+              "application/json": {
+                "status": "OK",
+                "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+                "num_results": 53,
+                "results": [
+                  {
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "list_name_encoded": "combined-print-and-e-book-fiction",
+                    "oldest_published_date": "2011-02-13",
+                    "newest_published_date": "2016-03-20",
+                    "updated": "WEEKLY"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "api-key": []
+          }
+        ]
+      }
+    },
+    "/reviews.{format}": {
+      "parameters": [
+        {
+          "name": "format",
+          "in": "path",
+          "required": true,
+          "type": "string",
+          "enum": [
+            "json",
+            "jsonp"
+          ]
+        }
+      ],
+      "get": {
+        "summary": "Reviews",
+        "description": "",
+        "operationId": "GET_reviews-format",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "isbn",
+            "in": "query",
+            "description": "Searching by ISBN is the recommended method. You can enter 10- or 13-digit ISBNs.",
+            "type": "integer"
+          },
+          {
+            "name": "title",
+            "in": "query",
+            "description": "You’ll need to enter the full title of the book. Spaces in the title will be converted into the characters %20.",
+            "type": "string"
+          },
+          {
+            "name": "author",
+            "in": "query",
+            "description": "You’ll need to enter the author’s first and last name, separated by a space. This space will be converted into the characters %20.",
+            "type": "string"
+          },
+          {
+            "name": "api-key",
+            "in": "query",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string"
+                },
+                "copyright": {
+                  "type": "string"
+                },
+                "num_results": {
+                  "type": "integer"
+                },
+                "results": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "url": {
+                        "type": "string"
+                      },
+                      "publication_dt": {
+                        "type": "string"
+                      },
+                      "byline": {
+                        "type": "string"
+                      },
+                      "book_title": {
+                        "type": "string"
+                      },
+                      "book_author": {
+                        "type": "string"
+                      },
+                      "summary": {
+                        "type": "string"
+                      },
+                      "isbn13": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "examples": {
+              "application/json": {
+                "status": "OK",
+                "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+                "num_results": 2,
+                "results": [
+                  {
+                    "url": "http://www.nytimes.com/2011/11/10/books/1q84-by-haruki-murakami-review.html",
+                    "publication_dt": "2011-11-10",
+                    "byline": "JANET MASLIN",
+                    "book_title": "1Q84",
+                    "book_author": "Haruki Murakami",
+                    "summary": "In “1Q84,” the Japanese novelist Haruki Murakami writes about characters in a Tokyo with two moons.",
+                    "isbn13": [
+                      "9780307476463"
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "api-key": []
+          }
+        ]
+      }
+    }
+  },
+  "definitions": {},
+  "securityDefinitions": {
+    "api-key": {
+      "name": "api-key",
+      "type": "apiKey",
+      "in": "query"
+    }
+  }
+}

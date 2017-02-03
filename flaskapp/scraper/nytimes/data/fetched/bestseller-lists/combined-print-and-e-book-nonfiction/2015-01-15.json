@@ -1,0 +1,904 @@
+{
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "results": {
+    "previous_published_date": "2015-01-11",
+    "bestsellers_date": "2015-01-03",
+    "corrections": [],
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "book_image_width": 264,
+        "article_chapter_link": "",
+        "contributor": "by Laura Hillenbrand",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "primary_isbn13": "9780679603757",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "dagger": 0,
+        "primary_isbn10": "0679603751",
+        "isbns": [
+          {
+            "isbn13": "9781400064168",
+            "isbn10": "1400064163"
+          },
+          {
+            "isbn13": "9780679603757",
+            "isbn10": "0679603751"
+          },
+          {
+            "isbn13": "9780375435010",
+            "isbn10": "0375435018"
+          },
+          {
+            "isbn13": "9780739319697",
+            "isbn10": "0739319698"
+          },
+          {
+            "isbn13": "9780007378036",
+            "isbn10": "0007378033"
+          },
+          {
+            "isbn13": "9780812974492",
+            "isbn10": "0812974492"
+          },
+          {
+            "isbn13": "9780606355988",
+            "isbn10": "0606355987"
+          },
+          {
+            "isbn13": "9780812987119",
+            "isbn10": "081298711X"
+          },
+          {
+            "isbn13": "9780553397116",
+            "isbn10": "0553397117"
+          },
+          {
+            "isbn13": "9781101912621",
+            "isbn10": "1101912626"
+          }
+        ],
+        "book_image_height": 400,
+        "publisher": "Random House",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "age_group": "",
+        "title": "UNBROKEN",
+        "author": "Laura Hillenbrand",
+        "asterisk": 0,
+        "rank_last_week": 1,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 186,
+        "rank": 1,
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+        "book_review_link": "",
+        "primary_isbn13": "9780062082374",
+        "description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+        "dagger": 0,
+        "primary_isbn10": "006208237X",
+        "isbns": [
+          {
+            "isbn13": "9780062082350",
+            "isbn10": "0062082353"
+          },
+          {
+            "isbn13": "9780062082374",
+            "isbn10": "006208237X"
+          },
+          {
+            "isbn13": "9780062209498",
+            "isbn10": "0062209493"
+          },
+          {
+            "isbn13": "9780062107060",
+            "isbn10": "0062107062"
+          },
+          {
+            "isbn13": "9780062238863",
+            "isbn10": "0062238868"
+          },
+          {
+            "isbn13": "9780062290793",
+            "isbn10": "0062290797"
+          },
+          {
+            "isbn13": "9780062376572",
+            "isbn10": "0062376578"
+          },
+          {
+            "isbn13": "9780062376336",
+            "isbn10": "0062376330"
+          },
+          {
+            "isbn13": "9780062297877",
+            "isbn10": "0062297872"
+          },
+          {
+            "isbn13": "9780062082367",
+            "isbn10": "0062082361"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Morrow/HarperCollins",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062082374.jpg",
+        "age_group": "",
+        "title": "AMERICAN SNIPER",
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "asterisk": 0,
+        "rank_last_week": 2,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 46,
+        "rank": 2,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 324,
+        "article_chapter_link": "",
+        "contributor": "by Cheryl Strayed",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "primary_isbn13": "9780307957658",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+        "dagger": 0,
+        "primary_isbn10": "0307957659",
+        "isbns": [
+          {
+            "isbn13": "9780307592736",
+            "isbn10": "0307592731"
+          },
+          {
+            "isbn13": "9780307957658",
+            "isbn10": "0307957659"
+          },
+          {
+            "isbn13": "9780307476074",
+            "isbn10": "0307476073"
+          },
+          {
+            "isbn13": "9781594136740",
+            "isbn10": "1594136742"
+          },
+          {
+            "isbn13": "9780307970299",
+            "isbn10": "0307970299"
+          },
+          {
+            "isbn13": "9781101873441",
+            "isbn10": "1101873442"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Knopf",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "age_group": "",
+        "title": "WILD",
+        "author": "Cheryl Strayed",
+        "asterisk": 0,
+        "rank_last_week": 3,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 94,
+        "rank": 3,
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 326,
+        "article_chapter_link": "",
+        "contributor": "by Daniel James Brown",
+        "book_review_link": "",
+        "primary_isbn13": "9781101622742",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "isbns": [
+          {
+            "isbn13": "9780670025817",
+            "isbn10": "067002581X"
+          },
+          {
+            "isbn13": "9780143125471",
+            "isbn10": "0143125478"
+          },
+          {
+            "isbn13": "9781594137792",
+            "isbn10": "159413779X"
+          },
+          {
+            "isbn13": "9781611761696",
+            "isbn10": "1611761697"
+          },
+          {
+            "isbn13": "9781410459541",
+            "isbn10": "1410459543"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Viking",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101622742.jpg",
+        "age_group": "",
+        "title": "THE BOYS IN THE BOAT",
+        "author": "Daniel James Brown",
+        "asterisk": 0,
+        "rank_last_week": 7,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 33,
+        "rank": 4,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 128,
+        "article_chapter_link": "",
+        "contributor": "by Amy Poehler",
+        "book_review_link": "//www.nytimes.com/2014/11/05/books/book-review-amy-poehlers-yes-please.html",
+        "primary_isbn13": "9780062268341",
+        "description": "A humorous miscellany from the comedian and actress, the \u201cS.N.L.\u201d alumna and star of \u201cParks and Recreation.\u201d",
+        "dagger": 0,
+        "primary_isbn10": "0062268341",
+        "isbns": [
+          {
+            "isbn13": "9780062268341",
+            "isbn10": "0062268341"
+          },
+          {
+            "isbn13": "9780062268372",
+            "isbn10": "0062268376"
+          },
+          {
+            "isbn13": "9780062350886",
+            "isbn10": "0062350889"
+          },
+          {
+            "isbn13": "9780062268358",
+            "isbn10": "006226835X"
+          }
+        ],
+        "book_image_height": 193,
+        "publisher": "Dey Street/Morrow",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062268341.jpg",
+        "age_group": "",
+        "title": "YES PLEASE",
+        "author": "Amy Poehler",
+        "asterisk": 0,
+        "rank_last_week": 5,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 10,
+        "rank": 5,
+        "sunday_review_link": "//www.nytimes.com/2014/12/07/books/review/yes-please-by-amy-poehler.html",
+        "amazon_product_url": "http://www.amazon.com/Yes-Please-Amy-Poehler/dp/0062268341?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 327,
+        "article_chapter_link": "",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "book_review_link": "",
+        "primary_isbn13": "9780805096682",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+        "dagger": 0,
+        "primary_isbn10": "080509668X",
+        "isbns": [
+          {
+            "isbn13": "9780805096682",
+            "isbn10": "080509668X"
+          },
+          {
+            "isbn13": "9781427244215",
+            "isbn10": "1427244219"
+          },
+          {
+            "isbn13": "9781410473653",
+            "isbn10": "1410473651"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Holt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780805096699.jpg",
+        "age_group": "",
+        "title": "KILLING PATTON",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "asterisk": 0,
+        "rank_last_week": 4,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 15,
+        "rank": 6,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Killing-Patton-Strange-Audacious-General/dp/080509668X?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 128,
+        "article_chapter_link": "",
+        "contributor": "by Lena Dunham",
+        "book_review_link": "//www.nytimes.com/2014/09/24/books/lena-dunhams-memoir-ish-not-that-kind-of-girl.html",
+        "primary_isbn13": "9780812994995",
+        "description": "A collection of revealing and often humorous personal essays from the creator and star of \u201cGirls.\u201d",
+        "dagger": 0,
+        "primary_isbn10": "081299499X",
+        "isbns": [
+          {
+            "isbn13": "9780812994995",
+            "isbn10": "081299499X"
+          },
+          {
+            "isbn13": "9780804127318",
+            "isbn10": "080412731X"
+          },
+          {
+            "isbn13": "9780812985177",
+            "isbn10": "0812985176"
+          }
+        ],
+        "book_image_height": 193,
+        "publisher": "Random House",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780812995008.jpg",
+        "age_group": "",
+        "title": "NOT THAT KIND OF GIRL",
+        "author": "Lena Dunham",
+        "asterisk": 0,
+        "rank_last_week": 9,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 14,
+        "rank": 7,
+        "sunday_review_link": "//www.nytimes.com/2014/10/12/books/review/lena-dunham-memoir-not-that-kind-of-girl-review.html",
+        "amazon_product_url": "http://www.amazon.com/Not-That-Kind-Girl-Learned/dp/081299499X?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Atul Gawande",
+        "book_review_link": "//www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+        "primary_isbn13": "9780805095159",
+        "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+        "dagger": 0,
+        "primary_isbn10": "0805095152",
+        "isbns": [
+          {
+            "isbn13": "9780805095159",
+            "isbn10": "0805095152"
+          },
+          {
+            "isbn13": "9781427244239",
+            "isbn10": "1427244235"
+          },
+          {
+            "isbn13": "9781410478122",
+            "isbn10": "1410478122"
+          },
+          {
+            "isbn13": "9781514732991",
+            "isbn10": "1514732998"
+          },
+          {
+            "isbn13": "9781250081247",
+            "isbn10": "1250081246"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Metropolitan/Holt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780805095159.jpg",
+        "age_group": "",
+        "title": "BEING MORTAL",
+        "author": "Atul Gawande",
+        "asterisk": 0,
+        "rank_last_week": 10,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 13,
+        "rank": 8,
+        "sunday_review_link": "//www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+        "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 338,
+        "article_chapter_link": "",
+        "contributor": "by George W. Bush",
+        "book_review_link": "//www.nytimes.com/2014/11/12/books/41-george-w-bushs-portrait-of-george-h-w-bush.html",
+        "primary_isbn13": "9780553447781",
+        "description": "The 43rd president\u2019s portrait of his father, George H.\u2009W. Bush, the 41st.",
+        "dagger": 0,
+        "primary_isbn10": "0553447785",
+        "isbns": [
+          {
+            "isbn13": "9780553447781",
+            "isbn10": "0553447785"
+          },
+          {
+            "isbn13": "9780804194716",
+            "isbn10": "0804194718"
+          },
+          {
+            "isbn13": "9781101913147",
+            "isbn10": "1101913142"
+          },
+          {
+            "isbn13": "9780553448276",
+            "isbn10": "0553448277"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Crown",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780553447798.jpg",
+        "age_group": "",
+        "title": "41",
+        "author": "George W Bush",
+        "asterisk": 0,
+        "rank_last_week": 6,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 8,
+        "rank": 9,
+        "sunday_review_link": "//www.nytimes.com/2014/12/28/books/review/george-w-bushs-41-a-portrait-of-my-father.html",
+        "amazon_product_url": "http://www.amazon.com/41-A-Portrait-My-Father/dp/0553447785?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 128,
+        "article_chapter_link": "",
+        "contributor": "by Randall Munroe",
+        "book_review_link": "",
+        "primary_isbn13": "9780544272996",
+        "description": "Scientific (but often funny) answers to hypothetical questions, based in part on the author\u2019s website, xkcd.com.",
+        "dagger": 0,
+        "primary_isbn10": "0544272994",
+        "isbns": [
+          {
+            "isbn13": "9780544272996",
+            "isbn10": "0544272994"
+          },
+          {
+            "isbn13": "9780544456860",
+            "isbn10": "0544456866"
+          }
+        ],
+        "book_image_height": 165,
+        "publisher": "Houghton Mifflin Harcourt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780544272644.jpg",
+        "age_group": "",
+        "title": "WHAT IF?",
+        "author": "Randall Munroe",
+        "asterisk": 0,
+        "rank_last_week": 8,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 15,
+        "rank": 10,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 128,
+        "article_chapter_link": "",
+        "contributor": "H\u00e9ctor Tobar",
+        "book_review_link": "",
+        "primary_isbn13": "9780374280604",
+        "description": "An account, based on interviews, of the experience of the 33 Chilean miners who were trapped underground for 69 days in 2010 and, incredibly, rescued.",
+        "dagger": 0,
+        "primary_isbn10": "0374280606",
+        "isbns": [
+          {
+            "isbn13": "9780374280604",
+            "isbn10": "0374280606"
+          },
+          {
+            "isbn13": "9781427244505",
+            "isbn10": "1427244502"
+          }
+        ],
+        "book_image_height": 193,
+        "publisher": "Farrar, Straus & Giroux",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780374709204.jpg",
+        "age_group": "",
+        "title": "DEEP DOWN DARK",
+        "author": "H\u00e9ctor Tobar",
+        "asterisk": 0,
+        "rank_last_week": 14,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 3,
+        "rank": 11,
+        "sunday_review_link": "//www.nytimes.com/2014/11/23/books/review/deep-down-dark-by-hector-tobar.html",
+        "amazon_product_url": "http://www.amazon.com/Deep-Down-Dark-Stories-Chilean-ebook/dp/B00J6TV17C?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 128,
+        "article_chapter_link": "",
+        "contributor": "by Andy Cohen",
+        "book_review_link": "",
+        "primary_isbn13": "9781627792295",
+        "description": "One year in the (social) life of the TV producer and host of \u201cWatch What Happens Live.\u201d",
+        "dagger": 0,
+        "primary_isbn10": "1627792295",
+        "isbns": [
+          {
+            "isbn13": "9781627792288",
+            "isbn10": "1627792287"
+          },
+          {
+            "isbn13": "9781627792295",
+            "isbn10": "1627792295"
+          },
+          {
+            "isbn13": "9781427259318",
+            "isbn10": "1427259313"
+          },
+          {
+            "isbn13": "9781250078506",
+            "isbn10": "1250078504"
+          }
+        ],
+        "book_image_height": 168,
+        "publisher": "Holt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781627792295.jpg",
+        "age_group": "",
+        "title": "THE ANDY COHEN DIARIES",
+        "author": "Andy Cohen",
+        "asterisk": 0,
+        "rank_last_week": 11,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 8,
+        "rank": 12,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/The-Andy-Cohen-Diaries-Shallow-ebook/dp/B00K9NWRFE?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 324,
+        "article_chapter_link": "",
+        "contributor": "by Mindy Kaling",
+        "book_review_link": "",
+        "primary_isbn13": "9780307886279",
+        "description": "Observations from the comedy writer and actress.",
+        "dagger": 0,
+        "primary_isbn10": "0307886271",
+        "isbns": [
+          {
+            "isbn13": "9780307886262",
+            "isbn10": "0307886263"
+          },
+          {
+            "isbn13": "9780307886286",
+            "isbn10": "030788628X"
+          },
+          {
+            "isbn13": "9780307886279",
+            "isbn10": "0307886271"
+          },
+          {
+            "isbn13": "9780307939807",
+            "isbn10": "0307939804"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Three Rivers",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780307886286.jpg",
+        "age_group": "",
+        "title": "IS EVERYONE HANGING OUT WITHOUT ME?",
+        "author": "Mindy Kaling",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 11,
+        "rank": 13,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Everyone-Hanging-Without-Other-Concerns-ebook/dp/B004JN1D3M?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 328,
+        "article_chapter_link": "",
+        "contributor": "by Stephen Hawking",
+        "book_review_link": "//www.nytimes.com/1988/05/04/books/books-of-the-times-making-the-big-bang-almost-understandable.html",
+        "primary_isbn13": "9780553380163",
+        "description": "The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988.",
+        "dagger": 0,
+        "primary_isbn10": "0553380168",
+        "isbns": [
+          {
+            "isbn13": "9780553380163",
+            "isbn10": "0553380168"
+          },
+          {
+            "isbn13": "9780553053401",
+            "isbn10": "055305340X"
+          },
+          {
+            "isbn13": "9780553109535",
+            "isbn10": "0553109537"
+          },
+          {
+            "isbn13": "9780593015186",
+            "isbn10": "0593015185"
+          },
+          {
+            "isbn13": "9780553346145",
+            "isbn10": "0553346148"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Bantam",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780553380163.jpg",
+        "age_group": "",
+        "title": "A BRIEF HISTORY OF TIME",
+        "author": "Stephen Hawking",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 1,
+        "rank": 14,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 128,
+        "article_chapter_link": "",
+        "contributor": "by Andrew Hodges",
+        "book_review_link": "",
+        "primary_isbn13": "9781400865123",
+        "description": "The life of the British mathematician who broke the Nazis\u2019 wartime codes; the inspiration for the film \"The Imitation Game.\"",
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "isbns": [
+          {
+            "isbn13": "9780691164724",
+            "isbn10": "069116472X"
+          }
+        ],
+        "book_image_height": 198,
+        "publisher": "Princeton University",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781400865123.jpg",
+        "age_group": "",
+        "title": "ALAN TURING: THE ENIGMA",
+        "author": "Andrew Hodges",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 1,
+        "rank": 15,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Alan-Turing-Enigma-Inspired-Imitation-ebook/dp/B00M032W92?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": null,
+        "article_chapter_link": "",
+        "contributor": "by Victoria Twead",
+        "book_review_link": "",
+        "primary_isbn13": "A00B00ALCKQGA",
+        "description": "A couple leave their Spanish mountain village to work for a year in the Middle East on the eve of the Arab revolution; from Spain to Bahrain.",
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "isbns": [],
+        "book_image_height": null,
+        "publisher": "Victoria Twead",
+        "first_chapter_link": "",
+        "book_image": null,
+        "age_group": "",
+        "title": "TWO OLD FOOLS ON A CAMEL",
+        "author": "Victoria Twead",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 16,
+        "sunday_review_link": "",
+        "amazon_product_url": null
+      },
+      {
+        "book_image_width": 332,
+        "article_chapter_link": "",
+        "contributor": "by Susan Cain",
+        "book_review_link": "",
+        "primary_isbn13": "9780307452207",
+        "description": "Introverts -- approximately one-third of the population -- are undervalued in American society.",
+        "dagger": 0,
+        "primary_isbn10": "0307452204",
+        "isbns": [
+          {
+            "isbn13": "9780307352149",
+            "isbn10": "0307352145"
+          },
+          {
+            "isbn13": "9780307452207",
+            "isbn10": "0307452204"
+          },
+          {
+            "isbn13": "9780307352156",
+            "isbn10": "0307352153"
+          },
+          {
+            "isbn13": "9781611734201",
+            "isbn10": "1611734207"
+          },
+          {
+            "isbn13": "9780739341247",
+            "isbn10": "0739341243"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Crown",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780307452207.jpg",
+        "age_group": "",
+        "title": "QUIET",
+        "author": "Susan Cain",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 17,
+        "sunday_review_link": "//www.nytimes.com/2012/02/12/books/review/susan-cains-quiet-argues-for-the-power-of-introverts.html",
+        "amazon_product_url": "http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B004J4WNL2?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 349,
+        "article_chapter_link": "",
+        "contributor": "by Christopher Lascelles",
+        "book_review_link": "",
+        "primary_isbn13": "9780957111615",
+        "description": "A concise overview, with 32 maps.",
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "isbns": [
+          {
+            "isbn13": "9781909979222",
+            "isbn10": "1909979228"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Crux Publishing",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780957111615.jpg",
+        "age_group": "",
+        "title": "A SHORT HISTORY OF THE WORLD",
+        "author": "Christopher Lascelles",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 18,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Short-History-World-Christopher-Lascelles-ebook/dp/B006YBXM22?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 180,
+        "article_chapter_link": "",
+        "contributor": "by Marcus Luttrell with Patrick Robinson",
+        "book_review_link": "",
+        "primary_isbn13": "9780316007542",
+        "description": "A harrowing Navy SEALs operation.",
+        "dagger": 0,
+        "primary_isbn10": "0316007544",
+        "isbns": [
+          {
+            "isbn13": "9780316007542",
+            "isbn10": "0316007544"
+          },
+          {
+            "isbn13": "9780316044691",
+            "isbn10": "0316044695"
+          },
+          {
+            "isbn13": "9780316067607",
+            "isbn10": "0316067601"
+          },
+          {
+            "isbn13": "9780316067591",
+            "isbn10": "0316067598"
+          },
+          {
+            "isbn13": "9780316324069",
+            "isbn10": "031632406X"
+          },
+          {
+            "isbn13": "9780316324106",
+            "isbn10": "0316324108"
+          },
+          {
+            "isbn13": "9781478927082",
+            "isbn10": "1478927089"
+          },
+          {
+            "isbn13": "9781600242199",
+            "isbn10": "1600242197"
+          },
+          {
+            "isbn13": "9780606352154",
+            "isbn10": "0606352155"
+          }
+        ],
+        "book_image_height": 270,
+        "publisher": "Little, Brown",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316067607.jpg",
+        "age_group": "",
+        "title": "LONE SURVIVOR",
+        "author": "Marcus Luttrell with Patrick Robinson",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 19,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 128,
+        "article_chapter_link": "",
+        "contributor": "by Jeff Hobbs",
+        "book_review_link": "//www.nytimes.com/2014/09/11/books/the-short-and-tragic-life-of-robert-peace-by-jeff-hobbs.html",
+        "primary_isbn13": "9781476731926",
+        "description": "The story of a brilliant young man from a New Jersey ghetto who graduated from Yale but was murdered as a drug dealer at age 30.",
+        "dagger": 0,
+        "primary_isbn10": "",
+        "isbns": [
+          {
+            "isbn13": "9781476731902",
+            "isbn10": "147673190X"
+          },
+          {
+            "isbn13": "9781476731919",
+            "isbn10": "1476731918"
+          },
+          {
+            "isbn13": "9781594138898",
+            "isbn10": "1594138893"
+          }
+        ],
+        "book_image_height": 193,
+        "publisher": "Scribner",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781476731926.jpg",
+        "age_group": "",
+        "title": "THE SHORT AND TRAGIC LIFE OF ROBERT PEACE",
+        "author": "Jeff Hobbs",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 20,
+        "sunday_review_link": "//www.nytimes.com/2014/09/21/books/review/the-short-and-tragic-life-of-robert-peace-by-jeff-hobbs.html",
+        "amazon_product_url": "http://www.amazon.com/Short-Tragic-Life-Robert-Peace-ebook/dp/B00GEEB7LC?tag=thenewyorktim-20"
+      }
+    ],
+    "normal_list_ends_at": 15,
+    "published_date_description": "",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2015-01-18",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2015-01-25"
+  },
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "num_results": 20,
+  "status": "OK"
+}

@@ -1,0 +1,769 @@
+{
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "num_results": 20,
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "previous_published_date": "2016-04-24",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "books": [
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780399175169",
+        "dagger": 0,
+        "rank": 1,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Obsession-Nora-Roberts/dp/0399175164?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A woman is haunted by her father\u2019s crimes as she tries to pursue love and her work as a photographer.",
+        "weeks_on_list": 1,
+        "contributor": "by Nora Roberts",
+        "title": "THE OBSESSION",
+        "book_image_width": 330,
+        "publisher": "Berkley",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780399175169",
+            "isbn10": "0399175164"
+          },
+          {
+            "isbn13": "9780698197008",
+            "isbn10": "0698197003"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780399175169.jpg",
+        "author": "Nora Roberts",
+        "first_chapter_link": "",
+        "primary_isbn10": "0399175164",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780062414212",
+        "dagger": 0,
+        "rank": 2,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Nest-Cynthia-DAprix-Sweeney-ebook/dp/B010LU8V8Q?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+        "weeks_on_list": 4,
+        "contributor": "by Cynthia D'Aprix Sweeney",
+        "title": "THE NEST",
+        "book_image_width": 331,
+        "publisher": "Ecco/HarperCollins",
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780062414212",
+            "isbn10": "0062414216"
+          },
+          {
+            "isbn13": "9780062414236",
+            "isbn10": "0062414232"
+          },
+          {
+            "isbn13": "9780062441652",
+            "isbn10": "0062441655"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062414236.jpg",
+        "author": "Cynthia D'Aprix Sweeney",
+        "first_chapter_link": "",
+        "primary_isbn10": "0062414216",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780525955092",
+        "dagger": 0,
+        "rank": 3,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Fool-Me-Once-Harlan-Coben/dp/0525955097?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A retired Army helicopter pilot faces combat-related nightmares and mysteries concerning the deaths of her husband and sister.",
+        "weeks_on_list": 4,
+        "contributor": "by Harlan Coben",
+        "title": "FOOL ME ONCE",
+        "book_image_width": 331,
+        "publisher": "Dutton",
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780525955092",
+            "isbn10": "0525955097"
+          },
+          {
+            "isbn13": "9780698404175",
+            "isbn10": "0698404173"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780525955092.jpg",
+        "author": "Harlan Coben",
+        "first_chapter_link": "",
+        "primary_isbn10": "0525955097",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781501130441",
+        "dagger": 0,
+        "rank": 4,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Time-Goes-Mary-Higgins-Clark-ebook/dp/B01B1U2ZUU?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Secrets emerge when a television journalist searching for her birth mother covers the trial of the widow of a wealthy doctor.",
+        "weeks_on_list": 2,
+        "contributor": "by Mary Higgins Clark",
+        "title": "AS TIME GOES BY",
+        "book_image_width": 331,
+        "publisher": "Simon & Schuster",
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781501130441",
+            "isbn10": "1501130447"
+          },
+          {
+            "isbn13": "9781501131103",
+            "isbn10": "1501131109"
+          },
+          {
+            "isbn13": "9781410490179",
+            "isbn10": "1410490173"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781501131103.jpg",
+        "author": "Mary Higgins Clark",
+        "first_chapter_link": "",
+        "primary_isbn10": "1501130447",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781250010131",
+        "dagger": 0,
+        "rank": 5,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Most-Wanted-Lisa-Scottoline-ebook/dp/B015WAWLFY?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A woman discovers that her sperm donor is a murderer.",
+        "weeks_on_list": 1,
+        "contributor": "by Lisa Scottoline",
+        "title": "MOST WANTED",
+        "book_image_width": 329,
+        "publisher": "St. Martin's",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781250010131",
+            "isbn10": "1250010136"
+          },
+          {
+            "isbn13": "9781250088123",
+            "isbn10": "1250088127"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781250088123.jpg",
+        "author": "Lisa Scottoline",
+        "first_chapter_link": "",
+        "primary_isbn10": "1250010136",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780312577223",
+        "dagger": 0,
+        "rank": 6,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "book_image_height": 195,
+        "description": "Two sisters in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+        "weeks_on_list": 59,
+        "contributor": "by Kristin Hannah",
+        "title": "THE NIGHTINGALE",
+        "book_image_width": 128,
+        "publisher": "St. Martin's",
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780312577223",
+            "isbn10": "0312577222"
+          },
+          {
+            "isbn13": "9781466850606",
+            "isbn10": "1466850604"
+          },
+          {
+            "isbn13": "9781628995015",
+            "isbn10": "1628995017"
+          },
+          {
+            "isbn13": "9781250080400",
+            "isbn10": "1250080401"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "author": "Kristin Hannah",
+        "first_chapter_link": "",
+        "primary_isbn10": "0312577222",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780812996081",
+        "dagger": 0,
+        "rank": 7,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Millers-Valley-Novel-Anna-Quindlen-ebook/dp/B017QLSIGS?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A young woman comes of age during an assault on the land and the people she loves.",
+        "weeks_on_list": 2,
+        "contributor": "by Anna Quindlen",
+        "title": "MILLER'S VALLEY",
+        "book_image_width": 336,
+        "publisher": "Random House",
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780812996081",
+            "isbn10": "0812996089"
+          },
+          {
+            "isbn13": "9780812996098",
+            "isbn10": "0812996097"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780812996098.jpg",
+        "author": "Anna Quindlen",
+        "first_chapter_link": "",
+        "primary_isbn10": "0812996089",
+        "book_review_link": "//www.nytimes.com/2016/04/03/books/review/millers-valley-by-anna-quindlen.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781476746586",
+        "dagger": 0,
+        "rank": 8,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "book_image_height": 192,
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II. \u00a0",
+        "weeks_on_list": 102,
+        "contributor": "by Anthony Doerr",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "book_image_width": 128,
+        "publisher": "Scribner",
+        "rank_last_week": 9,
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "isbns": [
+          {
+            "isbn13": "9781476746586",
+            "isbn10": "1476746583"
+          },
+          {
+            "isbn13": "9781410470225",
+            "isbn10": "1410470229"
+          },
+          {
+            "isbn13": "9781476746593",
+            "isbn10": "1476746591"
+          },
+          {
+            "isbn13": "9781501122835",
+            "isbn10": "1501122835"
+          },
+          {
+            "isbn13": "9780007548699",
+            "isbn10": "0007548699"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "author": "Anthony Doerr",
+        "first_chapter_link": "",
+        "primary_isbn10": "1476746583",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781250056245",
+        "dagger": 0,
+        "rank": 9,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-14th-Colony-Cotton-Malone-ebook/dp/B0140MQTP8?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "The covert operative Cotton Malone must thwart an agent loyal to the former Soviet Union.",
+        "weeks_on_list": 2,
+        "contributor": "by Steve Berry",
+        "title": "THE 14TH COLONY",
+        "book_image_width": 329,
+        "publisher": "Minotaur",
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781250056245",
+            "isbn10": "1250056241"
+          },
+          {
+            "isbn13": "9781466862616",
+            "isbn10": "1466862610"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781466862616.jpg",
+        "author": "Steve Berry",
+        "first_chapter_link": "",
+        "primary_isbn10": "1250056241",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781594633669",
+        "dagger": 0,
+        "rank": 10,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "book_image_height": 193,
+        "description": "A psychological thriller set in the environs of London.",
+        "weeks_on_list": 66,
+        "contributor": "by Paula Hawkins",
+        "title": "THE GIRL ON THE TRAIN",
+        "book_image_width": 128,
+        "publisher": "Riverhead",
+        "rank_last_week": 12,
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "isbns": [
+          {
+            "isbn13": "9781594633669",
+            "isbn10": "1594633665"
+          },
+          {
+            "isbn13": "9780698185395",
+            "isbn10": "0698185390"
+          },
+          {
+            "isbn13": "9781410477767",
+            "isbn10": "1410477762"
+          },
+          {
+            "isbn13": "9780857522320",
+            "isbn10": "0857522329"
+          },
+          {
+            "isbn13": "9781448171682",
+            "isbn10": "1448171687"
+          },
+          {
+            "isbn13": "9781594634123",
+            "isbn10": "1594634122"
+          },
+          {
+            "isbn13": "9780385682312",
+            "isbn10": "038568231X"
+          },
+          {
+            "isbn13": "9781594634024",
+            "isbn10": "1594634025"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "author": "Paula Hawkins",
+        "first_chapter_link": "",
+        "primary_isbn10": "1594633665",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780812993103",
+        "dagger": 0,
+        "rank": 11,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Summer-Before-War-Novel-ebook/dp/B0104EOGGK?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Life in Sussex, England, at the beginning of World War I.",
+        "weeks_on_list": 4,
+        "contributor": "by Helen Simonson",
+        "title": "THE SUMMER BEFORE THE WAR",
+        "book_image_width": 328,
+        "publisher": "Random House",
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780812993103",
+            "isbn10": "0812993101"
+          },
+          {
+            "isbn13": "9780679644644",
+            "isbn10": "0679644644"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780679644644.jpg",
+        "author": "Helen Simonson",
+        "first_chapter_link": "",
+        "primary_isbn10": "0812993101",
+        "book_review_link": "//www.nytimes.com/2016/04/03/books/review/the-summer-before-the-war-by-helen-simonson.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780399174698",
+        "dagger": 0,
+        "rank": 12,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Family-Jewels-Stone-Barrington-Novel/dp/0399174699?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "In the 37th Stone Barrington novel, the lawyer becomes entangled in a mystery involving a wealthy divorc\u00e9e\u2019s ex-husband.",
+        "weeks_on_list": 2,
+        "contributor": "by Stuart Woods",
+        "title": "FAMILY JEWELS",
+        "book_image_width": 331,
+        "publisher": "Putnam",
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780399174698",
+            "isbn10": "0399174699"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780399174698.jpg",
+        "author": "Stuart Woods",
+        "first_chapter_link": "",
+        "primary_isbn10": "0399174699",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780062220608",
+        "dagger": 0,
+        "rank": 13,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Journey-Munich-Maisie-Dobbs-Novel-ebook/dp/B0105TIXJA?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "In 1938, the psychologist Maisie Dobbs travels to Germany to impersonate the daughter of a prisoner.",
+        "weeks_on_list": 3,
+        "contributor": "by Jacqueline Winspear",
+        "title": "JOURNEY TO MUNICH",
+        "book_image_width": 341,
+        "publisher": "Harper/HarperCollins",
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780062220608",
+            "isbn10": "0062220608"
+          },
+          {
+            "isbn13": "9780062220622",
+            "isbn10": "0062220624"
+          },
+          {
+            "isbn13": "9780062220639",
+            "isbn10": "0062220632"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062220622.jpg",
+        "author": "Jacqueline Winspear",
+        "first_chapter_link": "",
+        "primary_isbn10": "0062220608",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781101883075",
+        "dagger": 0,
+        "rank": 14,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Lilac-Girls-Martha-Hall-Kelly/dp/1101883073?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A story of three women\u2019s lives during and after World War II.",
+        "weeks_on_list": 2,
+        "contributor": "by Martha Hall Kelly",
+        "title": "LILAC GIRLS",
+        "book_image_width": 335,
+        "publisher": "Ballantine",
+        "rank_last_week": 15,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781101883075",
+            "isbn10": "1101883073"
+          },
+          {
+            "isbn13": "9781101883068",
+            "isbn10": "1101883065"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101883075.jpg",
+        "author": "Martha Hall Kelly",
+        "first_chapter_link": "",
+        "primary_isbn10": "1101883073",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780316407052",
+        "dagger": 0,
+        "rank": 15,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Private-Paris-James-Patterson-ebook/dp/B00X47ZM72?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Jack Morgan, the head of the Private global investigative agency, probes the murders of members of the French cultural elite.",
+        "weeks_on_list": 5,
+        "contributor": "by James Patterson and Mark Sullivan",
+        "title": "PRIVATE PARIS",
+        "book_image_width": 321,
+        "publisher": "Little, Brown",
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780316407052",
+            "isbn10": "0316407054"
+          },
+          {
+            "isbn13": "9780316408998",
+            "isbn10": "0316408999"
+          },
+          {
+            "isbn13": "9780316408974",
+            "isbn10": "0316408972"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316408998.jpg",
+        "author": "James Patterson and Mark Sullivan",
+        "first_chapter_link": "",
+        "primary_isbn10": "0316407054",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 1,
+        "primary_isbn13": "9780374106683",
+        "dagger": 0,
+        "rank": 16,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Last-Painting-Sara-Vos/dp/0374106681?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A painting links a 17th-century Dutch painter and a modern art historian (and sometime forger).",
+        "weeks_on_list": 1,
+        "contributor": "by Dominic Smith",
+        "title": "THE LAST PAINTING OF SARA DE VOS",
+        "book_image_width": 333,
+        "publisher": "Sarah Crichton/Farrar, Straus & Giroux",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780374106683",
+            "isbn10": "0374106681"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780374106683.jpg",
+        "author": "Dominic Smith",
+        "first_chapter_link": "",
+        "primary_isbn10": "0374106681",
+        "book_review_link": "//www.nytimes.com/2016/04/10/books/review/the-last-painting-of-sara-de-vos-by-dominic-smith.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780525426592",
+        "dagger": 0,
+        "rank": 17,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/After-You-Novel-Jojo-Moyes/dp/0525426590?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+        "weeks_on_list": 0,
+        "contributor": "by Jojo Moyes",
+        "title": "AFTER YOU",
+        "book_image_width": 331,
+        "publisher": "Pamela Dorman/Viking",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "",
+            "isbn10": ""
+          },
+          {
+            "isbn13": "9780525426592",
+            "isbn10": "0525426590"
+          },
+          {
+            "isbn13": "9780698152045",
+            "isbn10": "0698152042"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780698152045.jpg",
+        "author": "Jojo Moyes",
+        "first_chapter_link": "",
+        "primary_isbn10": "0525426590",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780316378239",
+        "dagger": 0,
+        "rank": 18,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Little-Chairs-Edna-OBrien/dp/0316378232?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A ruthless Bosnian Serb leader, responsible for thousands of deaths, goes undercover in an Irish village.",
+        "weeks_on_list": 0,
+        "contributor": "by Edna O'Brien",
+        "title": "THE LITTLE RED CHAIRS",
+        "book_image_width": 322,
+        "publisher": "Little, Brown",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780316378239",
+            "isbn10": "0316378232"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316378239.jpg",
+        "author": "Edna O'Brien",
+        "first_chapter_link": "",
+        "primary_isbn10": "0316378232",
+        "book_review_link": "//www.nytimes.com/2016/04/03/books/review/the-little-red-chairs-by-edna-obrien.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780399176609",
+        "dagger": 0,
+        "rank": 19,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Off-Grid-Joe-Pickett-Novel/dp/0399176608?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "The 16th Joe Pickett novel features Nate Romanowski and a search for a domestic terror cell.",
+        "weeks_on_list": 0,
+        "contributor": "by C. J. Box",
+        "title": "OFF THE GRID",
+        "book_image_width": 331,
+        "publisher": "Putnam",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780399176609",
+            "isbn10": "0399176608"
+          },
+          {
+            "isbn13": "9781628999211",
+            "isbn10": "1628999217"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780399176609.jpg",
+        "author": "C J Box",
+        "first_chapter_link": "",
+        "primary_isbn10": "0399176608",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780451475169",
+        "dagger": 0,
+        "rank": 20,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Beast-Novel-Dagger-Brotherhood-ebook/dp/B0125VU8YY?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Book 14 of the Black Dagger Brotherhood series.",
+        "weeks_on_list": 0,
+        "contributor": "by J. R. Ward",
+        "title": "THE BEAST",
+        "book_image_width": 331,
+        "publisher": "New American Library",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780451475169",
+            "isbn10": "045147516X"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780698192973.jpg",
+        "author": "J R Ward",
+        "first_chapter_link": "",
+        "primary_isbn10": "045147516X",
+        "book_review_link": ""
+      }
+    ],
+    "published_date_description": "",
+    "next_published_date": "2016-05-08",
+    "list_name_encoded": "hardcover-fiction",
+    "published_date": "2016-05-01",
+    "bestsellers_date": "2016-04-16",
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction"
+  }
+}

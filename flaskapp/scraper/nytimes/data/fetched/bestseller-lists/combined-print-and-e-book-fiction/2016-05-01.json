@@ -1,0 +1,757 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2016-05-01",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0698197003",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9780698197008",
+        "description": "A woman is haunted by her father\u2019s crimes as she tries to pursue love and her work as a photographer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399175169.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Obsession-Nora-Roberts/dp/0399175164?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "THE OBSESSION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399175164",
+            "isbn13": "9780399175169"
+          },
+          {
+            "isbn10": "0698197003",
+            "isbn13": "9780698197008"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250109310",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sylvia Day",
+        "primary_isbn13": "9781250109316",
+        "description": "The chronicle of a tempestuous marriage comes to a close.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250109309.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/One-You-A-Crossfire-Novel/dp/1250109302?tag=thenewyorktim-20",
+        "contributor": "by Sylvia Day",
+        "title": "ONE WITH YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250109302",
+            "isbn13": "9781250109309"
+          },
+          {
+            "isbn10": "1250109310",
+            "isbn13": "9781250109316"
+          }
+        ],
+        "publisher": "St. Martin's Griffin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1942215398",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Vi Keeland and Penelope Ward",
+        "primary_isbn13": "9781942215394",
+        "description": "An arrogant businessman's phone, lost on a commuter train, leads to an unexpected affair.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781942215394.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Stuck-Up-Suit-Vi-Keeland-ebook/dp/B01E2MQUVY?tag=thenewyorktim-20",
+        "contributor": "by Vi Keeland and Penelope Ward",
+        "title": "STUCK-UP SUIT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1942215398",
+            "isbn13": "9781942215394"
+          },
+          {
+            "isbn10": "1942215401",
+            "isbn13": "9781942215400"
+          }
+        ],
+        "publisher": "EverAfter Romance"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0698404173",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9780698404175",
+        "description": "A retired Army helicopter pilot faces combat-related nightmares and mysteries concerning the deaths of her husband and sister.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525955092.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Fool-Me-Once-Harlan-Coben/dp/0525955097?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "FOOL ME ONCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525955097",
+            "isbn13": "9780525955092"
+          },
+          {
+            "isbn10": "0698404173",
+            "isbn13": "9780698404175"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0143124544",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jojo Moyes",
+        "primary_isbn13": "9780143124542",
+        "description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780143124542.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/Me-Before-You-A-Novel/dp/0143124544?tag=thenewyorktim-20",
+        "contributor": "by Jojo Moyes",
+        "title": "ME BEFORE YOU",
+        "sunday_review_link": "//www.nytimes.com/2013/01/06/books/review/me-before-you-by-jojo-moyes.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670026603",
+            "isbn13": "9780670026609"
+          },
+          {
+            "isbn10": "0143124544",
+            "isbn13": "9780143124542"
+          },
+          {
+            "isbn10": "1594137390",
+            "isbn13": "9781594137396"
+          },
+          {
+            "isbn10": "0143109464",
+            "isbn13": "9780143109464"
+          },
+          {
+            "isbn10": "0143130153",
+            "isbn13": "9780143130154"
+          }
+        ],
+        "publisher": "Penguin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062414232",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cynthia D'Aprix Sweeney",
+        "primary_isbn13": "9780062414236",
+        "description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062414236.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Nest-Cynthia-DAprix-Sweeney-ebook/dp/B010LU8V8Q?tag=thenewyorktim-20",
+        "contributor": "by Cynthia D'Aprix Sweeney",
+        "title": "THE NEST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062414216",
+            "isbn13": "9780062414212"
+          },
+          {
+            "isbn10": "0062414232",
+            "isbn13": "9780062414236"
+          },
+          {
+            "isbn10": "0062441655",
+            "isbn13": "9780062441652"
+          }
+        ],
+        "publisher": "Ecco/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250088127",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Scottoline",
+        "primary_isbn13": "9781250088123",
+        "description": "A woman discovers that her sperm donor is a murderer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250088123.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Most-Wanted-Lisa-Scottoline-ebook/dp/B015WAWLFY?tag=thenewyorktim-20",
+        "contributor": "by Lisa Scottoline",
+        "title": "MOST WANTED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250010136",
+            "isbn13": "9781250010131"
+          },
+          {
+            "isbn10": "1250088127",
+            "isbn13": "9781250088123"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1938127897",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bella Andre",
+        "primary_isbn13": "9781938127892",
+        "description": "An artist breaks his rule of never painting women when he meets a reality TV star.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781938127892.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 319,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/That-Found-York-Sullivans-Book-ebook/dp/B01B0Q5QSS?tag=thenewyorktim-20",
+        "contributor": "by Bella Andre",
+        "title": "NOW THAT I'VE FOUND YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1938127897",
+            "isbn13": "9781938127892"
+          }
+        ],
+        "publisher": "Oak Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1501131109",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781501131103",
+        "description": "Secrets emerge when a television journalist searching for her birth mother covers the trial of the widow of a wealthy doctor.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781501131103.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Time-Goes-Mary-Higgins-Clark-ebook/dp/B01B1U2ZUU?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "AS TIME GOES BY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1501130447",
+            "isbn13": "9781501130441"
+          },
+          {
+            "isbn10": "1501131109",
+            "isbn13": "9781501131103"
+          },
+          {
+            "isbn10": "1410490173",
+            "isbn13": "9781410490179"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1466850604",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kristin Hannah",
+        "primary_isbn13": "9781466850606",
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 51,
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "contributor": "by Kristin Hannah",
+        "title": "THE NIGHTINGALE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312577222",
+            "isbn13": "9780312577223"
+          },
+          {
+            "isbn10": "1466850604",
+            "isbn13": "9781466850606"
+          },
+          {
+            "isbn10": "1628995017",
+            "isbn13": "9781628995015"
+          },
+          {
+            "isbn10": "1250080401",
+            "isbn13": "9781250080400"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0804178798",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780804178792",
+        "description": "Jack Reacher pries open a missing-persons case that takes him across the country and into the shadowy reaches of the Internet.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804178785.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 323,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Make-Me-Jack-Reacher-Novel-ebook/dp/B00R04MDAE?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "MAKE ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804178771",
+            "isbn13": "9780804178778"
+          },
+          {
+            "isbn10": "080417878X",
+            "isbn13": "9780804178785"
+          },
+          {
+            "isbn10": "0804178798",
+            "isbn13": "9780804178792"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "145558990X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and David Ellis",
+        "primary_isbn13": "9781455589906",
+        "description": "When bodies are found at a Hamptons estate where a series of grisly murders once occurred, a local detective and former New York City cop investigates.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316337977.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/The-Murder-House-James-Patterson-ebook/dp/B00QQQL8JY?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and David Ellis",
+        "title": "THE MURDER HOUSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316410985",
+            "isbn13": "9780316410984"
+          },
+          {
+            "isbn10": "0316337978",
+            "isbn13": "9780316337977"
+          },
+          {
+            "isbn10": "145558990X",
+            "isbn13": "9781455589906"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0997215100",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kresley Cole",
+        "primary_isbn13": "9780997215106",
+        "description": "A grifter weds a man with a shadowy past in the third installment of the Game Maker series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780997215106.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Player-Game-Maker-Series-ebook/dp/B01BTBBXCM?tag=thenewyorktim-20",
+        "contributor": "by Kresley Cole",
+        "title": "THE PLAYER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0997215100",
+            "isbn13": "9780997215106"
+          }
+        ],
+        "publisher": "Valkyrie Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1466862610",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Steve Berry",
+        "primary_isbn13": "9781466862616",
+        "description": "The covert operative Cotton Malone must thwart an agent loyal to the former Soviet Union.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466862616.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-14th-Colony-Cotton-Malone-ebook/dp/B0140MQTP8?tag=thenewyorktim-20",
+        "contributor": "by Steve Berry",
+        "title": "THE 14TH COLONY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250056241",
+            "isbn13": "9781250056245"
+          },
+          {
+            "isbn10": "1466862610",
+            "isbn13": "9781466862616"
+          }
+        ],
+        "publisher": "Minotaur"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062434772",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kristen Pro",
+        "primary_isbn13": "9780062434777",
+        "description": "Everything changes for a restaurateur when a former rock star walks into her Portland hotspot.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062434777.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Listen-To-Me-Fusion-Novel-ebook/dp/B0124PP8A0?tag=thenewyorktim-20",
+        "contributor": "by Kristen Proby",
+        "title": "LISTEN TO ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062434772",
+            "isbn13": "9780062434777"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780698195073",
+        "description": "In the 37th Stone Barrington novel, the lawyer becomes entangled in a mystery involving a wealthy divorc\u00e9e\u2019s ex-husband.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399174698.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Family-Jewels-Stone-Barrington-Novel/dp/0399174699?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "FAMILY JEWELS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399174699",
+            "isbn13": "9780399174698"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812996089",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anna Quindlen",
+        "primary_isbn13": "9780812996081",
+        "description": "A young woman comes of age during an assault on the land and the people she loves.",
+        "book_review_link": "//www.nytimes.com/2016/04/03/books/review/millers-valley-by-anna-quindlen.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812996098.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Millers-Valley-Novel-Anna-Quindlen-ebook/dp/B017QLSIGS?tag=thenewyorktim-20",
+        "contributor": "by Anna Quindlen",
+        "title": "MILLER'S VALLEY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812996089",
+            "isbn13": "9780812996081"
+          },
+          {
+            "isbn10": "0812996097",
+            "isbn13": "9780812996098"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385541929",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385541923",
+        "description": "Defense attorney Sebastian Rudd develops a close working relationship with his bodyguard and sidekick, Partner. A standalone, digital short-story prequel to \"Rogue Lawyer.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385541923.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Partners-Rogue-Lawyer-Kindle-Single-ebook/dp/B01CBLURNK?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "PARTNERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385541929",
+            "isbn13": "9780385541923"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0698185390",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Paula Hawkins",
+        "primary_isbn13": "9780698185395",
+        "description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "contributor": "by Paula Hawkins",
+        "title": "THE GIRL ON THE TRAIN",
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594633665",
+            "isbn13": "9781594633669"
+          },
+          {
+            "isbn10": "0698185390",
+            "isbn13": "9780698185395"
+          },
+          {
+            "isbn10": "1410477762",
+            "isbn13": "9781410477767"
+          },
+          {
+            "isbn10": "0857522329",
+            "isbn13": "9780857522320"
+          },
+          {
+            "isbn10": "1448171687",
+            "isbn13": "9781448171682"
+          },
+          {
+            "isbn10": "1594634122",
+            "isbn13": "9781594634123"
+          },
+          {
+            "isbn10": "038568231X",
+            "isbn13": "9780385682312"
+          },
+          {
+            "isbn10": "1594634025",
+            "isbn13": "9781594634024"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062319183",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Shelley Noble",
+        "primary_isbn13": "9780062319180",
+        "description": "Three women reunite in the beach town that formed them.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062319180.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Whisper-Beach-Novel-Shelley-Noble-ebook/dp/B00NEPDGQS?tag=thenewyorktim-20",
+        "contributor": "by Shelley Noble",
+        "title": "WHISPER BEACH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062319183",
+            "isbn13": "9780062319180"
+          }
+        ],
+        "publisher": "Morrow"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2016-04-16",
+    "previous_published_date": "2016-04-24",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2016-05-08"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

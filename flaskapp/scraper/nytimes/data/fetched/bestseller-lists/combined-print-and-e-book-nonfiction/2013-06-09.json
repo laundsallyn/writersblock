@@ -1,0 +1,869 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2013-06-09",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1594205116",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Phil Jackson and Hugh Delehanty",
+        "primary_isbn13": "9781594205118",
+        "description": "An autobiography by the coach who led the Chicago Bulls and the Los Angeles Lakers to multiple N.B.A. championships.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101617960.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Eleven-Rings-The-Soul-Success/dp/1594205116?tag=thenewyorktim-20",
+        "contributor": "by Phil Jackson and Hugh Delehanty",
+        "title": "ELEVEN RINGS",
+        "sunday_review_link": "//www.nytimes.com/2013/06/02/books/review/eleven-rings-by-phil-jackson-and-hugh-delehanty.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594205116",
+            "isbn13": "9781594205118"
+          },
+          {
+            "isbn10": "1611761670",
+            "isbn13": "9781611761672"
+          },
+          {
+            "isbn10": "0143125346",
+            "isbn13": "9780143125341"
+          }
+        ],
+        "publisher": "Penguin Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476726094",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Phil Robertson with Mark Schlabach",
+        "primary_isbn13": "9781476726090",
+        "description": "The Duck Commander pays tribute to \u201cfaith, family and ducks.\u201d",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476726090.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Happy-Life-Legacy-Duck-Commander-ebook/dp/B009UVMGMA?tag=thenewyorktim-20",
+        "contributor": "by Phil Robertson with Mark Schlabach",
+        "title": "HAPPY, HAPPY, HAPPY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476726094",
+            "isbn13": "9781476726090"
+          },
+          {
+            "isbn10": "1476726116",
+            "isbn13": "9781476726113"
+          }
+        ],
+        "publisher": "Howard Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385349947",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sheryl Sandberg with Nell Scovell",
+        "primary_isbn13": "9780385349949",
+        "description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+        "book_review_link": "//www.nytimes.com/2013/03/07/books/sheryl-sandbergs-lean-in.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385349956.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/Lean-In-Women-Work-Will-ebook/dp/B009LMTDL0?tag=thenewyorktim-20",
+        "contributor": "by Sheryl Sandberg with Nell Scovell",
+        "title": "LEAN IN",
+        "sunday_review_link": "//www.nytimes.com/2013/03/10/books/review/sheryl-sandbergs-lean-in.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385349947",
+            "isbn13": "9780385349949"
+          },
+          {
+            "isbn10": "0385394233",
+            "isbn13": "9780385394239"
+          },
+          {
+            "isbn10": "0553544470",
+            "isbn13": "9780553544473"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451695195",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eben Alexander",
+        "primary_isbn13": "9781451695199",
+        "description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+        "book_review_link": "",
+        "book_image_height": 300,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451695199.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 31,
+        "amazon_product_url": "http://www.amazon.com/Proof-Heaven-Neurosurgeons-Journey-Afterlife/dp/1451695195?tag=thenewyorktim-20",
+        "contributor": "by Eben Alexander",
+        "title": "PROOF OF HEAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451695187",
+            "isbn13": "9781451695182"
+          },
+          {
+            "isbn10": "1451695195",
+            "isbn13": "9781451695199"
+          },
+          {
+            "isbn10": "1451695209",
+            "isbn13": "9781451695205"
+          },
+          {
+            "isbn10": "1476753024",
+            "isbn13": "9781476753027"
+          },
+          {
+            "isbn10": "1442359315",
+            "isbn13": "9781442359314"
+          },
+          {
+            "isbn10": "1410458806",
+            "isbn13": "9781410458803"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316154695",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Sedaris",
+        "primary_isbn13": "9780316154697",
+        "description": "Essays from the humorist on subjects like French dentistry and a North Carolina Costco.",
+        "book_review_link": "//www.nytimes.com/2013/05/15/books/lets-explore-diabetes-with-owls-by-david-sedaris.html",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316125680.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Lets-Explore-Diabetes-David-Sedaris/dp/0316154709?tag=thenewyorktim-20",
+        "contributor": "by David Sedaris",
+        "title": "LET'S EXPLORE DIABETES WITH OWLS",
+        "sunday_review_link": "//www.nytimes.com/2013/05/19/books/review/lets-explore-diabetes-with-owls-by-david-sedaris.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316154695",
+            "isbn13": "9780316154697"
+          },
+          {
+            "isbn10": "0316154709",
+            "isbn13": "9780316154703"
+          },
+          {
+            "isbn10": "1619696991",
+            "isbn13": "9781619696990"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805062904",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rick Atkinson",
+        "primary_isbn13": "9780805062908",
+        "description": "The final volume of the Liberation Trilogy describes the Allied victory in Europe, from D-Day in June 1944 to the German surrender 11 months later.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805062908.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Guns-Last-Light-Liberation-ebook/dp/B009LRWHQI?tag=thenewyorktim-20",
+        "contributor": "by Rick Atkinson",
+        "title": "THE GUNS AT LAST LIGHT",
+        "sunday_review_link": "//www.nytimes.com/2013/05/26/books/review/the-guns-at-last-light-by-rick-atkinson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805062904",
+            "isbn13": "9780805062908"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1608325814",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gianna Angelopoulos",
+        "primary_isbn13": "9781608325818",
+        "description": "A memoir by a lawyer who was instrumental in rescuing the 2004 Olympic Games in Athens from possible disaster.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781608325818.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/My-Greek-Drama-Olympic-Country/dp/1608325814?tag=thenewyorktim-20",
+        "contributor": "by Gianna Angelopoulos",
+        "title": "MY GREEK DRAMA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1608325814",
+            "isbn13": "9781608325818"
+          }
+        ],
+        "publisher": "Greenleaf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476739870",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Glenn Beck and others",
+        "primary_isbn13": "9781476739878",
+        "description": "An argument against gun restriction laws.",
+        "book_review_link": "",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476739885.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Control-Exposing-Truth-About-Guns-ebook/dp/B00BAWQ6E6?tag=thenewyorktim-20",
+        "contributor": "by Glenn Beck and others",
+        "title": "CONTROL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476739870",
+            "isbn13": "9781476739878"
+          }
+        ],
+        "publisher": "Threshold Editions/Mercury Radio Arts"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316175862",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tina Fey",
+        "primary_isbn13": "9780316175869",
+        "description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+        "book_review_link": "//www.nytimes.com/2011/04/04/books/bossypants-by-tina-fey-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316056892.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 52,
+        "amazon_product_url": "http://www.amazon.com/Bossypants-Tina-Fey/dp/0316056898?tag=thenewyorktim-20",
+        "contributor": "by Tina Fey",
+        "title": "BOSSYPANTS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316056863",
+            "isbn13": "9780316056861"
+          },
+          {
+            "isbn10": "031617789X",
+            "isbn13": "9780316177894"
+          },
+          {
+            "isbn10": "0316175862",
+            "isbn13": "9780316175869"
+          },
+          {
+            "isbn10": "031619803X",
+            "isbn13": "9780316198035"
+          },
+          {
+            "isbn10": "0316056871",
+            "isbn13": "9780316056878"
+          },
+          {
+            "isbn10": "0316056898",
+            "isbn13": "9780316056892"
+          },
+          {
+            "isbn10": "1609419693",
+            "isbn13": "9781609419691"
+          },
+          {
+            "isbn10": "0606267212",
+            "isbn13": "9780606267212"
+          },
+          {
+            "isbn10": "0751547832",
+            "isbn13": "9780751547832"
+          }
+        ],
+        "publisher": "Reagan Arthur/Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307476073",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cheryl Strayed",
+        "primary_isbn13": "9780307476074",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 48,
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "contributor": "by Cheryl Strayed",
+        "title": "WILD",
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307592731",
+            "isbn13": "9780307592736"
+          },
+          {
+            "isbn10": "0307957659",
+            "isbn13": "9780307957658"
+          },
+          {
+            "isbn10": "0307476073",
+            "isbn13": "9780307476074"
+          },
+          {
+            "isbn10": "1594136742",
+            "isbn13": "9781594136740"
+          },
+          {
+            "isbn10": "0307970299",
+            "isbn13": "9780307970299"
+          },
+          {
+            "isbn10": "1101873442",
+            "isbn13": "9781101873441"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062238868",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "primary_isbn13": "9780062238863",
+        "description": "A member of the Navy SEALs discusses his childhood, his marriage and his battlefield experiences during the Iraq war. Kyle was recently shot to death in Texas.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062082374.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 33,
+        "amazon_product_url": "http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=thenewyorktim-20",
+        "contributor": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+        "title": "AMERICAN SNIPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062082353",
+            "isbn13": "9780062082350"
+          },
+          {
+            "isbn10": "006208237X",
+            "isbn13": "9780062082374"
+          },
+          {
+            "isbn10": "0062209493",
+            "isbn13": "9780062209498"
+          },
+          {
+            "isbn10": "0062107062",
+            "isbn13": "9780062107060"
+          },
+          {
+            "isbn10": "0062238868",
+            "isbn13": "9780062238863"
+          },
+          {
+            "isbn10": "0062290797",
+            "isbn13": "9780062290793"
+          },
+          {
+            "isbn10": "0062376578",
+            "isbn13": "9780062376572"
+          },
+          {
+            "isbn10": "0062376330",
+            "isbn13": "9780062376336"
+          },
+          {
+            "isbn10": "0062297872",
+            "isbn13": "9780062297877"
+          },
+          {
+            "isbn10": "0062082361",
+            "isbn13": "9780062082367"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "038534662X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly",
+        "primary_isbn13": "9780385346627",
+        "description": "A \u201chighlight reel\u201d of previous writings, updated, from the host of \u201cThe O\u2019Reilly Factor.\u201d",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385346627.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Keep-It-Pithy-Useful-Observations-ebook/dp/B00AP2VUV6?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly",
+        "title": "KEEP IT PITHY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "038534662X",
+            "isbn13": "9780385346627"
+          },
+          {
+            "isbn10": "0385346638",
+            "isbn13": "9780385346634"
+          },
+          {
+            "isbn10": "0804128979",
+            "isbn13": "9780804128971"
+          },
+          {
+            "isbn10": "0804121079",
+            "isbn13": "9780804121071"
+          }
+        ],
+        "publisher": "Crown Archetype"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062002945",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Justin Halpern",
+        "primary_isbn13": "9780062002945",
+        "description": "A coming-of-age memoir organized around the musings, purveyed on Twitter, of the author\u2019s father.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062002945.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Sh-t-My-Dad-Says-ebook/dp/B003H4I58K?tag=thenewyorktim-20",
+        "contributor": "by Justin Halpern",
+        "title": "_____MY DAD SAYS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061992704",
+            "isbn13": "9780061992704"
+          },
+          {
+            "isbn10": "0062002945",
+            "isbn13": "9780062002945"
+          }
+        ],
+        "publisher": "HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061242993",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jimmy Connors",
+        "primary_isbn13": "9780061242991",
+        "description": "A memoir by the bad boy of 1970s tennis, who was for a time the world\u2019s top-ranked, and probably most obnoxious, player.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061242991.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 348,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Outsider-Memoir-Jimmy-Connors-ebook/dp/B009R4O718?tag=thenewyorktim-20",
+        "contributor": "by Jimmy Connors",
+        "title": "THE OUTSIDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061242993",
+            "isbn13": "9780061242991"
+          },
+          {
+            "isbn10": "0062119621",
+            "isbn13": "9780062119629"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "038534905X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jim Gaffigan",
+        "primary_isbn13": "9780385349055",
+        "description": "The comedian\u2019s life with five kids in a two-bedroom New York City apartment.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385349079.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Dad-Is-Fat-Jim-Gaffigan/dp/0385349076?tag=thenewyorktim-20",
+        "contributor": "by Jim Gaffigan",
+        "title": "DAD IS FAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "038534905X",
+            "isbn13": "9780385349055"
+          },
+          {
+            "isbn10": "0385349076",
+            "isbn13": "9780385349079"
+          }
+        ],
+        "publisher": "Crown Archetype"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0374102414",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George Packer",
+        "primary_isbn13": "9780374102418",
+        "description": "The collapse of American institutions, politics and culture and their replacement by organized money.",
+        "book_review_link": "//www.nytimes.com/2013/05/29/books/the-unwinding-by-george-packer.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466836952.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Unwinding-Inner-History-America-ebook/dp/B00ANI9GIQ?tag=thenewyorktim-20",
+        "contributor": "by George Packer",
+        "title": "THE UNWINDING",
+        "sunday_review_link": "//www.nytimes.com/2013/06/09/books/review/the-unwinding-by-george-packer.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374102414",
+            "isbn13": "9780374102418"
+          },
+          {
+            "isbn10": "1466836954",
+            "isbn13": "9781466836952"
+          },
+          {
+            "isbn10": "0374534608",
+            "isbn13": "9780374534608"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Kahneman",
+        "primary_isbn13": "9781429969352",
+        "description": "A winner of the Nobel in economic science discusses how we make choices in business and personal life.",
+        "book_review_link": "//www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429969352.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20",
+        "contributor": "by Daniel Kahneman",
+        "title": "THINKING, FAST AND SLOW",
+        "sunday_review_link": "//www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374275637",
+            "isbn13": "9780374275631"
+          },
+          {
+            "isbn10": "0739357980",
+            "isbn13": "9780739357989"
+          },
+          {
+            "isbn10": "0374533555",
+            "isbn13": "9780374533557"
+          },
+          {
+            "isbn10": "0606275649",
+            "isbn13": "9780606275644"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345521102",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elizabeth Letts",
+        "primary_isbn13": "9780345521101",
+        "description": "The story of Snowman the horse, the extraordinary jumper and national celebrity. Originally published in 2011.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345521095.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Eighty-Dollar-Champion-Snowman-Inspired-ebook/dp/B004J4WKY2?tag=thenewyorktim-20",
+        "contributor": "by Elizabeth Letts",
+        "title": "THE EIGHTY-DOLLAR CHAMPION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345521080",
+            "isbn13": "9780345521088"
+          },
+          {
+            "isbn10": "0345521102",
+            "isbn13": "9780345521101"
+          },
+          {
+            "isbn10": "0345521099",
+            "isbn13": "9780345521095"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Amanda Knox",
+        "primary_isbn13": "9780062217226",
+        "description": "Knox, who was convicted of the murder of her roommate in 2009 when she was an American student in Italy \u2014 a conviction that has since been overturned \u2014 tells her story.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062217226.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Waiting-Be-Heard-A-Memoir/dp/0062217208?tag=thenewyorktim-20",
+        "contributor": "by Amanda Knox",
+        "title": "WAITING TO BE HEARD",
+        "sunday_review_link": "//www.nytimes.com/2013/05/26/books/review/trial-and-error.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062217208",
+            "isbn13": "9780062217202"
+          },
+          {
+            "isbn10": "0062223267",
+            "isbn13": "9780062223265"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400064163",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9781400064168",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; a 2014 movie.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2013-05-25",
+    "previous_published_date": "2013-06-02",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2013-06-16"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

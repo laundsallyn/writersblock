@@ -1,0 +1,889 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2012-10-21",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0805096663",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805096668",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the assassination of John F. Kennedy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805096668.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Killing-Kennedy-The-End-Camelot-ebook/dp/B0079886DY?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING KENNEDY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805096663",
+            "isbn13": "9780805096668"
+          },
+          {
+            "isbn10": "0805096671",
+            "isbn13": "9780805096675"
+          },
+          {
+            "isbn10": "1427226849",
+            "isbn13": "9781427226846"
+          },
+          {
+            "isbn10": "1410452964",
+            "isbn13": "9781410452962"
+          },
+          {
+            "isbn10": "1250092337",
+            "isbn13": "9781250092335"
+          }
+        ],
+        "publisher": "Henry Holt & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525953728",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mark Owen with Kevin Maurer",
+        "primary_isbn13": "9780525953722",
+        "description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+        "book_review_link": "//www.nytimes.com/2012/09/03/books/no-easy-day-by-mark-owen-with-kevin-maurer.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101611302.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/No-Easy-Day-Firsthand-Account/dp/0451468740?tag=thenewyorktim-20",
+        "contributor": "by Mark Owen with Kevin Maurer",
+        "title": "NO EASY DAY",
+        "sunday_review_link": "//www.nytimes.com/2012/10/21/books/review/no-easy-day-by-mark-owen.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953728",
+            "isbn13": "9780525953722"
+          },
+          {
+            "isbn10": "1611761565",
+            "isbn13": "9781611761566"
+          },
+          {
+            "isbn10": "0451468740",
+            "isbn13": "9780451468741"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451662432",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Arnold Schwarzenegger with Peter Petre",
+        "primary_isbn13": "9781451662436",
+        "description": "A memoir by the actor, a former body builder and California governor.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451662450.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 343,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Total-Recall-Unbelievably-True-Story-ebook/dp/B006VGGAC4?tag=thenewyorktim-20",
+        "contributor": "by Arnold Schwarzenegger with Peter Petre",
+        "title": "TOTAL RECALL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451662432",
+            "isbn13": "9781451662436"
+          },
+          {
+            "isbn10": "1451662459",
+            "isbn13": "9781451662450"
+          },
+          {
+            "isbn10": "1476718628",
+            "isbn13": "9781476718620"
+          },
+          {
+            "isbn10": "1442353252",
+            "isbn13": "9781442353251"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446583979",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen Colbert and others",
+        "primary_isbn13": "9780446583978",
+        "description": "The mock pundit of Comedy Central\u2019s \u201cColbert Report\u201d tells how to bring America back from the brink.",
+        "book_review_link": "",
+        "book_image_height": 167,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446583978.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/America-Again-Re-becoming-Greatness-Werent/dp/0446583979?tag=thenewyorktim-20",
+        "contributor": "by Stephen Colbert and others",
+        "title": "AMERICA AGAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446583979",
+            "isbn13": "9780446583978"
+          },
+          {
+            "isbn10": "0446583987",
+            "isbn13": "9780446583985"
+          },
+          {
+            "isbn10": "1607889706",
+            "isbn13": "9781607889700"
+          },
+          {
+            "isbn10": "0446583995",
+            "isbn13": "9780446583992"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805093079",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805093070",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805093070.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 53,
+        "amazon_product_url": "http://www.amazon.com/Killing-Lincoln-Shocking-Assassination-Changed-ebook/dp/B004ULORYU?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING LINCOLN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805093079",
+            "isbn13": "9780805093070"
+          },
+          {
+            "isbn10": "1429996870",
+            "isbn13": "9781429996877"
+          },
+          {
+            "isbn10": "1427213127",
+            "isbn13": "9781427213129"
+          },
+          {
+            "isbn10": "1410443000",
+            "isbn13": "9781410443007"
+          },
+          {
+            "isbn10": "1250012163",
+            "isbn13": "9781250012166"
+          }
+        ],
+        "publisher": "Henry Holt & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451694830",
+        "asterisk": 0,
+        "dagger": 1,
+        "author": "Glenn Beck and Kevin Balfe",
+        "primary_isbn13": "9781451694833",
+        "description": "Thirteen lies that politicians, academics and the media perpetuate.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451694833.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 403,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Cowards-Politicians-Radicals-Media-Refuse-ebook/dp/B007EDYBNI?tag=thenewyorktim-20",
+        "contributor": "by Glenn Beck and Kevin Balfe",
+        "title": "COWARDS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451693478",
+            "isbn13": "9781451693478"
+          },
+          {
+            "isbn10": "1451694830",
+            "isbn13": "9781451694833"
+          },
+          {
+            "isbn10": "1442355549",
+            "isbn13": "9781442355545"
+          }
+        ],
+        "publisher": "Threshold Editions/Mercury Radio Arts"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399159460",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Neil Young",
+        "primary_isbn13": "9780399159466",
+        "description": "The rocker\u2019s memoir ranges over his personal life and his music.",
+        "book_review_link": "//www.nytimes.com/2012/10/29/books/neil-youngs-memoir-waging-heavy-peace.html",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399159466.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Waging-Heavy-Peace-Hippie-Dream/dp/0142180319?tag=thenewyorktim-20",
+        "contributor": "by Neil Young",
+        "title": "WAGING HEAVY PEACE",
+        "sunday_review_link": "//www.nytimes.com/2012/10/28/books/review/neil-youngs-waging-heavy-peace.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159460",
+            "isbn13": "9780399159466"
+          },
+          {
+            "isbn10": "024196217X",
+            "isbn13": "9780241962176"
+          },
+          {
+            "isbn10": "0399162844",
+            "isbn13": "9780399162848"
+          },
+          {
+            "isbn10": "0142180319",
+            "isbn13": "9780142180310"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307387097",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas D Kristof and Sheryl WuDunn",
+        "primary_isbn13": "9780307387097",
+        "description": "A case for viewing women\u2019s equality as our \u201cparamount moral challenge.\u201d",
+        "book_review_link": "//www.nytimes.com/2009/09/08/books/08nussbaum.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307387097.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 182,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Half-Sky-Oppression-Opportunity-Worldwide/dp/0307267148?tag=thenewyorktim-20",
+        "contributor": "by Nicholas D. Kristof and Sheryl WuDunn",
+        "title": "HALF THE SKY",
+        "sunday_review_link": "//www.nytimes.com/2009/09/20/books/review/Manji-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307387097",
+            "isbn13": "9780307387097"
+          },
+          {
+            "isbn10": "0307267148",
+            "isbn13": "9780307267146"
+          },
+          {
+            "isbn10": "0307273156",
+            "isbn13": "9780307273154"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451651104",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bob Woodward",
+        "primary_isbn13": "9781451651102",
+        "description": "Inside the debt-ceiling negotiations of 2011 with the Washington Post journalist.",
+        "book_review_link": "//www.nytimes.com/2012/09/08/books/the-price-of-politics-by-bob-woodward.html",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451651102.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Price-Politics-Bob-Woodward-ebook/dp/B0087JTQFG?tag=thenewyorktim-20",
+        "contributor": "by Bob Woodward",
+        "title": "THE PRICE OF POLITICS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451651104",
+            "isbn13": "9781451651102"
+          },
+          {
+            "isbn10": "1451651120",
+            "isbn13": "9781451651126"
+          },
+          {
+            "isbn10": "1442353295",
+            "isbn13": "9781442353299"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0547564651",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Paul Tough",
+        "primary_isbn13": "9780547564654",
+        "description": "An argument that the qualities that matter most have to do with character, not intelligence.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780544104402.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/How-Children-Succeed-Curiosity-Character/dp/0544104404?tag=thenewyorktim-20",
+        "contributor": "by Paul Tough",
+        "title": "HOW CHILDREN SUCCEED",
+        "sunday_review_link": "//www.nytimes.com/2012/08/26/books/review/how-children-succeed-by-paul-tough.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0547564651",
+            "isbn13": "9780547564654"
+          },
+          {
+            "isbn10": "054756466X",
+            "isbn13": "9780547564661"
+          },
+          {
+            "isbn10": "0544104404",
+            "isbn13": "9780544104402"
+          },
+          {
+            "isbn10": "1452608148",
+            "isbn13": "9781452608143"
+          }
+        ],
+        "publisher": "Houghton Mifflin Harcourt Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1595230998",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ann Coulter",
+        "primary_isbn13": "9781595230997",
+        "description": "The political commentator traces racial demagoguery from the 1970s to the present.",
+        "book_review_link": "",
+        "book_image_height": 159,
+        "book_image": "https://s1.nyt.com/du/books/images/9781595230997.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 105,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Mugged-Racial-Demagoguery-Seventies-Obama/dp/1595230998?tag=thenewyorktim-20",
+        "contributor": "by Ann Coulter",
+        "title": "MUGGED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1595230998",
+            "isbn13": "9781595230997"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603751",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9780679603757",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 89,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812993403",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dakota Meyer and Bing West",
+        "primary_isbn13": "9780812993400",
+        "description": "A Medal of Honor winner\u2019s firsthand account of a crucial battle in the Afghan war.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812993400.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Into-Fire-Firsthand-Account-Extraordinary/dp/0812993403?tag=thenewyorktim-20",
+        "contributor": "by Dakota Meyer and Bing West",
+        "title": "INTO THE FIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812993403",
+            "isbn13": "9780812993400"
+          },
+          {
+            "isbn10": "0679645446",
+            "isbn13": "9780679645443"
+          },
+          {
+            "isbn10": "0449012093",
+            "isbn13": "9780449012093"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307957659",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cheryl Strayed",
+        "primary_isbn13": "9780307957658",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 25,
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "contributor": "by Cheryl Strayed",
+        "title": "WILD",
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307592731",
+            "isbn13": "9780307592736"
+          },
+          {
+            "isbn10": "0307957659",
+            "isbn13": "9780307957658"
+          },
+          {
+            "isbn10": "0307476073",
+            "isbn13": "9780307476074"
+          },
+          {
+            "isbn10": "1594136742",
+            "isbn13": "9781594136740"
+          },
+          {
+            "isbn10": "0307970299",
+            "isbn13": "9780307970299"
+          },
+          {
+            "isbn10": "1101873442",
+            "isbn13": "9781101873441"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307594033",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Will Schwalbe",
+        "primary_isbn13": "9780307594037",
+        "description": "Conversations between the author and his mother as she was dying of cancer often focused on books.",
+        "book_review_link": "",
+        "book_image_height": 184,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307961112.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Your-Life-Book-Club-ebook/dp/B007SGM3P4?tag=thenewyorktim-20",
+        "contributor": "by Will Schwalbe",
+        "title": "THE END OF YOUR LIFE BOOK CLUB",
+        "sunday_review_link": "//www.nytimes.com/2013/01/06/books/review/the-end-of-your-life-book-club-by-will-schwalbe.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307594033",
+            "isbn13": "9780307594037"
+          },
+          {
+            "isbn10": "0307961117",
+            "isbn13": "9780307961112"
+          },
+          {
+            "isbn10": "0307739783",
+            "isbn13": "9780307739780"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385527209",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeffrey Toobin",
+        "primary_isbn13": "9780385527200",
+        "description": "The ideological battles between President Obama and the Supreme Court.",
+        "book_review_link": "//www.nytimes.com/2012/10/23/books/in-the-oath-jeffrey-toobin-portrays-supreme-court.html",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385536301.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Oath-Obama-White-Supreme-ebook/dp/B007QPHK5K?tag=thenewyorktim-20",
+        "contributor": "by Jeffrey Toobin",
+        "title": "OATH",
+        "sunday_review_link": "//www.nytimes.com/2012/09/30/books/review/the-obama-white-house-and-the-supreme-court-by-jeffrey-toobin.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385527209",
+            "isbn13": "9780385527200"
+          },
+          {
+            "isbn10": "0385536305",
+            "isbn13": "9780385536301"
+          },
+          {
+            "isbn10": "0449013677",
+            "isbn13": "9780449013670"
+          },
+          {
+            "isbn10": "0307390713",
+            "isbn13": "9780307390714"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400052181",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rebecca Skloot",
+        "primary_isbn13": "9781400052189",
+        "description": "A woman's cancer cells were cultured without her permission in 1951.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400052189.jpg",
+        "rank": 17,
+        "article_chapter_link": "//www.nytimes.com/2010/02/02/health/02seco.html",
+        "rank_last_week": 0,
+        "book_image_width": 182,
+        "first_chapter_link": "//www.nytimes.com/2010/03/03/books/excerpt-immortal-life-of-henrietta-lacks.html",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=thenewyorktim-20",
+        "contributor": "by Rebecca Skloot",
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "sunday_review_link": "//www.nytimes.com/2010/02/07/books/review/Margonelli-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400052173",
+            "isbn13": "9781400052172"
+          },
+          {
+            "isbn10": "0307589382",
+            "isbn13": "9780307589385"
+          },
+          {
+            "isbn10": "1410427927",
+            "isbn13": "9781410427922"
+          },
+          {
+            "isbn10": "1400052181",
+            "isbn13": "9781400052189"
+          },
+          {
+            "isbn10": "1594134324",
+            "isbn13": "9781594134326"
+          },
+          {
+            "isbn10": "0451486315",
+            "isbn13": "9780451486318"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812992784",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Salman Rushdie",
+        "primary_isbn13": "9780812992786",
+        "description": "The novelist\u2019s life under the Ayatollah Khomeini\u2019s death sentence for writing \u201cThe Satanic Verses.\u201d",
+        "book_review_link": "//www.nytimes.com/2012/09/18/books/in-joseph-anton-salman-rushdie-revisits-death-threat.html",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679643883.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Joseph-Anton-Memoir-Salman-Rushdie/dp/0812992784?tag=thenewyorktim-20",
+        "contributor": "by Salman Rushdie",
+        "title": "JOSEPH ANTON",
+        "sunday_review_link": "//www.nytimes.com/2012/10/14/books/review/joseph-anton-a-memoir-by-salman-rushdie.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812992784",
+            "isbn13": "9780812992786"
+          },
+          {
+            "isbn10": "0679643885",
+            "isbn13": "9780679643883"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030740885X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780307408853",
+        "description": "This portrait of Berlin during the rise of the Nazis centers on William E. Dodd, the U.S. ambassador to Germany, and his daughter, Martha.",
+        "book_review_link": "//www.nytimes.com/2011/05/20/books/in-the-garden-of-beasts-by-erik-larson-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307887955.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/In-Garden-Beasts-American-Hitlers-ebook/dp/B004HFRJM6?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "IN THE GARDEN OF BEASTS",
+        "sunday_review_link": "//www.nytimes.com/2011/06/12/books/review/book-review-in-the-garden-of-beasts-by-erik-larson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307408841",
+            "isbn13": "9780307408846"
+          },
+          {
+            "isbn10": "0307887952",
+            "isbn13": "9780307887955"
+          },
+          {
+            "isbn10": "0739378147",
+            "isbn13": "9780739378144"
+          },
+          {
+            "isbn10": "0307914577",
+            "isbn13": "9780307914576"
+          },
+          {
+            "isbn10": "030740885X",
+            "isbn13": "9780307408853"
+          },
+          {
+            "isbn10": "1446464504",
+            "isbn13": "9781446464502"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0849946158",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849946158",
+        "description": "A 3-year-old\u2019s encounter with Jesus during an appendectomy; the basis of the movie.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2012-10-06",
+    "previous_published_date": "2012-10-14",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2012-10-28"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

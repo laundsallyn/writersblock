@@ -1,0 +1,813 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2013-06-23",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0385537859",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dan Brown",
+        "primary_isbn13": "9780385537858",
+        "description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/05/13/books/inferno-by-dan-brown.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400079155.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Inferno-Robert-Langdon-Dan-Brown/dp/1400079152?tag=thenewyorktim-20",
+        "contributor": "by Dan Brown",
+        "title": "INFERNO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537859",
+            "isbn13": "9780385537858"
+          },
+          {
+            "isbn10": "0345806484",
+            "isbn13": "9780345806482"
+          },
+          {
+            "isbn10": "0385537867",
+            "isbn13": "9780385537865"
+          },
+          {
+            "isbn10": "0804172269",
+            "isbn13": "9780804172264"
+          },
+          {
+            "isbn10": "0345806492",
+            "isbn13": "9780345806499"
+          },
+          {
+            "isbn10": "1400079152",
+            "isbn13": "9781400079155"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "159463176X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Khaled Hosseini",
+        "primary_isbn13": "9781594631764",
+        "description": "A multigenerational family saga centers on a brother and sister born in Afghanistan; from the author of \u201cThe Kite Runner.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/05/21/books/and-the-mountains-echoed-by-khaled-hosseini.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594632389.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 320,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/And-Mountains-Echoed-Khaled-Hosseini/dp/1594632383?tag=thenewyorktim-20",
+        "contributor": "by Khaled Hosseini",
+        "title": "AND THE MOUNTAINS ECHOED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "159463176X",
+            "isbn13": "9781594631764"
+          },
+          {
+            "isbn10": "159463209X",
+            "isbn13": "9781594632099"
+          },
+          {
+            "isbn10": "1410458792",
+            "isbn13": "9781410458797"
+          },
+          {
+            "isbn10": "1408842440",
+            "isbn13": "9781408842447"
+          },
+          {
+            "isbn10": "1594632383",
+            "isbn13": "9781594632389"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439136637",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lauren Weisberger",
+        "primary_isbn13": "9781439136638",
+        "description": "Andrea Sachs is now running a bridal magazine.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439146958.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Revenge-Wears-Prada-Devil-Returns-ebook/dp/B00A285UVY?tag=thenewyorktim-20",
+        "contributor": "by Lauren Weisberger",
+        "title": "REVENGE WEARS PRADA",
+        "sunday_review_link": "//www.nytimes.com/2003/04/13/books/anna-dearest.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439136637",
+            "isbn13": "9781439136638"
+          },
+          {
+            "isbn10": "1439146950",
+            "isbn13": "9781439146958"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455517062",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeffery Deaver",
+        "primary_isbn13": "9781455517060",
+        "description": "The quadriplegic forensics expert Lincoln Rhyme investigates the political assassination of a United States citizen.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455517077.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Kill-Room-Lincoln-Rhyme-ebook/dp/B00A4H1UW6?tag=thenewyorktim-20",
+        "contributor": "by Jeffery Deaver",
+        "title": "THE KILL ROOM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455517062",
+            "isbn13": "9781455517060"
+          },
+          {
+            "isbn10": "1455517070",
+            "isbn13": "9781455517077"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250019672",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Kay Andrews",
+        "primary_isbn13": "9781250019677",
+        "description": "After separating from her husband, a lifestyle blogger moves in with her mother and attends divorce counseling sessions.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250019677.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Ladies-Night-Mary-Kay-Andrews/dp/1250019672?tag=thenewyorktim-20",
+        "contributor": "by Mary Kay Andrews",
+        "title": "LADIES' NIGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250019672",
+            "isbn13": "9781250019677"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "039916250X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Graham Brown",
+        "primary_isbn13": "9780399162503",
+        "description": "Kurt Austin, Joe Zavala and the rest of the Numa team search for a physicist's machine, buried in an ocean trench, that can cause deadly earthquakes in the 11th Numa Files novel.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425267776.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 283,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Zero-Hour-The-Numa-Files/dp/0425267776?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Graham Brown",
+        "title": "ZERO HOUR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "039916250X",
+            "isbn13": "9780399162503"
+          },
+          {
+            "isbn10": "0425267776",
+            "isbn13": "9780425267776"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553807730",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dean Koontz",
+        "primary_isbn13": "9780553807738",
+        "description": "Odd Thomas, who can communicate with the dead, must forestall a crime by discovering the people who have been targeted by a killer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553593082.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 261,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Deeply-Odd-An-Thomas-Novel/dp/0553593080?tag=thenewyorktim-20",
+        "contributor": "by Dean Koontz",
+        "title": "DEEPLY ODD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553807730",
+            "isbn13": "9780553807738"
+          },
+          {
+            "isbn10": "0345535693",
+            "isbn13": "9780345535696"
+          },
+          {
+            "isbn10": "0553593080",
+            "isbn13": "9780553593082"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455521213",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9781455521210",
+        "description": "The government hitman Will Robie uncovers a serious threat as he attempts to take out a fellow assassin who has gone rogue.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455521289.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/The-Will-Robie-David-Baldacci/dp/1455521302?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE HIT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455521213",
+            "isbn13": "9781455521210"
+          },
+          {
+            "isbn10": "1455529478",
+            "isbn13": "9781455529476"
+          },
+          {
+            "isbn10": "1455521280",
+            "isbn13": "9781455521289"
+          },
+          {
+            "isbn10": "1455521175",
+            "isbn13": "9781455521173"
+          },
+          {
+            "isbn10": "1455521302",
+            "isbn13": "9781455521302"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399159312",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9780399159312",
+        "description": "Lucas Davenport is drawn into the investigation of a Minnesota political scandal and the disappearance of an operative.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425267769.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 283,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Silken-Prey-Lucas-Davenport-Novel/dp/0425267768?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "SILKEN PREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159312",
+            "isbn13": "9780399159312"
+          },
+          {
+            "isbn10": "0425267768",
+            "isbn13": "9780425267769"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030758836X",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears on her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 53,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 75,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062120395",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Philipp Meyer",
+        "primary_isbn13": "9780062120397",
+        "description": "More than 150 years in a Texas family, from Comanche raids to the present, and its rise to money and power in the cattle and oil industries.",
+        "book_review_link": "//www.nytimes.com/2013/06/20/books/the-son-a-novel-by-philipp-meyer.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062120397.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 338,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Son-Philipp-Meyer/dp/0062120409?tag=thenewyorktim-20",
+        "contributor": "by Philipp Meyer",
+        "title": "THE SON",
+        "sunday_review_link": "//www.nytimes.com/2013/06/16/books/review/the-son-by-philipp-meyer.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062120395",
+            "isbn13": "9780062120397"
+          },
+          {
+            "isbn10": "0062120409",
+            "isbn13": "9780062120403"
+          }
+        ],
+        "publisher": "Ecco/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400069599",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Colum McCann",
+        "primary_isbn13": "9781400069590",
+        "description": "The lives of real and fictional characters (Frederick Douglass, George Mitchell, an Irish maid) are woven into historical events in Dublin, Newfoundland and New York.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400069590.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/TransAtlantic-A-Novel-Colum-McCann/dp/1400069599?tag=thenewyorktim-20",
+        "contributor": "by Colum McCann",
+        "title": "TRANSATLANTIC",
+        "sunday_review_link": "//www.nytimes.com/2013/06/23/books/review/transatlantic-by-colum-mccann.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400069599",
+            "isbn13": "9781400069590"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "031621082X",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316210829",
+        "description": "One week after the birth of her baby, Detective Lindsay Boxer must return to work to investigate a string of grisly murders; a Women\u2019s Murder Club novel.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316210843.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/12th-Never-Womens-Murder-Club/dp/1455515795?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "12TH OF NEVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031621082X",
+            "isbn13": "9780316210829"
+          },
+          {
+            "isbn10": "0316210870",
+            "isbn13": "9780316210874"
+          },
+          {
+            "isbn10": "0316252492",
+            "isbn13": "9780316252492"
+          },
+          {
+            "isbn10": "1455515795",
+            "isbn13": "9781455515790"
+          },
+          {
+            "isbn10": "1455515787",
+            "isbn13": "9781455515783"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "193700788X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9781937007881",
+        "description": "The last book in the series about Sookie Stackhouse, a telepathic waitress.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781937007881.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Dead-Ever-After-Sookie-Stackhouse/dp/193700788X?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "DEAD EVER AFTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "193700788X",
+            "isbn13": "9781937007881"
+          },
+          {
+            "isbn10": "0425269205",
+            "isbn13": "9780425269206"
+          },
+          {
+            "isbn10": "0425256391",
+            "isbn13": "9780425256398"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "067002645X",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Craig Johnson",
+        "primary_isbn13": "9780670026456",
+        "description": "The search for a boy\u2019s mother leads to a heavily armed polygamist group; a Walt Longmire mystery.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670026456.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Serpents-Tooth-Walt-Longmire-Mystery/dp/067002645X?tag=thenewyorktim-20",
+        "contributor": "by Craig Johnson",
+        "title": "A SERPENT'S TOOTH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "067002645X",
+            "isbn13": "9780670026456"
+          },
+          {
+            "isbn10": "014312546X",
+            "isbn13": "9780143125464"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476706123",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jason Matthews",
+        "primary_isbn13": "9781476706122",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476706122.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Red-Sparrow-Novel-Jason-Matthews/dp/1476706123?tag=thenewyorktim-20",
+        "contributor": "by Jason Matthews",
+        "title": "RED SPARROW",
+        "sunday_review_link": "//www.nytimes.com/2013/06/02/books/review/red-sparrow-by-jason-matthews.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476706123",
+            "isbn13": "9781476706122"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345527380",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeff Shaara",
+        "primary_isbn13": "9780345527387",
+        "description": "A novel about the siege of Vicksburg in 1863; the second book in a trilogy about the Civil War.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345527387.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Chain-Thunder-Novel-Siege-Vicksburg/dp/0345527380?tag=thenewyorktim-20",
+        "contributor": "by Jeff Shaara",
+        "title": "A CHAIN OF THUNDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345527380",
+            "isbn13": "9780345527387"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594486409",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anton DiSclafani",
+        "primary_isbn13": "9781594486401",
+        "description": "",
+        "book_review_link": "//www.nytimes.com/2013/06/04/books/the-yonahlossee-riding-camp-for-girls-by-anton-disclafani.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594632709.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 320,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Yonahlossee-Riding-Camp-Girls/dp/1594632707?tag=thenewyorktim-20",
+        "contributor": "by Anton DiSclafani",
+        "title": "THE YONAHLOSSEE RIDING CAMP FOR GIRLS",
+        "sunday_review_link": "//www.nytimes.com/2013/06/09/books/review/anton-disclafanis-yonahlossee-riding-camp-for-girls.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594486409",
+            "isbn13": "9781594486401"
+          },
+          {
+            "isbn10": "1594632707",
+            "isbn13": "9781594632709"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062200577",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Joe Hill",
+        "primary_isbn13": "9780062200570",
+        "description": "In a creepy battle between real and imaginary worlds, a brave biker chick is pitted against a ghoulish villain who lures children to a place where it is always Christmas.\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/04/29/books/nos4a2-a-novel-by-joe-hill.html",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062200594.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/NOS4A2-Joe-Hill-ebook/dp/B009NF6Z2K?tag=thenewyorktim-20",
+        "contributor": "by Joe Hill",
+        "title": "NOS4A2",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062200577",
+            "isbn13": "9780062200570"
+          },
+          {
+            "isbn10": "0062200593",
+            "isbn13": "9780062200594"
+          },
+          {
+            "isbn10": "0062200585",
+            "isbn13": "9780062200587"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2013-06-08",
+    "previous_published_date": "2013-06-16",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2013-06-30"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

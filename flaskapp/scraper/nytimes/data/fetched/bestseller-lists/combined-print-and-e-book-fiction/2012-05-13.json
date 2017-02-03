@@ -1,0 +1,929 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2012-05-13",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130293",
+        "description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803481.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 125,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES OF GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130283",
+            "isbn13": "9781612130286"
+          },
+          {
+            "isbn10": "0345803485",
+            "isbn13": "9780345803481"
+          },
+          {
+            "isbn10": "0099579936",
+            "isbn13": "9780099579939"
+          },
+          {
+            "isbn10": "0385363125",
+            "isbn13": "9780385363129"
+          },
+          {
+            "isbn10": "0385537670",
+            "isbn13": "9780385537674"
+          },
+          {
+            "isbn10": "0345806751",
+            "isbn13": "9780345806758"
+          },
+          {
+            "isbn10": "0804172072",
+            "isbn13": "9780804172073"
+          },
+          {
+            "isbn10": "0345805151",
+            "isbn13": "9780345805157"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130593",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130590",
+        "description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803498.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Darker-E-James/dp/0345803493?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES DARKER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130593",
+            "isbn13": "9781612130590"
+          },
+          {
+            "isbn10": "1612130585",
+            "isbn13": "9781612130583"
+          },
+          {
+            "isbn10": "0345803493",
+            "isbn13": "9780345803498"
+          },
+          {
+            "isbn10": "1448149460",
+            "isbn13": "9781448149469"
+          },
+          {
+            "isbn10": "0385363133",
+            "isbn13": "9780385363136"
+          },
+          {
+            "isbn10": "0099579928",
+            "isbn13": "9780099579922"
+          },
+          {
+            "isbn10": "0385537689",
+            "isbn13": "9780385537681"
+          },
+          {
+            "isbn10": "0606264485",
+            "isbn13": "9780606264488"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130615",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130613",
+        "description": "The final book in an erotic trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781612130606.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Freed-Three-Trilogy/dp/0345803507?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES FREED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130615",
+            "isbn13": "9781612130613"
+          },
+          {
+            "isbn10": "1612130607",
+            "isbn13": "9781612130606"
+          },
+          {
+            "isbn10": "0345803507",
+            "isbn13": "9780345803504"
+          },
+          {
+            "isbn10": "0385537697",
+            "isbn13": "9780385537698"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451658907",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781451658903",
+        "description": "A new entry in the Dark Tower epic western-fantasy series; this novel, King says, is \u201cDark Tower 4.5.\u201d",
+        "book_review_link": "",
+        "book_image_height": 207,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451658927.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Wind-Through-Keyhole-Tower-ebook/dp/B005GG0MTC?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "THE WIND THROUGH THE KEYHOLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451658907",
+            "isbn13": "9781451658903"
+          },
+          {
+            "isbn10": "1451658923",
+            "isbn13": "9781451658927"
+          },
+          {
+            "isbn10": "1451658915",
+            "isbn13": "9781451658910"
+          },
+          {
+            "isbn10": "1451658095",
+            "isbn13": "9781451658095"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446542180",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9780446542180",
+        "description": "A Marine returning home sets out to track down the woman whose photo he found in Iraq.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446542180.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/The-Lucky-One-Nicholas-Sparks-ebook/dp/B0018QQQK8?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "THE LUCKY ONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446618322",
+            "isbn13": "9780446618328"
+          },
+          {
+            "isbn10": "0446698342",
+            "isbn13": "9780446698344"
+          },
+          {
+            "isbn10": "0446542180",
+            "isbn13": "9780446542180"
+          },
+          {
+            "isbn10": "1455508969",
+            "isbn13": "9781455508969"
+          },
+          {
+            "isbn10": "1455508977",
+            "isbn13": "9781455508976"
+          },
+          {
+            "isbn10": "0446579939",
+            "isbn13": "9780446579933"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ron Carr",
+        "primary_isbn13": "9781459226920",
+        "description": "A Marine returns to Virgin River and falls for a striking single mother who is nothing like the wife he imagined.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780778313175.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Sunrise-Point-Virgin-River-Novel/dp/0778313174?tag=thenewyorktim-20",
+        "contributor": "by Robyn Carr",
+        "title": "SUNRISE POINT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778313174",
+            "isbn13": "9780778313175"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446573000",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446573009",
+        "description": "A hitman who has become a target of the government rescues a teenage girl whose parents have been murdered and who may be at the center of a dangerous conspiracy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446573009.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Innocent-David-Baldacci-ebook/dp/B006VFLIYK?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE INNOCENT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446572993",
+            "isbn13": "9780446572996"
+          },
+          {
+            "isbn10": "0446573000",
+            "isbn13": "9780446573009"
+          },
+          {
+            "isbn10": "1455513369",
+            "isbn13": "9781455513369"
+          },
+          {
+            "isbn10": "1447213521",
+            "isbn13": "9781447213529"
+          },
+          {
+            "isbn10": "1455519006",
+            "isbn13": "9781455519002"
+          },
+          {
+            "isbn10": "0446572985",
+            "isbn13": "9780446572989"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9781101580363",
+        "description": "A programmer hides from the Russian mob in the Ozarks.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101580363.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 339,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Witness-Nora-Roberts-ebook/dp/B0074VTHBQ?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "THE WITNESS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159126",
+            "isbn13": "9780399159121"
+          },
+          {
+            "isbn10": "0399159371",
+            "isbn13": "9780399159374"
+          },
+          {
+            "isbn10": "0748125817",
+            "isbn13": "9780748125814"
+          },
+          {
+            "isbn10": "0425264769",
+            "isbn13": "9780425264768"
+          },
+          {
+            "isbn10": "0515151335",
+            "isbn13": "9780515151336"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345803574",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9780345803573",
+        "description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803573.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Trilogy-Bundle-Vintage-ebook/dp/B007SGM084?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES TRILOGY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345803574",
+            "isbn13": "9780345803573"
+          },
+          {
+            "isbn10": "1448150620",
+            "isbn13": "9781448150625"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385536089",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385536080",
+        "description": "A pitcher beans a promising rookie, ending both careers; years later, the pitcher\u2019s son brings them together.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385536080.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 280,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Calico-Joe-Novel-John-Grisham/dp/0345541332?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "CALICO JOE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385536070",
+            "isbn13": "9780385536073"
+          },
+          {
+            "isbn10": "0385536089",
+            "isbn13": "9780385536080"
+          },
+          {
+            "isbn10": "0307990745",
+            "isbn13": "9780307990747"
+          },
+          {
+            "isbn10": "0385536097",
+            "isbn13": "9780385536097"
+          },
+          {
+            "isbn10": "0345536649",
+            "isbn13": "9780345536648"
+          },
+          {
+            "isbn10": "0345541332",
+            "isbn13": "9780345541338"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tracey Garvis-Graves",
+        "primary_isbn13": "A00B005L9B5YU",
+        "description": "An English teacher and the teenage boy she has agreed to tutor are stranded on an island when the seaplane taking them to join his family in the Maldives crashes in the Indian Ocean.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": null,
+        "contributor": "by Tracey Garvis-Graves",
+        "title": "ON THE ISLAND",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1465853944",
+            "isbn13": "9781465853943"
+          }
+        ],
+        "publisher": "Tracey Garvis-Graves"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Amanda Quick",
+        "primary_isbn13": "9781101580424",
+        "description": "In the first book of a new Victorian series, Ladies of Lantern Street, a paranormal investigator is stalked by an assassin; by Jayne Ann Krentz, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 212,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399159084.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 140,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Crystal-Gardens-Ladies-Lantern-Street-ebook/dp/B0072NWK0Q?tag=thenewyorktim-20",
+        "contributor": "by Amanda Quick",
+        "title": "CRYSTAL GARDENS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159088",
+            "isbn13": "9780399159084"
+          },
+          {
+            "isbn10": "0515152994",
+            "isbn13": "9780515152999"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097578",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and David Ellis",
+        "primary_isbn13": "9780316097574",
+        "description": "Four friends in Monte Carlo for a luxurious girls\u2019 vacation find themselves in prison.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316097574.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Guilty-Wives-James-Patterson-ebook/dp/B004QX07EQ?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and David Ellis",
+        "title": "GUILTY WIVES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031609756X",
+            "isbn13": "9780316097567"
+          },
+          {
+            "isbn10": "0316189278",
+            "isbn13": "9780316189279"
+          },
+          {
+            "isbn10": "0316097578",
+            "isbn13": "9780316097574"
+          },
+          {
+            "isbn10": "1455506664",
+            "isbn13": "9781455506668"
+          },
+          {
+            "isbn10": "0446571881",
+            "isbn13": "9780446571883"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062119370",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lynsay Sands",
+        "primary_isbn13": "9780062119377",
+        "description": "Escaping a horrible marriage, Carolyn has no desire to think about men while on vacation in St. Lucia \u2014 until she meets Christian, an immortal.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062119377.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Under-Vampire-Moon-Argeneau-Novel-ebook/dp/B00A9V3GTM?tag=thenewyorktim-20",
+        "contributor": "by Lynsay Sands",
+        "title": "UNDER A VAMPIRE MOON",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062100203",
+            "isbn13": "9780062100207"
+          },
+          {
+            "isbn10": "0062119370",
+            "isbn13": "9780062119377"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jennifer Probst",
+        "primary_isbn13": "A00B00790TI0W",
+        "description": "A billionaire who needs a wife offers a one-year marriage in name only to a bookstore owner.",
+        "book_review_link": "",
+        "book_image_height": 203,
+        "book_image": "https://s1.nyt.com/du/books/images/9781620612798.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Marriage-Bargain-Billionaire/dp/1620612798?tag=thenewyorktim-20",
+        "contributor": "by Jennifer Probst",
+        "title": "THE MARRIAGE BARGAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1937044963",
+            "isbn13": "9781937044961"
+          },
+          {
+            "isbn10": "1622669037",
+            "isbn13": "9781622669035"
+          },
+          {
+            "isbn10": "1620612798",
+            "isbn13": "9781620612798"
+          },
+          {
+            "isbn10": "1620612844",
+            "isbn13": "9781620612842"
+          }
+        ],
+        "publisher": "Entangled Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553897845",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553897845",
+        "description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553897845.jpg",
+        "rank": 16,
+        "article_chapter_link": "//www.nytimes.com/2011/04/10/arts/television/game-of-thrones-on-hbo-from-george-r-r-martin-novels.html",
+        "rank_last_week": 0,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A GAME OF THRONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553573403",
+            "isbn13": "9780553573404"
+          },
+          {
+            "isbn10": "0553386794",
+            "isbn13": "9780553386790"
+          },
+          {
+            "isbn10": "0553381687",
+            "isbn13": "9780553381689"
+          },
+          {
+            "isbn10": "0553593714",
+            "isbn13": "9780553593716"
+          },
+          {
+            "isbn10": "0553897845",
+            "isbn13": "9780553897845"
+          },
+          {
+            "isbn10": "0553103547",
+            "isbn13": "9780553103540"
+          },
+          {
+            "isbn10": "044042321X",
+            "isbn13": "9780440423218"
+          },
+          {
+            "isbn10": "0553588486",
+            "isbn13": "9780553588484"
+          },
+          {
+            "isbn10": "0345535537",
+            "isbn13": "9780345535535"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307593673",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307593672",
+        "description": "In the last volume of the Millennium trilogy, Mikael Blomkvist and Lisbeth Salander are threatened by an adversary from deep within the government.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345534638",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kevin Hearne",
+        "primary_isbn13": "9780345534637",
+        "description": "Atticus O\u2019Sullivan, who hasn\u2019t stayed alive for 2,000 years without a fair bit of Celtic cunning, is duped by the Navajo trickster god into battling bloodthirsty desert shape-shifters; Book 4 of the Iron Druid Chronicles.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345533623.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 298,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Tricked-Iron-Druid-Chronicles-Book-ebook/dp/B005O1BGIA?tag=thenewyorktim-20",
+        "contributor": "by Kevin Hearne",
+        "title": "TRICKED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345533623",
+            "isbn13": "9780345533623"
+          },
+          {
+            "isbn10": "0345534638",
+            "isbn13": "9780345534637"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345527593",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "William Landay",
+        "primary_isbn13": "9780345527592",
+        "description": "An assistant district attorney\u2019s life is shaken when his shy 14-year-old son is accused of murder.\u00a0",
+        "book_review_link": "//www.nytimes.com/2012/02/13/books/defending-jacob-by-william-landay.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345527592.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Defending-Jacob-Novel-William-Landay/dp/0385344228?tag=thenewyorktim-20",
+        "contributor": "by William Landay",
+        "title": "DEFENDING JACOB",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344228",
+            "isbn13": "9780385344227"
+          },
+          {
+            "isbn10": "0345527593",
+            "isbn13": "9780345527592"
+          },
+          {
+            "isbn10": "1410446948",
+            "isbn13": "9781410446947"
+          },
+          {
+            "isbn10": "044024613X",
+            "isbn13": "9780440246138"
+          },
+          {
+            "isbn10": "0345533666",
+            "isbn13": "9780345533661"
+          }
+        ],
+        "publisher": "Delacorte Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455510181",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Seth Grahame-Smith",
+        "primary_isbn13": "9781455510184",
+        "description": "A journal reveals Lincoln\u2019s fight against the undead; by the author of \u201cPride and Prejudice and Zombies.\"",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446563086.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Abraham-Lincoln-Vampire-Seth-Grahame-Smith/dp/0446563072?tag=thenewyorktim-20",
+        "contributor": "by Seth Grahame-Smith",
+        "title": "ABRAHAM LINCOLN: VAMPIRE HUNTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446563080",
+            "isbn13": "9780446563086"
+          },
+          {
+            "isbn10": "0446563072",
+            "isbn13": "9780446563079"
+          },
+          {
+            "isbn10": "1455510173",
+            "isbn13": "9781455510177"
+          },
+          {
+            "isbn10": "1455510181",
+            "isbn13": "9781455510184"
+          },
+          {
+            "isbn10": "0446571857",
+            "isbn13": "9780446571852"
+          },
+          {
+            "isbn10": "1849014779",
+            "isbn13": "9781849014779"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2012-04-28",
+    "previous_published_date": "2012-05-06",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2012-05-20"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

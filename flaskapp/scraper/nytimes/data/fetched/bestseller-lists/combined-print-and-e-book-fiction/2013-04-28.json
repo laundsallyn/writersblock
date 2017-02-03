@@ -1,0 +1,795 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2013-04-28",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0989078310",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rachel Van Dyken",
+        "primary_isbn13": "9780989078313",
+        "description": "Jake, a Seattle millionaire, asks his formerly estranged childhood friend Kacey to pretend to be engaged to him. But she reckoned without Jake\u2019s brother, Travis.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780989078313.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 16,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": null,
+        "contributor": "by Rachel Van Dyken",
+        "title": "THE BET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0989078310",
+            "isbn13": "9780989078313"
+          }
+        ],
+        "publisher": "Rachel Van Dyken"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451668961",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781451668964",
+        "description": "Two sisters are threatened by a dark secret from their family\u2019s past.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451668964.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Daddys-Gone-Hunting-Higgins-Clark-ebook/dp/B009R659L8?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "DADDY'S GONE A HUNTING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451668945",
+            "isbn13": "9781451668940"
+          },
+          {
+            "isbn10": "1451668961",
+            "isbn13": "9781451668964"
+          },
+          {
+            "isbn10": "141045598X",
+            "isbn13": "9781410455987"
+          },
+          {
+            "isbn10": "1451668953",
+            "isbn13": "9781451668957"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9781101621202",
+        "description": "The New York lawyer Stone Barrington discovers a shadowy network beneath the world of European wealth.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101621202.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Unintended-Consequences-Stone-Barrington-Book/dp/0399159878?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "UNINTENDED CONSEQUENCES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159878",
+            "isbn13": "9780399159879"
+          },
+          {
+            "isbn10": "045141439X",
+            "isbn13": "9780451414397"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 1,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9781101611029",
+        "description": "Six years after the woman he loved married another man, Jake Fisher discovers that neither she nor their life together were what theyseemed, and he sets out to uncover the truth.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101611029.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Six-Years-Harlan-Coben/dp/045141411X?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "SIX YEARS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953485",
+            "isbn13": "9780525953487"
+          },
+          {
+            "isbn10": "1410456064",
+            "isbn13": "9781410456069"
+          },
+          {
+            "isbn10": "045141411X",
+            "isbn13": "9780451414113"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Scottoline",
+        "primary_isbn13": "9781250025999",
+        "description": "An Army doctor returns from Afghanistan when his wife dies in what at first appears to be an accident, and finds that his life is falling apart.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250025999.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dont-Go-Lisa-Scottoline-ebook/dp/B008BU6THE?tag=thenewyorktim-20",
+        "contributor": "by Lisa Scottoline",
+        "title": "DON'T GO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250010071",
+            "isbn13": "9781250010070"
+          },
+          {
+            "isbn10": "125001008X",
+            "isbn13": "9781250010087"
+          }
+        ],
+        "publisher": "St. Martin's Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0985547324",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "H M Ward",
+        "primary_isbn13": "9780985547325",
+        "description": "\u00a0young woman goes to bed with a sexy man, but complications ensue. The first in a series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780985547325.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 313,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Damaged-Ferro-Family-H-M-Ward-ebook/dp/B00C6OHRLS?tag=thenewyorktim-20",
+        "contributor": "by H. M. Ward",
+        "title": "DAMAGED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0985547324",
+            "isbn13": "9780985547325"
+          }
+        ],
+        "publisher": "Laree Bailey Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316230804",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kate Atkinson",
+        "primary_isbn13": "9780316230803",
+        "description": "A woman appears in different versions of the same events, centered on World War II.\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/03/26/books/life-after-life-a-novel-by-kate-atkinson.html",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316176484.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Life-After-A-Novel-ebook/dp/B008TUQ60G?tag=thenewyorktim-20",
+        "contributor": "by Kate Atkinson",
+        "title": "LIFE AFTER LIFE",
+        "sunday_review_link": "//www.nytimes.com/2013/04/28/books/review/life-after-life-by-kate-atkinson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316176486",
+            "isbn13": "9780316176484"
+          },
+          {
+            "isbn10": "0316230804",
+            "isbn13": "9780316230803"
+          },
+          {
+            "isbn10": "0316176494",
+            "isbn13": "9780316176491"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429997176",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert Jordan and Brandon Sanderson",
+        "primary_isbn13": "9781429997171",
+        "description": "The 14th and final novel in the Wheel of Time fantasy series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429997171.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/A-Memory-Light-Wheel-Time-ebook/dp/B00BMKDTNC?tag=thenewyorktim-20",
+        "contributor": "by Robert Jordan and Brandon Sanderson",
+        "title": "A MEMORY OF LIGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765325950",
+            "isbn13": "9780765325952"
+          },
+          {
+            "isbn10": "1429997176",
+            "isbn13": "9781429997171"
+          },
+          {
+            "isbn10": "0765364883",
+            "isbn13": "9780765364883"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty Associates"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jasinda Wilder",
+        "primary_isbn13": "A00B00BUPMC8C",
+        "description": "Years after her boyfriend\u2019s accidental death, Nell Hawthorne encounters his older brother, and they embark on a painful but ultimately healing relationship.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": null,
+        "contributor": "by Jasinda Wilder",
+        "title": "FALLING INTO YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Jasinda Wilder"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439149704",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9781439149706",
+        "description": "A New Hampshire baker finds herself in the midst of two Holocaust stories: her grandmother\u2019s story of survival, and the confessions of an elderly German man, an SS officer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439149706.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/The-Storyteller-Jodi-Picoult-ebook/dp/B008J48RA4?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "THE STORYTELLER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102767",
+            "isbn13": "9781439102763"
+          },
+          {
+            "isbn10": "1439149704",
+            "isbn13": "9781439149706"
+          },
+          {
+            "isbn10": "1611736870",
+            "isbn13": "9781611736878"
+          },
+          {
+            "isbn10": "1439102775",
+            "isbn13": "9781439102770"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 45,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Maya Banks",
+        "primary_isbn13": "9781101620380",
+        "description": "Jace, Ash and Gabe are powerful and used to getting anything they want. But Jace\u2019s friendship with Ash is jeopardized when he becomes obsessed with an alluring woman; Book 2 of the Breathless trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425267066.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Fever-Breathless-Maya-Banks/dp/0425267067?tag=thenewyorktim-20",
+        "contributor": "by Maya Banks",
+        "title": "FEVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425267067",
+            "isbn13": "9780425267066"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097527",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson",
+        "primary_isbn13": "9780316097529",
+        "description": "While Alex Cross pursues a Washington serial killer (or killers?), someone is after him.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316097529.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Alex-Cross-Run-James-Patterson-ebook/dp/B0076DCP16?tag=thenewyorktim-20",
+        "contributor": "by James Patterson",
+        "title": "ALEX CROSS, RUN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097519",
+            "isbn13": "9780316097512"
+          },
+          {
+            "isbn10": "0316097527",
+            "isbn13": "9780316097529"
+          },
+          {
+            "isbn10": "1455521507",
+            "isbn13": "9781455521500"
+          },
+          {
+            "isbn10": "0446571849",
+            "isbn13": "9780446571845"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ron Carr",
+        "primary_isbn13": "9781460309674",
+        "description": "Hank Cooper inherits a beachfront property in Thunder Point, Ore., and finds himself with a community\u2019s destiny in his hands.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780778314479.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 315,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Wanderer-Book-Thunder-Point-ebook/dp/B00ALTVIHO?tag=thenewyorktim-20",
+        "contributor": "by Robyn Carr",
+        "title": "THE WANDERER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778314472",
+            "isbn13": "9780778314479"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476712999",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jamie McGuire",
+        "primary_isbn13": "9781476712994",
+        "description": "Travis\u2019s life is full of fast women, underground gambling and violence. But just when he thinks he\u2019s invincible, Abby brings him to his knees; a sequel to \u201cBeautiful Disaster.\u201d",
+        "book_review_link": "",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476712987.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Walking-Disaster-Maddox-Brothers-Series-ebook/dp/B008J2AH7C?tag=thenewyorktim-20",
+        "contributor": "by Jamie McGuire",
+        "title": "WALKING DISASTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476712980",
+            "isbn13": "9781476712987"
+          },
+          {
+            "isbn10": "1476712999",
+            "isbn13": "9781476712994"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812984617",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elizabeth Strout",
+        "primary_isbn13": "9780812984613",
+        "description": "Two brothers, both lawyers, come together in a small Maine town to defend their good-for-nothing nephew; by the Pulitzer Prize-winning author of \u201cOlive Kitteridge.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/03/28/books/the-burgess-boys-a-novel-by-elizabeth-strout.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400067688.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Burgess-Boys-A-Novel-ebook/dp/B009MYAWIA?tag=thenewyorktim-20",
+        "contributor": "by Elizabeth Strout",
+        "title": "THE BURGESS BOYS",
+        "sunday_review_link": "//www.nytimes.com/2013/04/28/books/review/the-burgess-boys-by-elizabeth-strout.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400067685",
+            "isbn13": "9781400067688"
+          },
+          {
+            "isbn10": "0812984617",
+            "isbn13": "9780812984613"
+          },
+          {
+            "isbn10": "0812979516",
+            "isbn13": "9780812979510"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446573043",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446573047",
+        "description": "The military investigator John Puller probes his aunt\u2019s mysterious death in Florida.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455523153.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/The-Forgotten-David-Baldacci/dp/1455523151?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE FORGOTTEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446573051",
+            "isbn13": "9780446573054"
+          },
+          {
+            "isbn10": "1455522643",
+            "isbn13": "9781455522644"
+          },
+          {
+            "isbn10": "0446573043",
+            "isbn13": "9780446573047"
+          },
+          {
+            "isbn10": "1455523151",
+            "isbn13": "9781455523153"
+          },
+          {
+            "isbn10": "044657306X",
+            "isbn13": "9780446573061"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "142996023X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Matthew Quick",
+        "primary_isbn13": "9781429960236",
+        "description": "A man recently released from a mental institution has two obsessions: his estranged wife and the Philadelphia Eagles. The basis of the movie; originally published in 2009.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780374533571.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/The-Silver-Linings-Playbook-Novel-ebook/dp/B001ANSSDC?tag=thenewyorktim-20",
+        "contributor": "by Matthew Quick",
+        "title": "THE SILVER LININGS PLAYBOOK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374532281",
+            "isbn13": "9780374532284"
+          },
+          {
+            "isbn10": "0374533571",
+            "isbn13": "9780374533571"
+          },
+          {
+            "isbn10": "142996023X",
+            "isbn13": "9781429960236"
+          },
+          {
+            "isbn10": "0330504614",
+            "isbn13": "9780330504614"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316128651",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephenie Meyer",
+        "primary_isbn13": "9780316128650",
+        "description": "In this first adult novel by the author of the Twilight series for teenagers, aliens have taken control of the minds and bodies of most humans, but one woman won\u2019t surrender; originally published in 2008.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316218504.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/The-Host-Novel-Stephenie-Meyer/dp/0316218502?tag=thenewyorktim-20",
+        "contributor": "by Stephenie Meyer",
+        "title": "THE HOST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316068055",
+            "isbn13": "9780316068055"
+          },
+          {
+            "isbn10": "0316068047",
+            "isbn13": "9780316068048"
+          },
+          {
+            "isbn10": "0316043044",
+            "isbn13": "9780316043045"
+          },
+          {
+            "isbn10": "0316128651",
+            "isbn13": "9780316128650"
+          },
+          {
+            "isbn10": "0316218502",
+            "isbn13": "9780316218504"
+          },
+          {
+            "isbn10": "0316218510",
+            "isbn13": "9780316218511"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susanna Kearsley",
+        "primary_isbn13": "9781402258718",
+        "description": "Mysteries abound as archaeologists search for the resting place of the lost Ninth Roman Legion in the Scottish borderlands.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781402258718.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Shadowy-Horses-Susanna-Kearsley-ebook/dp/B008BWDBUA?tag=thenewyorktim-20",
+        "contributor": "by Susanna Kearsley",
+        "title": "THE SHADOWY HORSES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Sourcebooks"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2013-04-13",
+    "previous_published_date": "2013-04-21",
+    "normal_list_ends_at": 20,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2013-05-05"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

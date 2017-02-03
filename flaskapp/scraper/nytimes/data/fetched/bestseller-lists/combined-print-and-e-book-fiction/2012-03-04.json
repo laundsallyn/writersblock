@@ -1,0 +1,839 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2012-03-04",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0316206814",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Mark Sullivan",
+        "primary_isbn13": "9780316206815",
+        "description": "Peter Knight, a member of the Private investigative firm, pursues a murderer who is trying to destroy the London Olympics.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455512973.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Private-Games-James-Patterson/dp/1455513024?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Mark Sullivan",
+        "title": "PRIVATE GAMES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316206822",
+            "isbn13": "9780316206822"
+          },
+          {
+            "isbn10": "0316206814",
+            "isbn13": "9780316206815"
+          },
+          {
+            "isbn10": "1455512974",
+            "isbn13": "9781455512973"
+          },
+          {
+            "isbn10": "1455513024",
+            "isbn13": "9781455513024"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Vince Flynn",
+        "primary_isbn13": "9781439100523",
+        "description": "Mitch Rapp, a C.I.A. super-agent hunting down perpetrators of the Pan Am Lockerbie bombing, finds himself caught in a dangerous trap.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439100523.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Kill-Shot-American-Assassin-Thriller/dp/1416595228?tag=thenewyorktim-20",
+        "contributor": "by Vince Flynn",
+        "title": "KILL SHOT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416595201",
+            "isbn13": "9781416595205"
+          },
+          {
+            "isbn10": "1416595228",
+            "isbn13": "9781416595229"
+          }
+        ],
+        "publisher": "Atria Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679644687",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sophie Kinsella",
+        "primary_isbn13": "9780679644682",
+        "description": "A frazzled bride-to-be creates havoc when she appropriates a cellphone she found in the trash.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679644682.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Ive-Got-Your-Number-Novel-ebook/dp/B005723JSQ?tag=thenewyorktim-20",
+        "contributor": "by Sophie Kinsella",
+        "title": "I'VE GOT YOUR NUMBER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385342063",
+            "isbn13": "9780385342063"
+          },
+          {
+            "isbn10": "0679644687",
+            "isbn13": "9780679644682"
+          },
+          {
+            "isbn10": "0385342071",
+            "isbn13": "9780385342070"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345527593",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "William Landay",
+        "primary_isbn13": "9780345527592",
+        "description": "An assistant district attorney\u2019s life is shaken when his 14-year-old son is accused of murder.",
+        "book_review_link": "//www.nytimes.com/2012/02/13/books/defending-jacob-by-william-landay.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345527592.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Defending-Jacob-Novel-William-Landay/dp/0385344228?tag=thenewyorktim-20",
+        "contributor": "by William Landay",
+        "title": "DEFENDING JACOB",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344228",
+            "isbn13": "9780385344227"
+          },
+          {
+            "isbn10": "0345527593",
+            "isbn13": "9780345527592"
+          },
+          {
+            "isbn10": "1410446948",
+            "isbn13": "9781410446947"
+          },
+          {
+            "isbn10": "044024613X",
+            "isbn13": "9780440246138"
+          },
+          {
+            "isbn10": "0345533666",
+            "isbn13": "9780345533661"
+          }
+        ],
+        "publisher": "Delacorte Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1440697663",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9781440697661",
+        "description": "A young white woman and two black maids in 1960s Mississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 5,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 4,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 53,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030770047X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anne Rice",
+        "primary_isbn13": "9780307700476",
+        "description": "The making of a modern werewolf.",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307700476.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Wolf-Gift-Chronicles/dp/0307742105?tag=thenewyorktim-20",
+        "contributor": "by Anne Rice",
+        "title": "THE WOLF GIFT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307595110",
+            "isbn13": "9780307595119"
+          },
+          {
+            "isbn10": "030770047X",
+            "isbn13": "9780307700476"
+          },
+          {
+            "isbn10": "0307742105",
+            "isbn13": "9780307742100"
+          },
+          {
+            "isbn10": "0307990761",
+            "isbn13": "9780307990761"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Gardner",
+        "primary_isbn13": "9781101559963",
+        "description": "A woman asks the Boston detective D.D. Warren to prevent her being murdered in four days\u2019 time.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451413437.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 282,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Catch-Me-Detective-Warren-Novel/dp/0451413431?tag=thenewyorktim-20",
+        "contributor": "by Lisa Gardner",
+        "title": "CATCH ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525952764",
+            "isbn13": "9780525952763"
+          },
+          {
+            "isbn10": "0451413431",
+            "isbn13": "9780451413437"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Barbara Freethy",
+        "primary_isbn13": "A00B004T3RQQK",
+        "description": "An entrepreneur must deal with his dotty grandfather, the sudden death of his ex-wife and the appearance of a beautiful redhead.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": null,
+        "contributor": "by Barbara Freethy",
+        "title": "THE SWEETEST THING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Barbara Freethy"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097411",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316097413",
+        "description": "Jack Morgan, the head of an investigative firm, is accused of murder.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316097413.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Private-1-Suspect-James-Patterson-ebook/dp/B004QZ9P4M?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "PRIVATE: #1 SUSPECT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1607884623",
+            "isbn13": "9781607884620"
+          },
+          {
+            "isbn10": "0316097411",
+            "isbn13": "9780316097413"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307593673",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307593672",
+        "description": "Volume 3 of the Millennium trilogy, about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 26,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307272303",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307272300",
+        "description": "In Volume 2 of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+        "book_review_link": "//www.nytimes.com/2009/07/17/books/17book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476159.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 305,
+        "first_chapter_link": "//www.nytimes.com/2009/07/17/books/excerpt-girl-who-played-with-fire.html",
+        "age_group": "",
+        "weeks_on_list": 19,
+        "amazon_product_url": "http://www.amazon.com/Girl-Played-Fire-Millennium-Trilogy/dp/0307476154?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO PLAYED WITH FIRE",
+        "sunday_review_link": "//www.nytimes.com/2009/08/16/books/review/Crime-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030745455X",
+            "isbn13": "9780307454553"
+          },
+          {
+            "isbn10": "0307476154",
+            "isbn13": "9780307476159"
+          },
+          {
+            "isbn10": "0307272303",
+            "isbn13": "9780307272300"
+          },
+          {
+            "isbn10": "0739384163",
+            "isbn13": "9780739384169"
+          },
+          {
+            "isbn10": "0307269981",
+            "isbn13": "9780307269980"
+          },
+          {
+            "isbn10": "0307949508",
+            "isbn13": "9780307949509"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446542180",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9780446542180",
+        "description": "A Marine returning home sets out to track down the woman whose photo he found in Iraq.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446542180.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Lucky-One-Nicholas-Sparks-ebook/dp/B0018QQQK8?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "THE LUCKY ONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446618322",
+            "isbn13": "9780446618328"
+          },
+          {
+            "isbn10": "0446698342",
+            "isbn13": "9780446698344"
+          },
+          {
+            "isbn10": "0446542180",
+            "isbn13": "9780446542180"
+          },
+          {
+            "isbn10": "1455508969",
+            "isbn13": "9781455508969"
+          },
+          {
+            "isbn10": "1455508977",
+            "isbn13": "9781455508976"
+          },
+          {
+            "isbn10": "0446579939",
+            "isbn13": "9780446579933"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307272117",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307272119",
+        "description": "A hacker and a journalist investigate the 40-year-old disappearance of a Swedish heiress.",
+        "book_review_link": "//www.nytimes.com/2008/09/30/books/30kaku.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307949486.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 280,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 27,
+        "amazon_product_url": "http://www.amazon.com/Girl-Dragon-Tattoo-Stieg-Larsson/dp/0307269752?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WITH THE DRAGON TATTOO",
+        "sunday_review_link": "//www.nytimes.com/2008/09/14/books/review/Berenson-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307454541",
+            "isbn13": "9780307454546"
+          },
+          {
+            "isbn10": "0307473473",
+            "isbn13": "9780307473479"
+          },
+          {
+            "isbn10": "0307272117",
+            "isbn13": "9780307272119"
+          },
+          {
+            "isbn10": "0739384155",
+            "isbn13": "9780739384152"
+          },
+          {
+            "isbn10": "0307269752",
+            "isbn13": "9780307269751"
+          },
+          {
+            "isbn10": "0307949494",
+            "isbn13": "9780307949493"
+          },
+          {
+            "isbn10": "0307949486",
+            "isbn13": "9780307949486"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0547416210",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jonathan Safran Foer",
+        "primary_isbn13": "9780547416212",
+        "description": "A 9-year-old boy searches New York City for the lock that fits a key belonging to his father, who died on Sept. 11.",
+        "book_review_link": "//www.nytimes.com/2005/03/22/books/22kaku.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780618711659.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Extremely-Loud-Incredibly-Close-Novel-ebook/dp/B003K16PXC?tag=thenewyorktim-20",
+        "contributor": "by Jonathan Safran Foer",
+        "title": "EXTREMELY LOUD AND INCREDIBLY CLOSE",
+        "sunday_review_link": "//www.nytimes.com/2005/04/03/books/review/0403cover-kirn.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0618711651",
+            "isbn13": "9780618711659"
+          },
+          {
+            "isbn10": "0547735022",
+            "isbn13": "9780547735023"
+          },
+          {
+            "isbn10": "0547416210",
+            "isbn13": "9780547416212"
+          },
+          {
+            "isbn10": "0618329706",
+            "isbn13": "9780618329700"
+          }
+        ],
+        "publisher": "Houghton Mifflin Harcourt Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781451627305",
+        "description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment is to stop Lee Harvey Oswald.",
+        "book_review_link": "//www.nytimes.com/2011/10/31/books/stephen-kings-11-23-63-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451627299.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/11-22-63-A-Novel/dp/1451627297?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "11/22/63",
+        "sunday_review_link": "//www.nytimes.com/2011/11/13/books/review/11-22-63-by-stephen-king-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451627289",
+            "isbn13": "9781451627282"
+          },
+          {
+            "isbn10": "1451627297",
+            "isbn13": "9781451627299"
+          },
+          {
+            "isbn10": "030795143X",
+            "isbn13": "9780307951434"
+          },
+          {
+            "isbn10": "1594135592",
+            "isbn13": "9781594135590"
+          },
+          {
+            "isbn10": "1501120603",
+            "isbn13": "9781501120602"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429959304",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Wilson",
+        "primary_isbn13": "9781429959308",
+        "description": "A businessman who has lost his job, family and home adopts a former fighting pit bull from a shelter, to the benefit of both.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312571252.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/One-Good-Dog-Susan-Wilson/dp/0312662955?tag=thenewyorktim-20",
+        "contributor": "by Susan Wilson",
+        "title": "ONE GOOD DOG",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312571259",
+            "isbn13": "9780312571252"
+          },
+          {
+            "isbn10": "0312662955",
+            "isbn13": "9780312662950"
+          },
+          {
+            "isbn10": "1429959304",
+            "isbn13": "9781429959308"
+          }
+        ],
+        "publisher": "St. Martin's Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429942215",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kristin Hannah",
+        "primary_isbn13": "9781429942218",
+        "description": "Michael and Jolene Zarkades know the pressures of everyday life \u2014 children, careers, bills. But then Jolene is deployed to Iraq, leaving Michael unaccustomed to being a single parent to their two girls.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429942218.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Home-Front-Novel-Kristin-Hannah/dp/1250023270?tag=thenewyorktim-20",
+        "contributor": "by Kristin Hannah",
+        "title": "HOME FRONT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312577206",
+            "isbn13": "9780312577209"
+          },
+          {
+            "isbn10": "1429942215",
+            "isbn13": "9781429942218"
+          },
+          {
+            "isbn10": "1250023270",
+            "isbn13": "9781250023278"
+          }
+        ],
+        "publisher": "St. Martin\u2019s Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9781459273702",
+        "description": "Former high school sweethearts fall tentatively back into each other\u2019s orbits after more than a decade.",
+        "book_review_link": "",
+        "book_image_height": 202,
+        "book_image": "https://s1.nyt.com/du/books/images/9781459273702.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Unfinished-Business-Silhouette-Intimate-Moments-ebook/dp/B005IGVS6Q?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "UNFINISHED BUSINESS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1459295366",
+            "isbn13": "9781459295360"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385535250",
+        "description": "Partners in a small law firm take on a big case after a fast-track burnout joins them.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385535137.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Litigators-John-Grisham-ebook/dp/B004LROUNG?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE LITIGATORS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385535139",
+            "isbn13": "9780385535137"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Catherine Bybee",
+        "primary_isbn13": "2940013652019",
+        "description": "A wealthy, titled Englishman who must marry to receive his inheritance offers the American owner of a matchmaking firm $10 million to enter a sham marriage. But will it remain a sham?",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": null,
+        "contributor": "by Catherine Bybee",
+        "title": "WIFE BY WEDNESDAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Catherine Bybee"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2012-02-18",
+    "previous_published_date": "2012-02-26",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2012-03-11"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

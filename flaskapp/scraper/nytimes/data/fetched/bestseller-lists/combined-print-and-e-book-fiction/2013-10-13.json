@@ -1,0 +1,792 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2013-10-13",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "147672766X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781476727660",
+        "description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+        "book_review_link": "//www.nytimes.com/2013/09/16/books/doctor-sleep-is-stephen-kings-sequel-to-the-shining.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451698855.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Doctor-Sleep-Stephen-King/dp/1451698852?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "DOCTOR SLEEP",
+        "sunday_review_link": "//www.nytimes.com/2013/09/22/books/review/stephen-kings-shining-sequel-doctor-sleep.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476727651",
+            "isbn13": "9781476727653"
+          },
+          {
+            "isbn10": "147672766X",
+            "isbn13": "9781476727660"
+          },
+          {
+            "isbn10": "1410462447",
+            "isbn13": "9781410462442"
+          },
+          {
+            "isbn10": "1451698852",
+            "isbn13": "9781451698855"
+          },
+          {
+            "isbn10": "1476779414",
+            "isbn13": "9781476779416"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455520667",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9781455520664",
+        "description": "The lives of two couples converge unexpectedly.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455520640.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Longest-Ride-Nicholas-Sparks/dp/1455520640?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "THE LONGEST RIDE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455520659",
+            "isbn13": "9781455520657"
+          },
+          {
+            "isbn10": "1455576018",
+            "isbn13": "9781455576012"
+          },
+          {
+            "isbn10": "1455520667",
+            "isbn13": "9781455520664"
+          },
+          {
+            "isbn10": "1455520640",
+            "isbn13": "9781455520640"
+          },
+          {
+            "isbn10": "1455520632",
+            "isbn13": "9781455520633"
+          },
+          {
+            "isbn10": "1455584738",
+            "isbn13": "9781455584734"
+          },
+          {
+            "isbn10": "145558472X",
+            "isbn13": "9781455584727"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sandra Brown",
+        "primary_isbn13": "9781455501526",
+        "description": "A journalist becomes a murder suspect as he pursues a story.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455501526.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Deadline-Sandra-Brown/dp/1455549126?tag=thenewyorktim-20",
+        "contributor": "by Sandra Brown",
+        "title": "DEADLINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455501514",
+            "isbn13": "9781455501519"
+          },
+          {
+            "isbn10": "1455549126",
+            "isbn13": "9781455549122"
+          },
+          {
+            "isbn10": "1455501506",
+            "isbn13": "9781455501502"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9781101636237",
+        "description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read until after his death.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636237.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "THE HUSBAND'S SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385350406",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jhumpa Lahiri",
+        "primary_isbn13": "9780385350402",
+        "description": "After his radical brother is killed, an Indian scientist brings his widow to join him in America.",
+        "book_review_link": "//www.nytimes.com/2013/09/20/books/jhumpa-lahiris-new-novel-the-lowland.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307278265.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lowland-Vintage-Contemporaries-Jhumpa-Lahiri/dp/0307278263?tag=thenewyorktim-20",
+        "contributor": "by Jhumpa Lahiri",
+        "title": "THE LOWLAND",
+        "sunday_review_link": "//www.nytimes.com/2013/09/29/books/review/jhumpa-lahiris-lowland.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307265749",
+            "isbn13": "9780307265746"
+          },
+          {
+            "isbn10": "0385350406",
+            "isbn13": "9780385350402"
+          },
+          {
+            "isbn10": "0307278263",
+            "isbn13": "9780307278265"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christina Baker Kline",
+        "primary_isbn13": "9780062101204",
+        "description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062101204.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Orphan-Train-Christina-Baker-Kline-ebook/dp/B0089LOG02?tag=thenewyorktim-20",
+        "contributor": "by Christina Baker Kline",
+        "title": "ORPHAN TRAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061950726",
+            "isbn13": "9780061950728"
+          },
+          {
+            "isbn10": "1594137374",
+            "isbn13": "9781594137372"
+          },
+          {
+            "isbn10": "0606356649",
+            "isbn13": "9780606356640"
+          },
+          {
+            "isbn10": "006195070X",
+            "isbn13": "9780061950704"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0440339375",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780440339373",
+        "description": "Jack Reacher is thrown into jail on trumped-up charges and must clear his name.",
+        "book_review_link": "//www.nytimes.com/2013/08/30/books/never-go-back-a-jack-reacher-novel-by-lee-child.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440339373.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Never-Back-bonus-novella-High/dp/0440246326?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "NEVER GO BACK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344341",
+            "isbn13": "9780385344340"
+          },
+          {
+            "isbn10": "0440339375",
+            "isbn13": "9780440339373"
+          },
+          {
+            "isbn10": "0804121044",
+            "isbn13": "9780804121040"
+          },
+          {
+            "isbn10": "0440246326",
+            "isbn13": "9780440246329"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476756538",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Abbi Glines",
+        "primary_isbn13": "9781476756530",
+        "description": "A beautifully imperfect stranger opens the eyes of a businessman to a new kind of future.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476756530.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Simple-Perfection-Rosemary-Beach-Series-ebook/dp/B00DA98S02?tag=thenewyorktim-20",
+        "contributor": "by Abbi Glines",
+        "title": "SIMPLE PERFECTION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476756538",
+            "isbn13": "9781476756530"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lynsay Sands",
+        "primary_isbn13": "9780062078155",
+        "description": "Jake has barely had time to adjust to being a vampire before he\u2019s roped into playing bodyguard to a beautiful artist.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062078155.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/One-Lucky-Vampire-Argeneau-Novel-ebook/dp/B00BEFQB9Y?tag=thenewyorktim-20",
+        "contributor": "by Lynsay Sands",
+        "title": "ONE LUCKY VAMPIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062078143",
+            "isbn13": "9780062078148"
+          }
+        ],
+        "publisher": "Avon/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1101636459",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Grafton",
+        "primary_isbn13": "9781101636459",
+        "description": "A homeless man inexplicably leaves $600,000 to Kinsey Millhone.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399158988.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/W-Wasted-Kinsey-Millhone-Mystery/dp/0399158987?tag=thenewyorktim-20",
+        "contributor": "by Sue Grafton",
+        "title": "W IS FOR WASTED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158987",
+            "isbn13": "9780399158988"
+          },
+          {
+            "isbn10": "1101636459",
+            "isbn13": "9781101636459"
+          },
+          {
+            "isbn10": "141046217X",
+            "isbn13": "9781410462176"
+          },
+          {
+            "isbn10": "0425271579",
+            "isbn13": "9780425271575"
+          }
+        ],
+        "publisher": "Marian Wood/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385536887",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385536882",
+        "description": "An imprisoned ex-lawyer schemes to exchange information about who murdered a judge for his freedom.",
+        "book_review_link": "//www.nytimes.com/2012/10/18/books/the-racketeer-by-john-grisham.html",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385536882.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 19,
+        "amazon_product_url": "http://www.amazon.com/The-Racketeer-Novel-John-Grisham/dp/0345545338?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE RACKETEER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385535147",
+            "isbn13": "9780385535144"
+          },
+          {
+            "isbn10": "0385536887",
+            "isbn13": "9780385536882"
+          },
+          {
+            "isbn10": "0385536895",
+            "isbn13": "9780385536899"
+          },
+          {
+            "isbn10": "0345545338",
+            "isbn13": "9780345545336"
+          },
+          {
+            "isbn10": "0345530578",
+            "isbn13": "9780345530578"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Mallery",
+        "primary_isbn13": "9781460319567",
+        "description": "In Fool\u2019s Gold, Calif., a shop owner and an Army doctor can\u2019t stop kissing under the mistletoe.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781460319567.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 359,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Christmas-Street-Fools-Gold-Romance/dp/0373777825?tag=thenewyorktim-20",
+        "contributor": "by Susan Mallery",
+        "title": "CHRISTMAS ON 4TH STREET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373777825",
+            "isbn13": "9780373777822"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455576425",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nelson DeMille",
+        "primary_isbn13": "9781455576425",
+        "description": "An elderly priest, recently escaped from an Ethiopian jail, is joined by two journalists in a search for a holy relic.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455576425.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Quest-Novel-Nelson-DeMille/dp/1455576425?tag=thenewyorktim-20",
+        "contributor": "by Nelson DeMille",
+        "title": "THE QUEST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455576425",
+            "isbn13": "9781455576425"
+          },
+          {
+            "isbn10": "1455549657",
+            "isbn13": "9781455549658"
+          },
+          {
+            "isbn10": "1455503169",
+            "isbn13": "9781455503162"
+          },
+          {
+            "isbn10": "1455503150",
+            "isbn13": "9781455503155"
+          }
+        ],
+        "publisher": "Center Street"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9781101617250",
+        "description": "Lt. Eve Dallas searches for a young man who murdered his parents; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101617250.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Thankless-Death-J-D-Robb-ebook/dp/B00C5R7GIA?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "THANKLESS IN DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399164421",
+            "isbn13": "9780399164422"
+          },
+          {
+            "isbn10": "1410461459",
+            "isbn13": "9781410461452"
+          },
+          {
+            "isbn10": "051515413X",
+            "isbn13": "9780515154139"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jill Shalvis",
+        "primary_isbn13": "9781455521098",
+        "description": "After spoiling her big break on a reality cooking show, Leah returns home to Lucky Harbor, where she risks falling for her best friend, Jack.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455521098.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Always-Mind-Lucky-Harbor-Novel/dp/1455521108?tag=thenewyorktim-20",
+        "contributor": "by Jill Shalvis",
+        "title": "ALWAYS ON MY MIND",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455521108",
+            "isbn13": "9781455521104"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1460319559",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lori Foster",
+        "primary_isbn13": "9781460319550",
+        "description": "A charismatic bar owner's attraction to the one woman he can't have could draw him into a killer's snare.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780373777792.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Getting-Rowdy-Hqn-Lori-Foster/dp/0373777795?tag=thenewyorktim-20",
+        "contributor": "by Lori Foster",
+        "title": "GETTING ROWDY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373777795",
+            "isbn13": "9780373777792"
+          },
+          {
+            "isbn10": "1460319559",
+            "isbn13": "9781460319550"
+          }
+        ],
+        "publisher": "Harlequin HQN"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316206865",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert Galbraith",
+        "primary_isbn13": "9780316206860",
+        "description": "The struggling detective and former military man Cormoran Strike investigates a London supermodel\u2019s suicide; by J.K. Rowling, writing pseudonymously.",
+        "book_review_link": "//www.nytimes.com/2013/07/18/books/in-j-k-rowlings-cuckoos-calling-model-dies-but-why.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316206860.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Cuckoos-Calling-Robert-Galbraith-ebook/dp/B00AA20E5Y?tag=thenewyorktim-20",
+        "contributor": "by Robert Galbraith",
+        "title": "THE CUCKOO'S CALLING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316206849",
+            "isbn13": "9780316206846"
+          },
+          {
+            "isbn10": "0316206865",
+            "isbn13": "9780316206860"
+          },
+          {
+            "isbn10": "0316330167",
+            "isbn13": "9780316330169"
+          },
+          {
+            "isbn10": "0316206857",
+            "isbn13": "9780316206853"
+          }
+        ],
+        "publisher": "Mulholland/Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "HM Ward",
+        "primary_isbn13": "9781630350000",
+        "description": "It's time for Avery to stop pretending and move on with her life, and she knows that Sean Ferro will not be part of it; a Ferro Family novel.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781630350000.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Arrangement-10-Ferro-Family-ebook/dp/B00FDK1N5S?tag=thenewyorktim-20",
+        "contributor": "by H.M. Ward",
+        "title": "THE ARRANGEMENT 10",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Laree Bailey Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Catherine Coulter and JT Ellison",
+        "primary_isbn13": "9781101618493",
+        "description": "Nicholas Drummond, Scotland Yard\u2019s new chief inspector, teams up with the F.B.I. agents Dillon Savich and Lacey Sherlock to hunt for an international jewel thief.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399164736.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Final-Cut-Brit-FBI-ebook/dp/B00C5R7H70?tag=thenewyorktim-20",
+        "contributor": "by Catherine Coulter and J.T. Ellison",
+        "title": "THE FINAL CUT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399164731",
+            "isbn13": "9780399164736"
+          },
+          {
+            "isbn10": "0515154520",
+            "isbn13": "9780515154528"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "JD Robb and others",
+        "primary_isbn13": "9781101615362",
+        "description": "Five authors offer new, otherworldly twists on classic fairy tales, including Hansel and Gretel, Cinderella and Sleeping Beauty.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101615362.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Mirror-J-D-Robb-ebook/dp/B00BDQ39FS?tag=thenewyorktim-20",
+        "contributor": "by J.D. Robb and others",
+        "title": "MIRROR, MIRROR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0515154075",
+            "isbn13": "9780515154078"
+          }
+        ],
+        "publisher": "Jove"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2013-09-28",
+    "previous_published_date": "2013-10-06",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2013-10-20"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

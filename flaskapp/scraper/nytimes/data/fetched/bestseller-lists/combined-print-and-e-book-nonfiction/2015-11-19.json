@@ -1,0 +1,809 @@
+{
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "results": {
+    "previous_published_date": "2015-11-15",
+    "bestsellers_date": "2015-11-07",
+    "corrections": [],
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "book_image_width": 334,
+        "article_chapter_link": "",
+        "contributor": "by Leah Remini and Rebecca Paley",
+        "book_review_link": "",
+        "primary_isbn13": "9781101886977",
+        "description": "The actress describes her life in Scientology and the aftermath of her break with the church in 2013.",
+        "dagger": 0,
+        "primary_isbn10": "1101886978",
+        "isbns": [
+          {
+            "isbn13": "9781101886960",
+            "isbn10": "110188696X"
+          },
+          {
+            "isbn13": "9781101886977",
+            "isbn10": "1101886978"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Ballantine",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101886977.jpg",
+        "age_group": "",
+        "title": "TROUBLEMAKER",
+        "author": "Leah Remini and Rebecca Paley",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 1,
+        "rank": 1,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Troublemaker-Surviving-Scientology-Leah-Remini-ebook/dp/B015BCX0JY?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "book_review_link": "",
+        "primary_isbn13": "9781627792417",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+        "dagger": 0,
+        "primary_isbn10": "1627792414",
+        "isbns": [
+          {
+            "isbn13": "9781627792417",
+            "isbn10": "1627792414"
+          },
+          {
+            "isbn13": "9781627792424",
+            "isbn10": "1627792422"
+          },
+          {
+            "isbn13": "9781427262295",
+            "isbn10": "1427262292"
+          },
+          {
+            "isbn13": "9781410482594",
+            "isbn10": "1410482596"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Holt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781627792424.jpg",
+        "age_group": "",
+        "title": "KILLING REAGAN",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "asterisk": 0,
+        "rank_last_week": 1,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 7,
+        "rank": 2,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Killing-Reagan-Violent-Assault-Presidency-ebook/dp/B00UE3T6BW?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Brian Kilmeade and Don Yaeger",
+        "book_review_link": "",
+        "primary_isbn13": "9781591848066",
+        "description": "The war against the Barbary pirates in 1801.",
+        "dagger": 0,
+        "primary_isbn10": "1591848067",
+        "isbns": [
+          {
+            "isbn13": "9781591848066",
+            "isbn10": "1591848067"
+          },
+          {
+            "isbn13": "9780698197411",
+            "isbn10": "0698197410"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Sentinel",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780698197411.jpg",
+        "age_group": "",
+        "title": "THOMAS JEFFERSON AND THE TRIPOLI PIRATES",
+        "author": "Brian Kilmeade and Don Yaeger",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 1,
+        "rank": 3,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Thomas-Jefferson-Tripoli-Pirates-Forgotten-ebook/dp/B00SI0B5GW?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 327,
+        "article_chapter_link": "",
+        "contributor": "by Donald J. Trump",
+        "book_review_link": "",
+        "primary_isbn13": "9781501137969",
+        "description": "The real estate developer and candidate for the Republican presidential nomination shares his ideas for making America great again.",
+        "dagger": 0,
+        "primary_isbn10": "1501137964",
+        "isbns": [
+          {
+            "isbn13": "9781501137969",
+            "isbn10": "1501137964"
+          },
+          {
+            "isbn13": "9781501137983",
+            "isbn10": "1501137980"
+          },
+          {
+            "isbn13": "9781508212980",
+            "isbn10": "1508212988"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Threshold Editions",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781501137983.jpg",
+        "age_group": "",
+        "title": "CRIPPLED AMERICA",
+        "author": "Donald J Trump",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 1,
+        "rank": 4,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Crippled-America-Make-Great-Again-ebook/dp/B015ND2B0K?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Ben Carson with Candy Carson",
+        "book_review_link": "",
+        "primary_isbn13": "9781591848042",
+        "description": "A discussion of the Constitution by the candidate for the Republican presidential nomination.",
+        "dagger": 0,
+        "primary_isbn10": "1591848040",
+        "isbns": [
+          {
+            "isbn13": "9781591848042",
+            "isbn10": "1591848040"
+          },
+          {
+            "isbn13": "9781611764789",
+            "isbn10": "1611764785"
+          }
+        ],
+        "book_image_height": 499,
+        "publisher": "Sentinel",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781591848042.jpg",
+        "age_group": "",
+        "title": "A MORE PERFECT UNION",
+        "author": "Ben Carson with Candy Carson",
+        "asterisk": 0,
+        "rank_last_week": 5,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 5,
+        "rank": 5,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/More-Perfect-Union-Constitutional-Liberties-ebook/dp/B00SI0B4NG?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 321,
+        "article_chapter_link": "",
+        "contributor": "by Stacy Schiff",
+        "book_review_link": "",
+        "primary_isbn13": "9780316200608",
+        "description": "An account of the Salem witch trials of 1692.",
+        "dagger": 0,
+        "primary_isbn10": "0316200603",
+        "isbns": [
+          {
+            "isbn13": "9780316200608",
+            "isbn10": "0316200603"
+          },
+          {
+            "isbn13": "9780316200615",
+            "isbn10": "0316200611"
+          },
+          {
+            "isbn13": "9781611137156",
+            "isbn10": "1611137152"
+          },
+          {
+            "isbn13": "9780316387743",
+            "isbn10": "0316387746"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Little, Brown",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316200615.jpg",
+        "age_group": "",
+        "title": "THE WITCHES",
+        "author": "Stacy Schiff",
+        "asterisk": 0,
+        "rank_last_week": 2,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 6,
+        "sunday_review_link": "//www.nytimes.com/2015/11/01/books/review/the-witches-salem-1692-by-stacy-schiff.html",
+        "amazon_product_url": "http://www.amazon.com/The-Witches-Salem-Stacy-Schiff-ebook/dp/B00T3E77FK?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 333,
+        "article_chapter_link": "",
+        "contributor": "by Ted Koppel",
+        "book_review_link": "",
+        "primary_isbn13": "9780553419962",
+        "description": "The journalist describes how a cyberattack on the nation\u2019s power grids could paralyze our infrastructure, warns that government has not planned for the possibility, and visits \u201cpreppers\u201d who are taking their own precautions.",
+        "dagger": 0,
+        "primary_isbn10": "055341996X",
+        "isbns": [
+          {
+            "isbn13": "9780553419962",
+            "isbn10": "055341996X"
+          },
+          {
+            "isbn13": "9780553419979",
+            "isbn10": "0553419978"
+          },
+          {
+            "isbn13": "9781101888933",
+            "isbn10": "1101888938"
+          },
+          {
+            "isbn13": "9780804194846",
+            "isbn10": "080419484X"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Crown",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780553419979.jpg",
+        "age_group": "",
+        "title": "LIGHTS OUT",
+        "author": "Ted Koppel",
+        "asterisk": 0,
+        "rank_last_week": 8,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 7,
+        "sunday_review_link": "//www.nytimes.com/2015/11/22/books/review/lights-out-by-ted-koppel.html",
+        "amazon_product_url": "http://www.amazon.com/Lights-Out-Cyberattack-Unprepared-Surviving-ebook/dp/B00UQERM4C?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 333,
+        "article_chapter_link": "",
+        "contributor": "by Jocko Willink and Leif Babin",
+        "book_review_link": "",
+        "primary_isbn13": "9781250067050",
+        "description": "Applying the principles of Navy SEALs leadership training to any organization.",
+        "dagger": 1,
+        "primary_isbn10": "1250067057",
+        "isbns": [
+          {
+            "isbn13": "9781250067050",
+            "isbn10": "1250067057"
+          },
+          {
+            "isbn13": "9781466874961",
+            "isbn10": "1466874961"
+          },
+          {
+            "isbn13": "9781427264299",
+            "isbn10": "1427264295"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "St. Martin's",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781466874961.jpg",
+        "age_group": "",
+        "title": "EXTREME OWNERSHIP",
+        "author": "Jocko Willink and Leif Babin",
+        "asterisk": 0,
+        "rank_last_week": 3,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 3,
+        "rank": 8,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Drew Barrymore",
+        "book_review_link": "",
+        "primary_isbn13": "9781101983799",
+        "description": "The actress shares stories about her life.",
+        "dagger": 0,
+        "primary_isbn10": "1101983795",
+        "isbns": [
+          {
+            "isbn13": "9781101983799",
+            "isbn10": "1101983795"
+          },
+          {
+            "isbn13": "9780147520692",
+            "isbn10": "014752069X"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Dutton",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101983805.jpg",
+        "age_group": "",
+        "title": "WILDFLOWER",
+        "author": "Drew Barrymore",
+        "asterisk": 0,
+        "rank_last_week": 7,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 9,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Wildflower-Drew-Barrymore-ebook/dp/B00X59360O?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 326,
+        "article_chapter_link": "",
+        "contributor": "by Daniel James Brown",
+        "book_review_link": "",
+        "primary_isbn13": "9780143125471",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "dagger": 0,
+        "primary_isbn10": "0143125478",
+        "isbns": [
+          {
+            "isbn13": "9780670025817",
+            "isbn10": "067002581X"
+          },
+          {
+            "isbn13": "9780143125471",
+            "isbn10": "0143125478"
+          },
+          {
+            "isbn13": "9781594137792",
+            "isbn10": "159413779X"
+          },
+          {
+            "isbn13": "9781611761696",
+            "isbn10": "1611761697"
+          },
+          {
+            "isbn13": "9781410459541",
+            "isbn10": "1410459543"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Penguin",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101622742.jpg",
+        "age_group": "",
+        "title": "THE BOYS IN THE BOAT",
+        "author": "Daniel James Brown",
+        "asterisk": 0,
+        "rank_last_week": 12,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 77,
+        "rank": 10,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 333,
+        "article_chapter_link": "",
+        "contributor": "by Gloria Steinem",
+        "book_review_link": "",
+        "primary_isbn13": "9780679456209",
+        "description": "A memoir by the feminist writer and activist is also a history of the movement.",
+        "dagger": 0,
+        "primary_isbn10": "0679456201",
+        "isbns": [
+          {
+            "isbn13": "9780679456209",
+            "isbn10": "0679456201"
+          },
+          {
+            "isbn13": "9780812988352",
+            "isbn10": "0812988353"
+          },
+          {
+            "isbn13": "9780399567278",
+            "isbn10": "0399567275"
+          },
+          {
+            "isbn13": "9780147522405",
+            "isbn10": "0147522404"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Random House",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780679456209.jpg",
+        "age_group": "",
+        "title": "MY LIFE ON THE ROAD",
+        "author": "Gloria Steinem",
+        "asterisk": 0,
+        "rank_last_week": 13,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 11,
+        "sunday_review_link": "//www.nytimes.com/2015/11/15/books/review/gloria-steinems-my-life-on-the-road.html",
+        "amazon_product_url": "http://www.amazon.com/My-Life-Road-Gloria-Steinem/dp/0679456201?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 329,
+        "article_chapter_link": "",
+        "contributor": "by Ta-Nehisi Coates",
+        "book_review_link": "//www.nytimes.com/2015/08/17/books/review/ta-nehisi-coatess-between-the-world-and-me.html",
+        "primary_isbn13": "9780812993547",
+        "description": "A meditation on race in America as well as a personal story by the Atlantic's national correspondent.",
+        "dagger": 0,
+        "primary_isbn10": "0812993543",
+        "isbns": [
+          {
+            "isbn13": "9780812993547",
+            "isbn10": "0812993543"
+          },
+          {
+            "isbn13": "9780451482211",
+            "isbn10": "0451482212"
+          },
+          {
+            "isbn13": "9781410485847",
+            "isbn10": "1410485846"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Spiegel & Grau",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780679645986.jpg",
+        "age_group": "",
+        "title": "BETWEEN THE WORLD AND ME",
+        "author": "Ta-Nehisi Coates",
+        "asterisk": 0,
+        "rank_last_week": 10,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 17,
+        "rank": 12,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates-ebook/dp/B00SEFAIRI?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 452,
+        "article_chapter_link": "",
+        "contributor": "by Michael Savage",
+        "book_review_link": "",
+        "primary_isbn13": "9781455536115",
+        "description": "The radio host warns Americans against Islamists and the Obama administration, which, he says, aims to impose absolute rule and destroy our civilization.",
+        "dagger": 1,
+        "primary_isbn10": "1455536113",
+        "isbns": [
+          {
+            "isbn13": "9781455536115",
+            "isbn10": "1455536113"
+          },
+          {
+            "isbn13": "9781455536108",
+            "isbn10": "1455536105"
+          },
+          {
+            "isbn13": "9781478907084",
+            "isbn10": "1478907088"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Center Street",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781478907084.jpg",
+        "age_group": "",
+        "title": "GOVERNMENT ZERO",
+        "author": "Michael Savage",
+        "asterisk": 0,
+        "rank_last_week": 4,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 13,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Government-Zero-Borders-Language-Culture/dp/1478907088?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 329,
+        "article_chapter_link": "",
+        "contributor": "by Tyler Oakley",
+        "book_review_link": "",
+        "primary_isbn13": "9781501117695",
+        "description": "Personal essays from the L.G.B.T.Q. YouTube personality.",
+        "dagger": 0,
+        "primary_isbn10": "1501117696",
+        "isbns": [
+          {
+            "isbn13": "9781501117695",
+            "isbn10": "1501117696"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Gallery Books",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781501117718.jpg",
+        "age_group": "",
+        "title": "BINGE",
+        "author": "Tyler Oakley",
+        "asterisk": 0,
+        "rank_last_week": 6,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 3,
+        "rank": 14,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Binge-Tyler-Oakley-ebook/dp/B00VBW3SX2?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Mindy Kaling",
+        "book_review_link": "",
+        "primary_isbn13": "9780804138147",
+        "description": "More personal essays from the comedian and actress.",
+        "dagger": 0,
+        "primary_isbn10": "0804138141",
+        "isbns": [
+          {
+            "isbn13": "9780804138147",
+            "isbn10": "0804138141"
+          },
+          {
+            "isbn13": "9780553551747",
+            "isbn10": "0553551744"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Crown Archetype",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780804138154.jpg",
+        "age_group": "",
+        "title": "WHY NOT ME?",
+        "author": "Mindy Kaling",
+        "asterisk": 0,
+        "rank_last_week": 15,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 8,
+        "rank": 15,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Why-Not-Me-Mindy-Kaling-ebook/dp/B00N6PEMZK?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Peggy Noonan",
+        "book_review_link": "",
+        "primary_isbn13": "9781455563111",
+        "description": "",
+        "dagger": 0,
+        "primary_isbn10": "1455563110",
+        "isbns": [
+          {
+            "isbn13": "9781455563111",
+            "isbn10": "1455563110"
+          },
+          {
+            "isbn13": "9781455563128",
+            "isbn10": "1455563129"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Twelve",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781455563128.jpg",
+        "age_group": "",
+        "title": "THE TIME OF OUR LIVES",
+        "author": "Peggy Noonan",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 16,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/The-Time-Our-Lives-Collected-ebook/dp/B00U6DNZEY?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Atul Gawande",
+        "book_review_link": "//www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+        "primary_isbn13": "9780805095159",
+        "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+        "dagger": 0,
+        "primary_isbn10": "0805095152",
+        "isbns": [
+          {
+            "isbn13": "9780805095159",
+            "isbn10": "0805095152"
+          },
+          {
+            "isbn13": "9781427244239",
+            "isbn10": "1427244235"
+          },
+          {
+            "isbn13": "9781410478122",
+            "isbn10": "1410478122"
+          },
+          {
+            "isbn13": "9781514732991",
+            "isbn10": "1514732998"
+          },
+          {
+            "isbn13": "9781250081247",
+            "isbn10": "1250081246"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Metropolitan/Holt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780805095159.jpg",
+        "age_group": "",
+        "title": "BEING MORTAL",
+        "author": "Atul Gawande",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 17,
+        "sunday_review_link": "//www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+        "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 321,
+        "article_chapter_link": "",
+        "contributor": "by Malala Yousafzai with Christina Lamb",
+        "book_review_link": "",
+        "primary_isbn13": "9780316322423",
+        "description": "The Pakistani Nobel Peace Prize winner and teenage activist recounts her work for women's education. Originally published in 2013.",
+        "dagger": 0,
+        "primary_isbn10": "0316322423",
+        "isbns": [
+          {
+            "isbn13": "9780316322409",
+            "isbn10": "0316322407"
+          },
+          {
+            "isbn13": "9781478979784",
+            "isbn10": "147897978X"
+          },
+          {
+            "isbn13": "9780316286633",
+            "isbn10": "031628663X"
+          },
+          {
+            "isbn13": "9780316322423",
+            "isbn10": "0316322423"
+          },
+          {
+            "isbn13": "9781478902331",
+            "isbn10": "1478902337"
+          },
+          {
+            "isbn13": "9780297870937",
+            "isbn10": "0297870939"
+          },
+          {
+            "isbn13": "9781478983705",
+            "isbn10": "1478983701"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Little, Brown",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316322409.jpg",
+        "age_group": "",
+        "title": "I AM MALALA",
+        "author": "Malala Yousafzai with Christina Lamb",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 18,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Am-Malala-Stood-Education-Taliban/dp/0316322407?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Jenny Lawson",
+        "book_review_link": "",
+        "primary_isbn13": "9781250077004",
+        "description": "A humorous treatment of the author's life with depression and anxiety disorder.",
+        "dagger": 0,
+        "primary_isbn10": "1250077001",
+        "isbns": [
+          {
+            "isbn13": "9781250077004",
+            "isbn10": "1250077001"
+          },
+          {
+            "isbn13": "9781250077011",
+            "isbn10": "125007701X"
+          },
+          {
+            "isbn13": "9781427264787",
+            "isbn10": "1427264783"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Flatiron",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781250077004.jpg",
+        "age_group": "",
+        "title": "FURIOUSLY HAPPY",
+        "author": "Jenny Lawson",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 19,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Furiously-Happy-Funny-Horrible-Things/dp/1250077001?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 391,
+        "article_chapter_link": "",
+        "contributor": "by Brandon Stanton",
+        "book_review_link": "",
+        "primary_isbn13": "9781250058904",
+        "description": "More photographs, this time accompanied by interviews, from the creator of the blog and the book \u201cHumans of New York.\u201d",
+        "dagger": 0,
+        "primary_isbn10": "1250058902",
+        "isbns": [
+          {
+            "isbn13": "9781250058904",
+            "isbn10": "1250058902"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "St. Martin's",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781250058904.jpg",
+        "age_group": "",
+        "title": "HUMANS OF NEW YORK: STORIES",
+        "author": "Brandon Stanton",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 20,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Humans-New-York-Brandon-Stanton/dp/1250058902?tag=thenewyorktim-20"
+      }
+    ],
+    "normal_list_ends_at": 15,
+    "published_date_description": "",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2015-11-22",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2015-11-29"
+  },
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "num_results": 20,
+  "status": "OK"
+}

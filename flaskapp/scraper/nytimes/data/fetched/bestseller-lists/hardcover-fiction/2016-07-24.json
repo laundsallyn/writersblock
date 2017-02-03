@@ -1,0 +1,773 @@
+{
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "num_results": 20,
+  "last_modified": "2016-07-15T09:38:02-04:00",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "previous_published_date": "2016-07-17",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "books": [
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780345531100",
+        "dagger": 0,
+        "rank": 1,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Magic-Novel-Danielle-Steel-ebook/dp/B017G7JXRK?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A year in the intertwined lives of three international couples who participate in a special dinner in Paris.",
+        "weeks_on_list": 1,
+        "contributor": "by Danielle Steel",
+        "title": "MAGIC",
+        "book_image_width": 328,
+        "publisher": "Delacorte",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780345531100",
+            "isbn10": "0345531108"
+          },
+          {
+            "isbn13": "9781101885574",
+            "isbn10": "1101885572"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101885574.jpg",
+        "author": "Danielle Steel",
+        "first_chapter_link": "",
+        "primary_isbn10": "0345531108",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780345546920",
+        "dagger": 0,
+        "rank": 2,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/First-Comes-Love-Emily-Giffin-ebook/dp/B014NZ4SXW?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Two sisters \u2014 one a successful lawyer with a small child and an unhappy marriage, the other a single teacher who yearns to be a mother \u2014 struggle toward forgiveness after 15 years of estrangement.",
+        "weeks_on_list": 2,
+        "contributor": "by Emily Giffin",
+        "title": "FIRST COMES LOVE",
+        "book_image_width": 329,
+        "publisher": "Ballantine",
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780345546920",
+            "isbn10": "034554692X"
+          },
+          {
+            "isbn13": "9780345546937",
+            "isbn10": "0345546938"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780345546937.jpg",
+        "author": "Emily Giffin",
+        "first_chapter_link": "",
+        "primary_isbn10": "034554692X",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780812998603",
+        "dagger": 0,
+        "rank": 3,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Girls-Novel-Emma-Cline-ebook/dp/B015LYZH20?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "In the summer of 1969, a California teenager is drawn to a Manson-like cult.",
+        "weeks_on_list": 4,
+        "contributor": "by Emma Cline",
+        "title": "THE GIRLS",
+        "book_image_width": 333,
+        "publisher": "Random House",
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780812998603",
+            "isbn10": "081299860X"
+          },
+          {
+            "isbn13": "9780812998610",
+            "isbn10": "0812998618"
+          },
+          {
+            "isbn13": "9780735208186",
+            "isbn10": "0735208182"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780812998610.jpg",
+        "author": "Emma Cline",
+        "first_chapter_link": "",
+        "primary_isbn10": "081299860X",
+        "book_review_link": "//www.nytimes.com/2016/06/05/books/review/the-girls-by-emma-cline.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780316407113",
+        "dagger": 0,
+        "rank": 4,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Games-Private-James-Patterson/dp/0316407119?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Hired by Olympic organizers to protect the Rio games, Jack Morgan of Private, an international security and consulting firm, encounters dangerous threats.",
+        "weeks_on_list": 2,
+        "contributor": "by James Patterson and Mark Sullivan",
+        "title": "THE GAMES",
+        "book_image_width": 322,
+        "publisher": "Little, Brown",
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780316407113",
+            "isbn10": "0316407119"
+          },
+          {
+            "isbn13": "9780316290197",
+            "isbn10": "031629019X"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316407113.jpg",
+        "author": "James Patterson and Mark Sullivan",
+        "first_chapter_link": "",
+        "primary_isbn10": "0316407119",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781501129742",
+        "dagger": 0,
+        "rank": 5,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/End-Watch-Novel-Hodges-Trilogy-ebook/dp/B0167CNCFY?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "The conclusion of the Bill Hodges trilogy.",
+        "weeks_on_list": 5,
+        "contributor": "by Stephen King",
+        "title": "END OF WATCH",
+        "book_image_width": 329,
+        "publisher": "Scribner",
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781501129742",
+            "isbn10": "1501129740"
+          },
+          {
+            "isbn13": "9781501134159",
+            "isbn10": "1501134159"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781501134159.jpg",
+        "author": "Stephen King",
+        "first_chapter_link": "",
+        "primary_isbn10": "1501129740",
+        "book_review_link": "//www.nytimes.com/2016/06/12/books/review/stephen-kings-end-of-watch.html"
+      },
+      {
+        "asterisk": 1,
+        "primary_isbn13": "9781594633669",
+        "dagger": 0,
+        "rank": 6,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "book_image_height": 193,
+        "description": "A psychological thriller set in the environs of London.",
+        "weeks_on_list": 78,
+        "contributor": "by Paula Hawkins",
+        "title": "THE GIRL ON THE TRAIN",
+        "book_image_width": 128,
+        "publisher": "Riverhead",
+        "rank_last_week": 5,
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "isbns": [
+          {
+            "isbn13": "9781594633669",
+            "isbn10": "1594633665"
+          },
+          {
+            "isbn13": "9780698185395",
+            "isbn10": "0698185390"
+          },
+          {
+            "isbn13": "9781410477767",
+            "isbn10": "1410477762"
+          },
+          {
+            "isbn13": "9780857522320",
+            "isbn10": "0857522329"
+          },
+          {
+            "isbn13": "9781448171682",
+            "isbn10": "1448171687"
+          },
+          {
+            "isbn13": "9781594634123",
+            "isbn10": "1594634122"
+          },
+          {
+            "isbn13": "9780385682312",
+            "isbn10": "038568231X"
+          },
+          {
+            "isbn13": "9781594634024",
+            "isbn10": "1594634025"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "author": "Paula Hawkins",
+        "first_chapter_link": "",
+        "primary_isbn10": "1594633665",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780525426592",
+        "dagger": 0,
+        "rank": 7,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/After-You-Novel-Jojo-Moyes/dp/0525426590?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "In a sequel to \u201cMe Before You,\u201d Louisa Clark tries to put her life back together after the death of Will Traynor.",
+        "weeks_on_list": 20,
+        "contributor": "by Jojo Moyes",
+        "title": "AFTER YOU",
+        "book_image_width": 331,
+        "publisher": "Pamela Dorman/Viking",
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "",
+            "isbn10": ""
+          },
+          {
+            "isbn13": "9780525426592",
+            "isbn10": "0525426590"
+          },
+          {
+            "isbn13": "9780698152045",
+            "isbn10": "0698152042"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780698152045.jpg",
+        "author": "Jojo Moyes",
+        "first_chapter_link": "",
+        "primary_isbn10": "0525426590",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780316375146",
+        "dagger": 0,
+        "rank": 8,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Heres-Us-Elin-Hilderbrand-ebook/dp/B0169ATKUK?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Sparks fly as a celebrity chef\u2019s ex-wives pile into a small cabin in Nantucket to join his widow for the reading of his will.",
+        "weeks_on_list": 4,
+        "contributor": "by Elin Hilderbrand",
+        "title": "HERE'S TO US",
+        "book_image_width": 333,
+        "publisher": "Little, Brown",
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780316375146",
+            "isbn10": "0316375144"
+          },
+          {
+            "isbn13": "9780316269940",
+            "isbn10": "0316269948"
+          },
+          {
+            "isbn13": "9780316375153",
+            "isbn10": "0316375152"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316375153.jpg",
+        "author": "Elin Hilderbrand",
+        "first_chapter_link": "",
+        "primary_isbn10": "0316375144",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781455561780",
+        "dagger": 0,
+        "rank": 9,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Before-Fall-Noah-Hawley-ebook/dp/B0151YQUTE?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "After a private jet crashes, a firestorm of media madness ensues.",
+        "weeks_on_list": 6,
+        "contributor": "by Noah Hawley",
+        "title": "BEFORE THE FALL",
+        "book_image_width": 332,
+        "publisher": "Grand Central",
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781455561780",
+            "isbn10": "1455561789"
+          },
+          {
+            "isbn13": "9781455566143",
+            "isbn10": "1455566144"
+          },
+          {
+            "isbn13": "9781455561803",
+            "isbn10": "1455561800"
+          },
+          {
+            "isbn13": "9781455568550",
+            "isbn10": "1455568554"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781455561803.jpg",
+        "author": "Noah Hawley",
+        "first_chapter_link": "",
+        "primary_isbn10": "1455561789",
+        "book_review_link": "//www.nytimes.com/2016/06/05/books/review/noah-hawleys-before-the-fall.html"
+      },
+      {
+        "asterisk": 1,
+        "primary_isbn13": "9781476746586",
+        "dagger": 0,
+        "rank": 10,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "book_image_height": 192,
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II. \u00a0",
+        "weeks_on_list": 114,
+        "contributor": "by Anthony Doerr",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "book_image_width": 128,
+        "publisher": "Scribner",
+        "rank_last_week": 10,
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "isbns": [
+          {
+            "isbn13": "9781476746586",
+            "isbn10": "1476746583"
+          },
+          {
+            "isbn13": "9781410470225",
+            "isbn10": "1410470229"
+          },
+          {
+            "isbn13": "9781476746593",
+            "isbn10": "1476746591"
+          },
+          {
+            "isbn13": "9781501122835",
+            "isbn10": "1501122835"
+          },
+          {
+            "isbn13": "9780007548699",
+            "isbn10": "0007548699"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "author": "Anthony Doerr",
+        "first_chapter_link": "",
+        "primary_isbn10": "1476746583",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781476789354",
+        "dagger": 0,
+        "rank": 11,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Foreign-Agent-Thriller-Scot-Harvath-ebook/dp/B0176M3X5S?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "The counterterrorism operative Scot Harvath searches for an informant who compromised an American mission in Syria.",
+        "weeks_on_list": 4,
+        "contributor": "by Brad Thor",
+        "title": "FOREIGN AGENT",
+        "book_image_width": 329,
+        "publisher": "Emily Bestler/Atria",
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781476789354",
+            "isbn10": "1476789355"
+          },
+          {
+            "isbn13": "9781476789378",
+            "isbn10": "1476789371"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781476789378.jpg",
+        "author": "Brad Thor",
+        "first_chapter_link": "",
+        "primary_isbn10": "1476789355",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780312577223",
+        "dagger": 0,
+        "rank": 12,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "book_image_height": 195,
+        "description": "Two sisters in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+        "weeks_on_list": 69,
+        "contributor": "by Kristin Hannah",
+        "title": "THE NIGHTINGALE",
+        "book_image_width": 128,
+        "publisher": "St. Martin's",
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780312577223",
+            "isbn10": "0312577222"
+          },
+          {
+            "isbn13": "9781466850606",
+            "isbn10": "1466850604"
+          },
+          {
+            "isbn13": "9781628995015",
+            "isbn10": "1628995017"
+          },
+          {
+            "isbn13": "9781250080400",
+            "isbn10": "1250080401"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "author": "Kristin Hannah",
+        "first_chapter_link": "",
+        "primary_isbn10": "0312577222",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781455541164",
+        "dagger": 0,
+        "rank": 13,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Julian-Fellowess-Belgravia-Fellowes/dp/1455541168?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Two families, one aristocratic and one wealthy, in Victorian London, from the creator of \u201cDownton Abbey.\u201d",
+        "weeks_on_list": 1,
+        "contributor": "by Julian Fellowes",
+        "title": "BELGRAVIA",
+        "book_image_width": 333,
+        "publisher": "Grand Central",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781455541164",
+            "isbn10": "1455541168"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781455541164.jpg",
+        "author": "Julian Fellowes",
+        "first_chapter_link": "",
+        "primary_isbn10": "1455541168",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780062414212",
+        "dagger": 0,
+        "rank": 14,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Nest-Cynthia-DAprix-Sweeney-ebook/dp/B010LU8V8Q?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+        "weeks_on_list": 14,
+        "contributor": "by Cynthia D'Aprix Sweeney",
+        "title": "THE NEST",
+        "book_image_width": 331,
+        "publisher": "Ecco/HarperCollins",
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780062414212",
+            "isbn10": "0062414216"
+          },
+          {
+            "isbn13": "9780062414236",
+            "isbn10": "0062414232"
+          },
+          {
+            "isbn13": "9780062441652",
+            "isbn10": "0062441655"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062414236.jpg",
+        "author": "Cynthia D'Aprix Sweeney",
+        "first_chapter_link": "",
+        "primary_isbn10": "0062414216",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781101875940",
+        "dagger": 0,
+        "rank": 15,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Sweetbitter-novel-Stephanie-Danler-ebook/dp/B014NZJOF4?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A woman moves to New York and experiences a sensual awakening while working at a famous restaurant.",
+        "weeks_on_list": 5,
+        "contributor": "by Stephanie Danler",
+        "title": "SWEETBITTER",
+        "book_image_width": 333,
+        "publisher": "Knopf",
+        "rank_last_week": 15,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781101875940",
+            "isbn10": "1101875941"
+          },
+          {
+            "isbn13": "9781101875957",
+            "isbn10": "110187595X"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101875957.jpg",
+        "author": "Stephanie Danler",
+        "first_chapter_link": "",
+        "primary_isbn10": "1101875941",
+        "book_review_link": "//www.nytimes.com/2016/05/29/books/review/sweetbitter-by-stephanie-danler.html"
+      },
+      {
+        "asterisk": 1,
+        "primary_isbn13": "9780399176807",
+        "dagger": 0,
+        "rank": 16,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Clancy-Duty-Honor-Jack-Novel/dp/0399176802?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A secretive German organization is trying to kill Tom Clancy\u2019s character Jack Ryan Jr. (Clancy died in 2013.)",
+        "weeks_on_list": 4,
+        "contributor": "by Grant Blackwood",
+        "title": "TOM CLANCY: DUTY AND HONOR",
+        "book_image_width": 328,
+        "publisher": "Putnam",
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780399176807",
+            "isbn10": "0399176802"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780399176807.jpg",
+        "author": "Grant Blackwood",
+        "first_chapter_link": "",
+        "primary_isbn10": "0399176802",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781101947135",
+        "dagger": 0,
+        "rank": 17,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Homegoing-novel-Yaa-Gyasi/dp/1101947136?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "This Ghanaian-American writer\u2019s first novel traces the lives in West Africa and America of seven generations of the descendants of two half sisters.",
+        "weeks_on_list": 0,
+        "contributor": "by Yaa Gyasi",
+        "title": "HOMEGOING",
+        "book_image_width": 331,
+        "publisher": "Knopf",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781101947135",
+            "isbn10": "1101947136"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101947135.jpg",
+        "author": "Yaa Gyasi",
+        "first_chapter_link": "",
+        "primary_isbn10": "1101947136",
+        "book_review_link": "//www.nytimes.com/2016/06/12/books/review/isabel-wilkerson-reviews-yaa-gyasis-homegoing.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781101902578",
+        "dagger": 0,
+        "rank": 18,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Almost-Forgot-About-You-Novel/dp/1101902574?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A middle-aged optometrist, twice divorced and tired of her work, decides to reinvent her life.",
+        "weeks_on_list": 0,
+        "contributor": "by Terry McMillan",
+        "title": "I ALMOST FORGOT ABOUT YOU",
+        "book_image_width": 331,
+        "publisher": "Crown",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781101902578",
+            "isbn10": "1101902574"
+          },
+          {
+            "isbn13": "9781101902585",
+            "isbn10": "1101902582"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101902578.jpg",
+        "author": "Terry McMillan",
+        "first_chapter_link": "",
+        "primary_isbn10": "1101902574",
+        "book_review_link": "//www.nytimes.com/2016/07/03/books/review/terry-mcmillan-i-almost-forgot-about-you.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780743288781",
+        "dagger": 0,
+        "rank": 19,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Barkskins-Novel-Annie-Proulx/dp/0743288785?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "The Pulitzer Prize-winning novelist traces the destruction of the world\u2019s forests over 300 years as it follows the descendants of two families.",
+        "weeks_on_list": 0,
+        "contributor": "by Annie Proulx",
+        "title": "BARKSKINS",
+        "book_image_width": 329,
+        "publisher": "Scribner",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780743288781",
+            "isbn10": "0743288785"
+          },
+          {
+            "isbn13": "9781476771823",
+            "isbn10": "1476771820"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780743288781.jpg",
+        "author": "Annie Proulx",
+        "first_chapter_link": "",
+        "primary_isbn10": "0743288785",
+        "book_review_link": "//www.nytimes.com/2016/06/19/books/review/barkskins-by-annie-proulx.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780316261241",
+        "dagger": 0,
+        "rank": 20,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Underground-Airlines-Ben-Winters/dp/0316261246?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "",
+        "weeks_on_list": 0,
+        "contributor": "by Ben H. Winters",
+        "title": "UNDERGROUND AIRLINES",
+        "book_image_width": 322,
+        "publisher": "Mulholland",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780316261241",
+            "isbn10": "0316261246"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316261241.jpg",
+        "author": "Ben H Winters",
+        "first_chapter_link": "",
+        "primary_isbn10": "0316261246",
+        "book_review_link": ""
+      }
+    ],
+    "published_date_description": "latest",
+    "next_published_date": "",
+    "list_name_encoded": "hardcover-fiction",
+    "published_date": "2016-07-24",
+    "bestsellers_date": "2016-07-09",
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction"
+  }
+}

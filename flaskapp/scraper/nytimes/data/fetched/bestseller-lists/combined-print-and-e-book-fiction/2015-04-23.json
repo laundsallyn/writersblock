@@ -1,0 +1,759 @@
+{
+  "results": {
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "bestsellers_date": "2015-04-11",
+    "display_name": "Combined Print & E-Book Fiction",
+    "next_published_date": "2015-05-03",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "books": [
+      {
+        "description": "A psychological thriller set in London is full of complications and betrayals.",
+        "publisher": "Riverhead",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1594633665",
+            "isbn13": "9781594633669"
+          },
+          {
+            "isbn10": "0698185390",
+            "isbn13": "9780698185395"
+          },
+          {
+            "isbn10": "1410477762",
+            "isbn13": "9781410477767"
+          },
+          {
+            "isbn10": "0857522329",
+            "isbn13": "9780857522320"
+          },
+          {
+            "isbn10": "1448171687",
+            "isbn13": "9781448171682"
+          },
+          {
+            "isbn10": "1594634122",
+            "isbn13": "9781594634123"
+          },
+          {
+            "isbn10": "038568231X",
+            "isbn13": "9780385682312"
+          }
+        ],
+        "weeks_on_list": 13,
+        "dagger": 0,
+        "title": "THE GIRL ON THE TRAIN",
+        "first_chapter_link": "",
+        "author": "Paula Hawkins",
+        "rank_last_week": 1,
+        "contributor": "by Paula Hawkins",
+        "contributor_note": "",
+        "primary_isbn13": "9780698185395",
+        "primary_isbn10": "0698185390",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "rank": 1,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594633669.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html"
+      },
+      {
+        "description": "The lives of two couples converge unexpectedly.",
+        "publisher": "Grand Central",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1455520659",
+            "isbn13": "9781455520657"
+          },
+          {
+            "isbn10": "1455576018",
+            "isbn13": "9781455576012"
+          },
+          {
+            "isbn10": "1455520667",
+            "isbn13": "9781455520664"
+          },
+          {
+            "isbn10": "1455520640",
+            "isbn13": "9781455520640"
+          },
+          {
+            "isbn10": "1455520632",
+            "isbn13": "9781455520633"
+          },
+          {
+            "isbn10": "1455584738",
+            "isbn13": "9781455584734"
+          },
+          {
+            "isbn10": "145558472X",
+            "isbn13": "9781455584727"
+          }
+        ],
+        "weeks_on_list": 22,
+        "dagger": 0,
+        "title": "THE LONGEST RIDE",
+        "first_chapter_link": "",
+        "author": "Nicholas Sparks",
+        "rank_last_week": 6,
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "primary_isbn13": "9781455520664",
+        "primary_isbn10": "1455520667",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 2,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455520640.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Longest-Ride-Nicholas-Sparks/dp/1455520640?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "In the 33rd Stone Barrington novel, the New York lawyer pursues an attractive pilot and must deal with her stalker ex-boyfriend as well as intrigue in the Middle East.",
+        "publisher": "Putnam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0399169164",
+            "isbn13": "9780399169168"
+          },
+          {
+            "isbn10": "1410476685",
+            "isbn13": "9781410476685"
+          },
+          {
+            "isbn10": "0451473108",
+            "isbn13": "9780451473103"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "HOT PURSUIT",
+        "first_chapter_link": "",
+        "author": "Stuart Woods",
+        "rank_last_week": 0,
+        "contributor": "by Stuart Woods",
+        "contributor_note": "",
+        "primary_isbn13": "9780698154162",
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 3,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698154162.jpg",
+        "amazon_product_url": "http://www.amazon.com/Hot-Pursuit-Stone-Barrington-Book-ebook/dp/B00KRPKUQW?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Characters\u2019 lives begin to fall apart as a mysterious stranger discloses secrets to them; a stand-alone thriller.",
+        "publisher": "Dutton",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525953507",
+            "isbn13": "9780525953500"
+          },
+          {
+            "isbn10": "0698186206",
+            "isbn13": "9780698186200"
+          },
+          {
+            "isbn10": "1410476235",
+            "isbn13": "9781410476234"
+          }
+        ],
+        "weeks_on_list": 3,
+        "dagger": 0,
+        "title": "THE STRANGER",
+        "first_chapter_link": "",
+        "author": "Harlan Coben",
+        "rank_last_week": 3,
+        "contributor": "by Harlan Coben",
+        "contributor_note": "",
+        "primary_isbn13": "9780698186200",
+        "primary_isbn10": "0698186206",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 4,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780525953500.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Stranger-Harlan-Coben/dp/0525953507?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+        "publisher": "Scribner",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "weeks_on_list": 30,
+        "dagger": 0,
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "first_chapter_link": "",
+        "author": "Anthony Doerr",
+        "rank_last_week": 7,
+        "contributor": "by Anthony Doerr",
+        "contributor_note": "",
+        "primary_isbn13": "9781476746609",
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "rank": 5,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476746586.jpg",
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Two sisters are separated in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+        "publisher": "St. Martin's",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0312577222",
+            "isbn13": "9780312577223"
+          },
+          {
+            "isbn10": "1466850604",
+            "isbn13": "9781466850606"
+          },
+          {
+            "isbn10": "1628995017",
+            "isbn13": "9781628995015"
+          },
+          {
+            "isbn10": "1250080401",
+            "isbn13": "9781250080400"
+          }
+        ],
+        "weeks_on_list": 10,
+        "dagger": 0,
+        "title": "THE NIGHTINGALE",
+        "first_chapter_link": "",
+        "author": "Kristin Hannah",
+        "rank_last_week": 10,
+        "contributor": "by Kristin Hannah",
+        "contributor_note": "",
+        "primary_isbn13": "9781466850606",
+        "primary_isbn10": "1466850604",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 6,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781466850606.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Investigating the disappearance of a billionaire\u2019s son, Detective Zach Jordan and his partner (and ex-girlfriend) find themselves in the midst of a conspiracy.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316406996",
+            "isbn13": "9780316406994"
+          },
+          {
+            "isbn10": "0316284564",
+            "isbn13": "9780316284561"
+          },
+          {
+            "isbn10": "1455584924",
+            "isbn13": "9781455584925"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "title": "NYPD RED 3",
+        "first_chapter_link": "",
+        "author": "James Patterson and Marshall Karp",
+        "rank_last_week": 8,
+        "contributor": "by James Patterson and Marshall Karp",
+        "contributor_note": "",
+        "primary_isbn13": "9780316284561",
+        "primary_isbn10": "0316284564",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 7,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316406994.jpg",
+        "amazon_product_url": "http://www.amazon.com/NYPD-Red-3-James-Patterson/dp/0316406996?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+        "publisher": "Dell",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0440335167",
+            "isbn13": "9780440335160"
+          },
+          {
+            "isbn10": "0440212561",
+            "isbn13": "9780440212560"
+          },
+          {
+            "isbn10": "0385319959",
+            "isbn13": "9780385319959"
+          },
+          {
+            "isbn10": "0553393693",
+            "isbn13": "9780553393699"
+          },
+          {
+            "isbn10": "0553393707",
+            "isbn13": "9780553393705"
+          },
+          {
+            "isbn10": "0440423201",
+            "isbn13": "9780440423201"
+          },
+          {
+            "isbn10": "0385302304",
+            "isbn13": "9780385302302"
+          }
+        ],
+        "weeks_on_list": 14,
+        "dagger": 0,
+        "title": "OUTLANDER",
+        "first_chapter_link": "",
+        "author": "Diana Gabaldon",
+        "rank_last_week": 15,
+        "contributor": "by Diana Gabaldon",
+        "contributor_note": "",
+        "primary_isbn13": "9780440335160",
+        "primary_isbn10": "0440335167",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 8,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780440212560.jpg",
+        "amazon_product_url": "http://www.amazon.com/Outlander-Diana-Gabaldon/dp/0440212561?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A member of a secret network sets out to protect an imperiled psychic.",
+        "publisher": "Jove",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0515153346",
+            "isbn13": "9780515153347"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "A DEADLY WEB",
+        "first_chapter_link": "",
+        "author": "Kay Hooper",
+        "rank_last_week": 0,
+        "contributor": "by Kay Hooper",
+        "contributor_note": "",
+        "primary_isbn13": "9781101589809",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 9,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101589809.jpg",
+        "amazon_product_url": "http://www.amazon.com/Deadly-Bishop-Files-Novel-Book-ebook/dp/B00BTRDHLC?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A Texas rancher falls for his half sister\u2019s maid.",
+        "publisher": "Atria",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476776105",
+            "isbn13": "9781476776101"
+          },
+          {
+            "isbn10": "1476776091",
+            "isbn13": "9781476776095"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "WHEN I'M GONE",
+        "first_chapter_link": "",
+        "author": "Abbi Glines",
+        "rank_last_week": 0,
+        "contributor": "by Abbi Glines",
+        "contributor_note": "",
+        "primary_isbn13": "9781476776101",
+        "primary_isbn10": "1476776105",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 10,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476776101.jpg",
+        "amazon_product_url": "http://www.amazon.com/When-Im-Gone-Rosemary-Series-ebook/dp/B00LD1OO0C?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Commissario Guido Brunetti becomes involved when an obsessive fan stalks a diva.",
+        "publisher": "Atlantic Monthly",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0802123538",
+            "isbn13": "9780802123534"
+          },
+          {
+            "isbn10": "0802191835",
+            "isbn13": "9780802191830"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "FALLING IN LOVE",
+        "first_chapter_link": "",
+        "author": "Donna Leon",
+        "rank_last_week": 0,
+        "contributor": "by Donna Leon",
+        "contributor_note": "",
+        "primary_isbn13": "9780802191830",
+        "primary_isbn10": "0802191835",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 11,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780802191830.jpg",
+        "amazon_product_url": "http://www.amazon.com/Falling-Love-Commissario-Brunetti-Mystery-ebook/dp/B00PSSG2P6?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A chronic bachelor considers settling down when he crosses paths with a wedding planner.",
+        "publisher": "Oak Press",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1938127595",
+            "isbn13": "9781938127595"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "ALL I EVER NEED IS YOU",
+        "first_chapter_link": "",
+        "author": "Bella Andre",
+        "rank_last_week": 0,
+        "contributor": "by Bella Andre",
+        "contributor_note": "",
+        "primary_isbn13": "9781938127595",
+        "primary_isbn10": "1938127595",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 12,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781938127595.jpg",
+        "amazon_product_url": "http://www.amazon.com/All-Ever-Need-Sullivans-Book-ebook/dp/B00VN1J60A?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A physical therapist finds he needs the help of the woman he once spurned.",
+        "publisher": "Berkley",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0425270181",
+            "isbn13": "9780425270189"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "STILL THE ONE",
+        "first_chapter_link": "",
+        "author": "Jill Shalvis",
+        "rank_last_week": 0,
+        "contributor": "by Jill Shalvis",
+        "contributor_note": "",
+        "primary_isbn13": "9781101638460",
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 13,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101638460.jpg",
+        "amazon_product_url": "http://www.amazon.com/Still-Animal-Magnetism-Novel-Book-ebook/dp/B00LMGLXVG?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A woman enlists the aid of an ex-con.",
+        "publisher": "Berkley",
+        "article_chapter_link": "",
+        "isbns": [],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "SILVER BASTARD",
+        "first_chapter_link": "",
+        "author": "Joanna Wylde",
+        "rank_last_week": 0,
+        "contributor": "by Joanna Wylde",
+        "contributor_note": "",
+        "primary_isbn13": "9780698191785",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 14,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698191785.jpg",
+        "amazon_product_url": "http://www.amazon.com/Silver-Bastard-Valley-Book-ebook/dp/B00O2BS3FW?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not yet meant to read.",
+        "publisher": "Amy Einhorn/Putnam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "weeks_on_list": 48,
+        "dagger": 0,
+        "title": "THE HUSBAND'S SECRET",
+        "first_chapter_link": "",
+        "author": "Liane Moriarty",
+        "rank_last_week": 12,
+        "contributor": "by Liane Moriarty",
+        "contributor_note": "",
+        "primary_isbn13": "9781101636237",
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 15,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101636237.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Book 2 in the Angels Walking series.",
+        "publisher": "Howard",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1451687508",
+            "isbn13": "9781451687507"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "CHASING SUNSETS",
+        "first_chapter_link": "",
+        "author": "Karen Kingsbury",
+        "rank_last_week": 0,
+        "contributor": "by Karen Kingsbury",
+        "contributor_note": "",
+        "primary_isbn13": "9781451687514",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 16,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451687514.jpg",
+        "amazon_product_url": "http://www.amazon.com/Chasing-Sunsets-Novel-Angels-Walking-ebook/dp/B00ON5EZ2M?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "After his mother is killed in a museum explosion, a young man grapples with the world alone while hiding a prized Dutch painting.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "THE GOLDFINCH",
+        "first_chapter_link": "",
+        "author": "Donna Tartt",
+        "rank_last_week": 0,
+        "contributor": "by Donna Tartt",
+        "contributor_note": "",
+        "primary_isbn13": "9780316055444",
+        "primary_isbn10": "0316055441",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "rank": 17,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316248679.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html"
+      },
+      {
+        "description": "A troubled famous golfer finds redemption in mentoring a talented teenager.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316410977",
+            "isbn13": "9780316410977"
+          },
+          {
+            "isbn10": "0316339288",
+            "isbn13": "9780316339285"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "MIRACLE AT AUGUSTA",
+        "first_chapter_link": "",
+        "author": "James Patterson and Peter De Jonge",
+        "rank_last_week": 0,
+        "contributor": "by James Patterson and Peter De Jonge",
+        "contributor_note": "",
+        "primary_isbn13": "9780316410960",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 18,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316410977.jpg",
+        "amazon_product_url": "http://www.amazon.com/Miracle-at-Augusta-James-Patterson/dp/0316410977?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "",
+        "publisher": "Roc",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0451465962",
+            "isbn13": "9780451465962"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "DARK HEIR",
+        "first_chapter_link": "",
+        "author": "Faith Hunter",
+        "rank_last_week": 0,
+        "contributor": "by Faith Hunter",
+        "contributor_note": "",
+        "primary_isbn13": "9781101636220",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 19,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101636220.jpg",
+        "amazon_product_url": "http://www.amazon.com/Dark-Heir-Jane-Yellowrock-Novel-ebook/dp/B00MNN7GY0?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Four generations of a family are drawn to a house in the Baltimore suburbs.",
+        "publisher": "Knopf",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1101874279",
+            "isbn13": "9781101874271"
+          },
+          {
+            "isbn10": "0804194726",
+            "isbn13": "9780804194723"
+          },
+          {
+            "isbn10": "1101874287",
+            "isbn13": "9781101874288"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "A SPOOL OF BLUE THREAD",
+        "first_chapter_link": "",
+        "author": "Anne Tyler",
+        "rank_last_week": 0,
+        "contributor": "by Anne Tyler",
+        "contributor_note": "",
+        "primary_isbn13": "9781101874288",
+        "primary_isbn10": "1101874287",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/02/15/books/review/a-spool-of-blue-thread-by-anne-tyler.html",
+        "rank": 20,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101874288.jpg",
+        "amazon_product_url": "http://www.amazon.com/Spool-Blue-Thread-novel-ebook/dp/B00MSS0WVY?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2015/02/06/books/anne-tylers-20th-novel-a-spool-of-blue-thread.html"
+      }
+    ],
+    "previous_published_date": "2015-04-19",
+    "published_date": "2015-04-26"
+  },
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "num_results": 20,
+  "last_modified": "2015-12-09T12:11:13-05:00"
+}

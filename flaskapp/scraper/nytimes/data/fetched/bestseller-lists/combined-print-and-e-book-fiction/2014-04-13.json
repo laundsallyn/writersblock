@@ -1,0 +1,754 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2014-04-13",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9780698140271",
+        "description": "In County Mayo, a falconer with an unresolved past falls for his sister\u2019s best friend; Book 2 of the Cousins O\u2019Dwyer trilogy.",
+        "book_review_link": "",
+        "book_image_height": 189,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698140271.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Shadow-Spell-Cousins-ODwyer-Roberts/dp/0425259862?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "SHADOW SPELL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425259862",
+            "isbn13": "9780425259863"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316211249",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Marshall Karp",
+        "primary_isbn13": "9780316211246",
+        "description": "Detective Zach Jordan and his partner are called when the body of a wealthy woman is discovered on the Central Park carousel; the second book in a new series.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316211239.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/NYPD-Red-2-James-Patterson-ebook/dp/B00DTUHI2Q?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Marshall Karp",
+        "title": "NYPD RED 2",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316211230",
+            "isbn13": "9780316211239"
+          },
+          {
+            "isbn10": "0316211249",
+            "isbn13": "9780316211246"
+          },
+          {
+            "isbn10": "0316324655",
+            "isbn13": "9780316324656"
+          },
+          {
+            "isbn10": "0316211265",
+            "isbn13": "9780316211260"
+          },
+          {
+            "isbn10": "1455515973",
+            "isbn13": "9781455515974"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0698148630",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9780698148635",
+        "description": "Kat Donovan, an N.Y.P.D. detective, searches for the ex-fianc\u00e9 who left her years before; her father\u2019s murderer; and the reason the users of an online dating site are disappearing.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698148635.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Missing-You-Harlan-Coben/dp/0525953493?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "MISSING YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953493",
+            "isbn13": "9780525953494"
+          },
+          {
+            "isbn10": "0698148630",
+            "isbn13": "9780698148635"
+          },
+          {
+            "isbn10": "1410466280",
+            "isbn13": "9781410466280"
+          },
+          {
+            "isbn10": "0451414128",
+            "isbn13": "9780451414120"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laurelin Paige",
+        "primary_isbn13": "A00B00IX9UTLU",
+        "description": "Collects \"Fixed on You,\" \"Found in You\" and \"Forever With You,\" the story of Alayna Wither and Hudson Pierce.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780991379644.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 464,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Fixed-Trilogy-Found-Forever-ebook/dp/B00IX9UTLU?tag=thenewyorktim-20",
+        "contributor": "by Laurelin Paige",
+        "title": "THE FIXED TRILOGY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0991379640",
+            "isbn13": "9780991379644"
+          }
+        ],
+        "publisher": "Laurelin Paige"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345549864",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Debbie Macomber",
+        "primary_isbn13": "9780345549860",
+        "description": "Three women\u2019s lives intersect around a Seattle knitting store; a Blossom Street novel.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345549860.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Blossom-Street-Brides-Novel-ebook/dp/B00FUZPQZY?tag=thenewyorktim-20",
+        "contributor": "by Debbie Macomber",
+        "title": "BLOSSOM STREET BRIDES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345528840",
+            "isbn13": "9780345528841"
+          },
+          {
+            "isbn10": "0345549864",
+            "isbn13": "9780345549860"
+          },
+          {
+            "isbn10": "0804121206",
+            "isbn13": "9780804121200"
+          },
+          {
+            "isbn10": "0345528867",
+            "isbn13": "9780345528865"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brian McGilloway",
+        "primary_isbn13": "9780062336583",
+        "description": "A Northern Ireland police officer finds a little girl in the woods, her hands covered in blood.",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062336583.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Little-Girl-Lost-Thriller-Thrillers-ebook/dp/B00G98B1XM?tag=thenewyorktim-20",
+        "contributor": "by Brian McGilloway",
+        "title": "LITTLE GIRL LOST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Witness Impulse/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316248679",
+        "description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 23,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "142689807X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Marie Force",
+        "primary_isbn13": "9781426898075",
+        "description": "The story of Sam Holland, a police lieutenant, and her husband, Senator Nick Cappuano, continues; the Fatal series, Book 7.",
+        "book_review_link": "",
+        "book_image_height": 202,
+        "book_image": "https://s1.nyt.com/du/books/images/9781426898075.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Fatal-Jeopardy-Book-Seven-Series-ebook/dp/B00GKBIRVM?tag=thenewyorktim-20",
+        "contributor": "by Marie Force",
+        "title": "FATAL JEOPARDY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "142689807X",
+            "isbn13": "9781426898075"
+          }
+        ],
+        "publisher": "Carina Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0804170711",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rob Thomas and Jennifer Graham",
+        "primary_isbn13": "9780804170710",
+        "description": "The investigator searches for a girl who went missing during spring break.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804170703.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Veronica-Mars-Original-Mystery-Thousand-Dollar/dp/0804170703?tag=thenewyorktim-20",
+        "contributor": "by Rob Thomas and Jennifer Graham",
+        "title": "VERONICA MARS: THE THOUSAND-DOLLAR TAN LINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804170703",
+            "isbn13": "9780804170703"
+          },
+          {
+            "isbn10": "0804170711",
+            "isbn13": "9780804170710"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christina Baker Kline",
+        "primary_isbn13": "9780062101204",
+        "description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062101204.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Orphan-Train-Christina-Baker-Kline-ebook/dp/B0089LOG02?tag=thenewyorktim-20",
+        "contributor": "by Christina Baker Kline",
+        "title": "ORPHAN TRAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061950726",
+            "isbn13": "9780061950728"
+          },
+          {
+            "isbn10": "1594137374",
+            "isbn13": "9781594137372"
+          },
+          {
+            "isbn10": "0606356649",
+            "isbn13": "9780606356640"
+          },
+          {
+            "isbn10": "006195070X",
+            "isbn13": "9780061950704"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kylie Scott",
+        "primary_isbn13": "9781466854239",
+        "description": "A woman is paid to pretend to be the girlfriend of a famous rock drummer; a Stage Dive novel.",
+        "book_review_link": "",
+        "book_image_height": 171,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466854239.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Play-A-Stage-Dive-Novel-ebook/dp/B00H0V069M?tag=thenewyorktim-20",
+        "contributor": "by Kylie Scott",
+        "title": "PLAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "St. Martin's Griffin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9781101636237",
+        "description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636237.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 32,
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "THE HUSBAND'S SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Monk Kidd",
+        "primary_isbn13": "9780698175242",
+        "description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670024780.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/The-Invention-Wings-A-Novel/dp/0670024783?tag=thenewyorktim-20",
+        "contributor": "by Sue Monk Kidd",
+        "title": "THE INVENTION OF WINGS",
+        "sunday_review_link": "//www.nytimes.com/2014/01/26/books/review/the-invention-of-wings-by-sue-monk-kidd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670024783",
+            "isbn13": "9780670024780"
+          },
+          {
+            "isbn10": "1410465322",
+            "isbn13": "9781410465320"
+          },
+          {
+            "isbn10": "0143121707",
+            "isbn13": "9780143121701"
+          },
+          {
+            "isbn10": "1594138869",
+            "isbn13": "9781594138867"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1460328612",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ron Carr",
+        "primary_isbn13": "9781460328613",
+        "description": "A reserved newcomer to Mill Valley helps a group of women in her neighborhood discover their true selves.",
+        "book_review_link": "",
+        "book_image_height": 196,
+        "book_image": "https://s1.nyt.com/du/books/images/9780778316817.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Four-Friends-Robyn-Carr-ebook/dp/B00GPDYNAE?tag=thenewyorktim-20",
+        "contributor": "by Robyn Carr",
+        "title": "FOUR FRIENDS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778316815",
+            "isbn13": "9780778316817"
+          },
+          {
+            "isbn10": "1460328612",
+            "isbn13": "9781460328613"
+          },
+          {
+            "isbn10": "0778317188",
+            "isbn13": "9780778317180"
+          },
+          {
+            "isbn10": "0778318540",
+            "isbn13": "9780778318545"
+          }
+        ],
+        "publisher": "Harlequin Mira"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1466842032",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jane Green",
+        "primary_isbn13": "9781466842038",
+        "description": "A happily married middle-aged woman is drawn to another man.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312591847.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Tempting-Fate-Jane-Green-ebook/dp/B00F1RE1P2?tag=thenewyorktim-20",
+        "contributor": "by Jane Green",
+        "title": "TEMPTING FATE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312591845",
+            "isbn13": "9780312591847"
+          },
+          {
+            "isbn10": "1466842032",
+            "isbn13": "9781466842038"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385537921",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385537926",
+        "description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/10/31/books/sycamore-row-by-john-grisham.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537926.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Sycamore-Jake-Brigance-John-Grisham/dp/0385537131?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "SYCAMORE ROW",
+        "sunday_review_link": "//www.nytimes.com/2013/11/10/books/review/sycamore-row-by-john-grisham.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537131",
+            "isbn13": "9780385537131"
+          },
+          {
+            "isbn10": "0385537921",
+            "isbn13": "9780385537926"
+          },
+          {
+            "isbn10": "0553393618",
+            "isbn13": "9780553393613"
+          },
+          {
+            "isbn10": "0345543246",
+            "isbn13": "9780345543240"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780345530936",
+        "description": "Two C.E.O.s in Northern California \u2014 a man and a woman \u2014 face very different challenges.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345530936.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Power-Play-Novel-Danielle-Steel-ebook/dp/B00F8F3HIY?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "POWER PLAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345530918",
+            "isbn13": "9780345530912"
+          },
+          {
+            "isbn10": "0804121125",
+            "isbn13": "9780804121125"
+          },
+          {
+            "isbn10": "0345530926",
+            "isbn13": "9780345530929"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1460328639",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lori Foster",
+        "primary_isbn13": "9781460328637",
+        "description": "To bring down an abduction ring, a no-nonsense police lieutenant reluctantly teams up with the one man who makes her lose control.",
+        "book_review_link": "",
+        "book_image_height": 203,
+        "book_image": "https://s1.nyt.com/du/books/images/9781460328637.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dash-Peril-Hqn-Lori-Foster-ebook/dp/B00GPDYLXS?tag=thenewyorktim-20",
+        "contributor": "by Lori Foster",
+        "title": "DASH OF PERIL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373778570",
+            "isbn13": "9780373778577"
+          },
+          {
+            "isbn10": "1460328639",
+            "isbn13": "9781460328637"
+          }
+        ],
+        "publisher": "Harlequin HQN"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kristan Higgins",
+        "primary_isbn13": "9781460328651",
+        "description": "A family emergency has brought Lucas back to Manningsport, and Colleen must decide whether her first love is worth a second chance.",
+        "book_review_link": "",
+        "book_image_height": 202,
+        "book_image": "https://s1.nyt.com/du/books/images/9781460328651.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Waiting-You-Hqn-Kristan-Higgins-ebook/dp/B00GPDYMAA?tag=thenewyorktim-20",
+        "contributor": "by Kristan Higgins",
+        "title": "WAITING ON YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373778589",
+            "isbn13": "9780373778584"
+          }
+        ],
+        "publisher": "Harlequin HQN"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9781459213234",
+        "description": "Ten years after disappearing from Antietam, Md., a bad boy\u2019s return sets tongues wagging, and he intrigues the newcomer Regan Jones; Book 1 of the MacKade Brothers series.",
+        "book_review_link": "",
+        "book_image_height": 202,
+        "book_image": "https://s1.nyt.com/du/books/images/9781459213234.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Return-Rafe-MacKade-Brothers-ebook/dp/B0053GQYTM?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "THE RETURN OF RAFE MACKADE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Silhouette"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2014-03-29",
+    "previous_published_date": "2014-04-06",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2014-04-20"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

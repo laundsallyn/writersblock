@@ -1,0 +1,893 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2016-01-24",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0812993543",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ta-Nehisi Coates",
+        "primary_isbn13": "9780812993547",
+        "description": "A meditation on race in America as well as a personal story by the Atlantic's national correspondent; a National Book Award winner.",
+        "book_review_link": "//www.nytimes.com/2015/08/17/books/review/ta-nehisi-coatess-between-the-world-and-me.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679645986.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 26,
+        "amazon_product_url": "http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates-ebook/dp/B00SEFAIRI?tag=thenewyorktim-20",
+        "contributor": "by Ta-Nehisi Coates",
+        "title": "BETWEEN THE WORLD AND ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812993543",
+            "isbn13": "9780812993547"
+          },
+          {
+            "isbn10": "0451482212",
+            "isbn13": "9780451482211"
+          },
+          {
+            "isbn10": "1410485846",
+            "isbn13": "9781410485847"
+          }
+        ],
+        "publisher": "Spiegel & Grau"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "039335315X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Lewis",
+        "primary_isbn13": "9780393353150",
+        "description": "The people who saw the real estate crash coming and made billions from their foresight. Originally published in 2010 and now a movie.",
+        "book_review_link": "//www.nytimes.com/2010/03/15/books/15book.html",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780393072235.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/The-Big-Short-Doomsday-Machine-ebook/dp/B003LSTK8G?tag=thenewyorktim-20",
+        "contributor": "by Michael Lewis",
+        "title": "THE BIG SHORT",
+        "sunday_review_link": "//www.nytimes.com/2010/04/18/books/review/Gross-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0393072231",
+            "isbn13": "9780393072235"
+          },
+          {
+            "isbn10": "0393078191",
+            "isbn13": "9780393078190"
+          },
+          {
+            "isbn10": "0393338827",
+            "isbn13": "9780393338829"
+          },
+          {
+            "isbn10": "1594134618",
+            "isbn13": "9781594134616"
+          },
+          {
+            "isbn10": "039335315X",
+            "isbn13": "9780393353150"
+          }
+        ],
+        "publisher": "Norton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitchell Zuckoff with members of the Annex Security Team",
+        "primary_isbn13": "9781455582297",
+        "description": "Six C.I.A. contract employees discuss their experience during the attack on the State Department compound and the C.I.A. station called the \u201cannex\u201d in Benghazi in 2012.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455582297.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/13-Hours-Account-Happened-Benghazi-ebook/dp/B00LEWR0SS?tag=thenewyorktim-20",
+        "contributor": "by Mitchell Zuckoff with members of the Annex Security Team",
+        "title": "13 HOURS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455582271",
+            "isbn13": "9781455582273"
+          },
+          {
+            "isbn10": "1455530093",
+            "isbn13": "9781455530090"
+          },
+          {
+            "isbn10": "1478953195",
+            "isbn13": "9781478953197"
+          },
+          {
+            "isbn10": "1455538442",
+            "isbn13": "9781455538447"
+          },
+          {
+            "isbn10": "1455538396",
+            "isbn13": "9781455538393"
+          },
+          {
+            "isbn10": "145558228X",
+            "isbn13": "9781455582280"
+          },
+          {
+            "isbn10": "1478961139",
+            "isbn13": "9781478961130"
+          },
+          {
+            "isbn10": "1455561843",
+            "isbn13": "9781455561841"
+          }
+        ],
+        "publisher": "Twelve"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1591848067",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brian Kilmeade and Don Yaeger",
+        "primary_isbn13": "9781591848066",
+        "description": "The war against the Barbary pirates in 1801.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698197411.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Thomas-Jefferson-Tripoli-Pirates-Forgotten-ebook/dp/B00SI0B5GW?tag=thenewyorktim-20",
+        "contributor": "by Brian Kilmeade and Don Yaeger",
+        "title": "THOMAS JEFFERSON AND THE TRIPOLI PIRATES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1591848067",
+            "isbn13": "9781591848066"
+          },
+          {
+            "isbn10": "0698197410",
+            "isbn13": "9780698197411"
+          }
+        ],
+        "publisher": "Sentinel"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1627792414",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9781627792417",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781627792424.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/Killing-Reagan-Violent-Assault-Presidency-ebook/dp/B00UE3T6BW?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING REAGAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1627792414",
+            "isbn13": "9781627792417"
+          },
+          {
+            "isbn10": "1627792422",
+            "isbn13": "9781627792424"
+          },
+          {
+            "isbn10": "1427262292",
+            "isbn13": "9781427262295"
+          },
+          {
+            "isbn10": "1410482596",
+            "isbn13": "9781410482594"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0770435637",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "The Countess of Carnarvon",
+        "primary_isbn13": "9780770435639",
+        "description": "The inspiration and setting for the show on PBS. Originally published in 2011.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780770435639.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Lady-Almina-Real-Downton-Abbey/dp/0770435629?tag=thenewyorktim-20",
+        "contributor": "by The Countess of Carnarvon",
+        "title": "LADY ALMINA AND THE REAL DOWNTON ABBEY",
+        "sunday_review_link": "//www.nytimes.com/2012/02/05/books/review/three-books-explore-the-reality-behind-the-world-of-downton-abbey.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0770435629",
+            "isbn13": "9780770435622"
+          },
+          {
+            "isbn10": "0770435637",
+            "isbn13": "9780770435639"
+          }
+        ],
+        "publisher": "Broadway"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0143125478",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel James Brown",
+        "primary_isbn13": "9780143125471",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101622742.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 86,
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20",
+        "contributor": "by Daniel James Brown",
+        "title": "THE BOYS IN THE BOAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "None",
+            "isbn13": "9780143177289"
+          },
+          {
+            "isbn10": "067002581X",
+            "isbn13": "9780670025817"
+          },
+          {
+            "isbn10": "0143125478",
+            "isbn13": "9780143125471"
+          },
+          {
+            "isbn10": "159413779X",
+            "isbn13": "9781594137792"
+          },
+          {
+            "isbn10": "1611761697",
+            "isbn13": "9781611761696"
+          },
+          {
+            "isbn10": "1410459543",
+            "isbn13": "9781410459541"
+          }
+        ],
+        "publisher": "Penguin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Pat Conroy",
+        "primary_isbn13": "9781453203927",
+        "description": "The author describes a year he spent teaching in a two-room schoolhouse on a remote island off South Carolina. Originally published in 1972.",
+        "book_review_link": "",
+        "book_image_height": 150,
+        "book_image": "https://s1.nyt.com/du/books/images/9781453203927.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 94,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Water-Wide-Pat-Conroy-ebook/dp/B003XKN65U?tag=thenewyorktim-20",
+        "contributor": "by Pat Conroy",
+        "title": "THE WATER IS WIDE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1453203907",
+            "isbn13": "9781453203903"
+          },
+          {
+            "isbn10": "1453203915",
+            "isbn13": "9781453203910"
+          },
+          {
+            "isbn10": "0553381571",
+            "isbn13": "9780553381573"
+          },
+          {
+            "isbn10": "093703603X",
+            "isbn13": "9780937036037"
+          },
+          {
+            "isbn10": "0553268937",
+            "isbn13": "9780553268935"
+          },
+          {
+            "isbn10": "1606865056",
+            "isbn13": "9781606865057"
+          }
+        ],
+        "publisher": "Open Road"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805095152",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Atul Gawande",
+        "primary_isbn13": "9780805095159",
+        "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+        "book_review_link": "//www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805095159.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 52,
+        "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20",
+        "contributor": "by Atul Gawande",
+        "title": "BEING MORTAL",
+        "sunday_review_link": "//www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805095152",
+            "isbn13": "9780805095159"
+          },
+          {
+            "isbn10": "1427244235",
+            "isbn13": "9781427244239"
+          },
+          {
+            "isbn10": "1410478122",
+            "isbn13": "9781410478122"
+          },
+          {
+            "isbn10": "1514732998",
+            "isbn13": "9781514732991"
+          },
+          {
+            "isbn10": "1250081246",
+            "isbn13": "9781250081247"
+          }
+        ],
+        "publisher": "Metropolitan/Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316322423",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Malala Yousafzai with Christina Lamb",
+        "primary_isbn13": "9780316322423",
+        "description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316322409.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 321,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 40,
+        "amazon_product_url": "http://www.amazon.com/Am-Malala-Stood-Education-Taliban/dp/0316322407?tag=thenewyorktim-20",
+        "contributor": "by Malala Yousafzai with Christina Lamb",
+        "title": "I AM MALALA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316322407",
+            "isbn13": "9780316322409"
+          },
+          {
+            "isbn10": "147897978X",
+            "isbn13": "9781478979784"
+          },
+          {
+            "isbn10": "031628663X",
+            "isbn13": "9780316286633"
+          },
+          {
+            "isbn10": "0316322423",
+            "isbn13": "9780316322423"
+          },
+          {
+            "isbn10": "1478902337",
+            "isbn13": "9781478902331"
+          },
+          {
+            "isbn10": "0297870939",
+            "isbn13": "9780297870937"
+          },
+          {
+            "isbn10": "1478983701",
+            "isbn13": "9781478983705"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1555846041",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mark Bowden",
+        "primary_isbn13": "9781555846046",
+        "description": "The bloody battle between American forces and Somali street fighters in 1993. Originally published in 1999.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781555846046.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Black-Hawk-Down-Story-Modern-ebook/dp/B008X5XP9M?tag=thenewyorktim-20",
+        "contributor": "by  Mark Bowden",
+        "title": "BLACK HAWK DOWN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1555846041",
+            "isbn13": "9781555846046"
+          }
+        ],
+        "publisher": "Grove/Atlantic"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553446754",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780553446753",
+        "description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+        "book_review_link": "",
+        "book_image_height": 281,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307408860.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 28,
+        "amazon_product_url": "http://www.amazon.com/Dead-Wake-Last-Crossing-Lusitania/dp/0307408868?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "DEAD WAKE",
+        "sunday_review_link": "//www.nytimes.com/2015/03/08/books/review/erik-larsons-dead-wake-about-the-lusitania.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307408868",
+            "isbn13": "9780307408860"
+          },
+          {
+            "isbn10": "0553446754",
+            "isbn13": "9780553446753"
+          },
+          {
+            "isbn10": "0553551620",
+            "isbn13": "9780553551624"
+          },
+          {
+            "isbn10": "0804194610",
+            "isbn13": "9780804194617"
+          },
+          {
+            "isbn10": "0307408876",
+            "isbn13": "9780307408877"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "006226835X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Amy Poehler",
+        "primary_isbn13": "9780062268358",
+        "description": "A humorous miscellany from the comedian and actress.",
+        "book_review_link": "//www.nytimes.com/2014/11/05/books/book-review-amy-poehlers-yes-please.html",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062268341.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 27,
+        "amazon_product_url": "http://www.amazon.com/Yes-Please-Amy-Poehler/dp/0062268341?tag=thenewyorktim-20",
+        "contributor": "by Amy Poehler",
+        "title": "YES PLEASE",
+        "sunday_review_link": "//www.nytimes.com/2014/12/07/books/review/yes-please-by-amy-poehler.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062268341",
+            "isbn13": "9780062268341"
+          },
+          {
+            "isbn10": "0062268376",
+            "isbn13": "9780062268372"
+          },
+          {
+            "isbn10": "0062350889",
+            "isbn13": "9780062350886"
+          },
+          {
+            "isbn10": "006226835X",
+            "isbn13": "9780062268358"
+          }
+        ],
+        "publisher": "Dey Street/Morrow"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594206279",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Aziz Ansari with Eric Klinenberg",
+        "primary_isbn13": "9781594206276",
+        "description": "The comedian enlists a sociologist to help him understand today\u2019s dating scene.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698179967.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Modern-Romance-Aziz-Ansari-ebook/dp/B00OZ0TMYG?tag=thenewyorktim-20",
+        "contributor": "by Aziz Ansari with Eric Klinenberg",
+        "title": "MODERN ROMANCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594206279",
+            "isbn13": "9781594206276"
+          },
+          {
+            "isbn10": "1611764254",
+            "isbn13": "9781611764253"
+          },
+          {
+            "isbn10": "0143109251",
+            "isbn13": "9780143109259"
+          }
+        ],
+        "publisher": "Penguin Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476728747",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David McCullough",
+        "primary_isbn13": "9781476728742",
+        "description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight.",
+        "book_review_link": "//www.nytimes.com/2015/05/04/books/review-the-wright-brothers-by-david-mccullough.html",
+        "book_image_height": 350,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476728742.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 241,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 30,
+        "amazon_product_url": "http://www.amazon.com/The-Wright-Brothers-David-McCullough-ebook/dp/B00LD1RWP6?tag=thenewyorktim-20",
+        "contributor": "by David McCullough",
+        "title": "THE WRIGHT BROTHERS",
+        "sunday_review_link": "//www.nytimes.com/2015/05/10/books/review/the-wright-brothers-by-david-mccullough.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476728747",
+            "isbn13": "9781476728742"
+          },
+          {
+            "isbn10": "1476728763",
+            "isbn13": "9781476728766"
+          },
+          {
+            "isbn10": "1410478750",
+            "isbn13": "9781410478757"
+          },
+          {
+            "isbn10": "1442376082",
+            "isbn13": "9781442376083"
+          },
+          {
+            "isbn10": "1476728755",
+            "isbn13": "9781476728759"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0804138141",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mindy Kaling",
+        "primary_isbn13": "9780804138147",
+        "description": "More personal essays from the comedian and actress, the creator of \"The Mindy Project.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804138154.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Why-Not-Me-Mindy-Kaling-ebook/dp/B00N6PEMZK?tag=thenewyorktim-20",
+        "contributor": "by Mindy Kaling",
+        "title": "WHY NOT ME?",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804138141",
+            "isbn13": "9780804138147"
+          },
+          {
+            "isbn10": "0553551744",
+            "isbn13": "9780553551747"
+          }
+        ],
+        "publisher": "Crown Archetype"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0143034758",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ron Chernow",
+        "primary_isbn13": "9780143034759",
+        "description": "A biography of the first Treasury secretary, a major author of the Federalist Papers and an advocate of strong central government. Originally published in 2004 and the basis of the Broadway musical.",
+        "book_review_link": "//www.nytimes.com/2004/04/22/books/books-of-the-times-inspired-windbag-who-molded-the-us-government.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780143034759.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 181,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Alexander-Hamilton-Ron-Chernow-ebook/dp/B000QJLQZI?tag=thenewyorktim-20",
+        "contributor": "by Ron Chernow",
+        "title": "ALEXANDER HAMILTON",
+        "sunday_review_link": "//www.nytimes.com/2004/04/25/books/creating-capitalism.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594200092",
+            "isbn13": "9781594200090"
+          },
+          {
+            "isbn10": "0143034758",
+            "isbn13": "9780143034759"
+          }
+        ],
+        "publisher": "Penguin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0802123414",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Helen Macdonald",
+        "primary_isbn13": "9780802123411",
+        "description": "Overwhelmed by her father\u2019s death, a British woman decides to raise a goshawk, a bird that is notoriously difficult to tame.",
+        "book_review_link": "",
+        "book_image_height": 185,
+        "book_image": "https://s1.nyt.com/du/books/images/9780802123411.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/H-Is-Hawk-Helen-Macdonald/dp/0802123414?tag=thenewyorktim-20",
+        "contributor": "by Helen Macdonald",
+        "title": "H IS FOR HAWK",
+        "sunday_review_link": "//www.nytimes.com/2015/02/22/books/review/helen-macdonalds-h-is-for-hawk.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0802123414",
+            "isbn13": "9780802123411"
+          },
+          {
+            "isbn10": "1448130727",
+            "isbn13": "9781448130726"
+          },
+          {
+            "isbn10": "1481530968",
+            "isbn13": "9781481530965"
+          },
+          {
+            "isbn10": "148153095X",
+            "isbn13": "9781481530958"
+          },
+          {
+            "isbn10": "1410483614",
+            "isbn13": "9781410483614"
+          },
+          {
+            "isbn10": "0802124739",
+            "isbn13": "9780802124739"
+          }
+        ],
+        "publisher": "Grove"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0544272994",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Randall Munroe",
+        "primary_isbn13": "9780544272996",
+        "description": "Scientific (but often humorous) answers to hypothetical questions, based in part on the author\u2019s website, xkcd.com.",
+        "book_review_link": "",
+        "book_image_height": 165,
+        "book_image": "https://s1.nyt.com/du/books/images/9780544272644.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A?tag=thenewyorktim-20",
+        "contributor": "by Randall Munroe",
+        "title": "WHAT IF?",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0544272994",
+            "isbn13": "9780544272996"
+          },
+          {
+            "isbn10": "0544456866",
+            "isbn13": "9780544456860"
+          }
+        ],
+        "publisher": "Houghton Mifflin Harcourt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0375725601",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780375725609",
+        "description": "A story of how an architect and a serial killer were linked by the Chicago World's Fair of 1893.",
+        "book_review_link": "//www.nytimes.com/2003/02/10/books/books-of-the-times-add-a-serial-murderer-to-1893-chicago-s-opulent-overkill.html",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780375725609.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 300,
+        "first_chapter_link": "//www.nytimes.com/2003/03/09/books/chapters/0309-1st-larson.html",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Devil-White-City-Madness/dp/0375725601?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "THE DEVIL IN THE WHITE CITY",
+        "sunday_review_link": "//www.nytimes.com/2003/03/09/books/a-real-life-bates-motel.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0375725601",
+            "isbn13": "9780375725609"
+          },
+          {
+            "isbn10": "1400076315",
+            "isbn13": "9781400076314"
+          },
+          {
+            "isbn10": "0609608444",
+            "isbn13": "9780609608449"
+          },
+          {
+            "isbn10": "0739323598",
+            "isbn13": "9780739323595"
+          },
+          {
+            "isbn10": "1410455769",
+            "isbn13": "9781410455765"
+          }
+        ],
+        "publisher": "Vintage"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2016-01-09",
+    "previous_published_date": "2016-01-17",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2016-01-31"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,945 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2014-03-30",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Solomon Northup",
+        "primary_isbn13": "9781443433099",
+        "description": "The narrative, first published in 1853, of a freeman who was kidnapped and sold into slavery, and spent 12 years in bondage before escaping; the basis of the recently released movie.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781443433099.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/Twelve-Years-Slave-Solomon-Northup-ebook/dp/B00FDS85EM?tag=thenewyorktim-20",
+        "contributor": "by Solomon Northup",
+        "title": "TWELVE YEARS A SLAVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612107141",
+            "isbn13": "9781612107141"
+          },
+          {
+            "isbn10": "1843914719",
+            "isbn13": "9781843914716"
+          },
+          {
+            "isbn10": "1476767343",
+            "isbn13": "9781476767345"
+          },
+          {
+            "isbn10": "0143106708",
+            "isbn13": "9780143106708"
+          },
+          {
+            "isbn10": "1492368288",
+            "isbn13": "9781492368281"
+          },
+          {
+            "isbn10": "0143125419",
+            "isbn13": "9780143125419"
+          },
+          {
+            "isbn10": "0486411435",
+            "isbn13": "9780486411439"
+          },
+          {
+            "isbn10": "1429093374",
+            "isbn13": "9781429093378"
+          },
+          {
+            "isbn10": "1612931081",
+            "isbn13": "9781612931081"
+          },
+          {
+            "isbn10": "1480476900",
+            "isbn13": "9781480476905"
+          },
+          {
+            "isbn10": "1480476889",
+            "isbn13": "9781480476882"
+          },
+          {
+            "isbn10": "1629143499",
+            "isbn13": "9781629143491"
+          },
+          {
+            "isbn10": "1629143502",
+            "isbn13": "9781629143507"
+          },
+          {
+            "isbn10": "0007582951",
+            "isbn13": "9780007582952"
+          },
+          {
+            "isbn10": "0807101508",
+            "isbn13": "9780807101506"
+          }
+        ],
+        "publisher": "Various publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dan Harris",
+        "primary_isbn13": "9780062265449",
+        "description": "A co-anchor of \"Nightline\" reports on the science and spiritual dimensions of meditation, and describes how it has improved his life.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062265425.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/10?tag=thenewyorktim-20",
+        "contributor": "by Dan Harris",
+        "title": "10% HAPPIER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062265423",
+            "isbn13": "9780062265425"
+          },
+          {
+            "isbn10": "0062265431",
+            "isbn13": "9780062265432"
+          }
+        ],
+        "publisher": "It Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455599735",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chelsea Handler",
+        "primary_isbn13": "9781455599738",
+        "description": "Humorous travel stories.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455599721.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Uganda-Be-Kidding-Chelsea-Handler/dp/1455599735?tag=thenewyorktim-20",
+        "contributor": "by Chelsea Handler",
+        "title": "UGANDA BE KIDDING ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455599735",
+            "isbn13": "9781455599738"
+          },
+          {
+            "isbn10": "1455599727",
+            "isbn13": "9781455599721"
+          },
+          {
+            "isbn10": "1455599719",
+            "isbn13": "9781455599714"
+          },
+          {
+            "isbn10": "1478978171",
+            "isbn13": "9781478978176"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316007544",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Marcus Luttrell with Patrick Robinson",
+        "primary_isbn13": "9780316007542",
+        "description": "The only survivor of a Navy SEALs operation in northern Afghanistan describes the battle and his escape. First published in 2007; the basis for the movie.",
+        "book_review_link": "",
+        "book_image_height": 270,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316067607.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 180,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 17,
+        "amazon_product_url": "http://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601?tag=thenewyorktim-20",
+        "contributor": "by Marcus Luttrell with Patrick Robinson",
+        "title": "LONE SURVIVOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316007544",
+            "isbn13": "9780316007542"
+          },
+          {
+            "isbn10": "0316044695",
+            "isbn13": "9780316044691"
+          },
+          {
+            "isbn10": "0316067601",
+            "isbn13": "9780316067607"
+          },
+          {
+            "isbn10": "0316067598",
+            "isbn13": "9780316067591"
+          },
+          {
+            "isbn10": "031632406X",
+            "isbn13": "9780316324069"
+          },
+          {
+            "isbn10": "0316324108",
+            "isbn13": "9780316324106"
+          },
+          {
+            "isbn10": "1478927089",
+            "isbn13": "9781478927082"
+          },
+          {
+            "isbn10": "1600242197",
+            "isbn13": "9781600242199"
+          },
+          {
+            "isbn10": "0606352155",
+            "isbn13": "9780606352154"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0849946158",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849946158",
+        "description": "A father recounts his 3-year-old son\u2019s encounter with Jesus during an appendectomy.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 107,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1599951509",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert M Edsel with Bret Witter",
+        "primary_isbn13": "9781599951508",
+        "description": "The fight to preserve art works stolen by the Nazis during World War II. The basis for the movie.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316240055.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/The-Monuments-Men-Greatest-Treasure-ebook/dp/B002LHRLNE?tag=thenewyorktim-20",
+        "contributor": "by Robert M. Edsel with Bret Witter",
+        "title": "THE MONUMENTS MEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316240052",
+            "isbn13": "9780316240055"
+          },
+          {
+            "isbn10": "0316240079",
+            "isbn13": "9780316240079"
+          },
+          {
+            "isbn10": "1599951509",
+            "isbn13": "9781599951508"
+          },
+          {
+            "isbn10": "1599952653",
+            "isbn13": "9781599952659"
+          },
+          {
+            "isbn10": "1599951495",
+            "isbn13": "9781599951492"
+          },
+          {
+            "isbn10": "097743494X",
+            "isbn13": "9780977434947"
+          }
+        ],
+        "publisher": "Center Street"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805098542",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805098549",
+        "description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805098549.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 25,
+        "amazon_product_url": "http://www.amazon.com/Killing-Jesus-Bill-OReilly/dp/0805098542?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING JESUS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805098542",
+            "isbn13": "9780805098549"
+          },
+          {
+            "isbn10": "1410462420",
+            "isbn13": "9781410462428"
+          },
+          {
+            "isbn10": "1427233322",
+            "isbn13": "9781427233325"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603751",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9780679603757",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 144,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385349947",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sheryl Sandberg with Nell Scovell",
+        "primary_isbn13": "9780385349949",
+        "description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+        "book_review_link": "//www.nytimes.com/2013/03/07/books/sheryl-sandbergs-lean-in.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385349956.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 49,
+        "amazon_product_url": "http://www.amazon.com/Lean-In-Women-Work-Will-ebook/dp/B009LMTDL0?tag=thenewyorktim-20",
+        "contributor": "by Sheryl Sandberg with Nell Scovell",
+        "title": "LEAN IN",
+        "sunday_review_link": "//www.nytimes.com/2013/03/10/books/review/sheryl-sandbergs-lean-in.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385349947",
+            "isbn13": "9780385349949"
+          },
+          {
+            "isbn10": "0385394233",
+            "isbn13": "9780385394239"
+          },
+          {
+            "isbn10": "0553544470",
+            "isbn13": "9780553544473"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316204366",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Malcolm Gladwell",
+        "primary_isbn13": "9780316204361",
+        "description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+        "book_review_link": "//www.nytimes.com/2013/10/03/books/david-and-goliath-by-malcolm-gladwell.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316204361.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 348,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 24,
+        "amazon_product_url": "http://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204366?tag=thenewyorktim-20",
+        "contributor": "by Malcolm Gladwell",
+        "title": "DAVID AND GOLIATH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/malcolm-gladwells-david-and-goliath.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316204366",
+            "isbn13": "9780316204361"
+          },
+          {
+            "isbn10": "0316204382",
+            "isbn13": "9780316204385"
+          },
+          {
+            "isbn10": "1611137527",
+            "isbn13": "9781611137521"
+          },
+          {
+            "isbn10": "0316239852",
+            "isbn13": "9780316239851"
+          },
+          {
+            "isbn10": "0316204374",
+            "isbn13": "9780316204378"
+          },
+          {
+            "isbn10": "031625178X",
+            "isbn13": "9780316251785"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0374228442",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brigid Schulte",
+        "primary_isbn13": "9780374228446",
+        "description": "The dilemmas faced by working mothers.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429945875.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Overwhelmed-Work-Love-Play-When-ebook/dp/B00EX0XYU6?tag=thenewyorktim-20",
+        "contributor": "by Brigid Schulte",
+        "title": "OVERWHELMED",
+        "sunday_review_link": "//www.nytimes.com/2014/03/30/books/review/overwhelmed-by-brigid-schulte.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374228442",
+            "isbn13": "9780374228446"
+          },
+          {
+            "isbn10": "1250062381",
+            "isbn13": "9781250062383"
+          }
+        ],
+        "publisher": "Sarah Crichton/Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307476073",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cheryl Strayed",
+        "primary_isbn13": "9780307476074",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 68,
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "contributor": "by Cheryl Strayed",
+        "title": "WILD",
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307592731",
+            "isbn13": "9780307592736"
+          },
+          {
+            "isbn10": "0307957659",
+            "isbn13": "9780307957658"
+          },
+          {
+            "isbn10": "0307476073",
+            "isbn13": "9780307476074"
+          },
+          {
+            "isbn10": "1594136742",
+            "isbn13": "9781594136740"
+          },
+          {
+            "isbn10": "0307970299",
+            "isbn13": "9780307970299"
+          },
+          {
+            "isbn10": "1101873442",
+            "isbn13": "9781101873441"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "006202423X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Martin",
+        "primary_isbn13": "9780062024237",
+        "description": "A retelling of the life of Christ, based on scholarship, personal stories and the Christian tradition, by a Jesuit priest.",
+        "book_review_link": "",
+        "book_image_height": 189,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062292674.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Jesus-A-Pilgrimage-James-Martin/dp/006202423X?tag=thenewyorktim-20",
+        "contributor": "by James Martin",
+        "title": "JESUS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "006202423X",
+            "isbn13": "9780062024237"
+          },
+          {
+            "isbn10": "0062292676",
+            "isbn13": "9780062292674"
+          }
+        ],
+        "publisher": "HarperOne/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670026093",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert J Wagner with Scott Eyman",
+        "primary_isbn13": "9780670026098",
+        "description": "The actor recalls the Old Hollywood of the 1940s and \u201950s.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670026098.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/You-Must-Remember-This-Hollywoods-ebook/dp/B00DMCVZ1G?tag=thenewyorktim-20",
+        "contributor": "by Robert J. Wagner with Scott Eyman",
+        "title": "YOU MUST REMEMBER THIS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670026093",
+            "isbn13": "9780670026098"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0871407337",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Walter Kirn",
+        "primary_isbn13": "9780871407337",
+        "description": "A memoir of the author\u2019s relationship with the impostor known as Clark Rockefeller.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780871404510.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Blood-Will-Out-Mystery-Masquerade-ebook/dp/B00DX5X7Y0?tag=thenewyorktim-20",
+        "contributor": "by Walter Kirn",
+        "title": "BLOOD WILL OUT",
+        "sunday_review_link": "//www.nytimes.com/2014/03/09/books/review/walter-kirns-blood-will-out.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0871404516",
+            "isbn13": "9780871404510"
+          },
+          {
+            "isbn10": "0871407337",
+            "isbn13": "9780871407337"
+          }
+        ],
+        "publisher": "Liveright"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451695195",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eben Alexander",
+        "primary_isbn13": "9781451695199",
+        "description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+        "book_review_link": "",
+        "book_image_height": 300,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451695199.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Proof-Heaven-Neurosurgeons-Journey-Afterlife/dp/1451695195?tag=thenewyorktim-20",
+        "contributor": "by Eben Alexander",
+        "title": "PROOF OF HEAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451695187",
+            "isbn13": "9781451695182"
+          },
+          {
+            "isbn10": "1451695195",
+            "isbn13": "9781451695199"
+          },
+          {
+            "isbn10": "1451695209",
+            "isbn13": "9781451695205"
+          },
+          {
+            "isbn10": "1476753024",
+            "isbn13": "9781476753027"
+          },
+          {
+            "isbn10": "1442359315",
+            "isbn13": "9781442359314"
+          },
+          {
+            "isbn10": "1410458806",
+            "isbn13": "9781410458803"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385535937",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Feinstein",
+        "primary_isbn13": "9780385535939",
+        "description": "A sports journalist explores the world of Triple-A baseball.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385535939.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Where-Nobody-Knows-Your-Name-ebook/dp/B00F8F7MJO?tag=thenewyorktim-20",
+        "contributor": "by John Feinstein",
+        "title": "WHERE NOBODY KNOWS YOUR NAME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385535937",
+            "isbn13": "9780385535939"
+          },
+          {
+            "isbn10": "0385535945",
+            "isbn13": "9780385535946"
+          },
+          {
+            "isbn10": "0804192057",
+            "isbn13": "9780804192057"
+          },
+          {
+            "isbn10": "0307949583",
+            "isbn13": "9780307949585"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "038553082X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michio Kaku",
+        "primary_isbn13": "9780385530828",
+        "description": "A theoretical physicist examines research that points to the day when uploading memories will be possible.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385530835.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Future-Mind-Scientific-Understand/dp/038553082X?tag=thenewyorktim-20",
+        "contributor": "by Michio Kaku",
+        "title": "THE FUTURE OF THE MIND",
+        "sunday_review_link": "//www.nytimes.com/2014/03/09/books/review/michio-kakus-future-of-the-mind.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "038553082X",
+            "isbn13": "9780385530828"
+          },
+          {
+            "isbn10": "0385530838",
+            "isbn13": "9780385530835"
+          },
+          {
+            "isbn10": "0804148805",
+            "isbn13": "9780804148801"
+          },
+          {
+            "isbn10": "0307473341",
+            "isbn13": "9780307473349"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307452204",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Cain",
+        "primary_isbn13": "9780307452207",
+        "description": "Introverts -- approximately one-third of the population -- are undervalued in American society.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307452207.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B004J4WNL2?tag=thenewyorktim-20",
+        "contributor": "by Susan Cain",
+        "title": "QUIET",
+        "sunday_review_link": "//www.nytimes.com/2012/02/12/books/review/susan-cains-quiet-argues-for-the-power-of-introverts.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307352145",
+            "isbn13": "9780307352149"
+          },
+          {
+            "isbn10": "0307452204",
+            "isbn13": "9780307452207"
+          },
+          {
+            "isbn10": "0307352153",
+            "isbn13": "9780307352156"
+          },
+          {
+            "isbn10": "1611734207",
+            "isbn13": "9781611734201"
+          },
+          {
+            "isbn10": "0739341243",
+            "isbn13": "9780739341247"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307959473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert M Gates",
+        "primary_isbn13": "9780307959478",
+        "description": "The former defense secretary recounts his experience serving Presidents Bush and Obama during the wars in Iraq and Afghanistan.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307959485.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Duty-Memoirs-Secretary-at-War-ebook/dp/B00F8F3J2S?tag=thenewyorktim-20",
+        "contributor": "by Robert M. Gates",
+        "title": "DUTY",
+        "sunday_review_link": "//www.nytimes.com/2014/01/19/books/review/duty-a-memoir-by-robert-m-gates.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307959473",
+            "isbn13": "9780307959478"
+          },
+          {
+            "isbn10": "0307959481",
+            "isbn13": "9780307959485"
+          },
+          {
+            "isbn10": "0804148627",
+            "isbn13": "9780804148627"
+          }
+        ],
+        "publisher": "Knopf"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2014-03-15",
+    "previous_published_date": "2014-03-23",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2014-04-06"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

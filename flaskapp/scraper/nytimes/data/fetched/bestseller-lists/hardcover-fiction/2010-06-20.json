@@ -1,0 +1,785 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2010-06-20",
+    "books": [
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of a trilogy about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0425234339",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laurell K Hamilton",
+        "primary_isbn13": "9780425234334",
+        "description": "Anita Blake, vampire hunter, is menaced by the Mother of All Darkness, who wants to take over her body.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425234334.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Bullet-Anita-Blake-Vampire-Hunter/dp/0515149497?tag=thenewyorktim-20",
+        "contributor": "by Laurell K. Hamilton",
+        "title": "BULLET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425234339",
+            "isbn13": "9780425234334"
+          },
+          {
+            "isbn10": "0515149497",
+            "isbn13": "9780515149494"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399156437",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Justin Scott",
+        "primary_isbn13": "9780399156434",
+        "description": "In 1908, a murder leads the detective Isaac Bell to investigate international spies who are trying to keep America from developing a fleet of dreadnought battleships.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156434.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Spy-Isaac-Bell-Adventure/dp/0425241750?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Justin Scott",
+        "title": "THE SPY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156437",
+            "isbn13": "9780399156434"
+          },
+          {
+            "isbn10": "0425241750",
+            "isbn13": "9780425241752"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s \u00adMississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 4,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 4,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 62,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0441018645",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9780441018642",
+        "description": "Sookie Stackhouse is exhausted in the aftermath of a Fae war.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780441018642.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Dead-Family-Sookie-Stackhouse-Novel/dp/0441020151?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "DEAD IN THE FAMILY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441018645",
+            "isbn13": "9780441018642"
+          },
+          {
+            "isbn10": "0441020151",
+            "isbn13": "9780441020157"
+          },
+          {
+            "isbn10": "110118731X",
+            "isbn13": "9781101187319"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0385340583",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780385340588",
+        "description": "Jack Reacher helps the police in a small South Dakota town protect a witness in a drug trial.",
+        "book_review_link": "//www.nytimes.com/2010/05/14/books/14book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440243694.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 156,
+        "first_chapter_link": "//www.nytimes.com/2010/05/14/books/excerpt-61-hours.html",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/61-Hours-Jack-Reacher-Novel/dp/0440243696?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "61 HOURS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0440243696",
+            "isbn13": "9780440243694"
+          },
+          {
+            "isbn10": "0385340583",
+            "isbn13": "9780385340588"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1439156336",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeffery Deaver",
+        "primary_isbn13": "9781439156339",
+        "description": "The forensic detective Lincoln Rhyme investigates a series of murderous electrical explosions and tracks the killer known as the Watchmaker to Mexico.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439156346.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 274,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Burning-Wire-Lincoln-Rhyme/dp/1439156344?tag=thenewyorktim-20",
+        "contributor": "by Jeffery Deaver",
+        "title": "THE BURNING WIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439156336",
+            "isbn13": "9781439156339"
+          },
+          {
+            "isbn10": "1439156344",
+            "isbn13": "9781439156346"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399156496",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9780399156496",
+        "description": "Lucas Davenport\u2019s wife is a witness to a botched robbery and murder in the 20th novel in the \u201cPrey\u201d series.",
+        "book_review_link": "",
+        "book_image_height": 247,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425241448.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 140,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Storm-Prey-John-Sandford/dp/0399156496?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "STORM PREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156496",
+            "isbn13": "9780399156496"
+          },
+          {
+            "isbn10": "0425241440",
+            "isbn13": "9780425241448"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0446539813",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eric Van Lustbader",
+        "primary_isbn13": "9780446539814",
+        "description": "Robert Ludlum\u2019s character Jason Bourne matches wits with a vicious Russian mercenary.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446539814.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Robert-Ludlums-Bourne-Objective-Jason/dp/0446539791?tag=thenewyorktim-20",
+        "contributor": "by Eric Van Lustbader",
+        "title": "THE BOURNE OBJECTIVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446539813",
+            "isbn13": "9780446539814"
+          },
+          {
+            "isbn10": "0446539791",
+            "isbn13": "9780446539791"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0446562424",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Scott Turow",
+        "primary_isbn13": "9780446562423",
+        "description": "Turow revisits the characters from \u201cPresumed Innocent.\u201d",
+        "book_review_link": "//www.nytimes.com/2010/04/30/books/30book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446562416.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 182,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Innocent-Scott-Turow/dp/0446562416?tag=thenewyorktim-20",
+        "contributor": "by Scott Turow",
+        "title": "INNOCENT",
+        "sunday_review_link": "//www.nytimes.com/2010/05/16/books/review/Rafferty-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446562424",
+            "isbn13": "9780446562423"
+          },
+          {
+            "isbn10": "044656687X",
+            "isbn13": "9780446566872"
+          },
+          {
+            "isbn10": "0446562416",
+            "isbn13": "9780446562416"
+          },
+          {
+            "isbn10": "0446562408",
+            "isbn13": "9780446562409"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0312554168",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emily Giffin",
+        "primary_isbn13": "9780312554163",
+        "description": "The lives of two women \u2014 one married to a pediatric plastic surgeon, the other a lawyer and single mother \u2014\u00a0converge after an accident involving the lawyer\u2019s son.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429926539.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Heart-Matter-Emily-Giffin/dp/0312554176?tag=thenewyorktim-20",
+        "contributor": "by Emily Giffin",
+        "title": "HEART OF THE MATTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312554168",
+            "isbn13": "9780312554163"
+          },
+          {
+            "isbn10": "0312554176",
+            "isbn13": "9780312554170"
+          },
+          {
+            "isbn10": "1429926538",
+            "isbn13": "9781429926539"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316036277",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316036276",
+        "description": "Detective Lindsay Boxer pursues a killer who\u2019s preying on women and children.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316036276.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 180,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/The-Judgment-Womens-Murder-Club-ebook/dp/B0035IICU4?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "THE 9TH JUDGMENT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316036277",
+            "isbn13": "9780316036276"
+          },
+          {
+            "isbn10": "0446565504",
+            "isbn13": "9780446565509"
+          },
+          {
+            "isbn10": "031608817X",
+            "isbn13": "9780316088176"
+          },
+          {
+            "isbn10": "0446565660",
+            "isbn13": "9780446565660"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 14.99,
+        "primary_isbn10": "1451608217",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781451608212",
+        "description": "A tale about the dark side of baseball, circa 1957.",
+        "book_review_link": "",
+        "book_image_height": 302,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451608212.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 200,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Blockade-Billy-Stephen-King/dp/1451608217?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "BLOCKADE BILLY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451608217",
+            "isbn13": "9781451608212"
+          },
+          {
+            "isbn10": "1587672286",
+            "isbn13": "9781587672286"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "0345509145",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christie Golden",
+        "primary_isbn13": "9780345509147",
+        "description": "The Skywalkers and the Sith undertake an unprecedented joint mission; a \u201cStar Wars: Fate of the Jedi\u201d book.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345509147.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Allies-Star-Wars-Fate-Jedi/dp/0345509145?tag=thenewyorktim-20",
+        "contributor": "by Christie Golden",
+        "title": "ALLIES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345509145",
+            "isbn13": "9780345509147"
+          }
+        ],
+        "publisher": "Del Rey/Ballantine"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0061930210",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Steve Martini",
+        "primary_isbn13": "9780061930218",
+        "description": "The lawyer Paul Madriani pursues the hired assassin Liquida, who is out for revenge, while a terrorist plots an attack on the United States.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061930225.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 280,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Rule-Nine-Madriani-Novels/dp/0061930210?tag=thenewyorktim-20",
+        "contributor": "by Steve Martini",
+        "title": "THE RULE OF NINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061930210",
+            "isbn13": "9780061930218"
+          },
+          {
+            "isbn10": "0061930229",
+            "isbn13": "9780061930225"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446554960",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lincoln Child and Douglas Preston",
+        "primary_isbn13": "9780446554961",
+        "description": "\u00a0The F.B.I. agent Aloysius Pendergast, who has long thought that his wife was killed in an accident, learns that she was actually murdered; originally published in 2010.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446563307.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Fever-Dream-Douglas-Preston/dp/B004X8W7JW?tag=thenewyorktim-20",
+        "contributor": "by Lincoln Child and Douglas Preston",
+        "title": "FEVER DREAM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446554960",
+            "isbn13": "9780446554961"
+          },
+          {
+            "isbn10": "0446554952",
+            "isbn13": "9780446554954"
+          },
+          {
+            "isbn10": "0446563307",
+            "isbn13": "9780446563307"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446564087",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446564083",
+        "description": "Two agents are tracking the same man, a human trafficker who is now dealing in nuclear arms.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446564076.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Deliver-Us-Evil-David-Baldacci/dp/0446564079?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "DELIVER US FROM EVIL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446564079",
+            "isbn13": "9780446564076"
+          },
+          {
+            "isbn10": "0446576255",
+            "isbn13": "9780446576253"
+          },
+          {
+            "isbn10": "0892962615",
+            "isbn13": "9780892962617"
+          },
+          {
+            "isbn10": "0446564087",
+            "isbn13": "9780446564083"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "080211928X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Karl Marlantes",
+        "primary_isbn13": "9780802119285",
+        "description": "Bloody folly envelops a Marine company\u2019s construction, abandonment and retaking of a remote hilltop outpost in Vietnam.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780802119285.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 183,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Matterhorn-A-Novel-Vietnam-War/dp/0802145310?tag=thenewyorktim-20",
+        "contributor": "by Karl Marlantes",
+        "title": "MATTERHORN",
+        "sunday_review_link": "//www.nytimes.com/2010/04/04/books/review/Junger-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "080211928X",
+            "isbn13": "9780802119285"
+          },
+          {
+            "isbn10": "0802145310",
+            "isbn13": "9780802145314"
+          }
+        ],
+        "publisher": "El Le\u00f3n Literary Arts/Atlantic Monthly"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385501129",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Aimee Bender",
+        "primary_isbn13": "9780385501125",
+        "description": "A girl has insights into other people\u2019s secret emotions.",
+        "book_review_link": "",
+        "book_image_height": 216,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385720960.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 140,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Particular-Sadness-Lemon-Cake/dp/0385720963?tag=thenewyorktim-20",
+        "contributor": "by Aimee Bender",
+        "title": "THE PARTICULAR SADNESS OF LEMON CAKE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385501129",
+            "isbn13": "9780385501125"
+          },
+          {
+            "isbn10": "0385720963",
+            "isbn13": "9780385720960"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0373774591",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Diana Palmer",
+        "primary_isbn13": "9780373774593",
+        "description": "A Texas F.B.I. agent falls in love with a woman with a past.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780373775705.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dangerous-Diana-Palmer/dp/0373774591?tag=thenewyorktim-20",
+        "contributor": "by Diana Palmer",
+        "title": "DANGEROUS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373774591",
+            "isbn13": "9780373774593"
+          },
+          {
+            "isbn10": "0373775709",
+            "isbn13": "9780373775705"
+          }
+        ],
+        "publisher": "HQN"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2010-06-06",
+    "previous_published_date": "2010-06-13",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2010-06-27"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

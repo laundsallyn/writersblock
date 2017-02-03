@@ -1,0 +1,869 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2012-12-02",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0805096663",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805096668",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the assassination of John F. Kennedy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805096668.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Killing-Kennedy-The-End-Camelot-ebook/dp/B0079886DY?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING KENNEDY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805096663",
+            "isbn13": "9780805096668"
+          },
+          {
+            "isbn10": "0805096671",
+            "isbn13": "9780805096675"
+          },
+          {
+            "isbn10": "1427226849",
+            "isbn13": "9781427226846"
+          },
+          {
+            "isbn10": "1410452964",
+            "isbn13": "9781410452962"
+          },
+          {
+            "isbn10": "1250092337",
+            "isbn13": "9781250092335"
+          }
+        ],
+        "publisher": "Henry Holt & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451695195",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eben Alexander",
+        "primary_isbn13": "9781451695199",
+        "description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+        "book_review_link": "",
+        "book_image_height": 300,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451695199.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Proof-Heaven-Neurosurgeons-Journey-Afterlife/dp/1451695195?tag=thenewyorktim-20",
+        "contributor": "by Eben Alexander",
+        "title": "PROOF OF HEAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451695187",
+            "isbn13": "9781451695182"
+          },
+          {
+            "isbn10": "1451695195",
+            "isbn13": "9781451695199"
+          },
+          {
+            "isbn10": "1451695209",
+            "isbn13": "9781451695205"
+          },
+          {
+            "isbn10": "1476753024",
+            "isbn13": "9781476753027"
+          },
+          {
+            "isbn10": "1442359315",
+            "isbn13": "9781442359314"
+          },
+          {
+            "isbn10": "1410458806",
+            "isbn13": "9781410458803"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400067669",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jon Meacham",
+        "primary_isbn13": "9781400067664",
+        "description": "The Pulitzer Prize-winning journalist celebrates Jefferson\u2019s skills as a practical politician.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679645368.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Thomas-Jefferson-The-Art-Power-ebook/dp/B0089EHKE8?tag=thenewyorktim-20",
+        "contributor": "by Jon Meacham",
+        "title": "THOMAS JEFFERSON",
+        "sunday_review_link": "//www.nytimes.com/2012/11/11/books/review/thomas-jefferson-the-art-of-power-by-jon-meacham.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400067669",
+            "isbn13": "9781400067664"
+          },
+          {
+            "isbn10": "0679645365",
+            "isbn13": "9780679645368"
+          },
+          {
+            "isbn10": "0307990877",
+            "isbn13": "9780307990877"
+          },
+          {
+            "isbn10": "0739334611",
+            "isbn13": "9780739334614"
+          },
+          {
+            "isbn10": "0812979486",
+            "isbn13": "9780812979480"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805093079",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805093070",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805093070.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 59,
+        "amazon_product_url": "http://www.amazon.com/Killing-Lincoln-Shocking-Assassination-Changed-ebook/dp/B004ULORYU?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING LINCOLN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805093079",
+            "isbn13": "9780805093070"
+          },
+          {
+            "isbn10": "1429996870",
+            "isbn13": "9781429996877"
+          },
+          {
+            "isbn10": "1427213127",
+            "isbn13": "9781427213129"
+          },
+          {
+            "isbn10": "1410443000",
+            "isbn13": "9781410443007"
+          },
+          {
+            "isbn10": "1250012163",
+            "isbn13": "9781250012166"
+          }
+        ],
+        "publisher": "Henry Holt & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525953728",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mark Owen with Kevin Maurer",
+        "primary_isbn13": "9780525953722",
+        "description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+        "book_review_link": "//www.nytimes.com/2012/09/03/books/no-easy-day-by-mark-owen-with-kevin-maurer.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101611302.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/No-Easy-Day-Firsthand-Account/dp/0451468740?tag=thenewyorktim-20",
+        "contributor": "by Mark Owen with Kevin Maurer",
+        "title": "NO EASY DAY",
+        "sunday_review_link": "//www.nytimes.com/2012/10/21/books/review/no-easy-day-by-mark-owen.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953728",
+            "isbn13": "9780525953722"
+          },
+          {
+            "isbn10": "1611761565",
+            "isbn13": "9781611761566"
+          },
+          {
+            "isbn10": "0451468740",
+            "isbn13": "9780451468741"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307986977",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Greg Gutfeld",
+        "primary_isbn13": "9780307986979",
+        "description": "The Fox News Channel host denounces liberal double standards and intolerance masquerading as tolerance.",
+        "book_review_link": "",
+        "book_image_height": 196,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307986962.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Joy-Hate-Triumph-Whiners-ebook/dp/B0086N79M0?tag=thenewyorktim-20",
+        "contributor": "by Greg Gutfeld",
+        "title": "JOY OF HATE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307986969",
+            "isbn13": "9780307986962"
+          },
+          {
+            "isbn10": "0307986977",
+            "isbn13": "9780307986979"
+          }
+        ],
+        "publisher": "Crown Publishing Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0007279752",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cathy Glass",
+        "primary_isbn13": "9780007279753",
+        "description": "An account, first published in 2007, of a foster mother who tries to save a violent and aggressive 8-year-old girl whose parents were involved in a pedophile ring.",
+        "book_review_link": "",
+        "book_image_height": 208,
+        "book_image": "https://s1.nyt.com/du/books/images/9780007279753.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Damaged-Heartbreaking-Story-Forgotten-Child-ebook/dp/B002RI9TWI?tag=thenewyorktim-20",
+        "contributor": "by Cathy Glass",
+        "title": "DAMAGED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0007279752",
+            "isbn13": "9780007279753"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "159420411X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nate Silver",
+        "primary_isbn13": "9781594204111",
+        "description": "An examination of predictions, the ones that come true and the ones that don\u2019t.",
+        "book_review_link": "//www.nytimes.com/2012/10/24/books/nate-silvers-signal-and-the-noise-examines-predictions.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594204111.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 265,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/The-Signal-Noise-Predictions-Fail-but-ebook/dp/B007V65R54?tag=thenewyorktim-20",
+        "contributor": "by Nate Silver",
+        "title": "THE SIGNAL AND THE NOISE",
+        "sunday_review_link": "//www.nytimes.com/2012/11/04/books/review/the-signal-and-the-noise-by-nate-silver.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "159420411X",
+            "isbn13": "9781594204111"
+          },
+          {
+            "isbn10": "0143125087",
+            "isbn13": "9780143125082"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670025291",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ray Kurzweil",
+        "primary_isbn13": "9780670025299",
+        "description": "A new theory of how the thinking part of the brain works can help us create more intelligent machines.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101601105.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0670025291?tag=thenewyorktim-20",
+        "contributor": "by Ray Kurzweil",
+        "title": "HOW TO CREATE A MIND",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670025291",
+            "isbn13": "9780670025299"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0743270754",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Doris Kearns Goodwin",
+        "primary_isbn13": "9780743270755",
+        "description": "The political genius of Abraham Lincoln, revealed in his relationship with his cabinet; originally published in 2005.",
+        "book_review_link": "//www.nytimes.com/2005/10/25/books/25kaku.html",
+        "book_image_height": 180,
+        "book_image": "https://s1.nyt.com/du/books/images/9780743270755.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 119,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0743270754?tag=thenewyorktim-20",
+        "contributor": "by Doris Kearns Goodwin",
+        "title": "TEAM OF RIVALS",
+        "sunday_review_link": "//www.nytimes.com/2005/11/06/books/review/06mcpherson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0743270754",
+            "isbn13": "9780743270755"
+          },
+          {
+            "isbn10": "1451688091",
+            "isbn13": "9781451688092"
+          },
+          {
+            "isbn10": "0684824906",
+            "isbn13": "9780684824901"
+          },
+          {
+            "isbn10": "1416549838",
+            "isbn13": "9781416549833"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451621396",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susannah Cahalan",
+        "primary_isbn13": "9781451621396",
+        "description": "A medical mystery in which doctors struggle to discover why a young reporter suddenly experiences seizures, hallucinations and eventually near catatonia.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451621389.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Brain-Fire-My-Month-Madness/dp/1451621388?tag=thenewyorktim-20",
+        "contributor": "by Susannah Cahalan",
+        "title": "BRAIN ON FIRE",
+        "sunday_review_link": "//www.nytimes.com/2012/12/23/books/review/brain-on-fire-by-susannah-cahalan.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "145162137X",
+            "isbn13": "9781451621372"
+          },
+          {
+            "isbn10": "1451621396",
+            "isbn13": "9781451621396"
+          },
+          {
+            "isbn10": "1611749786",
+            "isbn13": "9781611749786"
+          },
+          {
+            "isbn10": "1451621388",
+            "isbn13": "9781451621389"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316185396",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jake Tapper",
+        "primary_isbn13": "9780316185394",
+        "description": "The story of a deadly Taliban attack on a remote American outpost in Afghanistan in 2009 sheds light on the war.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316215855.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Outpost-Untold-Story-American-ebook/dp/B0076DFC3O?tag=thenewyorktim-20",
+        "contributor": "by Jake Tapper",
+        "title": "THE OUTPOST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316185396",
+            "isbn13": "9780316185394"
+          },
+          {
+            "isbn10": "0316215856",
+            "isbn13": "9780316215855"
+          },
+          {
+            "isbn10": "1619692619",
+            "isbn13": "9781619692619"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0743236718",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Andrew Solomon",
+        "primary_isbn13": "9780743236713",
+        "description": "The difficulties and triumphs of families dealing with exceptional children.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439183106.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Far-From-Tree-Children-Identity-ebook/dp/B007EDOLJ2?tag=thenewyorktim-20",
+        "contributor": "by Andrew Solomon",
+        "title": "FAR FROM THE TREE",
+        "sunday_review_link": "//www.nytimes.com/2012/11/25/books/review/far-from-the-tree-by-andrew-solomon.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0743236718",
+            "isbn13": "9780743236713"
+          },
+          {
+            "isbn10": "1439183104",
+            "isbn13": "9781439183106"
+          },
+          {
+            "isbn10": "0743236726",
+            "isbn13": "9780743236720"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316547700",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "William Manchester and Paul Reid",
+        "primary_isbn13": "9780316547703",
+        "description": "A biography of Winston Churchill, reaching from World War II until his death in 1965.",
+        "book_review_link": "//www.nytimes.com/1983/05/25/books/books-of-the-times-188171.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316244855.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Last-Lion-Churchill-1940-1965-ebook/dp/B0076DEPUK?tag=thenewyorktim-20",
+        "contributor": "by William Manchester and Paul Reid",
+        "title": "LAST LION",
+        "sunday_review_link": "//www.nytimes.com/2012/12/23/books/review/the-last-lion-by-william-manchester-and-paul-reid.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316547700",
+            "isbn13": "9780316547703"
+          },
+          {
+            "isbn10": "0385313314",
+            "isbn13": "9780385313315"
+          },
+          {
+            "isbn10": "0316222143",
+            "isbn13": "9780316222143"
+          },
+          {
+            "isbn10": "0316244856",
+            "isbn13": "9780316244855"
+          },
+          {
+            "isbn10": "0385313489",
+            "isbn13": "9780385313483"
+          },
+          {
+            "isbn10": "0316545031",
+            "isbn13": "9780316545037"
+          },
+          {
+            "isbn10": "1470819538",
+            "isbn13": "9781470819538"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400064163",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9781400064168",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 95,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0849946158",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849946158",
+        "description": "A 3-year-old\u2019s encounter with Jesus during an appendectomy; the basis of the movie.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451613512",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Oliver Stone and Peter Kuznick",
+        "primary_isbn13": "9781451613513",
+        "description": "The rise and decline of the American empire.",
+        "book_review_link": "",
+        "book_image_height": 350,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451613513.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 234,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Untold-History-United-States-ebook/dp/B0043RSK3K?tag=thenewyorktim-20",
+        "contributor": "by Oliver Stone and Peter Kuznick",
+        "title": "THE UNTOLD HISTORY OF THE UNITED STATES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451613512",
+            "isbn13": "9781451613513"
+          },
+          {
+            "isbn10": "1451616449",
+            "isbn13": "9781451616446"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030740885X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780307408853",
+        "description": "This portrait of Berlin during the rise of the Nazis centers on William E. Dodd, the U.S. ambassador to Germany, and his daughter, Martha.",
+        "book_review_link": "//www.nytimes.com/2011/05/20/books/in-the-garden-of-beasts-by-erik-larson-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307887955.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/In-Garden-Beasts-American-Hitlers-ebook/dp/B004HFRJM6?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "IN THE GARDEN OF BEASTS",
+        "sunday_review_link": "//www.nytimes.com/2011/06/12/books/review/book-review-in-the-garden-of-beasts-by-erik-larson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307408841",
+            "isbn13": "9780307408846"
+          },
+          {
+            "isbn10": "0307887952",
+            "isbn13": "9780307887955"
+          },
+          {
+            "isbn10": "0739378147",
+            "isbn13": "9780739378144"
+          },
+          {
+            "isbn10": "0307914577",
+            "isbn13": "9780307914576"
+          },
+          {
+            "isbn10": "030740885X",
+            "isbn13": "9780307408853"
+          },
+          {
+            "isbn10": "1446464504",
+            "isbn13": "9781446464502"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439191824",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Peter Ames Carlin",
+        "primary_isbn13": "9781439191828",
+        "description": "A biography of Bruce Springsteen traces his climb from a working- class childhood to success and fame.",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439191842.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Bruce-Peter-Ames-Carlin-ebook/dp/B007EDOL92?tag=thenewyorktim-20",
+        "contributor": "by Peter Ames Carlin",
+        "title": "BRUCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439191824",
+            "isbn13": "9781439191828"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307957241",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Oliver Sacks",
+        "primary_isbn13": "9780307957245",
+        "description": "The renowned neurologist considers his patients\u2019 hallucinatory experiences, and his own.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 176,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307957252.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Hallucinations-Oliver-Sacks-ebook/dp/B0082XLY6G?tag=thenewyorktim-20",
+        "contributor": "by Oliver Sacks",
+        "title": "HALLUCINATIONS",
+        "sunday_review_link": "//www.nytimes.com/2012/12/30/books/review/hallucinations-by-oliver-sacks.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307957241",
+            "isbn13": "9780307957245"
+          },
+          {
+            "isbn10": "030795725X",
+            "isbn13": "9780307957252"
+          },
+          {
+            "isbn10": "0307947432",
+            "isbn13": "9780307947437"
+          },
+          {
+            "isbn10": "0307967328",
+            "isbn13": "9780307967329"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2012-11-17",
+    "previous_published_date": "2012-11-25",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2012-12-09"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,797 @@
+{
+  "num_results": 20,
+  "last_modified": "2016-06-17T09:38:02-04:00",
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "results": {
+    "books": [
+      {
+        "sunday_review_link": "",
+        "contributor": "by Stephen King",
+        "book_review_link": "//www.nytimes.com/2016/06/12/books/review/stephen-kings-end-of-watch.html",
+        "publisher": "Scribner",
+        "isbns": [
+          {
+            "isbn13": "9781501129742",
+            "isbn10": "1501129740"
+          },
+          {
+            "isbn13": "9781501134159",
+            "isbn10": "1501134159"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "The conclusion of the Bill Hodges trilogy.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781501134159.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781501129742",
+        "contributor_note": "",
+        "rank": 1,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1501129740",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/End-Watch-Novel-Hodges-Trilogy-ebook/dp/B0167CNCFY?tag=thenewyorktim-20",
+        "title": "END OF WATCH",
+        "author": "Stephen King"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2013/01/06/books/review/me-before-you-by-jojo-moyes.html",
+        "contributor": "by Jojo Moyes",
+        "book_review_link": "",
+        "publisher": "Penguin",
+        "isbns": [
+          {
+            "isbn13": "9780670026609",
+            "isbn10": "0670026603"
+          },
+          {
+            "isbn13": "9780143124542",
+            "isbn10": "0143124544"
+          },
+          {
+            "isbn13": "9781594137396",
+            "isbn10": "1594137390"
+          },
+          {
+            "isbn13": "9780143109464",
+            "isbn10": "0143109464"
+          },
+          {
+            "isbn13": "9780143130154",
+            "isbn10": "0143130153"
+          }
+        ],
+        "weeks_on_list": 19,
+        "dagger": 0,
+        "description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780143124542.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 1,
+        "primary_isbn13": "9781101606377",
+        "contributor_note": "",
+        "rank": 2,
+        "book_image_width": 326,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Me-Before-You-A-Novel/dp/0143124544?tag=thenewyorktim-20",
+        "title": "ME BEFORE YOU",
+        "author": "Jojo Moyes"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by James Patterson",
+        "book_review_link": "",
+        "publisher": "Little, Brown",
+        "isbns": [
+          {
+            "isbn13": "9780316317146",
+            "isbn10": "0316317144"
+          },
+          {
+            "isbn13": "9780316360623",
+            "isbn10": "0316360627"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "Alex Cross thinks he's seeing things when a killer thought long dead returns to action.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316360623.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780316360623",
+        "contributor_note": "",
+        "rank": 3,
+        "book_image_width": 357,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0316360627",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Cross-Kill-Alex-Story-BookShots-ebook/dp/B01C37XFY0?tag=thenewyorktim-20",
+        "title": "CROSS KILL",
+        "author": "James Patterson"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Stuart Woods",
+        "book_review_link": "",
+        "publisher": "Putnam",
+        "isbns": [
+          {
+            "isbn13": "9780399573910",
+            "isbn10": "0399573917"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "The New York lawyer Stone Barrington and his latest girlfriend are pursued by her ex-husband, who has connections with the Russian mob.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399573910.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780399573934",
+        "contributor_note": "",
+        "rank": 4,
+        "book_image_width": 334,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Dishonorable-Intentions-Stone-Barrington-Novel/dp/0399573917?tag=thenewyorktim-20",
+        "title": "DISHONORABLE INTENTIONS",
+        "author": "Stuart Woods"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Jojo Moyes",
+        "book_review_link": "",
+        "publisher": "Pamela Dorman/Viking",
+        "isbns": [
+          {
+            "isbn13": "9780525426592",
+            "isbn10": "0525426590"
+          },
+          {
+            "isbn13": "9780698152045",
+            "isbn10": "0698152042"
+          }
+        ],
+        "weeks_on_list": 8,
+        "dagger": 0,
+        "description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698152045.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 6,
+        "primary_isbn13": "9780698152045",
+        "contributor_note": "",
+        "rank": 5,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0698152042",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/After-You-Novel-Jojo-Moyes/dp/0525426590?tag=thenewyorktim-20",
+        "title": "AFTER YOU",
+        "author": "Jojo Moyes"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Brad Meltzer and Tod Goldberg",
+        "book_review_link": "",
+        "publisher": "Grand Central",
+        "isbns": [
+          {
+            "isbn13": "9781455559497",
+            "isbn10": "1455559490"
+          },
+          {
+            "isbn13": "9781455559503",
+            "isbn10": "1455559504"
+          },
+          {
+            "isbn13": "9781455566150",
+            "isbn10": "1455566152"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "The host of a conspiracy TV show is dead, his daughter injured and in the grip of amnesia.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455559503.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781455559503",
+        "contributor_note": "",
+        "rank": 6,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1455559504",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/House-Secrets-Brad-Meltzer-ebook/dp/B016JC0SKY?tag=thenewyorktim-20",
+        "title": "THE HOUSE OF SECRETS",
+        "author": "Brad Meltzer and Tod Goldberg"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Noah Hawley",
+        "book_review_link": "//www.nytimes.com/2016/06/05/books/review/noah-hawleys-before-the-fall.html",
+        "publisher": "Grand Central",
+        "isbns": [
+          {
+            "isbn13": "9781455561780",
+            "isbn10": "1455561789"
+          },
+          {
+            "isbn13": "9781455566143",
+            "isbn10": "1455566144"
+          },
+          {
+            "isbn13": "9781455561803",
+            "isbn10": "1455561800"
+          },
+          {
+            "isbn13": "9781455568550",
+            "isbn10": "1455568554"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "description": "After a private jet crashes, a firestorm of media madness ensues.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455561803.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 4,
+        "primary_isbn13": "9781455561803",
+        "contributor_note": "",
+        "rank": 7,
+        "book_image_width": 332,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1455561800",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Before-Fall-Noah-Hawley-ebook/dp/B0151YQUTE?tag=thenewyorktim-20",
+        "title": "BEFORE THE FALL",
+        "author": "Noah Hawley"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "contributor": "by Paula Hawkins",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html",
+        "publisher": "Riverhead",
+        "isbns": [
+          {
+            "isbn13": "9781594633669",
+            "isbn10": "1594633665"
+          },
+          {
+            "isbn13": "9780698185395",
+            "isbn10": "0698185390"
+          },
+          {
+            "isbn13": "9781410477767",
+            "isbn10": "1410477762"
+          },
+          {
+            "isbn13": "9780857522320",
+            "isbn10": "0857522329"
+          },
+          {
+            "isbn13": "9781448171682",
+            "isbn10": "1448171687"
+          },
+          {
+            "isbn13": "9781594634123",
+            "isbn10": "1594634122"
+          },
+          {
+            "isbn13": "9780385682312",
+            "isbn10": "038568231X"
+          },
+          {
+            "isbn13": "9781594634024",
+            "isbn10": "1594634025"
+          }
+        ],
+        "weeks_on_list": 68,
+        "dagger": 0,
+        "description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 11,
+        "primary_isbn13": "9781594633669",
+        "contributor_note": "",
+        "rank": 8,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1594633665",
+        "book_image_height": 193,
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "title": "THE GIRL ON THE TRAIN",
+        "author": "Paula Hawkins"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Clive Cussler and Boyd Morrison",
+        "book_review_link": "",
+        "publisher": "Putnam",
+        "isbns": [
+          {
+            "isbn13": "9780399175961",
+            "isbn10": "0399175962"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "description": "Juan Cabrillo teams up with a former C.I.A. colleague to thwart a plan involving the death of millions and international economic meltdown.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399175961.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 2,
+        "primary_isbn13": "9780399175961",
+        "contributor_note": "",
+        "rank": 9,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0399175962",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Emperors-Revenge-Oregon-Files/dp/0399175962?tag=thenewyorktim-20",
+        "title": "THE EMPEROR'S REVENGE",
+        "author": "Clive Cussler and Boyd Morrison"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by James Patterson with Max DiLallo",
+        "book_review_link": "",
+        "publisher": "Little, Brown",
+        "isbns": [
+          {
+            "isbn13": "9780316317122",
+            "isbn10": "0316317128"
+          },
+          {
+            "isbn13": "9780316360579",
+            "isbn10": "0316360570"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "Human mutation proves a curse and a blessing after another siege of beasts.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316360579.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780316317122",
+        "contributor_note": "",
+        "rank": 10,
+        "book_image_width": 357,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0316317128",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Zoo-2-BookShots-James-Patterson-ebook/dp/B01C37XFXQ?tag=thenewyorktim-20",
+        "title": "ZOO 2",
+        "author": "James Patterson with Max DiLallo"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "book_review_link": "",
+        "publisher": "Little, Brown",
+        "isbns": [
+          {
+            "isbn13": "9780316407076",
+            "isbn10": "0316407070"
+          },
+          {
+            "isbn13": "9780316290036",
+            "isbn10": "0316290033"
+          },
+          {
+            "isbn13": "9780316290050",
+            "isbn10": "031629005X"
+          }
+        ],
+        "weeks_on_list": 6,
+        "dagger": 0,
+        "description": "When a brutal murder threatens the domestic happiness of the San Francisco police detective Lindsay Boxer, she turns for help to the Women\u2019s Murder Club.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316407076.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 7,
+        "primary_isbn13": "9780316290050",
+        "contributor_note": "",
+        "rank": 11,
+        "book_image_width": 323,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "031629005X",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/15th-Affair-Womens-Murder-Club/dp/0316407070?tag=thenewyorktim-20",
+        "title": "15TH AFFAIR",
+        "author": "James Patterson and Maxine Paetro"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by David Baldacci",
+        "book_review_link": "",
+        "publisher": "Grand Central",
+        "isbns": [
+          {
+            "isbn13": "9781455586455",
+            "isbn10": "1455586455"
+          },
+          {
+            "isbn13": "9781455586486",
+            "isbn10": "145558648X"
+          },
+          {
+            "isbn13": "9781455566020",
+            "isbn10": "1455566020"
+          }
+        ],
+        "weeks_on_list": 8,
+        "dagger": 0,
+        "description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455586455.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 9,
+        "primary_isbn13": "9781455586486",
+        "contributor_note": "",
+        "rank": 12,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "145558648X",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Last-Mile-Amos-Decker-ebook/dp/B016JC0THQ?tag=thenewyorktim-20",
+        "title": "THE LAST MILE",
+        "author": "David Baldacci"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Mary Kay Andrews",
+        "book_review_link": "",
+        "publisher": "St. Martin's",
+        "isbns": [
+          {
+            "isbn13": "9781250065940",
+            "isbn10": "1250065941"
+          },
+          {
+            "isbn13": "9781250107060",
+            "isbn10": "1250107067"
+          },
+          {
+            "isbn13": "9781466872929",
+            "isbn10": "1466872926"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "description": "On North Carolina\u2019s Belle Isle, a woman investigates her husband\u2019s shady financial affairs after his mysterious death.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466872929.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 10,
+        "primary_isbn13": "9781466872929",
+        "contributor_note": "",
+        "rank": 13,
+        "book_image_width": 330,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1466872926",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Weekenders-Novel-Mary-Kay-Andrews-ebook/dp/B0177626W4?tag=thenewyorktim-20",
+        "title": "THE WEEKENDERS",
+        "author": "Mary Kay Andrews"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Nora Roberts",
+        "book_review_link": "",
+        "publisher": "Putnam",
+        "isbns": [
+          {
+            "isbn13": "9780399164453",
+            "isbn10": "0399164456"
+          },
+          {
+            "isbn13": "9781101617281",
+            "isbn10": "1101617284"
+          },
+          {
+            "isbn13": "9780399171086",
+            "isbn10": "0399171088"
+          },
+          {
+            "isbn13": "9780425278314",
+            "isbn10": "042527831X"
+          },
+          {
+            "isbn13": "9780515154122",
+            "isbn10": "0515154121"
+          }
+        ],
+        "weeks_on_list": 7,
+        "dagger": 0,
+        "description": "A freelance writer who may have witnessed a murder-suicide joins the dead man\u2019s brother to learn what happened.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101617281.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780515154122",
+        "contributor_note": "",
+        "rank": 14,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0515154121",
+        "book_image_height": 194,
+        "amazon_product_url": "http://www.amazon.com/The-Collector-Nora-Roberts/dp/0399164456?tag=thenewyorktim-20",
+        "title": "THE COLLECTOR",
+        "author": "Nora Roberts"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Fredrik Backman",
+        "book_review_link": "",
+        "publisher": "Washington Square",
+        "isbns": [
+          {
+            "isbn13": "9781476738024",
+            "isbn10": "1476738025"
+          },
+          {
+            "isbn13": "9781476738017",
+            "isbn10": "1476738017"
+          },
+          {
+            "isbn13": "9781594139833",
+            "isbn10": "1594139830"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476738024.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 13,
+        "primary_isbn13": "9781476738024",
+        "contributor_note": "",
+        "rank": 15,
+        "book_image_width": 321,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1476738025",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Man-Called-Ove-Novel/dp/1476738025?tag=thenewyorktim-20",
+        "title": "A MAN CALLED OVE",
+        "author": "Fredrik Backman"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Lisa Kleypas",
+        "book_review_link": "",
+        "publisher": "Avon",
+        "isbns": [
+          {
+            "isbn13": "9780062371850",
+            "isbn10": "0062371851"
+          },
+          {
+            "isbn13": "9780062371843",
+            "isbn10": "0062371843"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "The marriage of a cunning London tycoon to a shy, beautiful woman invites a conspiracy against them and the revelation of a dark secret.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062371850.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780062371850",
+        "contributor_note": "",
+        "rank": 16,
+        "book_image_width": 310,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0062371851",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Marrying-Winterborne-Lisa-Kleypas/dp/0062371851?tag=thenewyorktim-20",
+        "title": "MARRYING WINTERBORNE",
+        "author": "Lisa Kleypas"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Stephanie Dray and Laura Kamoie",
+        "book_review_link": "",
+        "publisher": "Morrow/HarperCollins",
+        "isbns": [
+          {
+            "isbn13": "9780062347275",
+            "isbn10": "0062347276"
+          },
+          {
+            "isbn13": "9780062347268",
+            "isbn10": "0062347268"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "The story of Patsy Jefferson, the oldest daughter in Thomas's brood.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062347275.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780062347275",
+        "contributor_note": "",
+        "rank": 17,
+        "book_image_width": 332,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0062347276",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Americas-First-Daughter-Stephanie-Dray-ebook/dp/B00ZP4KE70?tag=thenewyorktim-20",
+        "title": "AMERICA'S FIRST DAUGHTER",
+        "author": "Stephanie Dray and Laura Kamoie"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Dorothea Benton Frank",
+        "book_review_link": "",
+        "publisher": "Morrow/HarperCollins",
+        "isbns": [
+          {
+            "isbn13": "9780062390752",
+            "isbn10": "0062390759"
+          },
+          {
+            "isbn13": "9780062390776",
+            "isbn10": "0062390775"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "A successful interior decorator balks at retiring with her husband to South Carolina.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062390776.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780062390752",
+        "contributor_note": "",
+        "rank": 18,
+        "book_image_width": 330,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0062390759",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Summer-Long-Dorothea-Benton-Frank-ebook/dp/B015MOCRMC?tag=thenewyorktim-20",
+        "title": "ALL SUMMER LONG",
+        "author": "Dorothea Benton Frank"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Kristin Hannah",
+        "book_review_link": "",
+        "publisher": "St. Martin's",
+        "isbns": [
+          {
+            "isbn13": "9780312577223",
+            "isbn10": "0312577222"
+          },
+          {
+            "isbn13": "9781466850606",
+            "isbn10": "1466850604"
+          },
+          {
+            "isbn13": "9781628995015",
+            "isbn10": "1628995017"
+          },
+          {
+            "isbn13": "9781250080400",
+            "isbn10": "1250080401"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781466850606",
+        "contributor_note": "",
+        "rank": 19,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1466850604",
+        "book_image_height": 195,
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "title": "THE NIGHTINGALE",
+        "author": "Kristin Hannah"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Terry McMillan",
+        "book_review_link": "//www.nytimes.com/2016/07/03/books/review/terry-mcmillan-i-almost-forgot-about-you.html",
+        "publisher": "Crown/Archetype",
+        "isbns": [
+          {
+            "isbn13": "9781101902578",
+            "isbn10": "1101902574"
+          },
+          {
+            "isbn13": "9781101902585",
+            "isbn10": "1101902582"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "A middle-aged optometrist, twice divorced and tired of her work, decides to reinvent her life.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101902578.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781101902578",
+        "contributor_note": "",
+        "rank": 20,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1101902574",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Almost-Forgot-About-You-Novel/dp/1101902574?tag=thenewyorktim-20",
+        "title": "I ALMOST FORGOT ABOUT YOU",
+        "author": "Terry McMillan"
+      }
+    ],
+    "list_name": "Combined Print and E-Book Fiction",
+    "updated": "WEEKLY",
+    "corrections": [],
+    "published_date_description": "",
+    "normal_list_ends_at": 15,
+    "previous_published_date": "2016-06-19",
+    "published_date": "2016-06-26",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "bestsellers_date": "2016-06-11",
+    "next_published_date": "2016-07-03",
+    "display_name": "Combined Print & E-Book Fiction"
+  },
+  "status": "OK"
+}

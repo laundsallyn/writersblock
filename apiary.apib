@@ -1,0 +1,156 @@
+FORMAT: 1A
+HOST: http://writerblocks.me
+
+# Writer Blocks API
+
+Writer Blocks API is a simple API for retriving information on New York Times best-selling books. This includes the books, authors, publishers and series data.
+
+## Book Collection [/api/books]
+
+### List All Books [GET]
+
+This will return a list of all the titles of the books in the database.
+
++ Response 200 (application/json)
+
+        [
+        "The Hobbit", 
+        "The Return of the King", 
+        "The Fellowship of the Ring", 
+        "The Two Towers", 
+        "1Q84, #1-3", 
+        "Crime and Punishment", 
+        "Notes from Underground", 
+        "War and Peace"
+        ]
+
+### Get a Specific Book [GET /api/books{?id}{?title}{?isbn}]
+
+Search for a book using either its unique ID, its Title or its ISBN number. If no parameters are set, list of all names of books will be returned.
+
++ Parameters
+    + id: None (optional, number) - The unique ID of the book in the database.
+    + title: None (optional, string) - The title of the book.
+    + isbn: None (optional, string) - The 13-digit ISBN of a book. 
+    
++ Response 200 (application/json)
+
+        {
+            "author": 
+                ["J. R. R. Tolkien"], 
+            "isbn": "0618260307", 
+            "publisher": "Houghton Mifflin Harcourt", 
+            "title": "The Hobbit"
+        }
+          
+## Author Collection [/api/authors]
+
+### List All Authors [GET]
+
+This will return a list of all the names of the authors in the database.
+
++ Response 200 (application/json)
+
+        [
+        "J. R. R. Tolkien", 
+        "Haruki Murakami", 
+        "Fyodor Dostoyevsky", 
+        "Leo Tolstoy", 
+        "John Keats"
+        ]
+
+### Get a Specific Author [GET /api/authors/{?id}{?name}]
+
+Search for a specific author using his/her unique ID or name. If no parameters are set, list of all names of the authors will be returned.
+
+
++ Parameters
+    + id: None (optional, number) - The unique ID of the author in the database.
+    + name: Tina Fey (optional, string) - The name of the author. Capitalize first letters of each name.
+
++ Response 200 (application/json)
+
+        {
+            "books_written":
+                [
+                ],
+            "date_of_birth": "1892-01-03", 
+            "name": "J. R. R. Tolkien", 
+            "nationality": "British", 
+            "occupation": "Philologist"
+            "series_written":
+                [
+                ]
+        }
+
+## Publisher Collection [/api/publishers]
+
+### List All Publishers [GET]
+
+This will return a list of all the names of the publishers in the database.
+
++ Response 200 (application/json) 
+
+        [
+        "Del Rey", 
+        "Houghton Mifflin Harcourt", 
+        "Knopf", 
+        "Oxford University Press", 
+        "Penguin", 
+        "Vintage"
+        ]
+
+### Get a Specific Publisher [GET /api/publishers{?id}{?name}]
+
+Search for a specific publisher using its unique ID or name. If no parameters are set, list of all names of publishers will be returned.
+
++ Parameters
+    + id: None (optional, number) - The unique ID of the publisher in the database.
+    + name: None (optional, string) - The name of the publisher.
+
++ Response 200 (application/json)
+
+        {
+            "country": "United States", 
+            "founder": "Henry Oscar Houghton", 
+            "name": "Houghton Mifflin Harcourt", 
+            "status": "Active", 
+            "year_founded": " "
+            "published_books": 
+                [
+                ]
+        }
+
+## Series Collection [/api/series]
+
+### List All Series [GET]
+
+This will return a list of all the titles of the series.
+
++ Response 200 (application/json)
+
+        [
+        "The Lord of the Rings", 
+        "1Q84"
+        ]
+
+### Get a Specific Series [GET /api/series{?id}{?title}]
+
+Search for a specific series using its unique ID or name. If no parameters are set, list of all titles of serires will be returned.
+
++ Parameters
+    + id: None (optional, number) - The unique ID of the series in the database.
+    + title: None (optional, string) - The title of the series.
+
++ Response 200 (application/json)
+
+        {
+            "author": ["J. R. R. Tolkien"], 
+            "genre": "Epic", 
+            "num_books": 3, 
+            "status": 1, 
+            "title": "The Lord of the Rings"
+            "books_in_series":
+                [
+                ]
+        }

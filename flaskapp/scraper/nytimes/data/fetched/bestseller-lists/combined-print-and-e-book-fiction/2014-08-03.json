@@ -1,0 +1,817 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2014-08-03",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0698163478",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Deborah Harkness",
+        "primary_isbn13": "9780698163478",
+        "description": "In the conclusion to the All Souls trilogy, the Oxford scholar/witch Diana Bishop and the vampire geneticist Matthew Clairmont return from Elizabethan London to the present.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698163478.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Book-Life-Novel-Trilogy/dp/0670025593?tag=thenewyorktim-20",
+        "contributor": "by Deborah Harkness",
+        "title": "THE BOOK OF LIFE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670025593",
+            "isbn13": "9780670025596"
+          },
+          {
+            "isbn10": "0698163478",
+            "isbn13": "9780698163478"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Silva",
+        "primary_isbn13": "9780062320070",
+        "description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, must track down a famous missing painting by Caravaggio.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062320070.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 344,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Heist-Novel-Gabriel-Allon/dp/006232005X?tag=thenewyorktim-20",
+        "contributor": "by Daniel Silva",
+        "title": "THE HEIST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "006232005X",
+            "isbn13": "9780062320056"
+          },
+          {
+            "isbn10": "0062320068",
+            "isbn13": "9780062320063"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0698154088",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780698154087",
+        "description": "Complications abound as the New York lawyer Stone Barrington attends a political convention in Los Angeles.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399169113.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Thrust-Stone-Barrington-Novels-Book-ebook/dp/B00G3L6MVG?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "CUT AND THRUST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399169113",
+            "isbn13": "9780399169113"
+          },
+          {
+            "isbn10": "0698154088",
+            "isbn13": "9780698154087"
+          },
+          {
+            "isbn10": "045147306X",
+            "isbn13": "9780451473066"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588378",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588371",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 86,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and David Ellis",
+        "primary_isbn13": "9780316405409",
+        "description": "Searching for her sister\u2019s killer, a former F.B.I. researcher finds a link between scores of unsolved cases.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316405409.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Invisible-James-Patterson-ebook/dp/B00FPQA7O8?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and David Ellis",
+        "title": "INVISIBLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316405345",
+            "isbn13": "9780316405348"
+          },
+          {
+            "isbn10": "0316405388",
+            "isbn13": "9780316405386"
+          },
+          {
+            "isbn10": "0316295299",
+            "isbn13": "9780316295291"
+          },
+          {
+            "isbn10": "1455585033",
+            "isbn13": "9781455585038"
+          },
+          {
+            "isbn10": "1455585025",
+            "isbn13": "9781455585021"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Thor",
+        "primary_isbn13": "9781476717142",
+        "description": "The counterterrorism operative Scot Harvath undertakes two dangerous missions as America faces an imminent attack.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476717142.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 320,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Act-War-Thriller-Brad-Thor/dp/1476717125?tag=thenewyorktim-20",
+        "contributor": "by Brad Thor",
+        "title": "ACT OF WAR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476717125",
+            "isbn13": "9781476717128"
+          },
+          {
+            "isbn10": "1410470997",
+            "isbn13": "9781410470997"
+          },
+          {
+            "isbn10": "1476717133",
+            "isbn13": "9781476717135"
+          }
+        ],
+        "publisher": "Emily Bestler/Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316248679",
+        "description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 39,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345542940",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich",
+        "primary_isbn13": "9780345542946",
+        "description": "The New Jersey bounty hunter Stephanie Plum pursues a dealer who sells more than used cars.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345542946.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Top-Secret-Twenty-One-Stephanie-Novel-ebook/dp/B00H1294XO?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich",
+        "title": "TOP SECRET TWENTY-ONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345542924",
+            "isbn13": "9780345542922"
+          },
+          {
+            "isbn10": "0345542940",
+            "isbn13": "9780345542946"
+          },
+          {
+            "isbn10": "0385363222",
+            "isbn13": "9780385363228"
+          },
+          {
+            "isbn10": "0345542932",
+            "isbn13": "9780345542939"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christina Baker Kline",
+        "primary_isbn13": "9780062101204",
+        "description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062101204.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 26,
+        "amazon_product_url": "http://www.amazon.com/Orphan-Train-Christina-Baker-Kline-ebook/dp/B0089LOG02?tag=thenewyorktim-20",
+        "contributor": "by Christina Baker Kline",
+        "title": "ORPHAN TRAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061950726",
+            "isbn13": "9780061950728"
+          },
+          {
+            "isbn10": "1594137374",
+            "isbn13": "9781594137372"
+          },
+          {
+            "isbn10": "0606356649",
+            "isbn13": "9780606356640"
+          },
+          {
+            "isbn10": "006195070X",
+            "isbn13": "9780061950704"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert Galbraith",
+        "primary_isbn13": "9780316206914",
+        "description": "The private detective Cormoran Strike steps in when the author of a roman \u00e0 clef set in literary London is murdered; by J.\u2009K. Rowling, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316206914.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Silkworm-Cormoran-Strike-Novel-ebook/dp/B00IJJUIOM?tag=thenewyorktim-20",
+        "contributor": "by Robert Galbraith",
+        "title": "THE SILKWORM",
+        "sunday_review_link": "//www.nytimes.com/2014/06/29/books/review/the-silkworm-by-j-k-rowling-as-robert-galbraith.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316206873",
+            "isbn13": "9780316206877"
+          },
+          {
+            "isbn10": "0316410713",
+            "isbn13": "9780316410717"
+          }
+        ],
+        "publisher": "Mulholland/Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250020530",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Iris Johansen and Roy Johansen",
+        "primary_isbn13": "9781250020536",
+        "description": "The investigator Kendra Michaels employs her highly developed senses to deal with an admirer who is also her most ruthless enemy.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250020529.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Sight-Unseen-Iris-Johansen-ebook/dp/B00HP1LVJG?tag=thenewyorktim-20",
+        "contributor": "by Iris Johansen and Roy Johansen",
+        "title": "SIGHT UNSEEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250020522",
+            "isbn13": "9781250020529"
+          },
+          {
+            "isbn10": "1250020530",
+            "isbn13": "9781250020536"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Catherine Coulter",
+        "primary_isbn13": "9780698165786",
+        "description": "The F.B.I. agents Dillon Savich and Lacey Sherlock are out to discover who is trying to kill the ambassador to Britain.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698165786.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Power-Play-FBI-Thriller-Book-ebook/dp/B00G3L0ZVY?tag=thenewyorktim-20",
+        "contributor": "by Catherine Coulter",
+        "title": "POWER PLAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157344",
+            "isbn13": "9780399157349"
+          },
+          {
+            "isbn10": "0515155438",
+            "isbn13": "9780515155433"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "055339438X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tracy Wolff",
+        "primary_isbn13": "9780553394382",
+        "description": "As Chloe Girard discovers, there\u2019s love, and then there\u2019s addiction; an Ethan Frost novel.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553394382.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Addicted-An-Ethan-Frost-Novel-ebook/dp/B00IHMEBR6?tag=thenewyorktim-20",
+        "contributor": "by Tracy Wolff",
+        "title": "ADDICTED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "055339438X",
+            "isbn13": "9780553394382"
+          }
+        ],
+        "publisher": "Loveswept/Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476710813",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Lee Burke",
+        "primary_isbn13": "9781476710815",
+        "description": "A man\u2019s life is traced over decades, starting with his encounter, at age 16, with Bonnie and Clyde.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476710815.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Wayfaring-Stranger-James-Lee-Burke-ebook/dp/B00HB62NII?tag=thenewyorktim-20",
+        "contributor": "by James Lee Burke",
+        "title": "WAYFARING STRANGER",
+        "sunday_review_link": "//www.nytimes.com/2014/08/17/books/review/wayfaring-stranger-by-james-lee-burke.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476710791",
+            "isbn13": "9781476710792"
+          },
+          {
+            "isbn10": "1476710813",
+            "isbn13": "9781476710815"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476754462",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781476754468",
+        "description": "A driver plows into a crowd at a job fair, killing eight. The killer then taunts a suicidal ex-cop, who must stop a deadlier attack.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476754468.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Mr-Mercedes-Novel-Stephen-King-ebook/dp/B00GEEB52S?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "MR. MERCEDES",
+        "sunday_review_link": "//www.nytimes.com/2014/06/08/books/review/stephen-kings-mr-mercedes.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476754454",
+            "isbn13": "9781476754451"
+          },
+          {
+            "isbn10": "1476754462",
+            "isbn13": "9781476754468"
+          },
+          {
+            "isbn10": "141046900X",
+            "isbn13": "9781410469007"
+          },
+          {
+            "isbn10": "1476754470",
+            "isbn13": "9781476754475"
+          },
+          {
+            "isbn10": "1501125605",
+            "isbn13": "9781501125607"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Taylor",
+        "primary_isbn13": "9780698159815",
+        "description": "The Taskforce must stop a weapon of mass destruction under the control of an extreme Islamic sect; a Pike Logan thriller.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698159815.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Days-Rage-Pike-Logan-Thriller-ebook/dp/B00G3L131K?tag=thenewyorktim-20",
+        "contributor": "by Brad Taylor",
+        "title": "DAYS OF RAGE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953981",
+            "isbn13": "9780525953982"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0743290062",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sandra Brown",
+        "primary_isbn13": "9780743290067",
+        "description": "A successful magazine editor is trapped in her remote cabin with a man believed to be a serial killer; first published in 2005.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780743290067.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 432,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Chill-Factor-Novel-Sandra-Brown/dp/0743572076?tag=thenewyorktim-20",
+        "contributor": "by Sandra Brown",
+        "title": "CHILL FACTOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0743290062",
+            "isbn13": "9780743290067"
+          },
+          {
+            "isbn10": "0743572076",
+            "isbn13": "9780743572071"
+          },
+          {
+            "isbn10": "0743466772",
+            "isbn13": "9780743466776"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anthony Doerr",
+        "primary_isbn13": "9781476746609",
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II. \u00a0",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "contributor": "by Anthony Doerr",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451617801",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jennifer Weiner",
+        "primary_isbn13": "9781451617801",
+        "description": "A woman becomes addicted to pain medication.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451617801.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/All-Fall-Down-A-Novel-ebook/dp/B00DPM909W?tag=thenewyorktim-20",
+        "contributor": "by Jennifer Weiner",
+        "title": "ALL FALL DOWN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "145161778X",
+            "isbn13": "9781451617788"
+          },
+          {
+            "isbn10": "1451617801",
+            "isbn13": "9781451617801"
+          },
+          {
+            "isbn10": "1451617798",
+            "isbn13": "9781451617795"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "C J Box",
+        "primary_isbn13": "9780698170674",
+        "description": "The stories in this first collection, four of them featuring Box\u2019s character Joe Pickett, are set in Wyoming.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698170674.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Shots-Fired-Stories-Pickett-Country-ebook/dp/B00GSBM4VI?tag=thenewyorktim-20",
+        "contributor": "by C. J. Box",
+        "title": "SHOTS FIRED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158588",
+            "isbn13": "9780399158582"
+          }
+        ],
+        "publisher": "Putnam"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2014-07-19",
+    "previous_published_date": "2014-07-27",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2014-08-10"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,923 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2015-03-08",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0698185390",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Paula Hawkins",
+        "primary_isbn13": "9780698185395",
+        "description": "A psychological thriller set in London is full of complications and betrayals.",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "contributor": "by Paula Hawkins",
+        "title": "THE GIRL ON THE TRAIN",
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594633665",
+            "isbn13": "9781594633669"
+          },
+          {
+            "isbn10": "0698185390",
+            "isbn13": "9780698185395"
+          },
+          {
+            "isbn10": "1410477762",
+            "isbn13": "9781410477767"
+          },
+          {
+            "isbn10": "0857522329",
+            "isbn13": "9780857522320"
+          },
+          {
+            "isbn10": "1448171687",
+            "isbn13": "9781448171682"
+          },
+          {
+            "isbn10": "1594634122",
+            "isbn13": "9781594634123"
+          },
+          {
+            "isbn10": "038568231X",
+            "isbn13": "9780385682312"
+          },
+          {
+            "isbn10": "1594634025",
+            "isbn13": "9781594634024"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130293",
+        "description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803481.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 125,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 78,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES OF GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130283",
+            "isbn13": "9781612130286"
+          },
+          {
+            "isbn10": "0345803485",
+            "isbn13": "9780345803481"
+          },
+          {
+            "isbn10": "0099579936",
+            "isbn13": "9780099579939"
+          },
+          {
+            "isbn10": "0385363125",
+            "isbn13": "9780385363129"
+          },
+          {
+            "isbn10": "0385537670",
+            "isbn13": "9780385537674"
+          },
+          {
+            "isbn10": "0345806751",
+            "isbn13": "9780345806758"
+          },
+          {
+            "isbn10": "0804172072",
+            "isbn13": "9780804172073"
+          },
+          {
+            "isbn10": "0345805151",
+            "isbn13": "9780345805157"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130593",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130590",
+        "description": "Daunted by Christian\u2019s dark secrets, Anastasia ends their relationship \u2014 but desire still dominates her every thought; the second book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803498.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 59,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Darker-E-James/dp/0345803493?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES DARKER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130593",
+            "isbn13": "9781612130590"
+          },
+          {
+            "isbn10": "1612130585",
+            "isbn13": "9781612130583"
+          },
+          {
+            "isbn10": "0345803493",
+            "isbn13": "9780345803498"
+          },
+          {
+            "isbn10": "1448149460",
+            "isbn13": "9781448149469"
+          },
+          {
+            "isbn10": "0385363133",
+            "isbn13": "9780385363136"
+          },
+          {
+            "isbn10": "0099579928",
+            "isbn13": "9780099579922"
+          },
+          {
+            "isbn10": "0385537689",
+            "isbn13": "9780385537681"
+          },
+          {
+            "isbn10": "0606264485",
+            "isbn13": "9780606264488"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130615",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130613",
+        "description": "Reunited, Anastasia and Christian face a world of possibilities, and unexpected challenges; the final volume in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781612130606.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 56,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Freed-Three-Trilogy/dp/0345803507?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES FREED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130615",
+            "isbn13": "9781612130613"
+          },
+          {
+            "isbn10": "1612130607",
+            "isbn13": "9781612130606"
+          },
+          {
+            "isbn10": "0345803507",
+            "isbn13": "9780345803504"
+          },
+          {
+            "isbn10": "0385537697",
+            "isbn13": "9780385537698"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anthony Doerr",
+        "primary_isbn13": "9781476746609",
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 23,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "contributor": "by Anthony Doerr",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 117,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1466850604",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kristin Hannah",
+        "primary_isbn13": "9781466850606",
+        "description": "Two sisters are separated in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "contributor": "by Kristin Hannah",
+        "title": "THE NIGHTINGALE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312577222",
+            "isbn13": "9780312577223"
+          },
+          {
+            "isbn10": "1466850604",
+            "isbn13": "9781466850606"
+          },
+          {
+            "isbn10": "1628995017",
+            "isbn13": "9781628995015"
+          },
+          {
+            "isbn10": "1250080401",
+            "isbn13": "9781250080400"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345803574",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9780345803573",
+        "description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803573.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 19,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Trilogy-Bundle-Vintage-ebook/dp/B007SGM084?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES TRILOGY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345803574",
+            "isbn13": "9780345803573"
+          },
+          {
+            "isbn10": "1448150620",
+            "isbn13": "9781448150625"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1101874287",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anne Tyler",
+        "primary_isbn13": "9781101874288",
+        "description": "Four generations of a family are drawn to a house in the Baltimore suburbs.",
+        "book_review_link": "//www.nytimes.com/2015/02/06/books/anne-tylers-20th-novel-a-spool-of-blue-thread.html",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101874288.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Spool-Blue-Thread-novel-ebook/dp/B00MSS0WVY?tag=thenewyorktim-20",
+        "contributor": "by Anne Tyler",
+        "title": "A SPOOL OF BLUE THREAD",
+        "sunday_review_link": "//www.nytimes.com/2015/02/15/books/review/a-spool-of-blue-thread-by-anne-tyler.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1101874279",
+            "isbn13": "9781101874271"
+          },
+          {
+            "isbn10": "0804194726",
+            "isbn13": "9780804194723"
+          },
+          {
+            "isbn10": "1101874287",
+            "isbn13": "9781101874288"
+          },
+          {
+            "isbn10": "0553394398",
+            "isbn13": "9780553394399"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0698161440",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9780698161443",
+        "description": "A murderer is obsessed with Lt. Eve Dallas; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698161443.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Obsession-Death-J-D-Robb-ebook/dp/B00L9AXVPQ?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "OBSESSION IN DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399170871",
+            "isbn13": "9780399170874"
+          },
+          {
+            "isbn10": "0698161440",
+            "isbn13": "9780698161443"
+          },
+          {
+            "isbn10": "141047514X",
+            "isbn13": "9781410475145"
+          },
+          {
+            "isbn10": "0425278891",
+            "isbn13": "9780425278895"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0698138635",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9780698138636",
+        "description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+        "book_review_link": "//www.nytimes.com/2014/07/25/books/in-big-little-lies-liane-moriarty-finds-new-complications.html",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698138636.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 24,
+        "amazon_product_url": "http://www.amazon.com/Big-Little-Lies-Liane-Moriarty-ebook/dp/B00HDMMISA?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "BIG LITTLE LIES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399167064",
+            "isbn13": "9780399167065"
+          },
+          {
+            "isbn10": "0698138635",
+            "isbn13": "9780698138636"
+          },
+          {
+            "isbn10": "1410472035",
+            "isbn13": "9781410472038"
+          },
+          {
+            "isbn10": "0425274861",
+            "isbn13": "9780425274866"
+          },
+          {
+            "isbn10": "1594139067",
+            "isbn13": "9781594139062"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jonathan Kellerman",
+        "primary_isbn13": "9780345541383",
+        "description": "The Los Angeles psychologist-detective Alex Delaware and Milo Sturgis, a homicide cop, realize that the murder they\u2019re investigating was committed by a serial killer.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345541383.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Motive-An-Alex-Delaware-Novel/dp/0345541375?tag=thenewyorktim-20",
+        "contributor": "by Jonathan Kellerman",
+        "title": "MOTIVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345541375",
+            "isbn13": "9780345541376"
+          },
+          {
+            "isbn10": "0804194572",
+            "isbn13": "9780804194570"
+          },
+          {
+            "isbn10": "0345541391",
+            "isbn13": "9780345541390"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316211141",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316211147",
+        "description": "Jack Morgan, the head of an investigative firm, uncovers a murder ring in Las Vegas.",
+        "book_review_link": "",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316211147.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Private-Vegas-James-Patterson/dp/031621115X?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "PRIVATE VEGAS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031621115X",
+            "isbn13": "9780316211154"
+          },
+          {
+            "isbn10": "0316211133",
+            "isbn13": "9780316211130"
+          },
+          {
+            "isbn10": "0316211141",
+            "isbn13": "9780316211147"
+          },
+          {
+            "isbn10": "1455515922",
+            "isbn13": "9781455515929"
+          },
+          {
+            "isbn10": "1455515930",
+            "isbn13": "9781455515936"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439157030",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Genova",
+        "primary_isbn13": "9781439157039",
+        "description": "A 50-year-old Harvard professor learns she has early-onset Alzheimer's disease; now a movie.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439102817.jpg",
+        "rank": 14,
+        "article_chapter_link": "//www.nytimes.com/2009/01/28/books/28selfpub.html",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Still-Alice-Lisa-Genova/dp/1439102813?tag=thenewyorktim-20",
+        "contributor": "by Lisa Genova",
+        "title": "STILL ALICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102813",
+            "isbn13": "9781439102817"
+          },
+          {
+            "isbn10": "1501106422",
+            "isbn13": "9781501106422"
+          },
+          {
+            "isbn10": "1501107739",
+            "isbn13": "9781501107733"
+          },
+          {
+            "isbn10": "1439157030",
+            "isbn13": "9781439157039"
+          },
+          {
+            "isbn10": "1594138567",
+            "isbn13": "9781594138560"
+          }
+        ],
+        "publisher": "Pocket Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429974125",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Price writing as Harry Brandt",
+        "primary_isbn13": "9781429974127",
+        "description": "A slashing in Penn Station draws a Manhattan detective back into a haunting case from his past.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429974127.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Whites-Novel-Richard-Price/dp/0805093990?tag=thenewyorktim-20",
+        "contributor": "by Richard Price writing as Harry Brandt",
+        "title": "THE WHITES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805093990",
+            "isbn13": "9780805093995"
+          },
+          {
+            "isbn10": "1429974125",
+            "isbn13": "9781429974127"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Gardner",
+        "primary_isbn13": "9780698186170",
+        "description": "A luxury car is found at the bottom of a ravine in New Hampshire, and the investigation of the accident leads to the discovery of a string of crimes.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698186170.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Crash-Burn-Lisa-Gardner/dp/0525954562?tag=thenewyorktim-20",
+        "contributor": "by Lisa Gardner",
+        "title": "CRASH AND BURN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525954562",
+            "isbn13": "9780525954569"
+          },
+          {
+            "isbn10": "1410475026",
+            "isbn13": "9781410475022"
+          },
+          {
+            "isbn10": "0451475682",
+            "isbn13": "9780451475688"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385539169",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385539166",
+        "description": "A laid-off lawyer, in a bid to reclaim her corporate perch, moves to an Appalachian mining town where her legal-aid work starts to rile Big Coal.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537148.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Gray-Mountain-Novel-John-Grisham/dp/038553714X?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "GRAY MOUNTAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "038553714X",
+            "isbn13": "9780385537148"
+          },
+          {
+            "isbn10": "0385539169",
+            "isbn13": "9780385539166"
+          },
+          {
+            "isbn10": "0385539177",
+            "isbn13": "9780385539173"
+          },
+          {
+            "isbn10": "1101964871",
+            "isbn13": "9781101964873"
+          },
+          {
+            "isbn10": "0345543254",
+            "isbn13": "9780345543257"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harper Sloan",
+        "primary_isbn13": "A00B00SQILV1A",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": null,
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": null,
+        "contributor": "by Harper Sloan",
+        "title": "UNEXPECTED FATE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Harper Sloan"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451650108",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kresley Cole",
+        "primary_isbn13": "9781451650105",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451650105.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Master-Game-Maker-Series-Book-ebook/dp/B00L01GJBW?tag=thenewyorktim-20",
+        "contributor": "by Kresley Cole",
+        "title": "THE MASTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451650108",
+            "isbn13": "9781451650105"
+          },
+          {
+            "isbn10": "1476797285",
+            "isbn13": "9781476797281"
+          },
+          {
+            "isbn10": "1451650078",
+            "isbn13": "9781451650075"
+          }
+        ],
+        "publisher": "Gallery"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Allison Pataki",
+        "primary_isbn13": "9781477875568",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781477875568.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Sisters-Grave-Tracy-Crosswhite-Series-ebook/dp/B00K2EOONI?tag=thenewyorktim-20",
+        "contributor": "by Allison Pataki",
+        "title": "THE ACCIDENTAL EMPRESS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1477825576",
+            "isbn13": "9781477825570"
+          }
+        ],
+        "publisher": "Howard Books"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2015-02-21",
+    "previous_published_date": "2015-03-01",
+    "normal_list_ends_at": 15,
+    "corrections": [
+      {
+        "correction_text": "Because of a computer processing fault, the book that was ranked No. 20 on an earlier version of this list was included on the list in error. The current list reflects the subsequently adjusted rankings.\n",
+        "correction_id": 79,
+        "correction_date": "2015-02-21",
+        "list_id": 6411
+      }
+    ],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2015-03-15"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

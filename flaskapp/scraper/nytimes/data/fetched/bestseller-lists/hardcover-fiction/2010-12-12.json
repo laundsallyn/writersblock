@@ -1,0 +1,813 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2010-12-12",
+    "books": [
+      {
+        "price": 27.99,
+        "primary_isbn10": "031603617X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson",
+        "primary_isbn13": "9780316036177",
+        "description": "Alex Cross investigates a professional assassination in Washington, and gets a chilling call from his deadliest adversary.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316036177.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 258,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/I-Alex-Cross-James-Patterson-ebook/dp/B002LZSY46?tag=thenewyorktim-20",
+        "contributor": "by James Patterson",
+        "title": "CROSS FIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316018783",
+            "isbn13": "9780316018784"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 28.95,
+        "primary_isbn10": "0385528043",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385528047",
+        "description": "A criminal wants to save an innocent man on death row, but he must convince the authorities he\u2019s telling the truth.",
+        "book_review_link": "//www.nytimes.com/2010/11/08/books/08book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440245117.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Confession-Novel-John-Grisham/dp/0385528043?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE CONFESSION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385528043",
+            "isbn13": "9780385528047"
+          },
+          {
+            "isbn10": "0385534132",
+            "isbn13": "9780385534130"
+          },
+          {
+            "isbn10": "0739377892",
+            "isbn13": "9780739377895"
+          },
+          {
+            "isbn10": "0385528051",
+            "isbn13": "9780385528054"
+          },
+          {
+            "isbn10": "0440245117",
+            "isbn13": "9780440245117"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "1439192561",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781439192566",
+        "description": "Four long stories, light on the supernatural and dealing mostly with grisly human behavior.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439192603.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 275,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Full-Dark-Stars-Stephen-King/dp/1451650604?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "FULL DARK, NO STARS",
+        "sunday_review_link": "//www.nytimes.com/2010/11/28/books/review/Rafferty-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439192561",
+            "isbn13": "9781439192566"
+          },
+          {
+            "isbn10": "1451650604",
+            "isbn13": "9781451650600"
+          },
+          {
+            "isbn10": "143919260X",
+            "isbn13": "9781439192603"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0446195529",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446195522",
+        "description": "Recalled to duty, Oliver Stone hunts for those responsible for a bomb detonated near the White House.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446195522.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 266,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Hells-Corner-Camel-Club-Book-ebook/dp/B003UBTX7C?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "HELL'S CORNER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446195529",
+            "isbn13": "9780446195522"
+          },
+          {
+            "isbn10": "0446584258",
+            "isbn13": "9780446584258"
+          },
+          {
+            "isbn10": "0446573698",
+            "isbn13": "9780446573696"
+          },
+          {
+            "isbn10": "0446571415",
+            "isbn13": "9780446571418"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of a trilogy about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 27,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "039915714X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Dirk Cussler",
+        "primary_isbn13": "9780399157141",
+        "description": "Dirk Pitt seeks a tie between a trove of ancient Roman artifacts and a series of mosque explosions.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425242391.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 283,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Crescent-Dawn-Dirk-Pitt-Adventure/dp/039915714X?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Dirk Cussler",
+        "title": "CRESCENT DAWN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "039915714X",
+            "isbn13": "9780399157141"
+          },
+          {
+            "isbn10": "0425242390",
+            "isbn13": "9780425242391"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 29.99,
+        "primary_isbn10": "0765325942",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert Jordan and Brandon Sanderson",
+        "primary_isbn13": "9780765325945",
+        "description": "Book 13 of the Wheel of Time fantasy series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429960632.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Towers-Midnight-Wheel-Time-Thirteen/dp/0765325942?tag=thenewyorktim-20",
+        "contributor": "by Robert Jordan and Brandon Sanderson",
+        "title": "TOWERS OF MIDNIGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765325942",
+            "isbn13": "9780765325945"
+          },
+          {
+            "isbn10": "1429960639",
+            "isbn13": "9781429960632"
+          },
+          {
+            "isbn10": "0765364875",
+            "isbn13": "9780765364876"
+          }
+        ],
+        "publisher": "Tor"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0345505492",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Steve Berry",
+        "primary_isbn13": "9780345505491",
+        "description": "The former Justice Department operative Cotton \u00adMalone travels to China after a woman close to him is tortured for the return of a mysterious artifact.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345505507.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 280,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Emperors-bonus-short-Balkan-Escape-ebook/dp/B003F3PLYO?tag=thenewyorktim-20",
+        "contributor": "by Steve Berry",
+        "title": "THE EMPEROR\u2019S TOMB",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345505492",
+            "isbn13": "9780345505491"
+          },
+          {
+            "isbn10": "0345505506",
+            "isbn13": "9780345505507"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 36,
+        "primary_isbn10": "0525951652",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ken Follett",
+        "primary_isbn13": "9780525951650",
+        "description": "Five interrelated families from five countries are caught in the upheavals of World War I and the Russian Revolution.",
+        "book_review_link": "//www.nytimes.com/2010/09/24/books/24book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525951650.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 263,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Fall-Giants-Century-Trilogy-Book/dp/0525951652?tag=thenewyorktim-20",
+        "contributor": "by Ken Follett",
+        "title": "FALL OF GIANTS",
+        "sunday_review_link": "//www.nytimes.com/2010/10/03/books/review/Boylan-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525951652",
+            "isbn13": "9780525951650"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "1439192952",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Thor",
+        "primary_isbn13": "9781439192955",
+        "description": "An all-female American counterterrorism unit searches for an arms dealer connected with a deadly attack in Rome.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439192979.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 275,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Athena-Project-Brad-Thor/dp/1439192952?tag=thenewyorktim-20",
+        "contributor": "by Brad Thor",
+        "title": "THE ATHENA PROJECT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439192952",
+            "isbn13": "9781439192955"
+          },
+          {
+            "isbn10": "1439192979",
+            "isbn13": "9781439192979"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "044654759X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9780446547598",
+        "description": "The arrival of a mysterious young woman in a small North Carolina town raises questions about her past.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455523542.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/Safe-Haven-Nicholas-Sparks/dp/044654759X?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "SAFE HAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "044654759X",
+            "isbn13": "9780446547598"
+          },
+          {
+            "isbn10": "0446574244",
+            "isbn13": "9780446574242"
+          },
+          {
+            "isbn10": "0446573671",
+            "isbn13": "9780446573672"
+          },
+          {
+            "isbn10": "0446547603",
+            "isbn13": "9780446547604"
+          },
+          {
+            "isbn10": "0446547573",
+            "isbn13": "9780446547574"
+          },
+          {
+            "isbn10": "1455523542",
+            "isbn13": "9781455523542"
+          },
+          {
+            "isbn10": "1455523550",
+            "isbn13": "9781455523559"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young Southern white woman and two black maids.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 12,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 11,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 87,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 21.99,
+        "primary_isbn10": "0316038393",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "David Sedaris",
+        "primary_isbn13": "9780316038393",
+        "description": "The humorist looks at human nature through stories with animals as characters.",
+        "book_review_link": "",
+        "book_image_height": 495,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316038393.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 352,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Squirrel-Seeks-Chipmunk-Modest-Bestiary/dp/0316038393?tag=thenewyorktim-20",
+        "contributor": "by David Sedaris. Illustrated by Ian Falconer",
+        "title": "SQUIRREL SEEKS CHIPMUNK",
+        "sunday_review_link": "",
+        "contributor_note": "Illustrated by Ian Falconer",
+        "isbns": [
+          {
+            "isbn10": "0316038393",
+            "isbn13": "9780316038393"
+          },
+          {
+            "isbn10": "0316038407",
+            "isbn13": "9780316038409"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "141659518X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Vince Flynn",
+        "primary_isbn13": "9781416595182",
+        "description": "In the wake of the Lockerbie bombing, Mitch Rapp takes on his first antiterrorist assignment.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439100516.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/American-Assassin-Thriller-Mitch-Rapp-ebook/dp/B003UV8T9A?tag=thenewyorktim-20",
+        "contributor": "by Vince Flynn",
+        "title": "AMERICAN ASSASSIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439100519",
+            "isbn13": "9781439100516"
+          },
+          {
+            "isbn10": "141659518X",
+            "isbn13": "9781416595182"
+          },
+          {
+            "isbn10": "160285923X",
+            "isbn13": "9781602859234"
+          },
+          {
+            "isbn10": "1416595198",
+            "isbn13": "9781416595199"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0446573647",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Steve Martin",
+        "primary_isbn13": "9780446573641",
+        "description": "A young, beautiful and ambitious woman ruthlessly ascends the heights of the Manhattan art world.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446573658.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/An-Object-Beauty-A-Novel/dp/B005ZO6F2S?tag=thenewyorktim-20",
+        "contributor": "by Steve Martin",
+        "title": "AN OBJECT OF BEAUTY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446573647",
+            "isbn13": "9780446573641"
+          },
+          {
+            "isbn10": "0446573744",
+            "isbn13": "9780446573740"
+          },
+          {
+            "isbn10": "0446573655",
+            "isbn13": "9780446573658"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400065933",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Fannie Flagg",
+        "primary_isbn13": "9781400065936",
+        "description": "A former Miss Alabama\u2019s radical plan to solve all her problems keeps getting interrupted.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812977165.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 182,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Still-Dream-About-You-Novel/dp/0812977165?tag=thenewyorktim-20",
+        "contributor": "by Fannie Flagg",
+        "title": "I STILL DREAM ABOUT YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400065933",
+            "isbn13": "9781400065936"
+          },
+          {
+            "isbn10": "0812977165",
+            "isbn13": "9780812977165"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670022128",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jan Karon",
+        "primary_isbn13": "9780670022120",
+        "description": "In Ireland, the Episcopal priest Tim Kavanagh finds an old journal that could solve a crime.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670022120.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 265,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/In-Company-Others-Father-Novel/dp/0670022128?tag=thenewyorktim-20",
+        "contributor": "by Jan Karon",
+        "title": "IN THE COMPANY OF OTHERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670022128",
+            "isbn13": "9780670022120"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312600844",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jonathan Franzen",
+        "primary_isbn13": "9780312600846",
+        "description": "Franzen\u2019s first novel since \"The Corrections\" (2001) is both an absorbing portrait of a dysfunctional Midwestern family and a telling snapshot of our troubled times.",
+        "book_review_link": "//www.nytimes.com/2010/08/16/books/16book.html",
+        "book_image_height": 447,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312600846.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 300,
+        "first_chapter_link": "//www.nytimes.com/2010/08/15/books/excerpt-freedom.html",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Freedom-Jonathan-Franzen/dp/0312600844?tag=thenewyorktim-20",
+        "contributor": "by Jonathan Franzen",
+        "title": "FREEDOM",
+        "sunday_review_link": "//www.nytimes.com/2010/08/29/books/review/Tanenhaus-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312600844",
+            "isbn13": "9780312600846"
+          },
+          {
+            "isbn10": "0374158460",
+            "isbn13": "9780374158460"
+          },
+          {
+            "isbn10": "1429979437",
+            "isbn13": "9781429979436"
+          },
+          {
+            "isbn10": "0312576463",
+            "isbn13": "9780312576462"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385344317",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780385344319",
+        "description": "In the corn country of Nebraska, Jack Reacher can\u2019t let go of a decades-old case of a missing child.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440246299.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 281,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Worth-Dying-For-Reacher-Novel/dp/0440246296?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "WORTH DYING FOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344317",
+            "isbn13": "9780385344319"
+          },
+          {
+            "isbn10": "0440246296",
+            "isbn13": "9780440246299"
+          },
+          {
+            "isbn10": "0440339340",
+            "isbn13": "9780440339342"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399156879",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9780399156878",
+        "description": "Lt. Eve Dallas appears to be caught in a macabre game with a thrill killer; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156878.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Indulgence-Death-J-D-Robb/dp/0425240460?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "INDULGENCE IN DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156879",
+            "isbn13": "9780399156878"
+          },
+          {
+            "isbn10": "0425240460",
+            "isbn13": "9780425240465"
+          }
+        ],
+        "publisher": "Putnam"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2010-11-28",
+    "previous_published_date": "2010-12-05",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2010-12-19"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

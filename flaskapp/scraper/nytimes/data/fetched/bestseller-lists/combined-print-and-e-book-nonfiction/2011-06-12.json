@@ -1,0 +1,881 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2011-06-12",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0849946158",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849946158",
+        "description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307408841",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780307408846",
+        "description": "This portrait of Berlin during the rise of the Nazis centers on William E. Dodd, who became U.S. ambassador there in 1933.",
+        "book_review_link": "//www.nytimes.com/2011/05/20/books/in-the-garden-of-beasts-by-erik-larson-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307887955.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/In-Garden-Beasts-American-Hitlers-ebook/dp/B004HFRJM6?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "IN THE GARDEN OF BEASTS",
+        "sunday_review_link": "//www.nytimes.com/2011/06/12/books/review/book-review-in-the-garden-of-beasts-by-erik-larson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307408841",
+            "isbn13": "9780307408846"
+          },
+          {
+            "isbn10": "0307887952",
+            "isbn13": "9780307887955"
+          },
+          {
+            "isbn10": "0739378147",
+            "isbn13": "9780739378144"
+          },
+          {
+            "isbn10": "0307914577",
+            "isbn13": "9780307914576"
+          },
+          {
+            "isbn10": "030740885X",
+            "isbn13": "9780307408853"
+          },
+          {
+            "isbn10": "1446464504",
+            "isbn13": "9781446464502"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316056863",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tina Fey",
+        "primary_isbn13": "9780316056861",
+        "description": "A memoir from the former Saturday Night Live star and creator of \"30 Rock.\"",
+        "book_review_link": "//www.nytimes.com/2011/04/04/books/bossypants-by-tina-fey-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316056892.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Bossypants-Tina-Fey/dp/0316056898?tag=thenewyorktim-20",
+        "contributor": "by Tina Fey",
+        "title": "BOSSYPANTS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316056863",
+            "isbn13": "9780316056861"
+          },
+          {
+            "isbn10": "031617789X",
+            "isbn13": "9780316177894"
+          },
+          {
+            "isbn10": "0316175862",
+            "isbn13": "9780316175869"
+          },
+          {
+            "isbn10": "031619803X",
+            "isbn13": "9780316198035"
+          },
+          {
+            "isbn10": "0316056871",
+            "isbn13": "9780316056878"
+          },
+          {
+            "isbn10": "0316056898",
+            "isbn13": "9780316056892"
+          },
+          {
+            "isbn10": "1609419693",
+            "isbn13": "9781609419691"
+          },
+          {
+            "isbn10": "0606267212",
+            "isbn13": "9780606267212"
+          },
+          {
+            "isbn10": "0751547832",
+            "isbn13": "9780751547832"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316043001",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Andrew Miller and Tom Shales",
+        "primary_isbn13": "9780316043007",
+        "description": "An oral history of the sports network ESPN.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316043014.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 323,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Those-Guys-Have-All-Fun/dp/031604301X?tag=thenewyorktim-20",
+        "contributor": "by James Andrew Miller and Tom Shales",
+        "title": "THOSE GUYS HAVE ALL THE FUN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316043001",
+            "isbn13": "9780316043007"
+          },
+          {
+            "isbn10": "0316125768",
+            "isbn13": "9780316125765"
+          },
+          {
+            "isbn10": "0316178101",
+            "isbn13": "9780316178105"
+          },
+          {
+            "isbn10": "031604301X",
+            "isbn13": "9780316043014"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1416571760",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David McCullough",
+        "primary_isbn13": "9781416571766",
+        "description": "The historian explores the extensive intellectual legacy that France settled on its 19th-century American visitors.",
+        "book_review_link": "//www.nytimes.com/2011/05/23/books/the-greater-journey-david-mcculloughs-latest-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416571766.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Greater-Journey-Americans-Paris/dp/1416571779?tag=thenewyorktim-20",
+        "contributor": "by David McCullough",
+        "title": "THE GREATER JOURNEY",
+        "sunday_review_link": "//www.nytimes.com/2011/05/29/books/review/book-review-the-greater-journey-americans-in-paris-by-david-mccullough.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416571760",
+            "isbn13": "9781416571766"
+          },
+          {
+            "isbn10": "1410438201",
+            "isbn13": "9781410438201"
+          },
+          {
+            "isbn10": "1416571779",
+            "isbn13": "9781416571773"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400064163",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9781400064168",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446584711",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chelsea Handler",
+        "primary_isbn13": "9780446584715",
+        "description": "Handler\u2019s friends, family members and colleagues write about being victims of her practical jokes.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446584708.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Lies-Chelsea-Handler-Borderline-Amazing-ebook/dp/B004LLIYWK?tag=thenewyorktim-20",
+        "contributor": "by Chelsea Handler",
+        "title": "LIES THAT CHELSEA HANDLER TOLD ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446584711",
+            "isbn13": "9780446584715"
+          },
+          {
+            "isbn10": "1455504653",
+            "isbn13": "9781455504657"
+          },
+          {
+            "isbn10": "0446584703",
+            "isbn13": "9780446584708"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061767891",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Steven Tyler with David Dalton",
+        "primary_isbn13": "9780061767890",
+        "description": "The singer recounts the meteoric rise, fall and rise of Aerosmith over the last three decades.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061959394.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Does-Noise-Head-Bother-You-ebook/dp/B004CFA9HI?tag=thenewyorktim-20",
+        "contributor": "by Steven Tyler with David Dalton",
+        "title": "DOES THE NOISE IN MY HEAD BOTHER YOU?",
+        "sunday_review_link": "//www.nytimes.com/2011/06/26/books/review/book-review-does-the-noise-in-my-head-bother-you-by-steven-tyler.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061767891",
+            "isbn13": "9780061767890"
+          },
+          {
+            "isbn10": "0061959391",
+            "isbn13": "9780061959394"
+          },
+          {
+            "isbn10": "0061767913",
+            "isbn13": "9780061767913"
+          }
+        ],
+        "publisher": "HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "031269945X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Howard E Wasdin and Stephen Templin",
+        "primary_isbn13": "9780312699451",
+        "description": "An expert sniper and former member of the Navy Seals recounts his military training and missions, including the battle of Mogadishu in 1993.",
+        "book_review_link": "//www.nytimes.com/2011/05/09/books/seal-team-six-and-the-heart-and-the-fist-reviews.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250006950.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 335,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/SEAL-Team-Six-Memoirs-Sniper/dp/031269945X?tag=thenewyorktim-20",
+        "contributor": "by Howard E. Wasdin and Stephen Templin",
+        "title": "SEAL TEAM SIX",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031269945X",
+            "isbn13": "9780312699451"
+          },
+          {
+            "isbn10": "1429996528",
+            "isbn13": "9781429996525"
+          },
+          {
+            "isbn10": "1250006953",
+            "isbn13": "9781250006950"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400052181",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rebecca Skloot",
+        "primary_isbn13": "9781400052189",
+        "description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400052189.jpg",
+        "rank": 10,
+        "article_chapter_link": "//www.nytimes.com/2010/02/02/health/02seco.html",
+        "rank_last_week": 11,
+        "book_image_width": 182,
+        "first_chapter_link": "//www.nytimes.com/2010/03/03/books/excerpt-immortal-life-of-henrietta-lacks.html",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=thenewyorktim-20",
+        "contributor": "by Rebecca Skloot",
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "sunday_review_link": "//www.nytimes.com/2010/02/07/books/review/Margonelli-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400052173",
+            "isbn13": "9781400052172"
+          },
+          {
+            "isbn10": "0307589382",
+            "isbn13": "9780307589385"
+          },
+          {
+            "isbn10": "1410427927",
+            "isbn13": "9781410427922"
+          },
+          {
+            "isbn10": "1400052181",
+            "isbn13": "9781400052189"
+          },
+          {
+            "isbn10": "1594134324",
+            "isbn13": "9781594134326"
+          },
+          {
+            "isbn10": "0451486315",
+            "isbn13": "9780451486318"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316132942",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Annie Jacobsen",
+        "primary_isbn13": "9780316132947",
+        "description": "An account of the mysterious military installation, which the author contends is the home of secret espionage programs.",
+        "book_review_link": "//www.nytimes.com/2011/05/16/books/area-51-by-annie-jacobsen-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316193856.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Area-51-Uncensored-Americas-Military/dp/0316202304?tag=thenewyorktim-20",
+        "contributor": "by Annie Jacobsen",
+        "title": "AREA 51",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316132942",
+            "isbn13": "9780316132947"
+          },
+          {
+            "isbn10": "0316202304",
+            "isbn13": "9780316202305"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0892967412",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jimmy Fallon with the writers of \"Late Night\"",
+        "primary_isbn13": "9780892967414",
+        "description": "Many things give the TV host opportunities to be grateful.",
+        "book_review_link": "",
+        "book_image_height": 358,
+        "book_image": "https://s1.nyt.com/du/books/images/9780892967377.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 500,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Thank-You-Notes-Jimmy-Fallon-ebook/dp/B00499BTYE?tag=thenewyorktim-20",
+        "contributor": "by Jimmy Fallon with the writers of \"Late Night\"",
+        "title": "THANK YOU NOTES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0892967412",
+            "isbn13": "9780892967414"
+          },
+          {
+            "isbn10": "0892967374",
+            "isbn13": "9780892967377"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429996021",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rob Lowe",
+        "primary_isbn13": "9781429996020",
+        "description": "The actor charts his professional path, from teen idol to \"The West Wing.\"",
+        "book_review_link": "//www.nytimes.com/2011/04/21/books/rob-lowes-stories-i-only-tell-my-friends-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250008855.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Stories-Only-Tell-Friends-Autobiography-ebook/dp/B004OA62VS?tag=thenewyorktim-20",
+        "contributor": "by Rob Lowe",
+        "title": "STORIES I ONLY TELL MY FRIENDS",
+        "sunday_review_link": "//www.nytimes.com/2011/05/16/books/review/book-review-memoirs-by-shirley-maclaine-and-rob-lowe.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "080509329X",
+            "isbn13": "9780805093292"
+          },
+          {
+            "isbn10": "1429996021",
+            "isbn13": "9781429996020"
+          },
+          {
+            "isbn10": "1250008859",
+            "isbn13": "9781250008855"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594488010",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jon Ronson",
+        "primary_isbn13": "9781594488016",
+        "description": "A look into a potential hoax in the scientific community spurs a journey into the world of psychopathy.",
+        "book_review_link": "//www.nytimes.com/2011/05/17/books/the-psychopath-test-by-jon-ronson-review.html",
+        "book_image_height": 94,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594488016.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Psychopath-Test-Journey-Industry/dp/1594485755?tag=thenewyorktim-20",
+        "contributor": "by Jon Ronson",
+        "title": "THE PSYCHOPATH TEST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594488010",
+            "isbn13": "9781594488016"
+          },
+          {
+            "isbn10": "1594485755",
+            "isbn13": "9781594485756"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062087142",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitchell Zuckoff",
+        "primary_isbn13": "9780062087140",
+        "description": "After a jungle plane crash in 1945, three survivors were caught between headhunters and enemy Japanese.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061988356.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Lost-Shangri-La-Survival-Adventure-Incredible-ebook/dp/B004HD61L8?tag=thenewyorktim-20",
+        "contributor": "by Mitchell Zuckoff",
+        "title": "LOST IN SHANGRI-LA",
+        "sunday_review_link": "//www.nytimes.com/2011/06/05/books/review/book-review-lost-in-shangri-la-by-mitchell-zuckoff.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061988340",
+            "isbn13": "9780061988349"
+          },
+          {
+            "isbn10": "0062087142",
+            "isbn13": "9780062087140"
+          },
+          {
+            "isbn10": "0061988359",
+            "isbn13": "9780061988356"
+          }
+        ],
+        "publisher": "HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451654405",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Frank Bailey with Ken Morris and Jeanne Devon",
+        "primary_isbn13": "9781451654400",
+        "description": "A memoir about working on primary and general election campaigns for the former governor of Alaska.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451654417.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Blind-Allegiance-Sarah-Palin-Tumultuous/dp/1451654405?tag=thenewyorktim-20",
+        "contributor": "by Frank Bailey with Ken Morris and Jeanne Devon",
+        "title": "BLIND ALLEGIANCE TO SARAH PALIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451654405",
+            "isbn13": "9781451654400"
+          }
+        ],
+        "publisher": "Simon & Schuster Adult Publishing Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "031603441X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Keith Richards with James Fox",
+        "primary_isbn13": "9780316034418",
+        "description": "The Rolling Stones guitarist's revealing autobiography is also a portrait of the era when rock came of age.",
+        "book_review_link": "//www.nytimes.com/2010/10/26/books/26book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316128568.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Life-Keith-Richards/dp/031603441X?tag=thenewyorktim-20",
+        "contributor": "by Keith Richards with James Fox",
+        "title": "LIFE",
+        "sunday_review_link": "//www.nytimes.com/2010/11/14/books/review/Phair-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031603438X",
+            "isbn13": "9780316034388"
+          },
+          {
+            "isbn10": "0316120367",
+            "isbn13": "9780316120364"
+          },
+          {
+            "isbn10": "0316128562",
+            "isbn13": "9780316128568"
+          },
+          {
+            "isbn10": "0316178721",
+            "isbn13": "9780316178723"
+          },
+          {
+            "isbn10": "031603441X",
+            "isbn13": "9780316034418"
+          },
+          {
+            "isbn10": "1600242405",
+            "isbn13": "9781600242403"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0451231147",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeni Stepanek with Larry Lindner",
+        "primary_isbn13": "9780451231147",
+        "description": "The story of the author\u2019s son, who died of a rare form of muscular dystrophy.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101155653.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Messenger-Legacy-Mattie-Stepanek-Heartsongs/dp/0451231147?tag=thenewyorktim-20",
+        "contributor": "by Jeni Stepanek with Larry Lindner",
+        "title": "MESSENGER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451231147",
+            "isbn13": "9780451231147"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594202710",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Henry Kissinger",
+        "primary_isbn13": "9781594202711",
+        "description": "China and America are mutually dependent economic giants, Kissinger writes, but they need a design of partnership.",
+        "book_review_link": "//www.nytimes.com/2011/05/15/books/review/book-review-on-china-by-henry-kissinger.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594202711.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/On-China-Henry-Kissinger/dp/1594202710?tag=thenewyorktim-20",
+        "contributor": "by Henry Kissinger",
+        "title": "ON CHINA",
+        "sunday_review_link": "//www.nytimes.com/2011/05/15/books/review/book-review-on-china-by-henry-kissinger.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594202710",
+            "isbn13": "9781594202711"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316044695",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Marcus Luttrell with Patrick Robinson",
+        "primary_isbn13": "9780316044691",
+        "description": "A harrowing Navy SEALs operation.",
+        "book_review_link": "",
+        "book_image_height": 270,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316067607.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 180,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601?tag=thenewyorktim-20",
+        "contributor": "by Marcus Luttrell with Patrick Robinson",
+        "title": "LONE SURVIVOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316007544",
+            "isbn13": "9780316007542"
+          },
+          {
+            "isbn10": "0316044695",
+            "isbn13": "9780316044691"
+          },
+          {
+            "isbn10": "0316067601",
+            "isbn13": "9780316067607"
+          },
+          {
+            "isbn10": "0316067598",
+            "isbn13": "9780316067591"
+          },
+          {
+            "isbn10": "031632406X",
+            "isbn13": "9780316324069"
+          },
+          {
+            "isbn10": "0316324108",
+            "isbn13": "9780316324106"
+          },
+          {
+            "isbn10": "1478927089",
+            "isbn13": "9781478927082"
+          },
+          {
+            "isbn10": "1600242197",
+            "isbn13": "9781600242199"
+          },
+          {
+            "isbn10": "0606352155",
+            "isbn13": "9780606352154"
+          }
+        ],
+        "publisher": "Little, Brown"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2011-05-28",
+    "previous_published_date": "2011-06-05",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2011-06-19"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

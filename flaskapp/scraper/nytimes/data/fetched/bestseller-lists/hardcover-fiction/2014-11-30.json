@@ -1,0 +1,821 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2014-11-30",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1476770387",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781476770383",
+        "description": "The continuing relationship, over five decades, between a disgraced clergyman who is fascinated by electricity and a drug-addicted musician whom he mentored as a boy.",
+        "book_review_link": "//www.nytimes.com/2014/11/14/books/stephen-kings-revival.html",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476770406.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Revival-A-Novel-Stephen-King-ebook/dp/B00ILHW6AG?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "REVIVAL",
+        "sunday_review_link": "//www.nytimes.com/2014/11/23/books/review/stephen-kings-revival.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476770387",
+            "isbn13": "9781476770383"
+          },
+          {
+            "isbn10": "1476770409",
+            "isbn13": "9781476770406"
+          },
+          {
+            "isbn10": "141047383X",
+            "isbn13": "9781410473837"
+          },
+          {
+            "isbn10": "1476770395",
+            "isbn13": "9781476770390"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "038553714X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385537148",
+        "description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537148.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Gray-Mountain-Novel-John-Grisham/dp/038553714X?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "GRAY MOUNTAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "038553714X",
+            "isbn13": "9780385537148"
+          },
+          {
+            "isbn10": "0385539169",
+            "isbn13": "9780385539166"
+          },
+          {
+            "isbn10": "0385539177",
+            "isbn13": "9780385539173"
+          },
+          {
+            "isbn10": "1101964871",
+            "isbn13": "9781101964873"
+          },
+          {
+            "isbn10": "0345543254",
+            "isbn13": "9780345543257"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062325345",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patricia Cornwell",
+        "primary_isbn13": "9780062325341",
+        "description": "As the Boston Marathon trial approaches, Dr. Kay Scarpetta, the chief medical examiner for the state of Massachusetts, pursues a sniper who may be a vigilante; the 22nd Scarpetta novel.",
+        "book_review_link": "",
+        "book_image_height": 183,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062325365.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Flesh-Blood-Scarpetta-Novel-Novels-ebook/dp/B00ICN2Z78?tag=thenewyorktim-20",
+        "contributor": "by Patricia Cornwell",
+        "title": "FLESH AND BLOOD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062325345",
+            "isbn13": "9780062325341"
+          },
+          {
+            "isbn10": "006232537X",
+            "isbn13": "9780062325372"
+          },
+          {
+            "isbn10": "1410471284",
+            "isbn13": "9781410471284"
+          },
+          {
+            "isbn10": "0062325353",
+            "isbn13": "9780062325358"
+          },
+          {
+            "isbn10": "0062379712",
+            "isbn13": "9780062379719"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316225932",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Connelly",
+        "primary_isbn13": "9780316225939",
+        "description": "The Los Angeles detective Harry Bosch and his new partner investigate two long-unsolved cases.",
+        "book_review_link": "",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316225939.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Burning-Room-Harry-Bosch-Novel/dp/0316225932?tag=thenewyorktim-20",
+        "contributor": "by Michael Connelly",
+        "title": "THE BURNING ROOM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316225932",
+            "isbn13": "9780316225939"
+          },
+          {
+            "isbn10": "0316297070",
+            "isbn13": "9780316297073"
+          },
+          {
+            "isbn10": "0316225924",
+            "isbn13": "9780316225922"
+          },
+          {
+            "isbn10": "0316410705",
+            "isbn13": "9780316410700"
+          },
+          {
+            "isbn10": "1455524190",
+            "isbn13": "9781455524198"
+          },
+          {
+            "isbn10": "1455524182",
+            "isbn13": "9781455524181"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455525898",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Douglas Preston and Lincoln Child",
+        "primary_isbn13": "9781455525898",
+        "description": "Special Agent Aloysius Pendergast is stalked by a killer bent on vengeance.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455525898.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Labyrinth-Agent-Pendergast-Douglas-Preston-ebook/dp/B00IRISI74?tag=thenewyorktim-20",
+        "contributor": "by Douglas Preston and Lincoln Child",
+        "title": "BLUE LABYRINTH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455525898",
+            "isbn13": "9781455525898"
+          },
+          {
+            "isbn10": "1455559458",
+            "isbn13": "9781455559459"
+          },
+          {
+            "isbn10": "1455525901",
+            "isbn13": "9781455525904"
+          },
+          {
+            "isbn10": "1455530182",
+            "isbn13": "9781455530182"
+          },
+          {
+            "isbn10": "145552591X",
+            "isbn13": "9781455525911"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307962520",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anne Rice",
+        "primary_isbn13": "9780307962522",
+        "description": "The Vampire Chronicles continue after a long hiatus with the reappearance of Lestat de Lioncourt.",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307962539.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Prince-Lestat-The-Vampire-Chronicles/dp/0307962520?tag=thenewyorktim-20",
+        "contributor": "by Anne Rice",
+        "title": "PRINCE LESTAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307962520",
+            "isbn13": "9780307962522"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345544927",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9780345544926",
+        "description": "After searching for her mother, who has disappeared, for more than 10 years, a woman employs a psychic and a detective.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345544933.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Leaving-Time-Novel-Jodi-Picoult-ebook/dp/B00HXYKYIE?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "LEAVING TIME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345544927",
+            "isbn13": "9780345544926"
+          },
+          {
+            "isbn10": "0345544935",
+            "isbn13": "9780345544933"
+          },
+          {
+            "isbn10": "1410463737",
+            "isbn13": "9781410463739"
+          },
+          {
+            "isbn10": "0345544943",
+            "isbn13": "9780345544940"
+          },
+          {
+            "isbn10": "1594138761",
+            "isbn13": "9781594138768"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476746583",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anthony Doerr",
+        "primary_isbn13": "9781476746586",
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 28,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "contributor": "by Anthony Doerr",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525953094",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ken Follett",
+        "primary_isbn13": "9780525953098",
+        "description": "Five interrelated families grapple with the events of the 1960s through the 1980s; Book 3 of the Century Trilogy.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525953098.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Edge-Eternity-Three-Century-Trilogy/dp/0525953094?tag=thenewyorktim-20",
+        "contributor": "by Ken Follett",
+        "title": "EDGE OF ETERNITY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953094",
+            "isbn13": "9780525953098"
+          },
+          {
+            "isbn10": "0698160576",
+            "isbn13": "9780698160576"
+          },
+          {
+            "isbn10": "1410475468",
+            "isbn13": "9781410475466"
+          },
+          {
+            "isbn10": "0451474015",
+            "isbn13": "9780451474018"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0756410436",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patrick Rothfuss",
+        "primary_isbn13": "9780756410438",
+        "description": "An exploration of the world of Auri, a character in the Kingkiller Chronicles.",
+        "book_review_link": "",
+        "book_image_height": 181,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698184947.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Regard-Silent-Things-Kingkiller-Chonicles-ebook/dp/B00J9SUF2W?tag=thenewyorktim-20",
+        "contributor": "by Patrick Rothfuss",
+        "title": "THE SLOW REGARD OF SILENT THINGS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0756410436",
+            "isbn13": "9780756410438"
+          }
+        ],
+        "publisher": "DAW"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399172920",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler",
+        "primary_isbn13": "9780399172922",
+        "description": "Dirk Pitt becomes involved in a post-Castro power struggle in Cuba.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698183605.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Havana-Storm-Dirk-Pitt-Adventure/dp/0399172920?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler",
+        "title": "HAVANA STORM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399172920",
+            "isbn13": "9780399172922"
+          },
+          {
+            "isbn10": "1410473872",
+            "isbn13": "9781410473875"
+          },
+          {
+            "isbn10": "0425279162",
+            "isbn13": "9780425279168"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0374187614",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Marilynne Robinson",
+        "primary_isbn13": "9780374187613",
+        "description": "The early life of the woman who becomes the wife of the widower and minister John Ames; a back story to \"Gilead.\"",
+        "book_review_link": "//www.nytimes.com/2014/09/29/arts/in-lila-marilynne-robinson-gives-a-prequel-to-gilead.html",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780374187613.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Lila-A-Novel-Marilynne-Robinson/dp/0374187614?tag=thenewyorktim-20",
+        "contributor": "by Marilynne Robinson",
+        "title": "LILA",
+        "sunday_review_link": "//www.nytimes.com/2014/10/05/books/review/lila-by-marilynne-robinson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374187614",
+            "isbn13": "9780374187613"
+          },
+          {
+            "isbn10": "1250074843",
+            "isbn13": "9781250074843"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399167447",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jan Karon",
+        "primary_isbn13": "9780399167447",
+        "description": "The Mitford character Father Tim finds friends and family wrestling with difficulties.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399167447.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/Somewhere-Safe-Somebody-Good-Mitford/dp/0399167447?tag=thenewyorktim-20",
+        "contributor": "by Jan Karon",
+        "title": "SOMEWHERE SAFE WITH SOMEBODY GOOD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399167447",
+            "isbn13": "9780399167447"
+          },
+          {
+            "isbn10": "0698141407",
+            "isbn13": "9780698141407"
+          },
+          {
+            "isbn10": "042527621X",
+            "isbn13": "9780425276211"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399162372",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9780399162374",
+        "description": "Dognappers and a murdered reporter draw the attention of the Minnesota investigator Virgil Flowers.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101597767.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Deadline-Virgil-Flowers-Novel-Book-ebook/dp/B00INIQTY2?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "DEADLINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399162372",
+            "isbn13": "9780399162374"
+          },
+          {
+            "isbn10": "0425275183",
+            "isbn13": "9780425275184"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307911543",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Alexander McCall Smith",
+        "primary_isbn13": "9780307911544",
+        "description": "The 15th book in the No. 1 Ladies\u2019 Detective Agency series.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307911551.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Handsome-Mans-Luxe-Caf\u00e9/dp/0307911543?tag=thenewyorktim-20",
+        "contributor": "by Alexander McCall Smith",
+        "title": "THE HANDSOME MAN'S DE LUXE CAF\u00c9",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307911543",
+            "isbn13": "9780307911544"
+          }
+        ],
+        "publisher": "Pantheon"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316055433",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316055437",
+        "description": "After his mother is killed in a museum explosion, a young man grapples with the world alone while hiding a prized Dutch painting.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0061692069",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Ford",
+        "primary_isbn13": "9780061692062",
+        "description": "In four linked stories, set in the New Jersey suburbs, Ford\u2019s character Frank Bascombe contemplates aging, marriage and Hurricane Sandy.",
+        "book_review_link": "//www.nytimes.com/2014/11/03/arts/richard-fords-hero-returns-in-let-me-be-frank-with-you.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061692062.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Let-Me-Frank-With-You/dp/0061692069?tag=thenewyorktim-20",
+        "contributor": "by Richard Ford",
+        "title": "LET ME BE FRANK WITH YOU",
+        "sunday_review_link": "//www.nytimes.com/2014/11/16/books/review/richard-fords-let-me-be-frank-with-you.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061692069",
+            "isbn13": "9780061692062"
+          }
+        ],
+        "publisher": "Ecco/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345530977",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780345530974",
+        "description": "Fleeing the Nazis, a German aristocrat settles in America with a gift of eight purebred horses from his closest friend.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345530998.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Pegasus-A-Novel-Danielle-Steel-ebook/dp/B00K4C2GY2?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "PEGASUS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345530977",
+            "isbn13": "9780345530974"
+          },
+          {
+            "isbn10": "0345530985",
+            "isbn13": "9780345530981"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385352859",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Flanagan",
+        "primary_isbn13": "9780385352857",
+        "description": "An Australian medical officer is held in a Japanese P.O.W. camp and forced to work on the Thailand-Burma Railway; winner of the 2014 Man Booker Prize.",
+        "book_review_link": "//www.nytimes.com/2014/08/18/books/the-narrow-road-to-the-deep-north-by-richard-flanagan.html",
+        "book_image_height": 187,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385352857.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Narrow-Road-Deep-North/dp/0385352859?tag=thenewyorktim-20",
+        "contributor": "by Richard Flanagan",
+        "title": "THE NARROW ROAD TO THE DEEP NORTH",
+        "sunday_review_link": "//www.nytimes.com/2014/08/31/books/review/richard-flanagans-narrow-road-to-the-deep-north.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385352859",
+            "isbn13": "9780385352857"
+          },
+          {
+            "isbn10": "0804171475",
+            "isbn13": "9780804171472"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670024783",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Monk Kidd",
+        "primary_isbn13": "9780670024780",
+        "description": "The bond between a wealthy Charleston girl, who grows up to become an abolitionist, and the slave she is given for her 11th birthday.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670024780.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Invention-Wings-A-Novel/dp/0670024783?tag=thenewyorktim-20",
+        "contributor": "by Sue Monk Kidd",
+        "title": "THE INVENTION OF WINGS",
+        "sunday_review_link": "//www.nytimes.com/2014/01/26/books/review/the-invention-of-wings-by-sue-monk-kidd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670024783",
+            "isbn13": "9780670024780"
+          },
+          {
+            "isbn10": "1410465322",
+            "isbn13": "9781410465320"
+          },
+          {
+            "isbn10": "0143121707",
+            "isbn13": "9780143121701"
+          },
+          {
+            "isbn10": "1594138869",
+            "isbn13": "9781594138867"
+          }
+        ],
+        "publisher": "Viking"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2014-11-15",
+    "previous_published_date": "2014-11-23",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2014-12-07"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

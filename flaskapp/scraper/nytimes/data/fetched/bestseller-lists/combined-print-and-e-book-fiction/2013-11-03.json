@@ -1,0 +1,888 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2013-11-03",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elizabeth George",
+        "primary_isbn13": "9780698138285",
+        "description": "In the 18th Inspector Lynley novel, Lynley\u2019s partner Barbara Havers searches for a friend\u2019s kidnapped child in Italy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525952961.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Just-One-Evil-Act-Inspector-ebook/dp/B00C5R7H8O?tag=thenewyorktim-20",
+        "contributor": "by Elizabeth George",
+        "title": "JUST ONE EVIL ACT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525952969",
+            "isbn13": "9780525952961"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Scott Turow",
+        "primary_isbn13": "9781455527212",
+        "description": "Paul Giannis, running for mayor of Kindle County, is accused of having played a role in the murder of his identical twin brother\u2019s girlfriend \u2014 for which his brother, Cass, has already served time.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455527212.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Identical-Scott-Turow-ebook/dp/B00BAXFZV0?tag=thenewyorktim-20",
+        "contributor": "by Scott Turow",
+        "title": "IDENTICAL",
+        "sunday_review_link": "//www.nytimes.com/2013/10/20/books/review/scott-turows-identical.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455527203",
+            "isbn13": "9781455527205"
+          },
+          {
+            "isbn10": "1455576085",
+            "isbn13": "9781455576081"
+          },
+          {
+            "isbn10": "145552719X",
+            "isbn13": "9781455527199"
+          },
+          {
+            "isbn10": "145552722X",
+            "isbn13": "9781455527229"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9781101636237",
+        "description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read until after his death.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636237.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "THE HUSBAND'S SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "147672766X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781476727660",
+        "description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+        "book_review_link": "//www.nytimes.com/2013/09/16/books/doctor-sleep-is-stephen-kings-sequel-to-the-shining.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451698855.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Doctor-Sleep-Stephen-King/dp/1451698852?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "DOCTOR SLEEP",
+        "sunday_review_link": "//www.nytimes.com/2013/09/22/books/review/stephen-kings-shining-sequel-doctor-sleep.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476727651",
+            "isbn13": "9781476727653"
+          },
+          {
+            "isbn10": "147672766X",
+            "isbn13": "9781476727660"
+          },
+          {
+            "isbn10": "1410462447",
+            "isbn13": "9781410462442"
+          },
+          {
+            "isbn10": "1451698852",
+            "isbn13": "9781451698855"
+          },
+          {
+            "isbn10": "1476779414",
+            "isbn13": "9781476779416"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345464249",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kristin Hannah",
+        "primary_isbn13": "9780345464248",
+        "description": "Estranged sisters reunite.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345464248.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Between-Sisters-Hannah-Kristin-ebook/dp/B000FBFNT2?tag=thenewyorktim-20",
+        "contributor": "by Kristin Hannah",
+        "title": "BETWEEN SISTERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345464249",
+            "isbn13": "9780345464248"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385350872",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Helen Fielding",
+        "primary_isbn13": "9780385350877",
+        "description": "Bridget, now 51 and a mother and widow, is once again looking for love.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385350860.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Bridget-Jones-About-Vintage-Contemporaries-ebook/dp/B00CNQ7CRI?tag=thenewyorktim-20",
+        "contributor": "by Helen Fielding",
+        "title": "BRIDGET JONES: MAD ABOUT THE BOY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0140298479",
+            "isbn13": "9780140298475"
+          },
+          {
+            "isbn10": "0385350864",
+            "isbn13": "9780385350860"
+          },
+          {
+            "isbn10": "0385350872",
+            "isbn13": "9780385350877"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "142996393X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Orson Scott Card",
+        "primary_isbn13": "9781429963930",
+        "description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812550702.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 291,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/Enders-Game-The-Ender-Quintet/dp/0812550706?tag=thenewyorktim-20",
+        "contributor": "by Orson Scott Card",
+        "title": "ENDER'S GAME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812550706",
+            "isbn13": "9780812550702"
+          },
+          {
+            "isbn10": "0765342294",
+            "isbn13": "9780765342294"
+          },
+          {
+            "isbn10": "142996393X",
+            "isbn13": "9781429963930"
+          },
+          {
+            "isbn10": "0765337541",
+            "isbn13": "9780765337542"
+          },
+          {
+            "isbn10": "0312853238",
+            "isbn13": "9780312853235"
+          },
+          {
+            "isbn10": "0765317389",
+            "isbn13": "9780765317384"
+          },
+          {
+            "isbn10": "0312932081",
+            "isbn13": "9780312932084"
+          },
+          {
+            "isbn10": "0765338149",
+            "isbn13": "9780765338143"
+          },
+          {
+            "isbn10": "076537062X",
+            "isbn13": "9780765370624"
+          },
+          {
+            "isbn10": "0765337320",
+            "isbn13": "9780765337320"
+          },
+          {
+            "isbn10": "0765374811",
+            "isbn13": "9780765374813"
+          },
+          {
+            "isbn10": "0765374722",
+            "isbn13": "9780765374721"
+          },
+          {
+            "isbn10": "0765338211",
+            "isbn13": "9780765338211"
+          },
+          {
+            "isbn10": "0812532538",
+            "isbn13": "9780812532531"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455520667",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9781455520664",
+        "description": "The lives of two couples converge unexpectedly.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455520640.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Longest-Ride-Nicholas-Sparks/dp/1455520640?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "THE LONGEST RIDE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455520659",
+            "isbn13": "9781455520657"
+          },
+          {
+            "isbn10": "1455576018",
+            "isbn13": "9781455576012"
+          },
+          {
+            "isbn10": "1455520667",
+            "isbn13": "9781455520664"
+          },
+          {
+            "isbn10": "1455520640",
+            "isbn13": "9781455520640"
+          },
+          {
+            "isbn10": "1455520632",
+            "isbn13": "9781455520633"
+          },
+          {
+            "isbn10": "1455584738",
+            "isbn13": "9781455584734"
+          },
+          {
+            "isbn10": "145558472X",
+            "isbn13": "9781455584727"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9781101636466",
+        "description": "The Minnesota investigator Virgil Flowers becomes involved in the hunt for an ancient inscribed stone smuggled out of the Middle East.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399159305.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Storm-Front-Virgil-Flowers-Novel-ebook/dp/B00C5R7I9C?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "STORM FRONT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159304",
+            "isbn13": "9780399159305"
+          },
+          {
+            "isbn10": "0425270246",
+            "isbn13": "9780425270240"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307960501",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jo Nesbo",
+        "primary_isbn13": "9780307960504",
+        "description": "A serial killer is targeting Oslo police officers; is Harry Hole still alive?",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307960498.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Police-A-Harry-Hole-Novel-ebook/dp/B00DPTK4D6?tag=thenewyorktim-20",
+        "contributor": "by Jo Nesbo",
+        "title": "POLICE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307960498",
+            "isbn13": "9780307960498"
+          },
+          {
+            "isbn10": "0307960501",
+            "isbn13": "9780307960504"
+          },
+          {
+            "isbn10": "0307951162",
+            "isbn13": "9780307951168"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "JC Reed",
+        "primary_isbn13": "A00B00FVAKOY6",
+        "description": "Continuing the story of Brooke Stewart and Jett Mayfield begun in \"Surrender Your Love\" and \"Conquer Your Love.\"",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": null,
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": null,
+        "contributor": "by J.C. Reed",
+        "title": "TREASURE YOUR LOVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "J.C. Reed"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "031621101X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316211017",
+        "description": "Detective Michael Bennett, living with his 10 adopted children on a California farm, is pursued by the head of a Mexican drug cartel he once put in jail.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316211017.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 323,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Gone-Michael-Bennett-James-Patterson-ebook/dp/B00BAXFAXI?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "GONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316210986",
+            "isbn13": "9780316210980"
+          },
+          {
+            "isbn10": "0316211001",
+            "isbn13": "9780316211000"
+          },
+          {
+            "isbn10": "031621101X",
+            "isbn13": "9780316211017"
+          },
+          {
+            "isbn10": "1455515841",
+            "isbn13": "9781455515844"
+          },
+          {
+            "isbn10": "145551585X",
+            "isbn13": "9781455515851"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 65,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anne Rice",
+        "primary_isbn13": "9780385349970",
+        "description": "The second book of Rice\u2019s Wolf Gift Chronicles, about a new species, the morphenkind.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385349970.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 338,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Wolves-Midwinter-Wolf-Chronicles-ebook/dp/B00CGI3DZI?tag=thenewyorktim-20",
+        "contributor": "by Anne Rice",
+        "title": "THE WOLVES OF MIDWINTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385349963",
+            "isbn13": "9780385349963"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130293",
+        "description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803481.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 125,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 63,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES OF GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130283",
+            "isbn13": "9781612130286"
+          },
+          {
+            "isbn10": "0345803485",
+            "isbn13": "9780345803481"
+          },
+          {
+            "isbn10": "0099579936",
+            "isbn13": "9780099579939"
+          },
+          {
+            "isbn10": "0385363125",
+            "isbn13": "9780385363129"
+          },
+          {
+            "isbn10": "0385537670",
+            "isbn13": "9780385537674"
+          },
+          {
+            "isbn10": "0345806751",
+            "isbn13": "9780345806758"
+          },
+          {
+            "isbn10": "0804172072",
+            "isbn13": "9780804172073"
+          },
+          {
+            "isbn10": "0345805151",
+            "isbn13": "9780345805157"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0440339375",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780440339373",
+        "description": "Facing trumped-up charges, the former military cop Jack Reacher must clear his name while staying one step ahead of the Army, the F.B.I. and several thugs.",
+        "book_review_link": "//www.nytimes.com/2013/08/30/books/never-go-back-a-jack-reacher-novel-by-lee-child.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440339373.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Never-Back-bonus-novella-High/dp/0440246326?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "NEVER GO BACK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344341",
+            "isbn13": "9780385344340"
+          },
+          {
+            "isbn10": "0440339375",
+            "isbn13": "9780440339373"
+          },
+          {
+            "isbn10": "0804121044",
+            "isbn13": "9780804121040"
+          },
+          {
+            "isbn10": "0440246326",
+            "isbn13": "9780440246329"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385536887",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385536882",
+        "description": "An imprisoned ex-lawyer schemes to exchange information about a murdered federal judge for his freedom.\u00a0",
+        "book_review_link": "//www.nytimes.com/2012/10/18/books/the-racketeer-by-john-grisham.html",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385536882.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Racketeer-Novel-John-Grisham/dp/0345545338?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE RACKETEER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385535147",
+            "isbn13": "9780385535144"
+          },
+          {
+            "isbn10": "0385536887",
+            "isbn13": "9780385536882"
+          },
+          {
+            "isbn10": "0385536895",
+            "isbn13": "9780385536899"
+          },
+          {
+            "isbn10": "0345545338",
+            "isbn13": "9780345545336"
+          },
+          {
+            "isbn10": "0345530578",
+            "isbn13": "9780345530578"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elizabeth Gilbert",
+        "primary_isbn13": "9781101638002",
+        "description": "A 19th-century botanist\u2019s pursuits take her to Tahiti and deep into the mysteries of evolution; by the author of \u201cEat, Pray, Love.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/09/30/books/elizabeth-gilberts-novel-the-signature-of-all-things.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101638002.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Signature-All-Things-Novel-ebook/dp/B00BPDR3F6?tag=thenewyorktim-20",
+        "contributor": "by Elizabeth Gilbert",
+        "title": "THE SIGNATURE OF ALL THINGS",
+        "sunday_review_link": "//www.nytimes.com/2013/09/29/books/review/elizabeth-gilberts-signature-of-all-things.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670024856",
+            "isbn13": "9780670024858"
+          },
+          {
+            "isbn10": "0143125842",
+            "isbn13": "9780143125846"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eleanor Catton",
+        "primary_isbn13": "9780316126953",
+        "description": "A murder mystery set in 19th-century New Zealand; winner of the 2013 Man Booker Prize.",
+        "book_review_link": "//www.nytimes.com/2013/10/24/books/eleanor-cattons-luminaries-man-booker-prize-winner.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316074315.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 323,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Luminaries-Man-Booker-Prize-ebook/dp/B00BAXFAJC?tag=thenewyorktim-20",
+        "contributor": "by Eleanor Catton",
+        "title": "THE LUMINARIES",
+        "sunday_review_link": "//www.nytimes.com/2013/10/17/books/review/eleanor-cattons-booker-prize-winning-luminaries.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316074314",
+            "isbn13": "9780316074315"
+          },
+          {
+            "isbn10": "0316074292",
+            "isbn13": "9780316074292"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9781101615867",
+        "description": "The New York lawyer Stone Barrington teams up with a rogue ex-C.I.A. agent and heads West to protect Barrington\u2019s son from Russian assassins.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101615867.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Doing-Hard-Time-Stone-Barrington/dp/0451466861?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "DOING HARD TIME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399164146",
+            "isbn13": "9780399164149"
+          },
+          {
+            "isbn10": "0451466861",
+            "isbn13": "9780451466860"
+          }
+        ],
+        "publisher": "Putnam"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2013-10-19",
+    "previous_published_date": "2013-10-27",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2013-11-10"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

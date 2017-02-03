@@ -1,0 +1,807 @@
+{
+  "num_results": 20,
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "results": {
+    "books": [
+      {
+        "sunday_review_link": "",
+        "contributor": "by J. D. Robb",
+        "book_review_link": "",
+        "publisher": "Berkley",
+        "isbns": [
+          {
+            "isbn13": "9780399170898",
+            "isbn10": "0399170898"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "Lt. Eve Dallas of the N.Y.P.D. helps a friend and her husband solve a mystery involving politics and real estate; by Nora Roberts, writing pseudonymously.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399170898.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780698161481",
+        "contributor_note": "",
+        "rank": 1,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Brotherhood-Death-J-D-Robb/dp/0399170898?tag=thenewyorktim-20",
+        "title": "BROTHERHOOD IN DEATH",
+        "author": "J D Robb"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Jonathan Kellerman",
+        "book_review_link": "",
+        "publisher": "Ballatine",
+        "isbns": [
+          {
+            "isbn13": "9780345541406",
+            "isbn10": "0345541405"
+          },
+          {
+            "isbn13": "9780345541413",
+            "isbn10": "0345541413"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "The psychologist Alex Delaware and the L.A.P.D. Lt. Milo Sturgis search for the missing son of a psychologically fragile actress.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345541406.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780345541413",
+        "contributor_note": "",
+        "rank": 2,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0345541413",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Breakdown-An-Alex-Delaware-Novel/dp/0345541405?tag=thenewyorktim-20",
+        "title": "BREAKDOWN",
+        "author": "Jonathan Kellerman"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2013/01/06/books/review/me-before-you-by-jojo-moyes.html",
+        "contributor": "by Jojo Moyes",
+        "book_review_link": "",
+        "publisher": "Penguin",
+        "isbns": [
+          {
+            "isbn13": "9780670026609",
+            "isbn10": "0670026603"
+          },
+          {
+            "isbn13": "9780143124542",
+            "isbn10": "0143124544"
+          },
+          {
+            "isbn13": "9781594137396",
+            "isbn10": "1594137390"
+          },
+          {
+            "isbn13": "9780143109464",
+            "isbn10": "0143109464"
+          },
+          {
+            "isbn13": "9780143130154",
+            "isbn10": "0143130153"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "A young woman who has barely been farther afield than her English village finds herself while caring for a wealthy, embittered quadriplegic. Originally published in 2012.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780143124542.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781101606377",
+        "contributor_note": "",
+        "rank": 3,
+        "book_image_width": 326,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Me-Before-You-A-Novel/dp/0143124544?tag=thenewyorktim-20",
+        "title": "ME BEFORE YOU",
+        "author": "Jojo Moyes"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Nicholas Sparks",
+        "book_review_link": "",
+        "publisher": "Grand Central",
+        "isbns": [
+          {
+            "isbn13": "9781455588992",
+            "isbn10": "1455588997"
+          },
+          {
+            "isbn13": "9780446698337",
+            "isbn10": "0446698334"
+          },
+          {
+            "isbn13": "9781455588985",
+            "isbn10": "1455588989"
+          },
+          {
+            "isbn13": "9780446618311",
+            "isbn10": "0446618314"
+          },
+          {
+            "isbn13": "9780446401319",
+            "isbn10": "0446401315"
+          },
+          {
+            "isbn13": "9780446579926",
+            "isbn10": "0446579920"
+          }
+        ],
+        "weeks_on_list": 7,
+        "dagger": 0,
+        "description": "When Travis meets his new neighbor, his bachelor status erodes.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446698337.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 4,
+        "primary_isbn13": "9780446401319",
+        "contributor_note": "",
+        "rank": 4,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0446401315",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Choice-Nicholas-Sparks/dp/0446698334?tag=thenewyorktim-20",
+        "title": "THE CHOICE",
+        "author": "Nicholas Sparks"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by James Patterson and Marshall Karp",
+        "book_review_link": "",
+        "publisher": "Little, Brown",
+        "isbns": [
+          {
+            "isbn13": "9780316407069",
+            "isbn10": "0316407062"
+          },
+          {
+            "isbn13": "9780316288729",
+            "isbn10": "0316288721"
+          },
+          {
+            "isbn13": "9780316288705",
+            "isbn10": "0316288705"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "description": "Detective Zach Gordon and his partner, members of an elite task force that protects the rich and famous, pursue a cold-blooded killer.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316407069.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 1,
+        "primary_isbn13": "9780316288729",
+        "contributor_note": "",
+        "rank": 5,
+        "book_image_width": 323,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0316288721",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/NYPD-Red-4-James-Patterson/dp/0316407062?tag=thenewyorktim-20",
+        "title": "NYPD RED 4",
+        "author": "James Patterson and Marshall Karp"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2016/01/10/books/review/elizabeth-strouts-my-name-is-lucy-barton.html",
+        "contributor": "by Elizabeth Strout",
+        "book_review_link": "",
+        "publisher": "Random House",
+        "isbns": [
+          {
+            "isbn13": "9781400067695",
+            "isbn10": "1400067693"
+          },
+          {
+            "isbn13": "9780812989076",
+            "isbn10": "0812989074"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "description": "A woman struggles with memories of her impoverished and disturbing childhood and its effect on the present as she attempts to reconcile with her mother.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812989076.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 5,
+        "primary_isbn13": "9780812989076",
+        "contributor_note": "",
+        "rank": 6,
+        "book_image_width": 338,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0812989074",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/My-Name-Is-Lucy-Barton-ebook/dp/B011G3HG5G?tag=thenewyorktim-20",
+        "title": "MY NAME IS LUCY BARTON",
+        "author": "Elizabeth Strout"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Kristin Hannah",
+        "book_review_link": "",
+        "publisher": "St. Martin's",
+        "isbns": [
+          {
+            "isbn13": "9780312577223",
+            "isbn10": "0312577222"
+          },
+          {
+            "isbn13": "9781466850606",
+            "isbn10": "1466850604"
+          },
+          {
+            "isbn13": "9781628995015",
+            "isbn10": "1628995017"
+          },
+          {
+            "isbn13": "9781250080400",
+            "isbn10": "1250080401"
+          }
+        ],
+        "weeks_on_list": 41,
+        "dagger": 0,
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 7,
+        "primary_isbn13": "9781466850606",
+        "contributor_note": "",
+        "rank": 7,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1466850604",
+        "book_image_height": 195,
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "title": "THE NIGHTINGALE",
+        "author": "Kristin Hannah"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "contributor": "by Paula Hawkins",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html",
+        "publisher": "Riverhead",
+        "isbns": [
+          {
+            "isbn13": "9781594633669",
+            "isbn10": "1594633665"
+          },
+          {
+            "isbn13": "9780698185395",
+            "isbn10": "0698185390"
+          },
+          {
+            "isbn13": "9781410477767",
+            "isbn10": "1410477762"
+          },
+          {
+            "isbn13": "9780857522320",
+            "isbn10": "0857522329"
+          },
+          {
+            "isbn13": "9781448171682",
+            "isbn10": "1448171687"
+          },
+          {
+            "isbn13": "9781594634123",
+            "isbn10": "1594634122"
+          },
+          {
+            "isbn13": "9780385682312",
+            "isbn10": "038568231X"
+          },
+          {
+            "isbn13": "9781594634024",
+            "isbn10": "1594634025"
+          }
+        ],
+        "weeks_on_list": 53,
+        "dagger": 0,
+        "description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 9,
+        "primary_isbn13": "9780698185395",
+        "contributor_note": "",
+        "rank": 8,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0698185390",
+        "book_image_height": 193,
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "title": "THE GIRL ON THE TRAIN",
+        "author": "Paula Hawkins"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Patricia Cornwell",
+        "book_review_link": "",
+        "publisher": "Morrow/HarperCollins",
+        "isbns": [
+          {
+            "isbn13": "9780062325402",
+            "isbn10": "006232540X"
+          },
+          {
+            "isbn13": "9780062325426",
+            "isbn10": "0062325426"
+          },
+          {
+            "isbn13": "9780062417589",
+            "isbn10": "0062417584"
+          },
+          {
+            "isbn13": "9780062325419",
+            "isbn10": "0062325418"
+          }
+        ],
+        "weeks_on_list": 3,
+        "dagger": 0,
+        "description": "A psychopath sends Dr. Kay Scarpetta videos from the past about her niece in the series\u2019s 23rd book.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062325426.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780062325426",
+        "contributor_note": "",
+        "rank": 9,
+        "book_image_width": 332,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0062325426",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Depraved-Heart-Scarpetta-Novel-Series-ebook/dp/B00SRXKTBC?tag=thenewyorktim-20",
+        "title": "DEPRAVED HEART",
+        "author": "Patricia Cornwell"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Danielle Steel",
+        "book_review_link": "",
+        "publisher": "Delacorte",
+        "isbns": [
+          {
+            "isbn13": "9780345531056",
+            "isbn10": "0345531051"
+          }
+        ],
+        "weeks_on_list": 3,
+        "dagger": 0,
+        "description": "A woman whose life has been shattered befriends a homeless boy.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345531056.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 6,
+        "primary_isbn13": "9780804179652",
+        "contributor_note": "",
+        "rank": 10,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Blue-A-Novel-Danielle-Steel/dp/0345531051?tag=thenewyorktim-20",
+        "title": "BLUE",
+        "author": "Danielle Steel"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor": "by Anthony Doerr",
+        "book_review_link": "",
+        "publisher": "Scribner",
+        "isbns": [
+          {
+            "isbn13": "9781476746586",
+            "isbn10": "1476746583"
+          },
+          {
+            "isbn13": "9781410470225",
+            "isbn10": "1410470229"
+          },
+          {
+            "isbn13": "9781476746593",
+            "isbn10": "1476746591"
+          },
+          {
+            "isbn13": "9781501122835",
+            "isbn10": "1501122835"
+          },
+          {
+            "isbn13": "9780007548699",
+            "isbn10": "0007548699"
+          }
+        ],
+        "weeks_on_list": 71,
+        "dagger": 0,
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781476746586",
+        "contributor_note": "",
+        "rank": 11,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1476746583",
+        "book_image_height": 192,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "author": "Anthony Doerr"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Michael Punke",
+        "book_review_link": "",
+        "publisher": "Picador",
+        "isbns": [
+          {
+            "isbn13": "9781250101198",
+            "isbn10": "1250101190"
+          },
+          {
+            "isbn13": "9781250072689",
+            "isbn10": "1250072689"
+          },
+          {
+            "isbn13": "9781250066633",
+            "isbn10": "1250066638"
+          },
+          {
+            "isbn13": "9781250066626",
+            "isbn10": "125006662X"
+          }
+        ],
+        "weeks_on_list": 6,
+        "dagger": 0,
+        "description": "Left for dead after a mauling, a master tracker is consumed by a singular desire for revenge; an inspiration for the 2015 film.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250101198.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 10,
+        "primary_isbn13": "9781250072689",
+        "contributor_note": "",
+        "rank": 12,
+        "book_image_width": 334,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1250072689",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Revenant-A-Novel-Revenge/dp/1250101190?tag=thenewyorktim-20",
+        "title": "THE REVENANT",
+        "author": "Michael Punke"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Audrey Carlan",
+        "book_review_link": "",
+        "publisher": "Waterhouse",
+        "isbns": [],
+        "weeks_on_list": 5,
+        "dagger": 0,
+        "description": "Mia becomes a high-priced escort to pay off her father's gambling debts.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": null,
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "A00B013CVOJEG",
+        "contributor_note": "",
+        "rank": 13,
+        "book_image_width": null,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": null,
+        "amazon_product_url": null,
+        "title": "JANUARY",
+        "author": "Audrey Carlan"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Andy Weir",
+        "book_review_link": "",
+        "publisher": "Crown",
+        "isbns": [
+          {
+            "isbn13": "9780804139021",
+            "isbn10": "0804139024"
+          },
+          {
+            "isbn13": "9780553418026",
+            "isbn10": "0553418025"
+          },
+          {
+            "isbn13": "9780091956141",
+            "isbn10": "0091956145"
+          },
+          {
+            "isbn13": "9781594138546",
+            "isbn10": "1594138540"
+          },
+          {
+            "isbn13": "9781101903582",
+            "isbn10": "1101903589"
+          },
+          {
+            "isbn13": "9781101905005",
+            "isbn10": "110190500X"
+          }
+        ],
+        "weeks_on_list": 37,
+        "dagger": 0,
+        "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804139038.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 14,
+        "primary_isbn13": "9780553418026",
+        "contributor_note": "",
+        "rank": 14,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0553418025",
+        "book_image_height": 194,
+        "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+        "title": "THE MARTIAN",
+        "author": "Andy Weir"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Christina Lauren",
+        "book_review_link": "",
+        "publisher": "Gallery Books",
+        "isbns": [
+          {
+            "isbn13": "9781476777993",
+            "isbn10": "1476777993"
+          },
+          {
+            "isbn13": "9781476777986",
+            "isbn10": "1476777985"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "In Book 4 of the Wild Seasons series, three college friends meet three hot guys in Vegas.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476777993.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781476777993",
+        "contributor_note": "",
+        "rank": 15,
+        "book_image_width": 320,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1476777993",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Wicked-Sexy-Liar-Wild-Seasons-ebook/dp/B012OS8XLI?tag=thenewyorktim-20",
+        "title": "WICKED SEXY LIAR",
+        "author": "Christina Lauren"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by John Grisham",
+        "book_review_link": "",
+        "publisher": "Doubleday",
+        "isbns": [
+          {
+            "isbn13": "9780385539432",
+            "isbn10": "0385539436"
+          },
+          {
+            "isbn13": "9780385539449",
+            "isbn10": "0385539444"
+          },
+          {
+            "isbn13": "9780385539456",
+            "isbn10": "0385539452"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385539449.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780385539449",
+        "contributor_note": "",
+        "rank": 16,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0385539444",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Rogue-Lawyer-John-Grisham-ebook/dp/B00UEKRTW8?tag=thenewyorktim-20",
+        "title": "ROGUE LAWYER",
+        "author": "John Grisham"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Liane Moriarty",
+        "book_review_link": "",
+        "publisher": "Harper Perennial",
+        "isbns": [
+          {
+            "isbn13": "9780062008671",
+            "isbn10": "0062008676"
+          },
+          {
+            "isbn13": "9780060890681",
+            "isbn10": "0060890681"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "A family home on an Australian island is bequeathed to an outsider and the clan's conflicts and secrets along with it.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062008671.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780062008671",
+        "contributor_note": "",
+        "rank": 17,
+        "book_image_width": 375,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0062008676",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Last-Anniversary-Liane-Moriarty-ebook/dp/B003F1WMCK?tag=thenewyorktim-20",
+        "title": "THE LAST ANNIVERSARY",
+        "author": "Liane Moriarty"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Jamie McGuire",
+        "book_review_link": "",
+        "publisher": "Jamie McGuire",
+        "isbns": [
+          {
+            "isbn13": "9781512284133",
+            "isbn10": "1512284130"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781310232152.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781310232152",
+        "contributor_note": "",
+        "rank": 18,
+        "book_image_width": 333,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Beautiful-Burn-Maddox-Brothers-Series-ebook/dp/B00XB7JCX0?tag=thenewyorktim-20",
+        "title": "BEAUTIFUL BURN",
+        "author": "Jamie McGuire"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Vi Keeland",
+        "book_review_link": "",
+        "publisher": "Vi Keeland",
+        "isbns": [
+          {
+            "isbn13": "9781942215356",
+            "isbn10": "1942215355"
+          },
+          {
+            "isbn13": "9781942215271",
+            "isbn10": "1942215274"
+          },
+          {
+            "isbn13": "9781942215288",
+            "isbn10": "1942215282"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "After a locker-room interview of a Super Bowl M.V.P., a sportscaster decides to alter her dating rules.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781942215356.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781942215356",
+        "contributor_note": "",
+        "rank": 19,
+        "book_image_width": 333,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1942215355",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Baller-Dirty-Football-Novel-ebook/dp/B01AS4I3GU?tag=thenewyorktim-20",
+        "title": "THE BALLER",
+        "author": "Vi Keeland"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Audrey Carlan",
+        "book_review_link": "",
+        "publisher": "Waterhouse",
+        "isbns": [],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "An escort becomes a French artist's muse for a month to pay off her father's gambling debts.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": null,
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "A00B013CVOGNU",
+        "contributor_note": "",
+        "rank": 20,
+        "book_image_width": null,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": null,
+        "amazon_product_url": null,
+        "title": "FEBRUARY",
+        "author": "Audrey Carlan"
+      }
+    ],
+    "list_name": "Combined Print and E-Book Fiction",
+    "updated": "WEEKLY",
+    "corrections": [],
+    "published_date_description": "",
+    "normal_list_ends_at": 15,
+    "previous_published_date": "2016-02-14",
+    "published_date": "2016-02-21",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "bestsellers_date": "2016-02-06",
+    "next_published_date": "2016-02-28",
+    "display_name": "Combined Print & E-Book Fiction"
+  },
+  "status": "OK"
+}

@@ -1,0 +1,747 @@
+{
+  "results": {
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "bestsellers_date": "2015-11-14",
+    "display_name": "Combined Print & E-Book Fiction",
+    "next_published_date": "2015-12-06",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "books": [
+      {
+        "description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+        "publisher": "Doubleday",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0385539436",
+            "isbn13": "9780385539432"
+          },
+          {
+            "isbn10": "0385539444",
+            "isbn13": "9780385539449"
+          },
+          {
+            "isbn10": "0385539452",
+            "isbn13": "9780385539456"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "title": "ROGUE LAWYER",
+        "first_chapter_link": "",
+        "author": "John Grisham",
+        "rank_last_week": 4,
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "primary_isbn13": "9780385539432",
+        "primary_isbn10": "0385539436",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 1,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385539449.jpg",
+        "amazon_product_url": "http://www.amazon.com/Rogue-Lawyer-John-Grisham-ebook/dp/B00UEKRTW8?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The retired detective Harry Bosch reluctantly agrees to help his half brother, a defense attorney, and his investigations lead him inside the L.A.P.D.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316225886",
+            "isbn13": "9780316225885"
+          },
+          {
+            "isbn10": "0316387797",
+            "isbn13": "9780316387798"
+          },
+          {
+            "isbn10": "0316225894",
+            "isbn13": "9780316225892"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "THE CROSSING",
+        "first_chapter_link": "",
+        "author": "Michael Connelly",
+        "rank_last_week": 1,
+        "contributor": "by Michael Connelly",
+        "contributor_note": "",
+        "primary_isbn13": "9780316225892",
+        "primary_isbn10": "0316225894",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 2,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316225892.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Crossing-Harry-Bosch-Novel-ebook/dp/B00U6DNZOY?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The Los Angeles P.I. Elvis Cole joins forces with the K-9 officer Scott James of the L.A.P.D. and his German shepherd, Maggie, as well as his partner, Joe Pike, to foil a criminal mastermind.",
+        "publisher": "Putnam",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "039916149X",
+            "isbn13": "9780399161490"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "THE PROMISE",
+        "first_chapter_link": "",
+        "author": "Robert Crais",
+        "rank_last_week": 0,
+        "contributor": "by Robert Crais",
+        "contributor_note": "",
+        "primary_isbn13": "9780698146280",
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 3,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399161490.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Promise-Elvis-Cole-Novel/dp/039916149X?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "In the 15th thriller featuring the F.B.I. agent Aloysius Pendergast, a crime in a quaint Massachusetts town may be connected to rumors of a colony of witches who settled there after the Salem trials.",
+        "publisher": "Grand Central",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1455525928",
+            "isbn13": "9781455525928"
+          },
+          {
+            "isbn10": "1455525936",
+            "isbn13": "9781455525935"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "CRIMSON SHORE",
+        "first_chapter_link": "",
+        "author": "Douglas Preston and Lincoln Child",
+        "rank_last_week": 0,
+        "contributor": "by Douglas Preston and Lincoln Child",
+        "contributor_note": "",
+        "primary_isbn13": "9781455525935",
+        "primary_isbn10": "1455525936",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 4,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455525935.jpg",
+        "amazon_product_url": "http://www.amazon.com/Crimson-Shore-Pendergast-Series-Book-ebook/dp/B00XIDJ02A?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+        "publisher": "Crown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0804139024",
+            "isbn13": "9780804139021"
+          },
+          {
+            "isbn10": "0553418025",
+            "isbn13": "9780553418026"
+          },
+          {
+            "isbn10": "0091956145",
+            "isbn13": "9780091956141"
+          },
+          {
+            "isbn10": "1594138540",
+            "isbn13": "9781594138546"
+          },
+          {
+            "isbn10": "1101903589",
+            "isbn13": "9781101903582"
+          },
+          {
+            "isbn10": "110190500X",
+            "isbn13": "9781101905005"
+          }
+        ],
+        "weeks_on_list": 25,
+        "dagger": 0,
+        "title": "THE MARTIAN",
+        "first_chapter_link": "",
+        "author": "Andy Weir",
+        "rank_last_week": 5,
+        "contributor": "by Andy Weir",
+        "contributor_note": "",
+        "primary_isbn13": "9780553418026",
+        "primary_isbn10": "0553418025",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 5,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804139038.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Twenty stories, some never before published.",
+        "publisher": "Scribner",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501111671",
+            "isbn13": "9781501111679"
+          },
+          {
+            "isbn10": "150111168X",
+            "isbn13": "9781501111686"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "THE BAZAAR OF BAD DREAMS",
+        "first_chapter_link": "",
+        "author": "Stephen King",
+        "rank_last_week": 3,
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "primary_isbn13": "9781501111679",
+        "primary_isbn10": "1501111671",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 6,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781501111686.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Bazaar-Bad-Dreams-Stories-ebook/dp/B00UDCI1AG?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A couple in love are threatened by secrets from the past.",
+        "publisher": "Grand Central",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1455520616",
+            "isbn13": "9781455520619"
+          },
+          {
+            "isbn10": "1455530069",
+            "isbn13": "9781455530069"
+          },
+          {
+            "isbn10": "1455520594",
+            "isbn13": "9781455520596"
+          }
+        ],
+        "weeks_on_list": 5,
+        "dagger": 0,
+        "title": "SEE ME",
+        "first_chapter_link": "",
+        "author": "Nicholas Sparks",
+        "rank_last_week": 6,
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "primary_isbn13": "9781455520619",
+        "primary_isbn10": "1455520616",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 7,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455520619.jpg",
+        "amazon_product_url": "http://www.amazon.com/See-Me-Nicholas-Sparks/dp/1455520616?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Three couples pool their powers in their search for the prophetic fire star.",
+        "publisher": "Berkley",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0425280101",
+            "isbn13": "9780425280102"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "title": "STARS OF FORTUNE",
+        "first_chapter_link": "",
+        "author": "Nora Roberts",
+        "rank_last_week": 2,
+        "contributor": "by Nora Roberts",
+        "contributor_note": "",
+        "primary_isbn13": "9780425280102",
+        "primary_isbn10": "0425280101",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 8,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780425280102.jpg",
+        "amazon_product_url": "http://www.amazon.com/Stars-Fortune-Guardians-Trilogy-Roberts/dp/0425280101?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A preternaturally gifted guitarist uses his talent to alter lives.",
+        "publisher": "Harper/HarperCollins",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062294415",
+            "isbn13": "9780062294418"
+          },
+          {
+            "isbn10": "0062416863",
+            "isbn13": "9780062416865"
+          },
+          {
+            "isbn10": "0062433245",
+            "isbn13": "9780062433244"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "THE MAGIC STRINGS OF FRANKIE PRESTO",
+        "first_chapter_link": "",
+        "author": "Mitch Albom",
+        "rank_last_week": 0,
+        "contributor": "by Mitch Albom",
+        "contributor_note": "",
+        "primary_isbn13": "9780062294418",
+        "primary_isbn10": "0062294415",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 9,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062294418.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Magic-Strings-Frankie-Presto/dp/0062294415?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+        "publisher": "Atria",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501110349",
+            "isbn13": "9781501110344"
+          },
+          {
+            "isbn10": "1501110357",
+            "isbn13": "9781501110351"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "NOVEMBER 9",
+        "first_chapter_link": "",
+        "author": "Colleen Hoover",
+        "rank_last_week": 0,
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "primary_isbn13": "9781501110351",
+        "primary_isbn10": "1501110357",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 10,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781501110351.jpg",
+        "amazon_product_url": "http://www.amazon.com/November-9-Novel-Colleen-Hoover-ebook/dp/B00UDCI1S8?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "An abrasive biker's release from prison tests his fraught relationship with a woman escaping her past.",
+        "publisher": "Berkley",
+        "article_chapter_link": "",
+        "isbns": [],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "REAPER'S FALL",
+        "first_chapter_link": "",
+        "author": "Joanna Wylde",
+        "rank_last_week": 0,
+        "contributor": "by Joanna Wylde",
+        "contributor_note": "",
+        "primary_isbn13": "9780698191808",
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 11,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698191808.jpg",
+        "amazon_product_url": "http://www.amazon.com/Reapers-Fall-Motorcycle-Club-Book-ebook/dp/B00SA5KFM0?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A counterterrorism operative must control the damage from a leak of C.I.A. documents.",
+        "publisher": "Emily Bestler/Atria",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476783454",
+            "isbn13": "9781476783451"
+          },
+          {
+            "isbn10": "1476783470",
+            "isbn13": "9781476783475"
+          }
+        ],
+        "weeks_on_list": 6,
+        "dagger": 0,
+        "title": "THE SURVIVOR",
+        "first_chapter_link": "",
+        "author": "Vince Flynn and Kyle Mills",
+        "rank_last_week": 8,
+        "contributor": "by Vince Flynn and Kyle Mills",
+        "contributor_note": "",
+        "primary_isbn13": "9781476783475",
+        "primary_isbn10": "1476783470",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 12,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476783475.jpg",
+        "amazon_product_url": "http://www.amazon.com/Survivor-Mitch-Rapp-Novel-Book-ebook/dp/B00UDCI7RI?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+        "publisher": "Scribner",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "weeks_on_list": 60,
+        "dagger": 0,
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "first_chapter_link": "",
+        "author": "Anthony Doerr",
+        "rank_last_week": 12,
+        "contributor": "by Anthony Doerr",
+        "contributor_note": "",
+        "primary_isbn13": "9781476746586",
+        "primary_isbn10": "1476746583",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "rank": 13,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476746586.jpg",
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "In the third novel about the private investigative team of Cormoran Strike and Robin Ellacott, the pair pursue a psychotic stalker; by J.\u2009K. Rowling, writing pseudonymously.",
+        "publisher": "Mulholland/Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316349933",
+            "isbn13": "9780316349932"
+          },
+          {
+            "isbn10": "0316352454",
+            "isbn13": "9780316352451"
+          },
+          {
+            "isbn10": "0316349925",
+            "isbn13": "9780316349925"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "title": "CAREER OF EVIL",
+        "first_chapter_link": "",
+        "author": "Robert Galbraith",
+        "rank_last_week": 7,
+        "contributor": "by Robert Galbraith",
+        "contributor_note": "",
+        "primary_isbn13": "9780316349925",
+        "primary_isbn10": "0316349925",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/11/01/books/review/career-of-evil-by-jk-rowling-writing-as-robert-galbraith.html",
+        "rank": 14,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316349932.jpg",
+        "amazon_product_url": "http://www.amazon.com/Career-Evil-Cormoran-Strike-Novels/dp/0316349933?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A young refugee from the Nazis and the son of her family\u2019s Japanese gardener must hide their love, although it lasts a lifetime.",
+        "publisher": "Atria",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501116975",
+            "isbn13": "9781501116971"
+          },
+          {
+            "isbn10": "1501117009",
+            "isbn13": "9781501117008"
+          },
+          {
+            "isbn10": "1410483770",
+            "isbn13": "9781410483775"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "title": "THE JAPANESE LOVER",
+        "first_chapter_link": "",
+        "author": "Isabel Allende",
+        "rank_last_week": 0,
+        "contributor": "by Isabel Allende",
+        "contributor_note": "",
+        "primary_isbn13": "9781501116971",
+        "primary_isbn10": "1501116975",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 15,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781501117008.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Japanese-Lover-A-Novel-ebook/dp/B00URY5CE8?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A psychological thriller set in the environs of London.",
+        "publisher": "Riverhead",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1594633665",
+            "isbn13": "9781594633669"
+          },
+          {
+            "isbn10": "0698185390",
+            "isbn13": "9780698185395"
+          },
+          {
+            "isbn10": "1410477762",
+            "isbn13": "9781410477767"
+          },
+          {
+            "isbn10": "0857522329",
+            "isbn13": "9780857522320"
+          },
+          {
+            "isbn10": "1448171687",
+            "isbn13": "9781448171682"
+          },
+          {
+            "isbn10": "1594634122",
+            "isbn13": "9781594634123"
+          },
+          {
+            "isbn10": "038568231X",
+            "isbn13": "9780385682312"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "THE GIRL ON THE TRAIN",
+        "first_chapter_link": "",
+        "author": "Paula Hawkins",
+        "rank_last_week": 0,
+        "contributor": "by Paula Hawkins",
+        "contributor_note": "",
+        "primary_isbn13": "9780698185395",
+        "primary_isbn10": "0698185390",
+        "asterisk": 0,
+        "sunday_review_link": "http://www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "rank": 16,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594633669.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html"
+      },
+      {
+        "description": "A psychopath sends Dr. Kay Scarpetta videos from the past about her niece in the series\u2019s 23rd book.",
+        "publisher": "Morrow/HarperCollins",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "006232540X",
+            "isbn13": "9780062325402"
+          },
+          {
+            "isbn10": "0062325426",
+            "isbn13": "9780062325426"
+          },
+          {
+            "isbn10": "0062417584",
+            "isbn13": "9780062417589"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "DEPRAVED HEART",
+        "first_chapter_link": "",
+        "author": "Patricia Cornwell",
+        "rank_last_week": 0,
+        "contributor": "by Patricia Cornwell",
+        "contributor_note": "",
+        "primary_isbn13": "9780062325426",
+        "primary_isbn10": "0062325426",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 17,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062325426.jpg",
+        "amazon_product_url": "http://www.amazon.com/Depraved-Heart-Scarpetta-Novel-Series-ebook/dp/B00SRXKTBC?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "A woman revitalizes a French Quarter dive bar with the help of a popular musician.",
+        "publisher": "Ampersand",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "163350008X",
+            "isbn13": "9781633500082"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "EASY MELODY",
+        "first_chapter_link": "",
+        "author": "Kristen Pro",
+        "rank_last_week": 0,
+        "contributor": "by Kristen Proby",
+        "contributor_note": "",
+        "primary_isbn13": "9781633500082",
+        "primary_isbn10": "163350008X",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 18,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781633500082.jpg",
+        "amazon_product_url": "http://www.amazon.com/Easy-Melody-Boudreaux-Series-Book-ebook/dp/B0153VNDZY?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "publisher": "St. Martin's",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0312577222",
+            "isbn13": "9780312577223"
+          },
+          {
+            "isbn10": "1466850604",
+            "isbn13": "9781466850606"
+          },
+          {
+            "isbn10": "1628995017",
+            "isbn13": "9781628995015"
+          },
+          {
+            "isbn10": "1250080401",
+            "isbn13": "9781250080400"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "THE NIGHTINGALE",
+        "first_chapter_link": "",
+        "author": "Kristin Hannah",
+        "rank_last_week": 0,
+        "contributor": "by Kristin Hannah",
+        "contributor_note": "",
+        "primary_isbn13": "9781466850606",
+        "primary_isbn10": "1466850604",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 19,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781466850606.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      },
+      {
+        "description": "When bodies are found at a Hamptons estate where a series of grisly murders once occurred, a local detective and former New York City cop investigates.",
+        "publisher": "Little, Brown",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316410985",
+            "isbn13": "9780316410984"
+          },
+          {
+            "isbn10": "0316337978",
+            "isbn13": "9780316337977"
+          },
+          {
+            "isbn10": "145558990X",
+            "isbn13": "9781455589906"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "title": "THE MURDER HOUSE",
+        "first_chapter_link": "",
+        "author": "James Patterson and David Ellis",
+        "rank_last_week": 0,
+        "contributor": "by James Patterson and David Ellis",
+        "contributor_note": "",
+        "primary_isbn13": "9780316337977",
+        "primary_isbn10": "0316337978",
+        "asterisk": 0,
+        "sunday_review_link": "",
+        "rank": 20,
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316337977.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Murder-House-James-Patterson-ebook/dp/B00QQQL8JY?tag=thenewyorktim-20",
+        "price": 0,
+        "age_group": "",
+        "book_review_link": ""
+      }
+    ],
+    "previous_published_date": "2015-11-22",
+    "published_date": "2015-11-29"
+  },
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "num_results": 20,
+  "last_modified": "2015-11-19T17:00:28-05:00"
+}

@@ -1,0 +1,781 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2011-10-09",
+    "books": [
+      {
+        "price": 25.99,
+        "primary_isbn10": "1401324436",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Castle",
+        "primary_isbn13": "9781401324438",
+        "description": "An N.Y.P.D. homicide detective uncovers a conspiracy that reaches the department\u2019s highest levels.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401303914.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Heat-Rises-Nikki-Richard-Castle-ebook/dp/B005KA2HDS?tag=thenewyorktim-20",
+        "contributor": "by Richard Castle",
+        "title": "HEAT RISES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401324436",
+            "isbn13": "9781401324438"
+          },
+          {
+            "isbn10": "1401303919",
+            "isbn13": "9781401303914"
+          },
+          {
+            "isbn10": "0786891424",
+            "isbn13": "9780786891429"
+          }
+        ],
+        "publisher": "Hyperion"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1455501476",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sandra Brown",
+        "primary_isbn13": "9781455501472",
+        "description": "A woman, her daughter and a man accused of murder evade the authorities as they search for her dead husband\u2019s secrets.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455501489.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lethal-Sandra-Brown/dp/1455510823?tag=thenewyorktim-20",
+        "contributor": "by Sandra Brown",
+        "title": "LETHAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455501476",
+            "isbn13": "9781455501472"
+          },
+          {
+            "isbn10": "1455510823",
+            "isbn13": "9781455510825"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0385534639",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erin Morgenstern",
+        "primary_isbn13": "9780385534635",
+        "description": "Two young rivals at a magical circus become collaborators as they fall in love.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385534635.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Night-Circus-Erin-Morgenstern/dp/0307744434?tag=thenewyorktim-20",
+        "contributor": "by Erin Morgenstern",
+        "title": "THE NIGHT CIRCUS",
+        "sunday_review_link": "//www.nytimes.com/2011/10/09/books/review/the-night-circus-by-erin-morgenstern-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385534639",
+            "isbn13": "9780385534635"
+          },
+          {
+            "isbn10": "0385534647",
+            "isbn13": "9780385534642"
+          },
+          {
+            "isbn10": "0307744434",
+            "isbn13": "9780307744432"
+          },
+          {
+            "isbn10": "034580354X",
+            "isbn13": "9780345803542"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0061977969",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Neal Stephenson",
+        "primary_isbn13": "9780061977961",
+        "description": "A virus invades a multiplayer online role-playing game and sets off a violent struggle.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062101341.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Reamde-A-Novel-Neal-Stephenson-ebook/dp/B004XVN0WW?tag=thenewyorktim-20",
+        "contributor": "by Neal Stephenson",
+        "title": "REAMDE",
+        "sunday_review_link": "//www.nytimes.com/2011/09/25/books/review/reamde-by-neal-stephenson-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061977969",
+            "isbn13": "9780061977961"
+          },
+          {
+            "isbn10": "0062191497",
+            "isbn13": "9780062191496"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399157654",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780399157653",
+        "description": "The New York lawyer Stone Barrington gets to know his teenage son and proposes to the boy\u2019s mother.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399157653.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Son-Stone-Barrington-Novel-ebook/dp/B0054TVOFC?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "SON OF STONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157654",
+            "isbn13": "9780399157653"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399157786",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9780399157783",
+        "description": "An escaped child molester pursues Lt. Eve Dallas; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101536919.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/New-York-Dallas-In-Death-ebook/dp/B004Z4IKMM?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "NEW YORK TO DALLAS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157786",
+            "isbn13": "9780399157783"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316097543",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Marshall Karp",
+        "primary_isbn13": "9780316097543",
+        "description": "A young man who finds a bag of diamonds is stalked by rival assassins.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316097550.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Kill-Me-If-You-Can/dp/0446571873?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Marshall Karp",
+        "title": "KILL ME IF YOU CAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097543",
+            "isbn13": "9780316097543"
+          },
+          {
+            "isbn10": "1607884674",
+            "isbn13": "9781607884675"
+          },
+          {
+            "isbn10": "0316097551",
+            "isbn13": "9780316097550"
+          },
+          {
+            "isbn10": "0446571873",
+            "isbn13": "9780446571876"
+          },
+          {
+            "isbn10": "0446571865",
+            "isbn13": "9780446571869"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0316126691",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chad Harbach",
+        "primary_isbn13": "9780316126694",
+        "description": "A gifted but vulnerable ballplayer faces a crisis.",
+        "book_review_link": "//www.nytimes.com/2011/09/06/books/the-art-of-fielding-by-chad-harbach-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316192163.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Art-Fielding-A-Novel/dp/0316126675?tag=thenewyorktim-20",
+        "contributor": "by Chad Harbach",
+        "title": "THE ART OF FIELDING",
+        "sunday_review_link": "//www.nytimes.com/2011/09/11/books/review/the-art-of-fielding-by-chad-harbach-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316126691",
+            "isbn13": "9780316126694"
+          },
+          {
+            "isbn10": "0316192163",
+            "isbn13": "9780316192163"
+          },
+          {
+            "isbn10": "0316204722",
+            "isbn13": "9780316204729"
+          },
+          {
+            "isbn10": "0316126675",
+            "isbn13": "9780316126670"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399157816",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Justin Scott",
+        "primary_isbn13": "9780399157813",
+        "description": "It is 1910 and the age of flying machines is still in its infancy. Detective Isaac Bell\u2019s new adventure is taking off.",
+        "book_review_link": "",
+        "book_image_height": 226,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399157813.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Race-Isaac-Bell-Adventure/dp/042525044X?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Justin Scott",
+        "title": "THE RACE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157816",
+            "isbn13": "9780399157813"
+          },
+          {
+            "isbn10": "042525044X",
+            "isbn13": "9780425250440"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0399157840",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Michael Brandman",
+        "primary_isbn13": "9780399157844",
+        "description": "Jesse Stone, the chief of police in Paradise, Mass., confronts an outbreak of murders; a continuation of the series by Parker, who died in 2010.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425250457.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Killing-Blues-Jesse-Stone-Novel/dp/0425250458?tag=thenewyorktim-20",
+        "contributor": "by Michael Brandman",
+        "title": "ROBERT B. PARKER\u2019S KILLING THE BLUES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157840",
+            "isbn13": "9780399157844"
+          },
+          {
+            "isbn10": "0425250458",
+            "isbn13": "9780425250457"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0312651619",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Savage",
+        "primary_isbn13": "9780312651619",
+        "description": "A former war correspondent works to expose a terrorist group and a plot at the highest levels of power.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312651619.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Abuse-Power-Michael-Savage/dp/0312651619?tag=thenewyorktim-20",
+        "contributor": "by Michael Savage",
+        "title": "ABUSE OF POWER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312651619",
+            "isbn13": "9780312651619"
+          },
+          {
+            "isbn10": "1429995815",
+            "isbn13": "9781429995818"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0312567464",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jackie Collins",
+        "primary_isbn13": "9780312567460",
+        "description": "Lucky Santangelo fends off a Middle Eastern prince who wants to buy her Las Vegas hotel complex.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312567460.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Goddess-Vengeance-Jackie-Collins-ebook/dp/B004H1TC3Y?tag=thenewyorktim-20",
+        "contributor": "by Jackie Collins",
+        "title": "GODDESS OF VENGEANCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312567464",
+            "isbn13": "9780312567460"
+          },
+          {
+            "isbn10": "1429962232",
+            "isbn13": "9781429962230"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0345521307",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Paula McLain",
+        "primary_isbn13": "9780345521309",
+        "description": "Ernest Hemingway's first wife, Hadley, narrates this novel set in Paris.",
+        "book_review_link": "//www.nytimes.com/2011/02/28/books/28book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345521323.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 268,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 26,
+        "amazon_product_url": "http://www.amazon.com/The-Paris-Wife-A-Novel-ebook/dp/B004DEPELY?tag=thenewyorktim-20",
+        "contributor": "by Paula McLain",
+        "title": "THE PARIS WIFE",
+        "sunday_review_link": "//www.nytimes.com/2011/03/20/books/review/book-review-the-paris-wife-by-paula-mclain.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345521307",
+            "isbn13": "9780345521309"
+          },
+          {
+            "isbn10": "0345521323",
+            "isbn13": "9780345521323"
+          },
+          {
+            "isbn10": "1611730171",
+            "isbn13": "9781611730173"
+          },
+          {
+            "isbn10": "0345521315",
+            "isbn13": "9780345521316"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 70,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0062049801",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Ann Patchett",
+        "primary_isbn13": "9780062049803",
+        "description": "In Brazil, a medical researcher seeks her former mentor, who is developing a miracle fertility drug.",
+        "book_review_link": "//www.nytimes.com/2011/06/02/books/state-of-wonder-by-ann-patchett-book-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062049827.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/State-Wonder-Novel-Ann-Patchett/dp/006204981X?tag=thenewyorktim-20",
+        "contributor": "by Ann Patchett",
+        "title": "STATE OF WONDER",
+        "sunday_review_link": "//www.nytimes.com/2011/06/19/books/review/book-review-state-of-wonder-by-ann-patchett.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062049801",
+            "isbn13": "9780062049803"
+          },
+          {
+            "isbn10": "0062049828",
+            "isbn13": "9780062049827"
+          },
+          {
+            "isbn10": "006204981X",
+            "isbn13": "9780062049810"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "034552554X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Vanessa Diffenbaugh",
+        "primary_isbn13": "9780345525543",
+        "description": "A young woman\u2019s gift for flowers helps her change the lives of others, even as she struggles with her own troubled past.",
+        "book_review_link": "//www.nytimes.com/2011/09/08/books/the-language-of-flowers-by-vanessa-diffenbaugh-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345525550.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Language-Flowers-A-Novel/dp/034552554X?tag=thenewyorktim-20",
+        "contributor": "by Vanessa Diffenbaugh",
+        "title": "THE LANGUAGE OF FLOWERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "034552554X",
+            "isbn13": "9780345525543"
+          },
+          {
+            "isbn10": "0345525558",
+            "isbn13": "9780345525550"
+          },
+          {
+            "isbn10": "1594135770",
+            "isbn13": "9781594135774"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312358342",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tom Perrotta",
+        "primary_isbn13": "9780312358341",
+        "description": "In Perrotta\u2019s version of the Rapture, Hindus, Buddhists and Muslims as well as Christians mysteriously disappear.",
+        "book_review_link": "//www.nytimes.com/2011/08/30/books/tom-perrotta-discusses-the-themes-of-the-leftovers.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429989138.jpg",
+        "rank": 18,
+        "article_chapter_link": "//www.nytimes.com/2011/08/30/books/tom-perrotta-discusses-the-themes-of-the-leftovers.html",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Leftovers-Tom-Perrotta-ebook/dp/B004TLH3L0?tag=thenewyorktim-20",
+        "contributor": "by Tom Perrotta",
+        "title": "THE LEFTOVERS",
+        "sunday_review_link": "//www.nytimes.com/2011/08/28/books/review/the-leftovers-by-tom-perrotta-book-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312358342",
+            "isbn13": "9780312358341"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0441019714",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9780441019717",
+        "description": "A closer look at the telepathic waitress Sookie Stackhouse, her family and, of course, her lovers.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780441019717.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Sookie-Stackhouse-Companion-True-Blood/dp/0441019714?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "THE SOOKIE STACKHOUSE COMPANION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441019714",
+            "isbn13": "9780441019717"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0765321548",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Weber",
+        "primary_isbn13": "9780765321541",
+        "description": "The island empire of Charis fights to survive.",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765321541.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 124,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Firm-Foundation-Safehold-David-Weber-ebook/dp/B004V9O59I?tag=thenewyorktim-20",
+        "contributor": "by David Weber",
+        "title": "HOW FIRM A FOUNDATION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765321548",
+            "isbn13": "9780765321541"
+          },
+          {
+            "isbn10": "1429983000",
+            "isbn13": "9781429983006"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2011-09-24",
+    "previous_published_date": "2011-10-02",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2011-10-16"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

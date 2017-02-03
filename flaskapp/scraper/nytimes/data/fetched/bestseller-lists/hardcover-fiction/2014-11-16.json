@@ -1,0 +1,793 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2014-11-16",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "038553714X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385537148",
+        "description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537148.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Gray-Mountain-Novel-John-Grisham/dp/038553714X?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "GRAY MOUNTAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "038553714X",
+            "isbn13": "9780385537148"
+          },
+          {
+            "isbn10": "0385539169",
+            "isbn13": "9780385539166"
+          },
+          {
+            "isbn10": "0385539177",
+            "isbn13": "9780385539173"
+          },
+          {
+            "isbn10": "1101964871",
+            "isbn13": "9781101964873"
+          },
+          {
+            "isbn10": "0345543254",
+            "isbn13": "9780345543257"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0756410436",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patrick Rothfuss",
+        "primary_isbn13": "9780756410438",
+        "description": "An exploration of the world of Auri, a character in the Kingkiller Chronicles.",
+        "book_review_link": "",
+        "book_image_height": 181,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698184947.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Regard-Silent-Things-Kingkiller-Chonicles-ebook/dp/B00J9SUF2W?tag=thenewyorktim-20",
+        "contributor": "by Patrick Rothfuss",
+        "title": "THE SLOW REGARD OF SILENT THINGS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0756410436",
+            "isbn13": "9780756410438"
+          }
+        ],
+        "publisher": "DAW"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307962520",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anne Rice",
+        "primary_isbn13": "9780307962522",
+        "description": "The Vampire Chronicles continue after a long hiatus with the reappearance of Lestat de Lioncourt.",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307962539.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Prince-Lestat-The-Vampire-Chronicles/dp/0307962520?tag=thenewyorktim-20",
+        "contributor": "by Anne Rice",
+        "title": "PRINCE LESTAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307962520",
+            "isbn13": "9780307962522"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399172920",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler",
+        "primary_isbn13": "9780399172922",
+        "description": "Dirk Pitt becomes involved in a post-Castro power struggle in Cuba.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698183605.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Havana-Storm-Dirk-Pitt-Adventure/dp/0399172920?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler",
+        "title": "HAVANA STORM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399172920",
+            "isbn13": "9780399172922"
+          },
+          {
+            "isbn10": "1410473872",
+            "isbn13": "9781410473875"
+          },
+          {
+            "isbn10": "0425279162",
+            "isbn13": "9780425279168"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345544927",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9780345544926",
+        "description": "After searching for her mother, who has disappeared, for more than 10 years, a woman employs a psychic and a detective.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345544933.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Leaving-Time-Novel-Jodi-Picoult-ebook/dp/B00HXYKYIE?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "LEAVING TIME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345544927",
+            "isbn13": "9780345544926"
+          },
+          {
+            "isbn10": "0345544935",
+            "isbn13": "9780345544933"
+          },
+          {
+            "isbn10": "1410463737",
+            "isbn13": "9781410463739"
+          },
+          {
+            "isbn10": "0345544943",
+            "isbn13": "9780345544940"
+          },
+          {
+            "isbn10": "1594138761",
+            "isbn13": "9781594138768"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307911543",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Alexander McCall Smith",
+        "primary_isbn13": "9780307911544",
+        "description": "The 15th book in the No. 1 Ladies\u2019 Detective Agency series.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307911551.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Handsome-Mans-Luxe-Caf\u00e9/dp/0307911543?tag=thenewyorktim-20",
+        "contributor": "by Alexander McCall Smith",
+        "title": "THE HANDSOME MAN'S DE LUXE CAF\u00c9",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307911543",
+            "isbn13": "9780307911544"
+          }
+        ],
+        "publisher": "Pantheon"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345530977",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780345530974",
+        "description": "A German aristocrat, fleeing the Nazis, settles in America with a gift of eight purebred horses from his closest friend.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345530998.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Pegasus-A-Novel-Danielle-Steel-ebook/dp/B00K4C2GY2?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "PEGASUS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345530977",
+            "isbn13": "9780345530974"
+          },
+          {
+            "isbn10": "0345530985",
+            "isbn13": "9780345530981"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525953094",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ken Follett",
+        "primary_isbn13": "9780525953098",
+        "description": "Five interrelated families grapple with the events of the 1960s through the 1980s; Book 3 of the Century Trilogy.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525953098.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Edge-Eternity-Three-Century-Trilogy/dp/0525953094?tag=thenewyorktim-20",
+        "contributor": "by Ken Follett",
+        "title": "EDGE OF ETERNITY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953094",
+            "isbn13": "9780525953098"
+          },
+          {
+            "isbn10": "0698160576",
+            "isbn13": "9780698160576"
+          },
+          {
+            "isbn10": "1410475468",
+            "isbn13": "9781410475466"
+          },
+          {
+            "isbn10": "0451474015",
+            "isbn13": "9780451474018"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399158448",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "William Gibson",
+        "primary_isbn13": "9780399158445",
+        "description": "A woman in the rural South, later in our century, witnesses a murder as part of a video game and is drawn into a power struggle in the further-off future.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399158445.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Peripheral-William-Gibson/dp/0399158448?tag=thenewyorktim-20",
+        "contributor": "by William Gibson",
+        "title": "THE PERIPHERAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158448",
+            "isbn13": "9780399158445"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399162372",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9780399162374",
+        "description": "Dognappers and a murdered reporter draw the attention of the Minnesota investigator Virgil Flowers.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101597767.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Deadline-Virgil-Flowers-Novel-Book-ebook/dp/B00INIQTY2?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "DEADLINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399162372",
+            "isbn13": "9780399162374"
+          },
+          {
+            "isbn10": "0425275183",
+            "isbn13": "9780425275184"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476746583",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anthony Doerr",
+        "primary_isbn13": "9781476746586",
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 26,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "contributor": "by Anthony Doerr",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0374187614",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Marilynne Robinson",
+        "primary_isbn13": "9780374187613",
+        "description": "The difficult early life of the woman who becomes the wife of the widower and minister John Ames; a back story to \"Gilead.\"",
+        "book_review_link": "//www.nytimes.com/2014/09/29/arts/in-lila-marilynne-robinson-gives-a-prequel-to-gilead.html",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780374187613.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Lila-A-Novel-Marilynne-Robinson/dp/0374187614?tag=thenewyorktim-20",
+        "contributor": "by Marilynne Robinson",
+        "title": "LILA",
+        "sunday_review_link": "//www.nytimes.com/2014/10/05/books/review/lila-by-marilynne-robinson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374187614",
+            "isbn13": "9780374187613"
+          },
+          {
+            "isbn10": "1250074843",
+            "isbn13": "9781250074843"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316211044",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316211048",
+        "description": "Detective Michael Bennett, back in New York City, investigates a peculiar crime in Harlem.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316211024.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Burn-Michael-Bennett-James-Patterson/dp/0316211044?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "BURN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316211044",
+            "isbn13": "9780316211048"
+          },
+          {
+            "isbn10": "0316410632",
+            "isbn13": "9780316410632"
+          },
+          {
+            "isbn10": "0316211028",
+            "isbn13": "9780316211024"
+          },
+          {
+            "isbn10": "1455515876",
+            "isbn13": "9781455515875"
+          },
+          {
+            "isbn10": "1455515868",
+            "isbn13": "9781455515868"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399167447",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jan Karon",
+        "primary_isbn13": "9780399167447",
+        "description": "The Mitford character Father Tim finds friends and family wrestling with difficulties.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399167447.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Somewhere-Safe-Somebody-Good-Mitford/dp/0399167447?tag=thenewyorktim-20",
+        "contributor": "by Jan Karon",
+        "title": "SOMEWHERE SAFE WITH SOMEBODY GOOD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399167447",
+            "isbn13": "9780399167447"
+          },
+          {
+            "isbn10": "0698141407",
+            "isbn13": "9780698141407"
+          },
+          {
+            "isbn10": "042527621X",
+            "isbn13": "9780425276211"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0804178747",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780804178747",
+        "description": "Jack Reacher, a former military cop, helps stop a sniper at a G8 summit.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804178747.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Personal-Jack-Reacher-Lee-Child/dp/0804178747?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "PERSONAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804178747",
+            "isbn13": "9780804178747"
+          },
+          {
+            "isbn10": "0804178763",
+            "isbn13": "9780804178761"
+          },
+          {
+            "isbn10": "1473508770",
+            "isbn13": "9781473508774"
+          },
+          {
+            "isbn10": "0804178755",
+            "isbn13": "9780804178754"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385538030",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Chuck Palahniuk",
+        "primary_isbn13": "9780385538039",
+        "description": "A Manhattan lawyer inadvertently becomes a test subject for a line of sex toys.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385538039.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Beautiful-You-Novel-Chuck-Palahniuk/dp/0385538030?tag=thenewyorktim-20",
+        "contributor": "by Chuck Palahniuk",
+        "title": "BEAUTIFUL YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385538030",
+            "isbn13": "9780385538039"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316376116",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elin Hilderbrand",
+        "primary_isbn13": "9780316376112",
+        "description": "A dysfunctional family gathers for the holidays, and it might be up to one member to save the day in the midst of chaos and drama.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316376099.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Winter-Street-Elin-Hilderbrand/dp/0316376116?tag=thenewyorktim-20",
+        "contributor": "by Elin Hilderbrand",
+        "title": "WINTER STREET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316376116",
+            "isbn13": "9780316376112"
+          },
+          {
+            "isbn10": "0316410667",
+            "isbn13": "9780316410663"
+          },
+          {
+            "isbn10": "0316376108",
+            "isbn13": "9780316376105"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553391151",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Debbie Macomber",
+        "primary_isbn13": "9780553391152",
+        "description": "A young woman returns home for the holidays, and with the help of a guardian angel finds love with the boy next door.",
+        "book_review_link": "",
+        "book_image_height": 187,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553391626.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Mr-Miracle-A-Christmas-Novel/dp/0553391151?tag=thenewyorktim-20",
+        "contributor": "by Debbie Macomber",
+        "title": "MR. MIRACLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553391151",
+            "isbn13": "9780553391152"
+          },
+          {
+            "isbn10": "0804194564",
+            "isbn13": "9780804194563"
+          },
+          {
+            "isbn10": "0553391666",
+            "isbn13": "9780553391664"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316055433",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316055437",
+        "description": "After his mother is killed in a museum explosion, a young man grapples with the world alone while hiding a prized Dutch painting.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399169121",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780399169120",
+        "description": "In the 31st Stone Barrington novel, the attorney manages the presidential campaign of a pregnant friend and contends with a former enemy in Paris.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698154117.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Paris-Match-Stone-Barrington-Stuart/dp/0399169121?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "PARIS MATCH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399169121",
+            "isbn13": "9780399169120"
+          },
+          {
+            "isbn10": "1410471306",
+            "isbn13": "9781410471307"
+          },
+          {
+            "isbn10": "0451473078",
+            "isbn13": "9780451473073"
+          }
+        ],
+        "publisher": "Putnam"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2014-11-01",
+    "previous_published_date": "2014-11-09",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2014-11-23"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

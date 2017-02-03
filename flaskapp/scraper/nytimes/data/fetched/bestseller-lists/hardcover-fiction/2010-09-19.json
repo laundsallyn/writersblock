@@ -1,0 +1,757 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2010-09-19",
+    "books": [
+      {
+        "price": 28,
+        "primary_isbn10": "0374158460",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jonathan Franzen",
+        "primary_isbn13": "9780374158460",
+        "description": "A family of Midwestern liberals during the Bush years; by the author of \u201cThe Corrections.\u201d",
+        "book_review_link": "//www.nytimes.com/2010/08/16/books/16book.html",
+        "book_image_height": 447,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312600846.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 300,
+        "first_chapter_link": "//www.nytimes.com/2010/08/15/books/excerpt-freedom.html",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Freedom-Jonathan-Franzen/dp/0312600844?tag=thenewyorktim-20",
+        "contributor": "by Jonathan Franzen",
+        "title": "FREEDOM",
+        "sunday_review_link": "//www.nytimes.com/2010/08/29/books/review/Tanenhaus-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312600844",
+            "isbn13": "9780312600846"
+          },
+          {
+            "isbn10": "0374158460",
+            "isbn13": "9780374158460"
+          },
+          {
+            "isbn10": "1429979437",
+            "isbn13": "9781429979436"
+          },
+          {
+            "isbn10": "0312576463",
+            "isbn13": "9780312576462"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of a trilogy about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0425236595",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christine Feehan",
+        "primary_isbn13": "9780425236598",
+        "description": "A Dragonseeker on a deadly mission; a Carpathian novel.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425236598.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dark-Peril-Carpathian-Christine-Feehan/dp/0425236595?tag=thenewyorktim-20",
+        "contributor": "by Christine Feehan",
+        "title": "DARK PERIL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425236595",
+            "isbn13": "9780425236598"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399156763",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler with Grant Blackwood",
+        "primary_isbn13": "9780399156762",
+        "description": "Sam and Remi Fargo, a husband-and-wife treasure-hunting team, pursue an important relic.",
+        "book_review_link": "",
+        "book_image_height": 274,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156762.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lost-Empire-A-Fargo-Adventure/dp/0399156763?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler with Grant Blackwood",
+        "title": "LOST EMPIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156763",
+            "isbn13": "9780399156762"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316089516",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Liza Marklund",
+        "primary_isbn13": "9780316089517",
+        "description": "An N.Y.P.D. detective joins a Swedish reporter in a search for the killer of young couples in Europe, including his daughter and her boyfriend.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446569941.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 323,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Postcard-Killers-James-Patterson/dp/145550663X?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Liza Marklund",
+        "title": "THE POSTCARD KILLERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316089516",
+            "isbn13": "9780316089517"
+          },
+          {
+            "isbn10": "0316090298",
+            "isbn13": "9780316090292"
+          },
+          {
+            "isbn10": "0446569941",
+            "isbn13": "9780446569941"
+          },
+          {
+            "isbn10": "145550663X",
+            "isbn13": "9781455506637"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s \u00adMississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 6,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 4,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 75,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0765326353",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brandon Sanderson",
+        "primary_isbn13": "9780765326355",
+        "description": "In the first book of a new series, the Stormlight Archive, war ravages the world of Roshar.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765365279.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Way-Kings-Stormlight-Archive/dp/0765365278?tag=thenewyorktim-20",
+        "contributor": "by Brandon Sanderson",
+        "title": "THE WAY OF KINGS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765326353",
+            "isbn13": "9780765326355"
+          },
+          {
+            "isbn10": "0765365278",
+            "isbn13": "9780765365279"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1439102392",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathy Reichs",
+        "primary_isbn13": "9781439102398",
+        "description": "Temperance Brennan investigates the case of a man who seems to have died twice.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439102398.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Spider-Bones-Tempe-Brennan-Reichs/dp/1439102406?tag=thenewyorktim-20",
+        "contributor": "by Kathy Reichs",
+        "title": "SPIDER BONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102392",
+            "isbn13": "9781439102398"
+          },
+          {
+            "isbn10": "1439102406",
+            "isbn13": "9781439102404"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399156747",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sara Paretsky",
+        "primary_isbn13": "9780399156748",
+        "description": "V. I. Warshawski probes the death of a club patron.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156748.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Body-Work-V-I-Warshawski-Novel/dp/0399156747?tag=thenewyorktim-20",
+        "contributor": "by Sara Paretsky",
+        "title": "BODY WORK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156747",
+            "isbn13": "9780399156748"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0307272583",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Carl Hiaasen",
+        "primary_isbn13": "9780307272584",
+        "description": "A paparazzo attempting to kidnap a drug-addled pop star grabs her stunt double by mistake.",
+        "book_review_link": "//www.nytimes.com/2010/07/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446556132.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Star-Island-Carl-Hiaasen/dp/0446556122?tag=thenewyorktim-20",
+        "contributor": "by Carl Hiaasen",
+        "title": "STAR ISLAND",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307272583",
+            "isbn13": "9780307272584"
+          },
+          {
+            "isbn10": "0446556122",
+            "isbn13": "9780446556125"
+          },
+          {
+            "isbn10": "0446556130",
+            "isbn13": "9780446556132"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399156801",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Frederick Forsyth",
+        "primary_isbn13": "9780399156809",
+        "description": "A former C.I.A. operative is unleashed on the cocaine industry.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399156809.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Cobra-Frederick-Forsyth/dp/0451233565?tag=thenewyorktim-20",
+        "contributor": "by Frederick Forsyth",
+        "title": "THE COBRA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156801",
+            "isbn13": "9780399156809"
+          },
+          {
+            "isbn10": "0451233565",
+            "isbn13": "9780451233561"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "1416563725",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Philippa Gregory",
+        "primary_isbn13": "9781416563723",
+        "description": "More intrigue during the War of the Roses; by the author of \u201cThe Other Boleyn Girl.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416563730.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Red-Queen-Novel-Cousins-ebook/dp/B003LL3KQQ?tag=thenewyorktim-20",
+        "contributor": "by Philippa Gregory",
+        "title": "THE RED QUEEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416563725",
+            "isbn13": "9781416563723"
+          },
+          {
+            "isbn10": "1416563733",
+            "isbn13": "9781416563730"
+          }
+        ],
+        "publisher": "Touchstone/Simon & Schuster"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1416563105",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sandra Brown",
+        "primary_isbn13": "9781416563105",
+        "description": "A private investigator pursues a deranged killer.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416563105.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Tough-Customer-Novel-Sandra-Brown/dp/1416563113?tag=thenewyorktim-20",
+        "contributor": "by Sandra Brown",
+        "title": "TOUGH CUSTOMER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416563105",
+            "isbn13": "9781416563105"
+          },
+          {
+            "isbn10": "1416563113",
+            "isbn13": "9781416563112"
+          },
+          {
+            "isbn10": "1416563229",
+            "isbn13": "9781416563228"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "0345484177",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Terry Brooks",
+        "primary_isbn13": "9780345484178",
+        "description": "The denizens of a valley are left vulnerable when their protective layer of magic disappears.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345484178.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 180,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Bearers-Black-Staff-Legends-Shannara/dp/0345484177?tag=thenewyorktim-20",
+        "contributor": "by Terry Brooks",
+        "title": "BEARERS OF THE BLACK STAFF (LEGENDS OF SHANNARA)",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345484177",
+            "isbn13": "9780345484178"
+          }
+        ],
+        "publisher": "Del Rey/Ballantine"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0061706558",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Lippman",
+        "primary_isbn13": "9780061706554",
+        "description": "A man who kidnapped a 15-year-old girl contacts her from death row years later.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062070753.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Id-Know-You-Anywhere-Novel/dp/B006OHTW2U?tag=thenewyorktim-20",
+        "contributor": "by Laura Lippman",
+        "title": "I'D KNOW YOU ANYWHERE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061706558",
+            "isbn13": "9780061706554"
+          },
+          {
+            "isbn10": "0062070754",
+            "isbn13": "9780062070753"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 24.99,
+        "primary_isbn10": "0312303785",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Jennifer Crusie",
+        "primary_isbn13": "9780312303785",
+        "description": "A woman\u2019s ex-husband schemes to get her back, employing kids and ghosts.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312303785.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Spring-Fancy-LaVyrle-Spencer-ebook/dp/B004WBJ5BS?tag=thenewyorktim-20",
+        "contributor": "by Jennifer Crusie",
+        "title": "MAYBE THIS TIME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312303785",
+            "isbn13": "9780312303785"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439136610",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lauren Weisberger",
+        "primary_isbn13": "9781439136614",
+        "description": "A woman is challenged when her musician husband suddenly becomes a star.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451611755.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Last-Night-Chateau-Marmont-Novel/dp/1451611757?tag=thenewyorktim-20",
+        "contributor": "by Lauren Weisberger",
+        "title": "LAST NIGHT AT CHATEAU MARMONT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439136610",
+            "isbn13": "9781439136614"
+          },
+          {
+            "isbn10": "1451611757",
+            "isbn13": "9781451611755"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0743276744",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Martin Cruz Smith",
+        "primary_isbn13": "9780743276740",
+        "description": "Inspector Arkady Renko faces corrupt Russian capitalists and bureaucrats.",
+        "book_review_link": "",
+        "book_image_height": 278,
+        "book_image": "https://s1.nyt.com/du/books/images/9780743276740.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Three-Stations-Arkady-Renko-Novels/dp/0743276744?tag=thenewyorktim-20",
+        "contributor": "by Martin Cruz Smith",
+        "title": "THREE STATIONS",
+        "sunday_review_link": "//www.nytimes.com/2010/08/15/books/review/Steinhauer-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0743276744",
+            "isbn13": "9780743276740"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399156585",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Silva",
+        "primary_isbn13": "9780399156588",
+        "description": "The art restorer and assassin Gabriel Allon discovers that there are deadly secrets behind a stolen painting.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451233998.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 289,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Rembrandt-Affair-Gabriel-Allon/dp/0451233999?tag=thenewyorktim-20",
+        "contributor": "by Daniel Silva",
+        "title": "THE REMBRANDT AFFAIR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399156585",
+            "isbn13": "9780399156588"
+          },
+          {
+            "isbn10": "0451233999",
+            "isbn13": "9780451233998"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0441018645",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9780441018642",
+        "description": "The telepathic waitress Sookie Stackhouse struggles with the fallout from the brief but deadly Fae War.",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780441018642.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dead-Family-Sookie-Stackhouse-Novel/dp/0441020151?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "DEAD IN THE FAMILY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441018645",
+            "isbn13": "9780441018642"
+          },
+          {
+            "isbn10": "0441020151",
+            "isbn13": "9780441020157"
+          },
+          {
+            "isbn10": "110118731X",
+            "isbn13": "9781101187319"
+          }
+        ],
+        "publisher": "Ace"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2010-09-05",
+    "previous_published_date": "2010-09-12",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2010-09-26"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

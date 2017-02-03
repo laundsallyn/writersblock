@@ -1,0 +1,913 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2012-06-24",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0345803485",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9780345803481",
+        "description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803481.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 125,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES OF GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130283",
+            "isbn13": "9781612130286"
+          },
+          {
+            "isbn10": "0345803485",
+            "isbn13": "9780345803481"
+          },
+          {
+            "isbn10": "0099579936",
+            "isbn13": "9780099579939"
+          },
+          {
+            "isbn10": "0385363125",
+            "isbn13": "9780385363129"
+          },
+          {
+            "isbn10": "0385537670",
+            "isbn13": "9780385537674"
+          },
+          {
+            "isbn10": "0345806751",
+            "isbn13": "9780345806758"
+          },
+          {
+            "isbn10": "0804172072",
+            "isbn13": "9780804172073"
+          },
+          {
+            "isbn10": "0345805151",
+            "isbn13": "9780345805157"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130593",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130590",
+        "description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803498.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Darker-E-James/dp/0345803493?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES DARKER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130593",
+            "isbn13": "9781612130590"
+          },
+          {
+            "isbn10": "1612130585",
+            "isbn13": "9781612130583"
+          },
+          {
+            "isbn10": "0345803493",
+            "isbn13": "9780345803498"
+          },
+          {
+            "isbn10": "1448149460",
+            "isbn13": "9781448149469"
+          },
+          {
+            "isbn10": "0385363133",
+            "isbn13": "9780385363136"
+          },
+          {
+            "isbn10": "0099579928",
+            "isbn13": "9780099579922"
+          },
+          {
+            "isbn10": "0385537689",
+            "isbn13": "9780385537681"
+          },
+          {
+            "isbn10": "0606264485",
+            "isbn13": "9780606264488"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130615",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130613",
+        "description": "The final book in an erotic trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781612130606.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Freed-Three-Trilogy/dp/0345803507?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES FREED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130615",
+            "isbn13": "9781612130613"
+          },
+          {
+            "isbn10": "1612130607",
+            "isbn13": "9781612130606"
+          },
+          {
+            "isbn10": "0345803507",
+            "isbn13": "9780345803504"
+          },
+          {
+            "isbn10": "0385537697",
+            "isbn13": "9780385537698"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laurell K Hamilton",
+        "primary_isbn13": "9781101580899",
+        "description": "Investigating a teenager\u2019s abduction, Anita Blake, vampire hunter, encounters a group of recently turned vampires.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101580899.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Kiss-Anita-Blake-Vampire-Hunter/dp/0425247546?tag=thenewyorktim-20",
+        "contributor": "by Laurell K. Hamilton",
+        "title": "KISS THE DEAD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425247546",
+            "isbn13": "9780425247549"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345803574",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9780345803573",
+        "description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803573.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Trilogy-Bundle-Vintage-ebook/dp/B007SGM084?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES TRILOGY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345803574",
+            "isbn13": "9780345803573"
+          },
+          {
+            "isbn10": "1448150620",
+            "isbn13": "9781448150625"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553897845",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553897845",
+        "description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553897845.jpg",
+        "rank": 7,
+        "article_chapter_link": "//www.nytimes.com/2011/04/10/arts/television/game-of-thrones-on-hbo-from-george-r-r-martin-novels.html",
+        "rank_last_week": 15,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 33,
+        "amazon_product_url": "http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A GAME OF THRONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553573403",
+            "isbn13": "9780553573404"
+          },
+          {
+            "isbn10": "0553386794",
+            "isbn13": "9780553386790"
+          },
+          {
+            "isbn10": "0553381687",
+            "isbn13": "9780553381689"
+          },
+          {
+            "isbn10": "0553593714",
+            "isbn13": "9780553593716"
+          },
+          {
+            "isbn10": "0553897845",
+            "isbn13": "9780553897845"
+          },
+          {
+            "isbn10": "0553103547",
+            "isbn13": "9780553103540"
+          },
+          {
+            "isbn10": "044042321X",
+            "isbn13": "9780440423218"
+          },
+          {
+            "isbn10": "0553588486",
+            "isbn13": "9780553588484"
+          },
+          {
+            "isbn10": "0345535537",
+            "isbn13": "9780345535535"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097489",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316097482",
+        "description": "Detective Lindsay Boxer and the Women\u2019s Murder Club investigate a possible serial killer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446571821.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/11th-Hour-Womens-Murder-Club/dp/0446571830?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "11TH HOUR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097497",
+            "isbn13": "9780316097499"
+          },
+          {
+            "isbn10": "0316208086",
+            "isbn13": "9780316208086"
+          },
+          {
+            "isbn10": "0316097489",
+            "isbn13": "9780316097482"
+          },
+          {
+            "isbn10": "0446571822",
+            "isbn13": "9780446571821"
+          },
+          {
+            "isbn10": "0446571830",
+            "isbn13": "9780446571838"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9781101584910",
+        "description": "When a Minnesota family is murdered, the investigator Lucas Davenport believes a Mexican drug gang is involved.",
+        "book_review_link": "",
+        "book_image_height": 171,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101584910.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Stolen-Prey-John-Sandford-ebook/dp/B0072NWK5G?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "STOLEN PREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157689",
+            "isbn13": "9780399157684"
+          },
+          {
+            "isbn10": "0425260992",
+            "isbn13": "9780425260999"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446573000",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446573009",
+        "description": "A hit man who has become a target of the government rescues a teenage girl whose parents were murdered.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446573009.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/The-Innocent-David-Baldacci-ebook/dp/B006VFLIYK?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE INNOCENT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446572993",
+            "isbn13": "9780446572996"
+          },
+          {
+            "isbn10": "0446573000",
+            "isbn13": "9780446573009"
+          },
+          {
+            "isbn10": "1455513369",
+            "isbn13": "9781455513369"
+          },
+          {
+            "isbn10": "1447213521",
+            "isbn13": "9781447213529"
+          },
+          {
+            "isbn10": "1455519006",
+            "isbn13": "9781455519002"
+          },
+          {
+            "isbn10": "0446572985",
+            "isbn13": "9780446572989"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446571857",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Seth Grahame-Smith",
+        "primary_isbn13": "9780446571852",
+        "description": "A journal reveals Lincoln\u2019s fight against the undead; by the author of \u201cPride and Prejudice and Zombies.\u201d",
+        "book_review_link": "",
+        "book_image_height": 279,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446563086.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Abraham-Lincoln-Vampire-Seth-Grahame-Smith/dp/0446563072?tag=thenewyorktim-20",
+        "contributor": "by Seth Grahame-Smith",
+        "title": "ABRAHAM LINCOLN: VAMPIRE HUNTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446563080",
+            "isbn13": "9780446563086"
+          },
+          {
+            "isbn10": "0446563072",
+            "isbn13": "9780446563079"
+          },
+          {
+            "isbn10": "1455510173",
+            "isbn13": "9781455510177"
+          },
+          {
+            "isbn10": "1455510181",
+            "isbn13": "9781455510184"
+          },
+          {
+            "isbn10": "0446571857",
+            "isbn13": "9780446571852"
+          },
+          {
+            "isbn10": "1849014779",
+            "isbn13": "9781849014779"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tracey Garvis-Graves",
+        "primary_isbn13": "A00B005L9B5YU",
+        "description": "An English teacher and the teenage boy she has agreed to tutor are stranded on an island in the Indian Ocean.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": null,
+        "contributor": "by Tracey Garvis-Graves",
+        "title": "ON THE ISLAND",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1465853944",
+            "isbn13": "9781465853943"
+          }
+        ],
+        "publisher": "Tracey Garvis-Graves"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jennifer Probst",
+        "primary_isbn13": "A00B00790TI0W",
+        "description": "A billionaire who needs a wife offers a one-year marriage in name only to a bookstore owner.",
+        "book_review_link": "",
+        "book_image_height": 203,
+        "book_image": "https://s1.nyt.com/du/books/images/9781620612798.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/The-Marriage-Bargain-Billionaire/dp/1620612798?tag=thenewyorktim-20",
+        "contributor": "by Jennifer Probst",
+        "title": "THE MARRIAGE BARGAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1937044963",
+            "isbn13": "9781937044961"
+          },
+          {
+            "isbn10": "1622669037",
+            "isbn13": "9781622669035"
+          },
+          {
+            "isbn10": "1620612798",
+            "isbn13": "9781620612798"
+          },
+          {
+            "isbn10": "1620612844",
+            "isbn13": "9781620612842"
+          }
+        ],
+        "publisher": "Entangled Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1466802634",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Kay Andrews",
+        "primary_isbn13": "9781466802636",
+        "description": "Annajane Hudgens must decide whether she wants to reunite with her ex-husband.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312642723.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Spring-Fever-Mary-Kay-Andrews-ebook/dp/B00779MU6E?tag=thenewyorktim-20",
+        "contributor": "by Mary Kay Andrews",
+        "title": "SPRING FEVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312642717",
+            "isbn13": "9780312642716"
+          },
+          {
+            "isbn10": "1466802634",
+            "isbn13": "9781466802636"
+          },
+          {
+            "isbn10": "0312642725",
+            "isbn13": "9780312642723"
+          }
+        ],
+        "publisher": "St. Martin\u2019s Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sylvia Day",
+        "primary_isbn13": "9781101604786",
+        "description": "Two troubled people develop an intense, obsessive relationship.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425263907.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 308,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Bared-You-A-Crossfire-Novel-ebook/dp/B00846REIS?tag=thenewyorktim-20",
+        "contributor": "by Sylvia Day",
+        "title": "BARED TO YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0982857195",
+            "isbn13": "9780982857199"
+          },
+          {
+            "isbn10": "0985114606",
+            "isbn13": "9780985114602"
+          },
+          {
+            "isbn10": "0425263908",
+            "isbn13": "9780425263907"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9781101580776",
+        "description": "The Montgomery brothers are about to open their bed-and-breakfast, thanks to Owen Montgomery\u2019s planning \u2014 but there\u2019s one thing he didn\u2019t anticipate; Book 2 of the Inn BoonsBoro trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780515151480.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Last-Boyfriend-BoonsBoro-Trilogy/dp/0515151483?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "THE LAST BOYFRIEND",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425246035",
+            "isbn13": "9780425246030"
+          },
+          {
+            "isbn10": "1594135355",
+            "isbn13": "9781594135354"
+          },
+          {
+            "isbn10": "0515151483",
+            "isbn13": "9780515151480"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345538161",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Karin Slaughter",
+        "primary_isbn13": "9780345538161",
+        "description": "In this novella, Will Trent of the George Bureau of Investigation believes a little girl he overhears at the airport has been abducted.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345538161.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Snatched-Novella-Kindle-Single-Trent-ebook/dp/B007WKE3A4?tag=thenewyorktim-20",
+        "contributor": "by Karin Slaughter",
+        "title": "SNATCHED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345538161",
+            "isbn13": "9780345538161"
+          },
+          {
+            "isbn10": "1448149207",
+            "isbn13": "9781448149209"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Graham Brown",
+        "primary_isbn13": "9781101585009",
+        "description": "In the Indian Ocean, a NUMA research vessel\u00a0is reduced to a smoldering hulk by a swarm of black particles, and Kurt Austin and his crew uncover a mad scheme to control the world\u2019s weather.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399160134.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Storm-NUMA-Files-ebook/dp/B0074VPJLS?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Graham Brown",
+        "title": "THE STORM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399160132",
+            "isbn13": "9780399160134"
+          },
+          {
+            "isbn10": "042525965X",
+            "isbn13": "9780425259658"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "055389787X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553897876",
+        "description": "Wars continue to rage over the Iron Throne as alliances are made and broken; Book 3 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553573428.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Storm-Swords-Song-Fire-Book/dp/055357342X?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A STORM OF SWORDS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "055357342X",
+            "isbn13": "9780553573428"
+          },
+          {
+            "isbn10": "055389787X",
+            "isbn13": "9780553897876"
+          },
+          {
+            "isbn10": "0553381709",
+            "isbn13": "9780553381702"
+          },
+          {
+            "isbn10": "0553106635",
+            "isbn13": "9780553106633"
+          },
+          {
+            "isbn10": "034554398X",
+            "isbn13": "9780345543981"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jamie McGuire",
+        "primary_isbn13": "A00B0052VUNHC",
+        "description": "Abby believes she has enough distance from her dark past, but at college she\u2019s quickly challenged by an attractive but dangerous man.",
+        "book_review_link": "",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476712048.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Beautiful-Disaster-Maddox-Brothers-Series-ebook/dp/B008JMKN4Y?tag=thenewyorktim-20",
+        "contributor": "by Jamie McGuire",
+        "title": "BEAUTIFUL DISASTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1465824014",
+            "isbn13": "9781465824011"
+          },
+          {
+            "isbn10": "1466401885",
+            "isbn13": "9781466401884"
+          },
+          {
+            "isbn10": "1476712042",
+            "isbn13": "9781476712048"
+          },
+          {
+            "isbn10": "1476712050",
+            "isbn13": "9781476712055"
+          }
+        ],
+        "publisher": "Jamie McGuire"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2012-06-09",
+    "previous_published_date": "2012-06-17",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2012-07-01"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

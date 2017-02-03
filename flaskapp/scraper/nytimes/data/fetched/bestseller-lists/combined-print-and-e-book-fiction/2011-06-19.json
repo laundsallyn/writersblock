@@ -1,0 +1,836 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2011-06-19",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1440697663",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9781440697661",
+        "description": "A young white woman and two black maids in 1960s Mississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 1,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 2,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429904607",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emily Giffin",
+        "primary_isbn13": "9781429904605",
+        "description": "A maid of honor to her charmed friend, Rachel White has always played by the rules. But that changes on her 30th birthday.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312600723.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 183,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Something-Borrowed-Emily-Giffin-ebook/dp/B002F081N6?tag=thenewyorktim-20",
+        "contributor": "by Emily Giffin",
+        "title": "SOMETHING BORROWED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312321198",
+            "isbn13": "9780312321192"
+          },
+          {
+            "isbn10": "0312600720",
+            "isbn13": "9780312600723"
+          },
+          {
+            "isbn10": "031299317X",
+            "isbn13": "9780312993177"
+          },
+          {
+            "isbn10": "1429904607",
+            "isbn13": "9781429904605"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316126942",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316126946",
+        "description": "Detective Lindsay Boxer and the Women\u2019s Murder Club race to find a missing baby.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316126946.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/10th-Anniversary-Womens-Murder-Club/dp/1455511463?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "10TH ANNIVERSARY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316036269",
+            "isbn13": "9780316036269"
+          },
+          {
+            "isbn10": "0316126942",
+            "isbn13": "9780316126946"
+          },
+          {
+            "isbn10": "0316185256",
+            "isbn13": "9780316185257"
+          },
+          {
+            "isbn10": "0446585165",
+            "isbn13": "9780446585163"
+          },
+          {
+            "isbn10": "1611135419",
+            "isbn13": "9781611135411"
+          },
+          {
+            "isbn10": "1455511463",
+            "isbn13": "9781455511464"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Barbara Freethy",
+        "primary_isbn13": "",
+        "description": "Three sailboat-racing sisters close ranks against a tenacious reporter who digs into a devastating secret from their past.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780983599333.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Summer-Secrets-Barbara-Freethy-ebook/dp/B003K15AKQ?tag=thenewyorktim-20",
+        "contributor": "by Barbara Freethy",
+        "title": "SUMMER SECRETS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Recorded Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062079530",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Julia Quinn",
+        "primary_isbn13": "9780062079534",
+        "description": "A Regency-era tale featuring the romantic exploits of the well-meaning but less-than-accomplished Smythe-Smith musicians.",
+        "book_review_link": "",
+        "book_image_height": 211,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062079534.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Just-Like-Heaven-Julia-Quinn-ebook/dp/B004FEF6FG?tag=thenewyorktim-20",
+        "contributor": "by Julia Quinn",
+        "title": "JUST LIKE HEAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "006149190X",
+            "isbn13": "9780061491900"
+          },
+          {
+            "isbn10": "0062079530",
+            "isbn13": "9780062079534"
+          }
+        ],
+        "publisher": "HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1565125606",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sara Gruen",
+        "primary_isbn13": "9781565125605",
+        "description": "After his parents are killed in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+        "book_review_link": "//www.nytimes.com/2007/07/11/books/11elep.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781616200718.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 174,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 19,
+        "amazon_product_url": "http://www.amazon.com/Water-Elephants-Sara-Gruen/dp/1616200715?tag=thenewyorktim-20",
+        "contributor": "by Sara Gruen",
+        "title": "WATER FOR ELEPHANTS",
+        "sunday_review_link": "//www.nytimes.com/2006/06/04/books/review/04judd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1565125606",
+            "isbn13": "9781565125605"
+          },
+          {
+            "isbn10": "1565125851",
+            "isbn13": "9781565125858"
+          },
+          {
+            "isbn10": "1594132003",
+            "isbn13": "9781594132001"
+          },
+          {
+            "isbn10": "1616200707",
+            "isbn13": "9781616200701"
+          },
+          {
+            "isbn10": "1616200715",
+            "isbn13": "9781616200718"
+          },
+          {
+            "isbn10": "1565124995",
+            "isbn13": "9781565124998"
+          },
+          {
+            "isbn10": "1594134642",
+            "isbn13": "9781594134647"
+          }
+        ],
+        "publisher": "Algonquin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9781101515037",
+        "description": "The Minneapolis detective Lucas Davenport investigates the murders of two girls who were kidnapped in 1985.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425247891.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 284,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Buried-Prey-John-Sandford-ebook/dp/B004LRPGPC?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "BURIED PREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157387",
+            "isbn13": "9780399157387"
+          },
+          {
+            "isbn10": "0425247899",
+            "isbn13": "9780425247891"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553897845",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553897845",
+        "description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553897845.jpg",
+        "rank": 8,
+        "article_chapter_link": "//www.nytimes.com/2011/04/10/arts/television/game-of-thrones-on-hbo-from-george-r-r-martin-novels.html",
+        "rank_last_week": 8,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A GAME OF THRONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553573403",
+            "isbn13": "9780553573404"
+          },
+          {
+            "isbn10": "0553386794",
+            "isbn13": "9780553386790"
+          },
+          {
+            "isbn10": "0553381687",
+            "isbn13": "9780553381689"
+          },
+          {
+            "isbn10": "0553593714",
+            "isbn13": "9780553593716"
+          },
+          {
+            "isbn10": "0553897845",
+            "isbn13": "9780553897845"
+          },
+          {
+            "isbn10": "0553103547",
+            "isbn13": "9780553103540"
+          },
+          {
+            "isbn10": "044042321X",
+            "isbn13": "9780440423218"
+          },
+          {
+            "isbn10": "0553588486",
+            "isbn13": "9780553588484"
+          },
+          {
+            "isbn10": "0345535537",
+            "isbn13": "9780345535535"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679604898",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa See",
+        "primary_isbn13": "9780679604891",
+        "description": "A young woman angry at her mother and aunt over family secrets runs away to Shanghai in search of her birth father.",
+        "book_review_link": "//www.nytimes.com/2011/06/10/books/lisa-sees-dreams-of-joy-book-review.html",
+        "book_image_height": 201,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400067121.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dreams-Joy-Novel-Lisa-See/dp/0812980549?tag=thenewyorktim-20",
+        "contributor": "by Lisa See",
+        "title": "DREAMS OF JOY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "140006712X",
+            "isbn13": "9781400067121"
+          },
+          {
+            "isbn10": "0679604898",
+            "isbn13": "9780679604891"
+          },
+          {
+            "isbn10": "0812980549",
+            "isbn13": "9780812980547"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0373775806",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Linda Lael Miller",
+        "primary_isbn13": "9780373775804",
+        "description": "Conner Creed, a hard-working rancher in Lonesome Bend, is reunited with the identical twin brother he\u2019s been estranged from for years.",
+        "book_review_link": "",
+        "book_image_height": 202,
+        "book_image": "https://s1.nyt.com/du/books/images/9781459205291.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Creeds-Honor-The-Creed-Cowboys-ebook/dp/B004WPEDG6?tag=thenewyorktim-20",
+        "contributor": "by Linda Lael Miller",
+        "title": "CREED'S HONOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373775806",
+            "isbn13": "9780373775804"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sherryl Woods",
+        "primary_isbn13": "9781459205239",
+        "description": "In the close-knit community of Chesapeake Shores, personal crises may keep Susie and Mack\u2019s happily-ever-after just beyond reach.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781459205239.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Beach-Lane-Chesapeake-Shores-Novel-ebook/dp/B004WPEDD4?tag=thenewyorktim-20",
+        "contributor": "by Sherryl Woods",
+        "title": "BEACH LANE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778329895",
+            "isbn13": "9780778329893"
+          }
+        ],
+        "publisher": "Mira"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ilona Andrews",
+        "primary_isbn13": "9781101515259",
+        "description": "Kate Daniels has quit the Order of Merciful Aid, but she\u2019s still knee-deep in paranormal problems in Atlanta.",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101515259.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Magic-Slays-Daniels-Ilona-Andrews/dp/0441020429?tag=thenewyorktim-20",
+        "contributor": "by Ilona Andrews",
+        "title": "MAGIC SLAYS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441020429",
+            "isbn13": "9780441020423"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9781101514382",
+        "description": "The telepathic waitress Sookie Stackhouse seeks the culprit in a firebombing.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781937007355.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Dead-Reckoning-Sookie-Stackhouse-Novel-ebook/dp/B004LRPDBE?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "DEAD RECKONING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441020313",
+            "isbn13": "9780441020317"
+          },
+          {
+            "isbn10": "1937007359",
+            "isbn13": "9781937007355"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446573078",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446573078",
+        "description": "The lawyer for an alleged serial killer is murdered, and two former Secret Service agents are on the case.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446573092.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/The-Sixth-Man-David-Baldacci/dp/0446573094?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE SIXTH MAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446573108",
+            "isbn13": "9780446573108"
+          },
+          {
+            "isbn10": "0446573078",
+            "isbn13": "9780446573078"
+          },
+          {
+            "isbn10": "1455510327",
+            "isbn13": "9781455510320"
+          },
+          {
+            "isbn10": "1611136938",
+            "isbn13": "9781611136937"
+          },
+          {
+            "isbn10": "0446573094",
+            "isbn13": "9780446573092"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429904623",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emily Giffin",
+        "primary_isbn13": "9781429904629",
+        "description": "After being betrayed by her fianc\u00e9  and her best friend, Darcy Rhone flees to London.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312548070.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 307,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Something-Blue-Emily-Giffin/dp/0312323867?tag=thenewyorktim-20",
+        "contributor": "by Emily Giffin",
+        "title": "SOMETHING BLUE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312323867",
+            "isbn13": "9780312323868"
+          },
+          {
+            "isbn10": "1429904623",
+            "isbn13": "9781429904629"
+          },
+          {
+            "isbn10": "0312548079",
+            "isbn13": "9780312548070"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345530160",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Steve Berry",
+        "primary_isbn13": "9780345530165",
+        "description": "The former government operative Cotton Malone foils an assassination attempt on the president and finds himself at dangerous odds with a secret society.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345530165.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Jefferson-Key-A-Novel/dp/0345505514?tag=thenewyorktim-20",
+        "contributor": "by Steve Berry",
+        "title": "THE JEFFERSON KEY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345530160",
+            "isbn13": "9780345530165"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lynsay Sands",
+        "primary_isbn13": "9780062087966",
+        "description": "The rogue hunter Drina Argenis has been many things in her years as an immortal, but babysitter to a teenage vampire is something new.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061894596.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Reluctant-Vampire-Argeneau-Novel-ebook/dp/B004HW76YU?tag=thenewyorktim-20",
+        "contributor": "by Lynsay Sands",
+        "title": "THE RELUCTANT VAMPIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061894591",
+            "isbn13": "9780061894596"
+          }
+        ],
+        "publisher": "HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553897853",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553897852",
+        "description": "From the citadel of Dragonstone to the shores of Winterfell, factions vie for control of a divided land; Book 2 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553579901.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 170,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Clash-Kings-Song-Fire-Book/dp/0553579908?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A CLASH OF KINGS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553579908",
+            "isbn13": "9780553579901"
+          },
+          {
+            "isbn10": "0553897853",
+            "isbn13": "9780553897852"
+          },
+          {
+            "isbn10": "0553381695",
+            "isbn13": "9780553381696"
+          },
+          {
+            "isbn10": "0553108034",
+            "isbn13": "9780553108033"
+          },
+          {
+            "isbn10": "0307987647",
+            "isbn13": "9780307987648"
+          },
+          {
+            "isbn10": "0345535413",
+            "isbn13": "9780345535412"
+          },
+          {
+            "isbn10": "0345535421",
+            "isbn13": "9780345535429"
+          },
+          {
+            "isbn10": "0007465823",
+            "isbn13": "9780007465828"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307593673",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307593672",
+        "description": "In the last volume of the Millennium trilogy, Mikael Blomkvist and Lisbeth Salander are threatened by an adversary from deep within the government.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lori Foster",
+        "primary_isbn13": "9781459205307",
+        "description": "The undercover mercenary Trace Rivers has his sights set on a corrupt businessman, but the businessman\u2019s long-lost daughter has her own deadly plan for revenge.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781459205307.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Trace-Fever-Edge-Honor-Foster-ebook/dp/B004XDVRJI?tag=thenewyorktim-20",
+        "contributor": "by Lori Foster",
+        "title": "TRACE OF FEVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "037377575X",
+            "isbn13": "9780373775750"
+          }
+        ],
+        "publisher": "Harlequin"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2011-06-04",
+    "previous_published_date": "2011-06-12",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2011-06-26"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

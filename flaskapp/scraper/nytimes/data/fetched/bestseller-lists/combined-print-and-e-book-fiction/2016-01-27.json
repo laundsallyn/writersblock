@@ -1,0 +1,760 @@
+{
+  "num_results": 20,
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "results": {
+    "books": [
+      {
+        "sunday_review_link": "",
+        "contributor": "by Stuart Woods",
+        "book_review_link": "",
+        "publisher": "Putnam",
+        "isbns": [
+          {
+            "isbn13": "9780399174681",
+            "isbn10": "0399174680"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "Stone Barrington seeks a restful stay in the English countryside, but relationships with neighbors complicate matters.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399174681.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780698195059",
+        "contributor_note": "",
+        "rank": 1,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Scandalous-Behavior-Stone-Barrington-Novel/dp/0399174680?tag=thenewyorktim-20",
+        "title": "SCANDALOUS BEHAVIOR",
+        "author": "Stuart Woods"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2016/01/10/books/review/elizabeth-strouts-my-name-is-lucy-barton.html",
+        "contributor": "by Elizabeth Strout",
+        "book_review_link": "",
+        "publisher": "Random House",
+        "isbns": [
+          {
+            "isbn13": "9781400067695",
+            "isbn10": "1400067693"
+          },
+          {
+            "isbn13": "9780812989076",
+            "isbn10": "0812989074"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "A woman struggles with memories of her impoverished and disturbing childhood and its effect on the present as she attempts to reconcile with her mother.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812989076.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780812989076",
+        "contributor_note": "",
+        "rank": 2,
+        "book_image_width": 338,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0812989074",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/My-Name-Is-Lucy-Barton-ebook/dp/B011G3HG5G?tag=thenewyorktim-20",
+        "title": "MY NAME IS LUCY BARTON",
+        "author": "Elizabeth Strout"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Michael Punke",
+        "book_review_link": "",
+        "publisher": "Picador",
+        "isbns": [
+          {
+            "isbn13": "9781250101198",
+            "isbn10": "1250101190"
+          },
+          {
+            "isbn13": "9781250072689",
+            "isbn10": "1250072689"
+          },
+          {
+            "isbn13": "9781250066633",
+            "isbn10": "1250066638"
+          },
+          {
+            "isbn13": "9781250066626",
+            "isbn10": "125006662X"
+          }
+        ],
+        "weeks_on_list": 3,
+        "dagger": 0,
+        "description": "Left for dead after a mauling, the master tracker Hugh Glass is consumed by a singular desire for revenge; an inspiration for the 2015 film.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250101198.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 9,
+        "primary_isbn13": "9781250066633",
+        "contributor_note": "",
+        "rank": 3,
+        "book_image_width": 334,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1250066638",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Revenant-A-Novel-Revenge/dp/1250101190?tag=thenewyorktim-20",
+        "title": "THE REVENANT",
+        "author": "Michael Punke"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Elle Kennedy",
+        "book_review_link": "",
+        "publisher": "Elle Kennedy",
+        "isbns": [],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "A newly single graduate finds her attentions turning to a hockey star.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780994054425.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780994054425",
+        "contributor_note": "",
+        "rank": 4,
+        "book_image_width": 341,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Score-Off-Campus-Book-3-ebook/dp/B016VQCFO0?tag=thenewyorktim-20",
+        "title": "THE SCORE",
+        "author": "Elle Kennedy"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "contributor": "by Paula Hawkins",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html",
+        "publisher": "Riverhead",
+        "isbns": [
+          {
+            "isbn13": "9781594633669",
+            "isbn10": "1594633665"
+          },
+          {
+            "isbn13": "9780698185395",
+            "isbn10": "0698185390"
+          },
+          {
+            "isbn13": "9781410477767",
+            "isbn10": "1410477762"
+          },
+          {
+            "isbn13": "9780857522320",
+            "isbn10": "0857522329"
+          },
+          {
+            "isbn13": "9781448171682",
+            "isbn10": "1448171687"
+          },
+          {
+            "isbn13": "9781594634123",
+            "isbn10": "1594634122"
+          },
+          {
+            "isbn13": "9780385682312",
+            "isbn10": "038568231X"
+          },
+          {
+            "isbn13": "9781594634024",
+            "isbn10": "1594634025"
+          }
+        ],
+        "weeks_on_list": 50,
+        "dagger": 0,
+        "description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 1,
+        "primary_isbn13": "9780698185395",
+        "contributor_note": "",
+        "rank": 5,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0698185390",
+        "book_image_height": 193,
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "title": "THE GIRL ON THE TRAIN",
+        "author": "Paula Hawkins"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Andy Weir",
+        "book_review_link": "",
+        "publisher": "Crown",
+        "isbns": [
+          {
+            "isbn13": "9780804139021",
+            "isbn10": "0804139024"
+          },
+          {
+            "isbn13": "9780553418026",
+            "isbn10": "0553418025"
+          },
+          {
+            "isbn13": "9780091956141",
+            "isbn10": "0091956145"
+          },
+          {
+            "isbn13": "9781594138546",
+            "isbn10": "1594138540"
+          },
+          {
+            "isbn13": "9781101903582",
+            "isbn10": "1101903589"
+          },
+          {
+            "isbn13": "9781101905005",
+            "isbn10": "110190500X"
+          }
+        ],
+        "weeks_on_list": 34,
+        "dagger": 0,
+        "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804139038.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 3,
+        "primary_isbn13": "9780804139038",
+        "contributor_note": "",
+        "rank": 6,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": 194,
+        "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+        "title": "THE MARTIAN",
+        "author": "Andy Weir"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Kristen Ashley",
+        "book_review_link": "",
+        "publisher": "Kristen Ashley",
+        "isbns": [],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "A schemer finds an outsider like himself, but does she need to be protected from his wiles?",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": null,
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "A00B0182LT4L4",
+        "contributor_note": "",
+        "rank": 7,
+        "book_image_width": null,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "",
+        "book_image_height": null,
+        "amazon_product_url": null,
+        "title": "SEBRING",
+        "author": "Kristen Ashley"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Audrey Carlan",
+        "book_review_link": "",
+        "publisher": "Waterhouse",
+        "isbns": [],
+        "weeks_on_list": 3,
+        "dagger": 0,
+        "description": "Mia becomes a high-priced escort to pay off her father's gambling debts.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": null,
+        "first_chapter_link": "",
+        "rank_last_week": 4,
+        "primary_isbn13": "A00B013CVOJEG",
+        "contributor_note": "",
+        "rank": 8,
+        "book_image_width": null,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": null,
+        "amazon_product_url": null,
+        "title": "JANUARY",
+        "author": "Audrey Carlan"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Nicholas Sparks",
+        "book_review_link": "",
+        "publisher": "Grand Central",
+        "isbns": [
+          {
+            "isbn13": "9781455588992",
+            "isbn10": "1455588997"
+          },
+          {
+            "isbn13": "9780446698337",
+            "isbn10": "0446698334"
+          },
+          {
+            "isbn13": "9781455588985",
+            "isbn10": "1455588989"
+          },
+          {
+            "isbn13": "9780446618311",
+            "isbn10": "0446618314"
+          },
+          {
+            "isbn13": "9780446401319",
+            "isbn10": "0446401315"
+          },
+          {
+            "isbn13": "9780446579926",
+            "isbn10": "0446579920"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "description": "When Travis meets his new neighbor, his bachelor status erodes.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446698337.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 8,
+        "primary_isbn13": "9780446401319",
+        "contributor_note": "",
+        "rank": 9,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0446401315",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Choice-Nicholas-Sparks/dp/0446698334?tag=thenewyorktim-20",
+        "title": "THE CHOICE",
+        "author": "Nicholas Sparks"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Kristin Hannah",
+        "book_review_link": "",
+        "publisher": "St. Martin's",
+        "isbns": [
+          {
+            "isbn13": "9780312577223",
+            "isbn10": "0312577222"
+          },
+          {
+            "isbn13": "9781466850606",
+            "isbn10": "1466850604"
+          },
+          {
+            "isbn13": "9781628995015",
+            "isbn10": "1628995017"
+          },
+          {
+            "isbn13": "9781250080400",
+            "isbn10": "1250080401"
+          }
+        ],
+        "weeks_on_list": 38,
+        "dagger": 0,
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 6,
+        "primary_isbn13": "9781466850606",
+        "contributor_note": "",
+        "rank": 10,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1466850604",
+        "book_image_height": 195,
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "title": "THE NIGHTINGALE",
+        "author": "Kristin Hannah"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Tami Hoag",
+        "book_review_link": "",
+        "publisher": "Dutton",
+        "isbns": [
+          {
+            "isbn13": "9780525954552",
+            "isbn10": "0525954554"
+          },
+          {
+            "isbn13": "9780698190832",
+            "isbn10": "0698190831"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "Minneapolis detectives Nikki Liska and Sam Kovac investigate separate cases that eventually intersect.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525954552.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780698190832",
+        "contributor_note": "",
+        "rank": 11,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0698190831",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Bitter-Season-Kovac-Liska/dp/0525954554?tag=thenewyorktim-20",
+        "title": "THE BITTER SEASON",
+        "author": "Tami Hoag"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by John Grisham",
+        "book_review_link": "",
+        "publisher": "Doubleday",
+        "isbns": [
+          {
+            "isbn13": "9780385539432",
+            "isbn10": "0385539436"
+          },
+          {
+            "isbn13": "9780385539449",
+            "isbn10": "0385539444"
+          },
+          {
+            "isbn13": "9780385539456",
+            "isbn10": "0385539452"
+          }
+        ],
+        "weeks_on_list": 13,
+        "dagger": 0,
+        "description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385539449.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 2,
+        "primary_isbn13": "9780385539449",
+        "contributor_note": "",
+        "rank": 12,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0385539444",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Rogue-Lawyer-John-Grisham-ebook/dp/B00UEKRTW8?tag=thenewyorktim-20",
+        "title": "ROGUE LAWYER",
+        "author": "John Grisham"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor": "by Anthony Doerr",
+        "book_review_link": "",
+        "publisher": "Scribner",
+        "isbns": [
+          {
+            "isbn13": "9781476746586",
+            "isbn10": "1476746583"
+          },
+          {
+            "isbn13": "9781410470225",
+            "isbn10": "1410470229"
+          },
+          {
+            "isbn13": "9781476746593",
+            "isbn10": "1476746591"
+          },
+          {
+            "isbn13": "9781501122835",
+            "isbn10": "1501122835"
+          },
+          {
+            "isbn13": "9780007548699",
+            "isbn10": "0007548699"
+          }
+        ],
+        "weeks_on_list": 69,
+        "dagger": 0,
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 5,
+        "primary_isbn13": "9781476746586",
+        "contributor_note": "",
+        "rank": 13,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1476746583",
+        "book_image_height": 192,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "author": "Anthony Doerr"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Liane Moriarty",
+        "book_review_link": "",
+        "publisher": "Harper Perennial",
+        "isbns": [
+          {
+            "isbn13": "9780062008671",
+            "isbn10": "0062008676"
+          },
+          {
+            "isbn13": "9780060890681",
+            "isbn10": "0060890681"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "description": "A family home on an Australian island is bequeathed to an outsider, and the clan's conflicts come with it.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062008671.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 10,
+        "primary_isbn13": "9780062008671",
+        "contributor_note": "",
+        "rank": 14,
+        "book_image_width": 375,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0062008676",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Last-Anniversary-Liane-Moriarty-ebook/dp/B003F1WMCK?tag=thenewyorktim-20",
+        "title": "THE LAST ANNIVERSARY",
+        "author": "Liane Moriarty"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Alan Dean Foster",
+        "book_review_link": "",
+        "publisher": "Lucasbooks",
+        "isbns": [
+          {
+            "isbn13": "9781101965504",
+            "isbn10": "1101965509"
+          },
+          {
+            "isbn13": "9781101965498",
+            "isbn10": "1101965495"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "description": "There are new disturbances in the force in this novelization of the film franchise's seventh installment.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101965498.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 7,
+        "primary_isbn13": "9781101965498",
+        "contributor_note": "",
+        "rank": 15,
+        "book_image_width": 330,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1101965495",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Force-Awakens-Star-Wars/dp/1101965495?tag=thenewyorktim-20",
+        "title": "THE FORCE AWAKENS",
+        "author": "Alan Dean Foster"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Michelle Gable",
+        "book_review_link": "",
+        "publisher": "St. Martin's Griffin",
+        "isbns": [
+          {
+            "isbn13": "9781466849624",
+            "isbn10": "1466849622"
+          },
+          {
+            "isbn13": "9781250067777",
+            "isbn10": "1250067774"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "A high-end appraiser unpacks the provenance of a Belle Epoque portrait.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466849624.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781466849624",
+        "contributor_note": "",
+        "rank": 16,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1466849622",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/A-Paris-Apartment-Novel-ebook/dp/B00H6EOL8A?tag=thenewyorktim-20",
+        "title": "A PARIS APARTMENT",
+        "author": "Michelle Gable"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Sarah McCoy",
+        "book_review_link": "",
+        "publisher": "Broadway",
+        "isbns": [
+          {
+            "isbn13": "9780307460202",
+            "isbn10": "0307460207"
+          },
+          {
+            "isbn13": "9780307460196",
+            "isbn10": "0307460193"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "A magazine writer becomes caught up in a woman\u2019s story of her painful experiences in Germany in World War II.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307460202.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780307460202",
+        "contributor_note": "",
+        "rank": 17,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0307460207",
+        "book_image_height": 190,
+        "amazon_product_url": "http://www.amazon.com/The-Bakers-Daughter-A-Novel-ebook/dp/B004W3IEI6?tag=thenewyorktim-20",
+        "title": "THE BAKER'S DAUGHTER",
+        "author": "Sarah McCoy"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Audrey Carlan",
+        "book_review_link": "",
+        "publisher": "Waterhouse",
+        "isbns": [],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "An escort becomes a French artist's muse for a month to pay off her father's gambling debts.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": null,
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "A00B013CVOGNU",
+        "contributor_note": "",
+        "rank": 18,
+        "book_image_width": null,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": null,
+        "amazon_product_url": null,
+        "title": "FEBRUARY",
+        "author": "Audrey Carlan"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Lauren Blakely",
+        "book_review_link": "",
+        "publisher": "Lauren Blakely",
+        "isbns": [],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "A playboy has his business partner pose as his fianc\u00e9e during a crucial family business transaction.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": null,
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "A00B01A1E8WO0",
+        "contributor_note": "",
+        "rank": 19,
+        "book_image_width": null,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "None",
+        "book_image_height": null,
+        "amazon_product_url": null,
+        "title": "BIG ROCK",
+        "author": "Lauren Blakely"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Darynda Jones",
+        "book_review_link": "",
+        "publisher": "St. Martin's",
+        "isbns": [
+          {
+            "isbn13": "9781466886155",
+            "isbn10": "1466886153"
+          },
+          {
+            "isbn13": "9781250074485",
+            "isbn10": "1250074487"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466886155.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781466886155",
+        "contributor_note": "",
+        "rank": 20,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1466886153",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Dirt-Ninth-Grave-Davidson-ebook/dp/B00V36ODVM?tag=thenewyorktim-20",
+        "title": "THE DIRT ON NINTH GRAVE",
+        "author": "Darynda Jones"
+      }
+    ],
+    "list_name": "Combined Print and E-Book Fiction",
+    "updated": "WEEKLY",
+    "corrections": [],
+    "published_date_description": "",
+    "normal_list_ends_at": 15,
+    "previous_published_date": "2016-01-24",
+    "published_date": "2016-01-31",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "bestsellers_date": "2016-01-16",
+    "next_published_date": "2016-02-07",
+    "display_name": "Combined Print & E-Book Fiction"
+  },
+  "status": "OK"
+}

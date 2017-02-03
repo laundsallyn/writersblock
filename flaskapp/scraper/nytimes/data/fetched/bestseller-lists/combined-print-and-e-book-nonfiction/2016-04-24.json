@@ -1,0 +1,765 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2016-04-24",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0062454943",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anderson Cooper and Gloria Vanderbilt",
+        "primary_isbn13": "9780062454942",
+        "description": "Mother and son discuss their relationship and difficult family history.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062454966.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Rainbow-Comes-Goes-Mother-ebook/dp/B013PKIRTW?tag=thenewyorktim-20",
+        "contributor": "by Anderson Cooper and Gloria Vanderbilt",
+        "title": "THE RAINBOW COMES AND GOES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062454943",
+            "isbn13": "9780062454942"
+          },
+          {
+            "isbn10": "006245496X",
+            "isbn13": "9780062454966"
+          },
+          {
+            "isbn10": "0062466739",
+            "isbn13": "9780062466730"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1101904003",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Arianna Huffington",
+        "primary_isbn13": "9781101904008",
+        "description": "What scientific research reveals about the dangers of sleep deprivation, and tips for achieving better sleep habits. By the founder of The Huffington Post.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101904008.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Sleep-Revolution-Transforming-Night/dp/1101904003?tag=thenewyorktim-20",
+        "contributor": "by Arianna Huffington",
+        "title": "THE SLEEP REVOLUTION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1101904003",
+            "isbn13": "9781101904008"
+          },
+          {
+            "isbn10": "1101904011",
+            "isbn13": "9781101904015"
+          }
+        ],
+        "publisher": "Harmony"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "081298840X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Paul Kalanithi",
+        "primary_isbn13": "9780812988406",
+        "description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812988413.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 338,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 13,
+        "amazon_product_url": "http://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi-ebook/dp/B00XSSYR50?tag=thenewyorktim-20",
+        "contributor": "by Paul Kalanithi",
+        "title": "WHEN BREATH BECOMES AIR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "081298840X",
+            "isbn13": "9780812988406"
+          },
+          {
+            "isbn10": "0812988418",
+            "isbn13": "9780812988413"
+          },
+          {
+            "isbn10": "1410487857",
+            "isbn13": "9781410487858"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "150113258X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Steve Case",
+        "primary_isbn13": "9781501132582",
+        "description": "In the current era, entrepreneurs will use technology to revolutionize various sectors of the economy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781501132605.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Third-Wave-Entrepreneurs-Vision-ebook/dp/B010MH1ENW?tag=thenewyorktim-20",
+        "contributor": "by Steve Case",
+        "title": "THE THIRD WAVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "150113258X",
+            "isbn13": "9781501132582"
+          },
+          {
+            "isbn10": "1501132601",
+            "isbn13": "9781501132605"
+          },
+          {
+            "isbn10": "1501140752",
+            "isbn13": "9781501140754"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jill Lepore",
+        "primary_isbn13": "9780307958358",
+        "description": "Benjamin Franklin\u2019s youngest sister, Jane Franklin Mecom (1712-94), married at 15, bore 12 children and led a life of hardship. But she was also a shrewd political commentator, and her correspondence with her brother stretched across more than 60 years. Originally published in 2013.",
+        "book_review_link": "//www.nytimes.com/2013/09/27/books/book-of-ages-about-ben-franklins-sibling.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307958358.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Book-Ages-Life-Opinions-Franklin-ebook/dp/B00C8S9VAM?tag=thenewyorktim-20",
+        "contributor": "by Jill Lepore",
+        "title": "BOOK OF AGES",
+        "sunday_review_link": "//www.nytimes.com/2013/10/20/books/review/jill-lepores-book-of-ages.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307948838",
+            "isbn13": "9780307948830"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307405729",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Elder Robison",
+        "primary_isbn13": "9780307405722",
+        "description": "A life with Asperger\u2019s syndrome; first published in 2007.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307396181.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Look-Me-Eye-Life-Aspergers-ebook/dp/B000W91562?tag=thenewyorktim-20",
+        "contributor": "by John Elder Robison",
+        "title": "LOOK ME IN THE EYE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307405729",
+            "isbn13": "9780307405722"
+          },
+          {
+            "isbn10": "0307396185",
+            "isbn13": "9780307396181"
+          }
+        ],
+        "publisher": "Three Rivers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307408876",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780307408877",
+        "description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+        "book_review_link": "",
+        "book_image_height": 281,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307408860.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 31,
+        "amazon_product_url": "http://www.amazon.com/Dead-Wake-Last-Crossing-Lusitania/dp/0307408868?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "DEAD WAKE",
+        "sunday_review_link": "//www.nytimes.com/2015/03/08/books/review/erik-larsons-dead-wake-about-the-lusitania.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307408868",
+            "isbn13": "9780307408860"
+          },
+          {
+            "isbn10": "0553446754",
+            "isbn13": "9780553446753"
+          },
+          {
+            "isbn10": "0553551620",
+            "isbn13": "9780553551624"
+          },
+          {
+            "isbn10": "0804194610",
+            "isbn13": "9780804194617"
+          },
+          {
+            "isbn10": "0307408876",
+            "isbn13": "9780307408877"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "031630607X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dan Lyons",
+        "primary_isbn13": "9780316306072",
+        "description": "A longtime tech writer, age 52, takes a job at a start-up called HubSpot.",
+        "book_review_link": "//www.nytimes.com/2016/04/10/books/review/disrupted-by-dan-lyons.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316306089.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Disrupted-My-Misadventure-Start-Up-Bubble/dp/0316306088?tag=thenewyorktim-20",
+        "contributor": "by Dan Lyons",
+        "title": "DISRUPTED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316306088",
+            "isbn13": "9780316306089"
+          },
+          {
+            "isbn10": "031630607X",
+            "isbn13": "9780316306072"
+          }
+        ],
+        "publisher": "Hachette Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0143034758",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ron Chernow",
+        "primary_isbn13": "9780143034759",
+        "description": "A biography of the first Treasury secretary, a major author of the Federalist Papers and an advocate of strong central government. Originally published in 2004 and the basis of the Broadway musical.",
+        "book_review_link": "//www.nytimes.com/2004/04/22/books/books-of-the-times-inspired-windbag-who-molded-the-us-government.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780143034759.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 181,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/Alexander-Hamilton-Ron-Chernow-ebook/dp/B000QJLQZI?tag=thenewyorktim-20",
+        "contributor": "by Ron Chernow",
+        "title": "ALEXANDER HAMILTON",
+        "sunday_review_link": "//www.nytimes.com/2004/04/25/books/creating-capitalism.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594200092",
+            "isbn13": "9781594200090"
+          },
+          {
+            "isbn10": "0143034758",
+            "isbn13": "9780143034759"
+          }
+        ],
+        "publisher": "Penguin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812993543",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ta-Nehisi Coates",
+        "primary_isbn13": "9780812993547",
+        "description": "A meditation on race in America by The Atlantic's national correspondent; a National Book Award winner.",
+        "book_review_link": "//www.nytimes.com/2015/08/17/books/review/ta-nehisi-coatess-between-the-world-and-me.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679645986.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 39,
+        "amazon_product_url": "http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates-ebook/dp/B00SEFAIRI?tag=thenewyorktim-20",
+        "contributor": "by Ta-Nehisi Coates",
+        "title": "BETWEEN THE WORLD AND ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812993543",
+            "isbn13": "9780812993547"
+          },
+          {
+            "isbn10": "0451482212",
+            "isbn13": "9780451482211"
+          },
+          {
+            "isbn10": "1410485846",
+            "isbn13": "9781410485847"
+          }
+        ],
+        "publisher": "Spiegel & Grau"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0143125478",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel James Brown",
+        "primary_isbn13": "9780143125471",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101622742.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 98,
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20",
+        "contributor": "by Daniel James Brown",
+        "title": "THE BOYS IN THE BOAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "None",
+            "isbn13": "9780143177289"
+          },
+          {
+            "isbn10": "067002581X",
+            "isbn13": "9780670025817"
+          },
+          {
+            "isbn10": "0143125478",
+            "isbn13": "9780143125471"
+          },
+          {
+            "isbn10": "159413779X",
+            "isbn13": "9781594137792"
+          },
+          {
+            "isbn10": "1611761697",
+            "isbn13": "9781611761696"
+          },
+          {
+            "isbn10": "1410459543",
+            "isbn13": "9781410459541"
+          }
+        ],
+        "publisher": "Penguin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1101874937",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Hope Jahren",
+        "primary_isbn13": "9781101874936",
+        "description": "A geobiologist shares her fascination with plants and describes how she found her vocation.",
+        "book_review_link": "//www.nytimes.com/2016/04/10/books/review/hope-jahrens-lab-girl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101874943.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lab-Girl-Hope-Jahren-ebook/dp/B00Z3FYQS4?tag=thenewyorktim-20",
+        "contributor": "by Hope Jahren",
+        "title": "LAB GIRL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1101874937",
+            "isbn13": "9781101874936"
+          },
+          {
+            "isbn10": "1101874945",
+            "isbn13": "9781101874943"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "081299339X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charles Duhigg",
+        "primary_isbn13": "9780812993394",
+        "description": "The science of productivity, from the author of \u201cThe Power of Habit.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679645429.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Smarter-Faster-Better-Productive-Business-ebook/dp/B00Z3FRYB0?tag=thenewyorktim-20",
+        "contributor": "by Charles Duhigg",
+        "title": "SMARTER FASTER BETTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "081299339X",
+            "isbn13": "9780812993394"
+          },
+          {
+            "isbn10": "067964542X",
+            "isbn13": "9780679645429"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "039916815X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lesley Stahl",
+        "primary_isbn13": "9780399168154",
+        "description": "he reporter investigates how \u201cgrandmothering\u201d transforms a woman\u2019s life.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399168154.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Becoming-Grandma-Joys-Science-Grandparenting/dp/039916815X?tag=thenewyorktim-20",
+        "contributor": "by Lesley Stahl",
+        "title": "BECOMING GRANDMA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "039916815X",
+            "isbn13": "9780399168154"
+          }
+        ],
+        "publisher": "Blue Rider"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399184414",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Carlo Rovelli",
+        "primary_isbn13": "9780399184413",
+        "description": "An introduction to modern physics.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399184437.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Seven-Brief-Lessons-Physics-Rovelli-ebook/dp/B00Z8VTMYG?tag=thenewyorktim-20",
+        "contributor": "by Carlo Rovelli",
+        "title": "SEVEN BRIEF LESSONS ON PHYSICS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399184414",
+            "isbn13": "9780399184413"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312342039",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Augusten Burroughs",
+        "primary_isbn13": "9780312342036",
+        "description": "Burroughs's post-rehab love life in 1990s New York City, and its eventual happy ending.",
+        "book_review_link": "//www.nytimes.com/2016/04/03/books/review/lust-and-wonder-by-augusten-burroughs.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312342036.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Lust-Wonder-Memoir-Augusten-Burroughs/dp/0312342039?tag=thenewyorktim-20",
+        "contributor": "by Augusten Burroughs",
+        "title": "LUST AND WONDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312342039",
+            "isbn13": "9780312342036"
+          },
+          {
+            "isbn10": "1250082366",
+            "isbn13": "9781250082367"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1101907061",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kate Siegel",
+        "primary_isbn13": "9781101907061",
+        "description": "Essays about life with an over-involved parent, based on the Instagram account @CrazyJewishMom.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101907061.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 386,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Mother-Can-You-Kate-Siegel-ebook/dp/B015VACH36?tag=thenewyorktim-20",
+        "contributor": "by Kate Siegel",
+        "title": "MOTHER, CAN YOU NOT?",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1101907061",
+            "isbn13": "9781101907061"
+          },
+          {
+            "isbn10": "1101907045",
+            "isbn13": "9781101907047"
+          }
+        ],
+        "publisher": "Crown Archetype"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062209728",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Peggy Orenstein",
+        "primary_isbn13": "9780062209726",
+        "description": "Interviews with more than 70 teenagers shed light on their experience of sexuality.",
+        "book_review_link": "//www.nytimes.com/2016/03/27/books/review/sext-and-the-single-girl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062209733.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Girls-Sex-Navigating-Complicated-Landscape-ebook/dp/B0111YAT0Y?tag=thenewyorktim-20",
+        "contributor": "by Peggy Orenstein",
+        "title": "GIRLS AND SEX",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062209728",
+            "isbn13": "9780062209726"
+          },
+          {
+            "isbn10": "0062209736",
+            "isbn13": "9780062209733"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805095152",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Atul Gawande",
+        "primary_isbn13": "9780805095159",
+        "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+        "book_review_link": "//www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805095159.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20",
+        "contributor": "by Atul Gawande",
+        "title": "BEING MORTAL",
+        "sunday_review_link": "//www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805095152",
+            "isbn13": "9780805095159"
+          },
+          {
+            "isbn10": "1427244235",
+            "isbn13": "9781427244239"
+          },
+          {
+            "isbn10": "1410478122",
+            "isbn13": "9781410478122"
+          },
+          {
+            "isbn10": "1514732998",
+            "isbn13": "9781514732991"
+          },
+          {
+            "isbn10": "1250081246",
+            "isbn13": "9781250081247"
+          }
+        ],
+        "publisher": "Metropolitan/Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1101902965",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kimberly Williams-Paisley",
+        "primary_isbn13": "9781101902967",
+        "description": "The actress shares the continuing story of her mother's rare form of dementia, \"primary progressive aphasia,\" from early-onset diagnosis at age 62 through the present.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101902967.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Where-Light-Gets-In-Losing-ebook/dp/B010ZXQ988?tag=thenewyorktim-20",
+        "contributor": "by Kimberly Williams-Paisley",
+        "title": "WHERE THE LIGHT GETS IN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1101902965",
+            "isbn13": "9781101902967"
+          },
+          {
+            "isbn10": "1101902957",
+            "isbn13": "9781101902950"
+          }
+        ],
+        "publisher": "Crown Archetype"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2016-04-09",
+    "previous_published_date": "2016-04-17",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2016-05-01"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

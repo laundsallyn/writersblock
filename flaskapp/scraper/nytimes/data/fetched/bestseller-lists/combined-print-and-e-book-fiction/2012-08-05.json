@@ -1,0 +1,872 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2012-08-05",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130293",
+        "description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803481.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 125,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 21,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES OF GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130283",
+            "isbn13": "9781612130286"
+          },
+          {
+            "isbn10": "0345803485",
+            "isbn13": "9780345803481"
+          },
+          {
+            "isbn10": "0099579936",
+            "isbn13": "9780099579939"
+          },
+          {
+            "isbn10": "0385363125",
+            "isbn13": "9780385363129"
+          },
+          {
+            "isbn10": "0385537670",
+            "isbn13": "9780385537674"
+          },
+          {
+            "isbn10": "0345806751",
+            "isbn13": "9780345806758"
+          },
+          {
+            "isbn10": "0804172072",
+            "isbn13": "9780804172073"
+          },
+          {
+            "isbn10": "0345805151",
+            "isbn13": "9780345805157"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130593",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130590",
+        "description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803498.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 21,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Darker-E-James/dp/0345803493?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES DARKER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130593",
+            "isbn13": "9781612130590"
+          },
+          {
+            "isbn10": "1612130585",
+            "isbn13": "9781612130583"
+          },
+          {
+            "isbn10": "0345803493",
+            "isbn13": "9780345803498"
+          },
+          {
+            "isbn10": "1448149460",
+            "isbn13": "9781448149469"
+          },
+          {
+            "isbn10": "0385363133",
+            "isbn13": "9780385363136"
+          },
+          {
+            "isbn10": "0099579928",
+            "isbn13": "9780099579922"
+          },
+          {
+            "isbn10": "0385537689",
+            "isbn13": "9780385537681"
+          },
+          {
+            "isbn10": "0606264485",
+            "isbn13": "9780606264488"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130615",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130613",
+        "description": "The final book in an erotic trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781612130606.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 20,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Freed-Three-Trilogy/dp/0345803507?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES FREED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130615",
+            "isbn13": "9781612130613"
+          },
+          {
+            "isbn10": "1612130607",
+            "isbn13": "9781612130606"
+          },
+          {
+            "isbn10": "0345803507",
+            "isbn13": "9780345803504"
+          },
+          {
+            "isbn10": "0385537697",
+            "isbn13": "9780385537698"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062073176",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Silva",
+        "primary_isbn13": "9780062073174",
+        "description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, discovers a global criminal enterprise behind a murder in Rome.",
+        "book_review_link": "",
+        "book_image_height": 205,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062253835.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Fallen-Angel-Gabriel-Allon/dp/006207315X?tag=thenewyorktim-20",
+        "contributor": "by Daniel Silva",
+        "title": "THE FALLEN ANGEL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062073125",
+            "isbn13": "9780062073129"
+          },
+          {
+            "isbn10": "0062073176",
+            "isbn13": "9780062073174"
+          },
+          {
+            "isbn10": "0007433328",
+            "isbn13": "9780007433322"
+          },
+          {
+            "isbn10": "0062128140",
+            "isbn13": "9780062128140"
+          },
+          {
+            "isbn10": "0062253832",
+            "isbn13": "9780062253835"
+          },
+          {
+            "isbn10": "006207315X",
+            "isbn13": "9780062073150"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sylvia Day",
+        "primary_isbn13": "9781101604786",
+        "description": "Two troubled people develop an intense, obsessive relationship.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425263907.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 308,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Bared-You-A-Crossfire-Novel-ebook/dp/B00846REIS?tag=thenewyorktim-20",
+        "contributor": "by Sylvia Day",
+        "title": "BARED TO YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0982857195",
+            "isbn13": "9780982857199"
+          },
+          {
+            "isbn10": "0985114606",
+            "isbn13": "9780985114602"
+          },
+          {
+            "isbn10": "0425263908",
+            "isbn13": "9780425263907"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780345537102",
+        "description": "In this e-book story, Jack Reacher is summoned to Washington to find the source of a leak about a new weapon.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345537102.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Deep-Down-Jack-Reacher-Story-ebook/dp/B008ED5G9A?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "DEEP DOWN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1448153875",
+            "isbn13": "9781448153879"
+          }
+        ],
+        "publisher": "Delacorte Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097470",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316097475",
+        "description": "A New York detective takes refuge with his 10 children in an upstate cabin.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446571807.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 323,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/I-Michael-Bennett-James-Patterson/dp/0446571814?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "I, MICHAEL BENNETT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097462",
+            "isbn13": "9780316097468"
+          },
+          {
+            "isbn10": "0316097470",
+            "isbn13": "9780316097475"
+          },
+          {
+            "isbn10": "0316224065",
+            "isbn13": "9780316224062"
+          },
+          {
+            "isbn10": "1409038823",
+            "isbn13": "9781409038825"
+          },
+          {
+            "isbn10": "0446571806",
+            "isbn13": "9780446571807"
+          },
+          {
+            "isbn10": "0446571814",
+            "isbn13": "9780446571814"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Deborah Harkness",
+        "primary_isbn13": "9781101578933",
+        "description": "An Oxford scholar/witch and a vampire geneticist pursue history, secrets and each other in Elizabethan London; Book 2 of the All Souls trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670023486.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Shadow-Night-All-Souls-Trilogy/dp/0143123629?tag=thenewyorktim-20",
+        "contributor": "by Deborah Harkness",
+        "title": "SHADOW OF NIGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670023485",
+            "isbn13": "9780670023486"
+          },
+          {
+            "isbn10": "0143123629",
+            "isbn13": "9780143123620"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451648154",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Lee Burke",
+        "primary_isbn13": "9781451648157",
+        "description": "The Louisiana detective Dave Robicheaux hunts for a missing Cajun singer.",
+        "book_review_link": "",
+        "book_image_height": 148,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451648157.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Creole-Belle-Dave-Robicheaux-Novel-ebook/dp/B0061Q5MO6?tag=thenewyorktim-20",
+        "contributor": "by James Lee Burke",
+        "title": "CREOLE BELLE",
+        "sunday_review_link": "//www.nytimes.com/2012/07/22/books/review/james-lee-burkes-creole-belle-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451648138",
+            "isbn13": "9781451648133"
+          },
+          {
+            "isbn10": "1451648154",
+            "isbn13": "9781451648157"
+          },
+          {
+            "isbn10": "141044953X",
+            "isbn13": "9781410449535"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Colleen Hoover",
+        "primary_isbn13": "A00B006RUJST6",
+        "description": "A girl falls in love with a neighbor who enjoys slam poetry, but they encounter obstacles.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": null,
+        "contributor": "by Colleen Hoover",
+        "title": "SLAMMED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Colleen Hoover"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345803574",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9780345803573",
+        "description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803573.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Trilogy-Bundle-Vintage-ebook/dp/B007SGM084?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES TRILOGY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345803574",
+            "isbn13": "9780345803573"
+          },
+          {
+            "isbn10": "1448150620",
+            "isbn13": "9781448150625"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jennifer Probst",
+        "primary_isbn13": "A00B00790TI0W",
+        "description": "A billionaire who needs a wife offers a one-year marriage in name only to a bookstore owner.",
+        "book_review_link": "",
+        "book_image_height": 203,
+        "book_image": "https://s1.nyt.com/du/books/images/9781620612798.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/The-Marriage-Bargain-Billionaire/dp/1620612798?tag=thenewyorktim-20",
+        "contributor": "by Jennifer Probst",
+        "title": "THE MARRIAGE BARGAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1937044963",
+            "isbn13": "9781937044961"
+          },
+          {
+            "isbn10": "1622669037",
+            "isbn13": "9781622669035"
+          },
+          {
+            "isbn10": "1620612798",
+            "isbn13": "9781620612798"
+          },
+          {
+            "isbn10": "1620612844",
+            "isbn13": "9781620612842"
+          }
+        ],
+        "publisher": "Entangled Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Catherine Coulter",
+        "primary_isbn13": "9781101587324",
+        "description": "The F.B.I. agents Dillon Savich and Lacey Sherlock investigate the murder of a judge.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399157325.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Backfire-FBI-Thriller-Catherine-Coulter-ebook/dp/B00740GOJA?tag=thenewyorktim-20",
+        "contributor": "by Catherine Coulter",
+        "title": "BACKFIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157328",
+            "isbn13": "9780399157325"
+          },
+          {
+            "isbn10": "051515301X",
+            "isbn13": "9780515153019"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "034553056X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780345530561",
+        "description": "Partners in a small law firm take on a big case.",
+        "book_review_link": "",
+        "book_image_height": 229,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345536884.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Litigators-Novel-John-Grisham/dp/034553056X?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE LITIGATORS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345536886",
+            "isbn13": "9780345536884"
+          },
+          {
+            "isbn10": "034553056X",
+            "isbn13": "9780345530561"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Iris Johansen and Roy Johansen",
+        "primary_isbn13": "9781429942515",
+        "description": "Kendra Michaels, who honed her other senses when she was blind for the first 20 years of her life, helps the F.B.I. track a serial killer who has abducted her ex-lover.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429942515.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Close-Your-Eyes-Iris-Johansen-ebook/dp/B0071NOJ9M?tag=thenewyorktim-20",
+        "contributor": "by Iris Johansen and Roy Johansen",
+        "title": "CLOSE YOUR EYES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312611617",
+            "isbn13": "9780312611613"
+          },
+          {
+            "isbn10": "1250010411",
+            "isbn13": "9781250010414"
+          }
+        ],
+        "publisher": "St. Martin's Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553897845",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553897845",
+        "description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553897845.jpg",
+        "rank": 17,
+        "article_chapter_link": "//www.nytimes.com/2011/04/10/arts/television/game-of-thrones-on-hbo-from-george-r-r-martin-novels.html",
+        "rank_last_week": 0,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A GAME OF THRONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553573403",
+            "isbn13": "9780553573404"
+          },
+          {
+            "isbn10": "0553386794",
+            "isbn13": "9780553386790"
+          },
+          {
+            "isbn10": "0553381687",
+            "isbn13": "9780553381689"
+          },
+          {
+            "isbn10": "0553593714",
+            "isbn13": "9780553593716"
+          },
+          {
+            "isbn10": "0553897845",
+            "isbn13": "9780553897845"
+          },
+          {
+            "isbn10": "0553103547",
+            "isbn13": "9780553103540"
+          },
+          {
+            "isbn10": "044042321X",
+            "isbn13": "9780440423218"
+          },
+          {
+            "isbn10": "0553588486",
+            "isbn13": "9780553588484"
+          },
+          {
+            "isbn10": "0345535537",
+            "isbn13": "9780345535535"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451617771",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jennifer Weiner",
+        "primary_isbn13": "9781451617771",
+        "description": "A young woman who moves to Hollywood to make it in television finds success, but her life remains complicated.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451617771.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Next-Best-Thing-Novel-ebook/dp/B0061NT77C?tag=thenewyorktim-20",
+        "contributor": "by Jennifer Weiner",
+        "title": "THE NEXT BEST THING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451617755",
+            "isbn13": "9781451617757"
+          },
+          {
+            "isbn10": "1451617771",
+            "isbn13": "9781451617771"
+          },
+          {
+            "isbn10": "1451617763",
+            "isbn13": "9781451617764"
+          }
+        ],
+        "publisher": "Atria Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Deborah Harkness",
+        "primary_isbn13": "9781101475690",
+        "description": "The recovery of a lost ancient manuscript in a library at Oxford sets a fantastical underworld stirring.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101475690.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Discovery-Witches-Novel-Souls-Trilogy/dp/0143119680?tag=thenewyorktim-20",
+        "contributor": "by Deborah Harkness",
+        "title": "A DISCOVERY OF WITCHES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670022411",
+            "isbn13": "9780670022410"
+          },
+          {
+            "isbn10": "0143119680",
+            "isbn13": "9780143119685"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "R L Mathewson",
+        "primary_isbn13": "2940011285769",
+        "description": "When a woman stands up to her aggravating neighbor, romance ensues. A Neighbor From Hell novel.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780983212539.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 417,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Playing-Keeps-Neighbor-From-Series-ebook/dp/B004YQBXIE?tag=thenewyorktim-20",
+        "contributor": "by R. L. Mathewson",
+        "title": "PLAYING FOR KEEPS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0983212538",
+            "isbn13": "9780983212539"
+          }
+        ],
+        "publisher": "Rerum Publishing House"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2012-07-21",
+    "previous_published_date": "2012-07-29",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2012-08-12"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

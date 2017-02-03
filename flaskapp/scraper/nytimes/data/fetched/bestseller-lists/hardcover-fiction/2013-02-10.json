@@ -1,0 +1,833 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2013-02-10",
+    "books": [
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316211176",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Mark Sullivan",
+        "primary_isbn13": "9780316211178",
+        "description": "A superstar agent at the German headquarters of an investigation firm disappears.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316211178.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Private-Berlin-James-Patterson/dp/0316211176?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Mark Sullivan",
+        "title": "PRIVATE BERLIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316211176",
+            "isbn13": "9780316211178"
+          },
+          {
+            "isbn10": "0316211168",
+            "isbn13": "9780316211161"
+          },
+          {
+            "isbn10": "1448108411",
+            "isbn13": "9781448108411"
+          },
+          {
+            "isbn10": "0316250597",
+            "isbn13": "9780316250597"
+          },
+          {
+            "isbn10": "1455521515",
+            "isbn13": "9781455521517"
+          },
+          {
+            "isbn10": "1455515949",
+            "isbn13": "9781455515943"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 34.99,
+        "primary_isbn10": "0765325950",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert Jordan and Brandon Sanderson",
+        "primary_isbn13": "9780765325952",
+        "description": "The 14th and final novel in the Wheel of Time fantasy series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429997171.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/A-Memory-Light-Wheel-Time-ebook/dp/B00BMKDTNC?tag=thenewyorktim-20",
+        "contributor": "by Robert Jordan and Brandon Sanderson",
+        "title": "A MEMORY OF LIGHT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765325950",
+            "isbn13": "9780765325952"
+          },
+          {
+            "isbn10": "1429997176",
+            "isbn13": "9781429997171"
+          },
+          {
+            "isbn10": "0765364883",
+            "isbn13": "9780765364883"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399161481",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert Crais",
+        "primary_isbn13": "9780399161483",
+        "description": "A Los Angeles policeman and a German shepherd, both suffering from PTSD, search for the killers of the cop\u2019s partner.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399161483.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Suspect-Robert-Crais-ebook/dp/B008RCZLNO?tag=thenewyorktim-20",
+        "contributor": "by Robert Crais",
+        "title": "SUSPECT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399161481",
+            "isbn13": "9780399161483"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "030758836X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears on her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 34,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0061957917",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kim Harrison",
+        "primary_isbn13": "9780061957918",
+        "description": "The witch Rachel Morgan and an unlikely ally battle a demon in order to prevent an apocalypse.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061957918.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Ever-After-Hollows-Kim-Harrison/dp/0061957925?tag=thenewyorktim-20",
+        "contributor": "by Kim Harrison",
+        "title": "EVER AFTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061957917",
+            "isbn13": "9780061957918"
+          },
+          {
+            "isbn10": "0061957925",
+            "isbn13": "9780061957925"
+          }
+        ],
+        "publisher": "HarperCollins Voyager"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0812993802",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George Saunders",
+        "primary_isbn13": "9780812993806",
+        "description": "Stories that take on the big questions.",
+        "book_review_link": "//www.nytimes.com/2013/01/15/books/tenth-of-december-stories-by-george-saunders.html",
+        "book_image_height": 469,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812993813.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 318,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Tenth-December-Stories-George-Saunders/dp/0812984250?tag=thenewyorktim-20",
+        "contributor": "by George Saunders",
+        "title": "TENTH OF DECEMBER",
+        "sunday_review_link": "//www.nytimes.com/2013/02/03/books/review/tenth-of-december-by-george-saunders.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812993802",
+            "isbn13": "9780812993806"
+          },
+          {
+            "isbn10": "0812984250",
+            "isbn13": "9780812984255"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0446553972",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Meltzer",
+        "primary_isbn13": "9780446553971",
+        "description": "Tracking an assassin who is recreating the crimes of the four men who murdered presidents, Beecher White discovers that they all were working together.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446553971.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Fifth-Assassin-Brad-Meltzer-ebook/dp/B007ZFIW44?tag=thenewyorktim-20",
+        "contributor": "by Brad Meltzer",
+        "title": "THE FIFTH ASSASSIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446553972",
+            "isbn13": "9780446553971"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "145164020X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen Hunter",
+        "primary_isbn13": "9781451640205",
+        "description": "The veteran sniper Bob Lee Swagger investigates the assassination of John F. Kennedy.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451640250.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Third-Bullet-Swagger-Novels-ebook/dp/B006VFZPBW?tag=thenewyorktim-20",
+        "contributor": "by Stephen Hunter",
+        "title": "THE THIRD BULLET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "145164020X",
+            "isbn13": "9781451640205"
+          },
+          {
+            "isbn10": "1611736374",
+            "isbn13": "9781611736373"
+          },
+          {
+            "isbn10": "1451640226",
+            "isbn13": "9781451640229"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 28.95,
+        "primary_isbn10": "0385535147",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385535144",
+        "description": "An imprisoned ex-lawyer schemes to exchange information about a murdered federal judge for his freedom.",
+        "book_review_link": "//www.nytimes.com/2012/10/18/books/the-racketeer-by-john-grisham.html",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385536882.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/The-Racketeer-Novel-John-Grisham/dp/0345545338?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE RACKETEER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385535147",
+            "isbn13": "9780385535144"
+          },
+          {
+            "isbn10": "0385536887",
+            "isbn13": "9780385536882"
+          },
+          {
+            "isbn10": "0385536895",
+            "isbn13": "9780385536899"
+          },
+          {
+            "isbn10": "0345545338",
+            "isbn13": "9780345545336"
+          },
+          {
+            "isbn10": "0345530578",
+            "isbn13": "9780345530578"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0385350287",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ayana Mathis",
+        "primary_isbn13": "9780385350280",
+        "description": "Fifty-some years in the life of an African-American family whose matriarch arrives in Philadelphia in 1923.",
+        "book_review_link": "//www.nytimes.com/2012/12/06/books/the-twelve-tribes-of-hattie-by-ayana-mathis.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385350280.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Twelve-Digital-Edition-Vintage-Contemporaries-ebook/dp/B00A9ET5XU?tag=thenewyorktim-20",
+        "contributor": "by Ayana Mathis",
+        "title": "THE TWELVE TRIBES OF HATTIE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385350287",
+            "isbn13": "9780385350280"
+          },
+          {
+            "isbn10": "0804121028",
+            "isbn13": "9780804121026"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0525953612",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jennifer Chiaverini",
+        "primary_isbn13": "9780525953616",
+        "description": "A novel about Elizabeth Keckley, who was born a slave, earned her freedom through her dressmaking skill and became a friend of Mary Todd Lincoln.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101609644.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Mrs-Lincolns-Dressmaker-A-Novel/dp/0142180351?tag=thenewyorktim-20",
+        "contributor": "by Jennifer Chiaverini",
+        "title": "MRS. LINCOLN'S DRESSMAKER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953612",
+            "isbn13": "9780525953616"
+          },
+          {
+            "isbn10": "1410455424",
+            "isbn13": "9781410455420"
+          },
+          {
+            "isbn10": "0142180351",
+            "isbn13": "9780142180358"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0446573051",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446573054",
+        "description": "The military investigator John Puller, the protagonist of \u201cZero Day,\u201d probes his aunt\u2019s mysterious death in Florida.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455523153.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/The-Forgotten-David-Baldacci/dp/1455523151?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE FORGOTTEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446573051",
+            "isbn13": "9780446573054"
+          },
+          {
+            "isbn10": "1455522643",
+            "isbn13": "9781455522644"
+          },
+          {
+            "isbn10": "0446573043",
+            "isbn13": "9780446573047"
+          },
+          {
+            "isbn10": "1455523151",
+            "isbn13": "9781455523153"
+          },
+          {
+            "isbn10": "044657306X",
+            "isbn13": "9780446573061"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0062065246",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Louise Erdrich",
+        "primary_isbn13": "9780062065247",
+        "description": "A Native American family faces the ramifications of a vicious crime.",
+        "book_review_link": "//www.nytimes.com/2012/10/16/books/the-round-house-louise-erdrichs-new-novel.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062065261.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/The-Round-House-Louise-Erdrich-ebook/dp/B007HC3UF6?tag=thenewyorktim-20",
+        "contributor": "by Louise Erdrich",
+        "title": "THE ROUND HOUSE",
+        "sunday_review_link": "//www.nytimes.com/2012/10/14/books/review/the-round-house-by-louise-erdrich.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062065246",
+            "isbn13": "9780062065247"
+          },
+          {
+            "isbn10": "0062065262",
+            "isbn13": "9780062065261"
+          },
+          {
+            "isbn10": "0062201484",
+            "isbn13": "9780062201485"
+          },
+          {
+            "isbn10": "0062065254",
+            "isbn13": "9780062065254"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "039915986X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780399159862",
+        "description": "Back in New York, the lawyer Stone Barrington joins his former partner Holly Barker in pursuing a dangerous case.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101609132.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Collateral-Damage-Stone-Barrington-Stuart/dp/0451414381?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "COLLATERAL DAMAGE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "039915986X",
+            "isbn13": "9780399159862"
+          },
+          {
+            "isbn10": "0451414381",
+            "isbn13": "9780451414380"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 24.99,
+        "primary_isbn10": "145551604X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Wm Paul Young",
+        "primary_isbn13": "9781455516049",
+        "description": "A comatose businessman encounters Jesus, the Holy Spirit and God; from the author of \u201cThe Shack.\u201d",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455516049.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/Cross-Roads-WM-Paul-Young/dp/145551604X?tag=thenewyorktim-20",
+        "contributor": "by Wm. Paul Young",
+        "title": "CROSS ROADS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "145551604X",
+            "isbn13": "9781455516049"
+          },
+          {
+            "isbn10": "1455528536",
+            "isbn13": "9781455528530"
+          },
+          {
+            "isbn10": "1455516031",
+            "isbn13": "9781455516032"
+          }
+        ],
+        "publisher": "FaithWords"
+      },
+      {
+        "price": 28.95,
+        "primary_isbn10": "0399160450",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Tom Clancy with Mark Greaney",
+        "primary_isbn13": "9780399160455",
+        "description": "The covert intelligence expert Jack Ryan Jr. aids his father\u2019s administration  as China threatens.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399160455.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Threat-Vector-Jack-Ryan-Jr/dp/0425262308?tag=thenewyorktim-20",
+        "contributor": "by Tom Clancy with Mark Greaney",
+        "title": "THREAT VECTOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399160450",
+            "isbn13": "9780399160455"
+          },
+          {
+            "isbn10": "1410454983",
+            "isbn13": "9781410454980"
+          },
+          {
+            "isbn10": "0425262308",
+            "isbn13": "9780425262306"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525952926",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ken Follett",
+        "primary_isbn13": "9780525952923",
+        "description": "Five interrelated families \u2014 American, German, Russian, English and Welsh \u2014 grapple with the historical events of the years 1939-49; Book 2 of the Century Trilogy.",
+        "book_review_link": "//www.nytimes.com/2012/09/17/books/ken-follett-offers-second-volume-of-century-trilogy.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101591437.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Winter-World-Book-Century-Trilogy/dp/0451419243?tag=thenewyorktim-20",
+        "contributor": "by Ken Follett",
+        "title": "WINTER OF THE WORLD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525952926",
+            "isbn13": "9780525952923"
+          },
+          {
+            "isbn10": "023076486X",
+            "isbn13": "9780230764866"
+          },
+          {
+            "isbn10": "0451419243",
+            "isbn13": "9780451419248"
+          },
+          {
+            "isbn10": "0451468228",
+            "isbn13": "9780451468222"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316224588",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ian Rankin",
+        "primary_isbn13": "9780316224581",
+        "description": "After retiring from the Edinburgh police force, John Rebus investigates the case of a young woman who disappeared in 1999.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316224598.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Standing-Another-Grave-Detective-Inspector-ebook/dp/B008ASGP3U?tag=thenewyorktim-20",
+        "contributor": "by Ian Rankin",
+        "title": "STANDING IN ANOTHER MAN'S GRAVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316224588",
+            "isbn13": "9780316224581"
+          },
+          {
+            "isbn10": "0316224596",
+            "isbn13": "9780316224598"
+          }
+        ],
+        "publisher": "Reagan Arthur/Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399163832",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Grafton",
+        "primary_isbn13": "9780399163838",
+        "description": "Early stories about Grafton\u2019s smart and scrappy private investigator, Kinsey Millhone, as well as explorations of the author\u2019s own past.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399163838.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Kinsey-Me-Stories-Sue-Grafton/dp/0425267792?tag=thenewyorktim-20",
+        "contributor": "by Sue Grafton",
+        "title": "KINSEY AND ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399163832",
+            "isbn13": "9780399163838"
+          },
+          {
+            "isbn10": "0425267792",
+            "isbn13": "9780425267790"
+          }
+        ],
+        "publisher": "Marian Wood/Putnam"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2013-01-26",
+    "previous_published_date": "2013-02-03",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2013-02-17"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

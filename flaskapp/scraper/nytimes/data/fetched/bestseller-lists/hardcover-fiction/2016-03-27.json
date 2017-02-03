@@ -1,0 +1,801 @@
+{
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "num_results": 20,
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "previous_published_date": "2016-03-20",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "books": [
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780399176609",
+        "dagger": 0,
+        "rank": 1,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Off-Grid-Joe-Pickett-Novel/dp/0399176608?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "The 16th Joe Pickett novel features Nate Romanowski and a search for a domestic terror cell.",
+        "weeks_on_list": 1,
+        "contributor": "by C. J. Box",
+        "title": "OFF THE GRID",
+        "book_image_width": 331,
+        "publisher": "Putnam",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780399176609",
+            "isbn10": "0399176608"
+          },
+          {
+            "isbn13": "9781628999211",
+            "isbn10": "1628999217"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780399176609.jpg",
+        "author": "C J Box",
+        "first_chapter_link": "",
+        "primary_isbn10": "0399176608",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780425256763",
+        "dagger": 0,
+        "rank": 2,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Fire-Touched-Mercy-Thompson-Novel/dp/0425256766?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "The shape-shifter Mercy Thompson and her Alpha werewolf mate, Adam, protect a stolen human child.",
+        "weeks_on_list": 1,
+        "contributor": "by Patricia Briggs",
+        "title": "FIRE TOUCHED",
+        "book_image_width": 331,
+        "publisher": "Ace",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780425256763",
+            "isbn10": "0425256766"
+          },
+          {
+            "isbn13": "9780698180918",
+            "isbn10": "0698180917"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780425256763.jpg",
+        "author": "Patricia Briggs",
+        "first_chapter_link": "",
+        "primary_isbn10": "0425256766",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781476746586",
+        "dagger": 0,
+        "rank": 3,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "book_image_height": 192,
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II. \u00a0",
+        "weeks_on_list": 97,
+        "contributor": "by Anthony Doerr",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "book_image_width": 128,
+        "publisher": "Scribner",
+        "rank_last_week": 2,
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "isbns": [
+          {
+            "isbn13": "9781476746586",
+            "isbn10": "1476746583"
+          },
+          {
+            "isbn13": "9781410470225",
+            "isbn10": "1410470229"
+          },
+          {
+            "isbn13": "9781476746593",
+            "isbn10": "1476746591"
+          },
+          {
+            "isbn13": "9781501122835",
+            "isbn10": "1501122835"
+          },
+          {
+            "isbn13": "9780007548699",
+            "isbn10": "0007548699"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "author": "Anthony Doerr",
+        "first_chapter_link": "",
+        "primary_isbn10": "1476746583",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781594633669",
+        "dagger": 0,
+        "rank": 4,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "book_image_height": 193,
+        "description": "A psychological thriller set in the environs of London.",
+        "weeks_on_list": 61,
+        "contributor": "by Paula Hawkins",
+        "title": "THE GIRL ON THE TRAIN",
+        "book_image_width": 128,
+        "publisher": "Riverhead",
+        "rank_last_week": 3,
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "isbns": [
+          {
+            "isbn13": "9781594633669",
+            "isbn10": "1594633665"
+          },
+          {
+            "isbn13": "9780698185395",
+            "isbn10": "0698185390"
+          },
+          {
+            "isbn13": "9781410477767",
+            "isbn10": "1410477762"
+          },
+          {
+            "isbn13": "9780857522320",
+            "isbn10": "0857522329"
+          },
+          {
+            "isbn13": "9781448171682",
+            "isbn10": "1448171687"
+          },
+          {
+            "isbn13": "9781594634123",
+            "isbn10": "1594634122"
+          },
+          {
+            "isbn13": "9780385682312",
+            "isbn10": "038568231X"
+          },
+          {
+            "isbn13": "9781594634024",
+            "isbn10": "1594634025"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "author": "Paula Hawkins",
+        "first_chapter_link": "",
+        "primary_isbn10": "1594633665",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html"
+      },
+      {
+        "asterisk": 1,
+        "primary_isbn13": "9780312577223",
+        "dagger": 0,
+        "rank": 5,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "book_image_height": 195,
+        "description": "Two sisters in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+        "weeks_on_list": 54,
+        "contributor": "by Kristin Hannah",
+        "title": "THE NIGHTINGALE",
+        "book_image_width": 128,
+        "publisher": "St. Martin's",
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780312577223",
+            "isbn10": "0312577222"
+          },
+          {
+            "isbn13": "9781466850606",
+            "isbn10": "1466850604"
+          },
+          {
+            "isbn13": "9781628995015",
+            "isbn10": "1628995017"
+          },
+          {
+            "isbn13": "9781250080400",
+            "isbn10": "1250080401"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "author": "Kristin Hannah",
+        "first_chapter_link": "",
+        "primary_isbn10": "0312577222",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780399175954",
+        "dagger": 0,
+        "rank": 6,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Gangster-Isaac-Bell-Adventure/dp/0399175954?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "n the ninth book in this series, set in 1906, the New York detective Isaac Bell contends with a crime boss.",
+        "weeks_on_list": 2,
+        "contributor": "by Clive Cussler and Justin Scott",
+        "title": "THE GANGSTER",
+        "book_image_width": 331,
+        "publisher": "Putnam",
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780399175954",
+            "isbn10": "0399175954"
+          },
+          {
+            "isbn13": "9780698406421",
+            "isbn10": "0698406427"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780399175954.jpg",
+        "author": "Clive Cussler and Justin Scott",
+        "first_chapter_link": "",
+        "primary_isbn10": "0399175954",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781455536344",
+        "dagger": 0,
+        "rank": 7,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Steel-Kiss-Lincoln-Rhyme-Novel-ebook/dp/B0112T4ZSA?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Lincoln Rhyme and his new assistant, also a paraplegic, investigate a domestic terrorist who sabotages equipment.",
+        "weeks_on_list": 1,
+        "contributor": "by Jeffery Deaver",
+        "title": "THE STEEL KISS",
+        "book_image_width": 331,
+        "publisher": "Grand Central",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781455536344",
+            "isbn10": "1455536342"
+          },
+          {
+            "isbn13": "9781455536368",
+            "isbn10": "1455536369"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781455536368.jpg",
+        "author": "Jeffery Deaver",
+        "first_chapter_link": "",
+        "primary_isbn10": "1455536342",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780802124807",
+        "dagger": 0,
+        "rank": 8,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Waters-Eternal-Commissario-Brunetti-Mystery/dp/0802124801?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Commissario Guido Brunetti is asked to investigate the \u201caccidental\u201d near-drowning of a girl 15 years ago; the 25th novel in the series.",
+        "weeks_on_list": 1,
+        "contributor": "by Donna Leon",
+        "title": "THE WATERS OF ETERNAL YOUTH",
+        "book_image_width": 330,
+        "publisher": "Atlantic Monthly",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780802124807",
+            "isbn10": "0802124801"
+          },
+          {
+            "isbn13": "9780802190314",
+            "isbn10": "0802190316"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780802124807.jpg",
+        "author": "Donna Leon",
+        "first_chapter_link": "",
+        "primary_isbn10": "0802124801",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781250061621",
+        "dagger": 0,
+        "rank": 9,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Cometh-Hour-Novel-Clifton-Chronicles-ebook/dp/B00YWZU0MC?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "The sixth and penultimate book of the Clifton Chronicles brings the Cliftons and the Barringtons into the 1970s.",
+        "weeks_on_list": 4,
+        "contributor": "by Jeffrey Archer",
+        "title": "COMETH THE HOUR",
+        "book_image_width": 330,
+        "publisher": "St. Martin's",
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781250061621",
+            "isbn10": "1250061628"
+          },
+          {
+            "isbn13": "9781466867505",
+            "isbn10": "1466867507"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781466867505.jpg",
+        "author": "Jeffrey Archer",
+        "first_chapter_link": "",
+        "primary_isbn10": "1250061628",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780062409850",
+        "dagger": 0,
+        "rank": 10,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Go-Set-Watchman-A-Novel/dp/0062409859?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "In the mid-1950s, a grown-up Jean Louise Finch returns home to find that her adored father is not as perfect as she believed.",
+        "weeks_on_list": 33,
+        "contributor": "by Harper Lee",
+        "title": "GO SET A WATCHMAN",
+        "book_image_width": 331,
+        "publisher": "Harper",
+        "rank_last_week": 8,
+        "sunday_review_link": "//www.nytimes.com/2015/07/14/books/review/harper-lees-go-set-a-watchman.html",
+        "isbns": [
+          {
+            "isbn13": "9780062409850",
+            "isbn10": "0062409859"
+          },
+          {
+            "isbn13": "9780062409881",
+            "isbn10": "0062409883"
+          },
+          {
+            "isbn13": "9780062409874",
+            "isbn10": "0062409875"
+          },
+          {
+            "isbn13": "9781473535404",
+            "isbn10": "1473535409"
+          },
+          {
+            "isbn13": "9780062454812",
+            "isbn10": "0062454811"
+          },
+          {
+            "isbn13": "9780062409867",
+            "isbn10": "0062409867"
+          },
+          {
+            "isbn13": "9780062561022",
+            "isbn10": "0062561022"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062409850.jpg",
+        "author": "Harper Lee",
+        "first_chapter_link": "",
+        "primary_isbn10": "0062409859",
+        "book_review_link": "//www.nytimes.com/2015/07/11/books/review-harper-lees-go-set-a-watchman-gives-atticus-finch-a-dark-side.html"
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781501110726",
+        "dagger": 0,
+        "rank": 11,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Clawback-An-Ali-Reynolds-Novel-ebook/dp/B010MH9V7I?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "In the 11th Ali Reynolds novel, Ali and her husband work to clear her father\u2019s name when he is accused of murdering the financial adviser who steered him wrong.",
+        "weeks_on_list": 1,
+        "contributor": "by J. A. Jance",
+        "title": "CLAWBACK",
+        "book_image_width": 331,
+        "publisher": "Touchstone",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781501110726",
+            "isbn10": "1501110721"
+          },
+          {
+            "isbn13": "9781501110764",
+            "isbn10": "1501110764"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781501110764.jpg",
+        "author": "J A Jance",
+        "first_chapter_link": "",
+        "primary_isbn10": "1501110721",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781101990261",
+        "dagger": 0,
+        "rank": 12,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Widow-Fiona-Barton-ebook/dp/B00Z8VT8AE?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "When a suspect in a missing-child case dies, reporters and the police wrongly think they\u2019ll get the real story from his widow.",
+        "weeks_on_list": 4,
+        "contributor": "by Fiona Barton",
+        "title": "THE WIDOW",
+        "book_image_width": 331,
+        "publisher": "New American Library",
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781101990261",
+            "isbn10": "1101990260"
+          },
+          {
+            "isbn13": "9781101990469",
+            "isbn10": "1101990465"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101990469.jpg",
+        "author": "Fiona Barton",
+        "first_chapter_link": "",
+        "primary_isbn10": "1101990260",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781400067695",
+        "dagger": 0,
+        "rank": 13,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/My-Name-Is-Lucy-Barton-ebook/dp/B011G3HG5G?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A woman struggles with memories of her impoverished and disturbing childhood.",
+        "weeks_on_list": 9,
+        "contributor": "by Elizabeth Strout",
+        "title": "MY NAME IS LUCY BARTON",
+        "book_image_width": 338,
+        "publisher": "Random House",
+        "rank_last_week": 7,
+        "sunday_review_link": "//www.nytimes.com/2016/01/10/books/review/elizabeth-strouts-my-name-is-lucy-barton.html",
+        "isbns": [
+          {
+            "isbn13": "9781400067695",
+            "isbn10": "1400067693"
+          },
+          {
+            "isbn13": "9780812989076",
+            "isbn10": "0812989074"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780812989076.jpg",
+        "author": "Elizabeth Strout",
+        "first_chapter_link": "",
+        "primary_isbn10": "1400067693",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780553391923",
+        "dagger": 0,
+        "rank": 14,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Girls-Guide-Moving-On-Novel-ebook/dp/B00ZNE17B4?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A mother and her daughter-in-law both leave unhappy marriages and take up with new men.",
+        "weeks_on_list": 3,
+        "contributor": "by Debbie Macomber",
+        "title": "A GIRL'S GUIDE TO MOVING ON",
+        "book_image_width": 329,
+        "publisher": "Ballantine",
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780553391923",
+            "isbn10": "0553391925"
+          },
+          {
+            "isbn13": "9780553391930",
+            "isbn10": "0553391933"
+          },
+          {
+            "isbn13": "9780399566820",
+            "isbn10": "0399566821"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780553391930.jpg",
+        "author": "Debbie Macomber",
+        "first_chapter_link": "",
+        "primary_isbn10": "0553391925",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9781101947418",
+        "dagger": 0,
+        "rank": 15,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Few-Girls-Stories-Maeve-Binchy/dp/1101947411?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A collection of the stories that spans the career of the Irish writer, who died in 2012.",
+        "weeks_on_list": 2,
+        "contributor": "by Maeve Binchy",
+        "title": "A FEW OF THE GIRLS",
+        "book_image_width": 338,
+        "publisher": "Knopf",
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9781101947418",
+            "isbn10": "1101947411"
+          },
+          {
+            "isbn13": "9781410486189",
+            "isbn10": "1410486184"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101947418.jpg",
+        "author": "Maeve Binchy",
+        "first_chapter_link": "",
+        "primary_isbn10": "1101947411",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 1,
+        "primary_isbn13": "9780525954576",
+        "dagger": 0,
+        "rank": 16,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Find-Her-Lisa-Gardner/dp/0525954570?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "The Boston detective D.\u2009D. Warren hunts for a missing woman who may have become a vigilante.",
+        "weeks_on_list": 5,
+        "contributor": "by Lisa Gardner",
+        "title": "FIND HER",
+        "book_image_width": 331,
+        "publisher": "Dutton",
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780525954576",
+            "isbn10": "0525954570"
+          },
+          {
+            "isbn13": "9780698404229",
+            "isbn10": "069840422X"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780525954576.jpg",
+        "author": "Lisa Gardner",
+        "first_chapter_link": "",
+        "primary_isbn10": "0525954570",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780316407069",
+        "dagger": 0,
+        "rank": 17,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/NYPD-Red-4-James-Patterson/dp/0316407062?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "Detective Zach Jordan and his partner, members of an elite task force that protects the rich and famous, pursue a cold-blooded killer.",
+        "weeks_on_list": 0,
+        "contributor": "by James Patterson and Marshall Karp",
+        "title": "NYPD RED 4",
+        "book_image_width": 323,
+        "publisher": "Little, Brown",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780316407069",
+            "isbn10": "0316407062"
+          },
+          {
+            "isbn13": "9780316288729",
+            "isbn10": "0316288721"
+          },
+          {
+            "isbn13": "9780316288705",
+            "isbn10": "0316288705"
+          },
+          {
+            "isbn13": "9781455585182",
+            "isbn10": "1455585181"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316407069.jpg",
+        "author": "James Patterson and Marshall Karp",
+        "first_chapter_link": "",
+        "primary_isbn10": "0316407062",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780345528698",
+        "dagger": 0,
+        "rank": 18,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/The-Swans-Fifth-Avenue-Novel-ebook/dp/B00X2F109A?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "A novel based on the friendship between Truman Capote and Babe Paley and her coterie, which began in the 1950s and ended 20 years later in scandal.",
+        "weeks_on_list": 0,
+        "contributor": "by Melanie Benjamin",
+        "title": "THE SWANS OF FIFTH AVENUE",
+        "book_image_width": 338,
+        "publisher": "Delacorte",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780345528698",
+            "isbn10": "0345528697"
+          },
+          {
+            "isbn13": "9780345539755",
+            "isbn10": "0345539753"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780345539755.jpg",
+        "author": "Melanie Benjamin",
+        "first_chapter_link": "",
+        "primary_isbn10": "0345528697",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780525426592",
+        "dagger": 0,
+        "rank": 19,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/After-You-Novel-Jojo-Moyes/dp/0525426590?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+        "weeks_on_list": 0,
+        "contributor": "by Jojo Moyes",
+        "title": "AFTER YOU",
+        "book_image_width": 331,
+        "publisher": "Pamela Dorman/Viking",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "",
+            "isbn10": ""
+          },
+          {
+            "isbn13": "9780525426592",
+            "isbn10": "0525426590"
+          },
+          {
+            "isbn13": "9780698152045",
+            "isbn10": "0698152042"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780698152045.jpg",
+        "author": "Jojo Moyes",
+        "first_chapter_link": "",
+        "primary_isbn10": "0525426590",
+        "book_review_link": ""
+      },
+      {
+        "asterisk": 0,
+        "primary_isbn13": "9780451474476",
+        "dagger": 0,
+        "rank": 20,
+        "contributor_note": "",
+        "amazon_product_url": "http://www.amazon.com/Marked-In-Flesh-Novel-Others-ebook/dp/B00Z8VTQBK?tag=thenewyorktim-20",
+        "book_image_height": 500,
+        "description": "An uneasy alliance between humans and the Others is pushed to the breaking point.",
+        "weeks_on_list": 0,
+        "contributor": "by Anne Bishop",
+        "title": "MARKED IN FLESH",
+        "book_image_width": 331,
+        "publisher": "Roc",
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "isbns": [
+          {
+            "isbn13": "9780451474476",
+            "isbn10": "0451474473"
+          },
+          {
+            "isbn13": "9780698190429",
+            "isbn10": "0698190424"
+          }
+        ],
+        "price": 0,
+        "age_group": "",
+        "article_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780698190429.jpg",
+        "author": "Anne Bishop",
+        "first_chapter_link": "",
+        "primary_isbn10": "0451474473",
+        "book_review_link": ""
+      }
+    ],
+    "published_date_description": "",
+    "next_published_date": "2016-04-03",
+    "list_name_encoded": "hardcover-fiction",
+    "published_date": "2016-03-27",
+    "bestsellers_date": "2016-03-12",
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction"
+  }
+}

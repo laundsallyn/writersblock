@@ -1,0 +1,849 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2013-07-28",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1476717117",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Thor",
+        "primary_isbn13": "9781476717111",
+        "description": "As the counterterrorism operative Scot Harvath searches for the murderer of candidates to head a powerful, mysterious agency, he uncovers a plot with roots in the 18th century.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476717104.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 275,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Hidden-Order-Thriller-Scot-Harvath/dp/1476717109?tag=thenewyorktim-20",
+        "contributor": "by Brad Thor",
+        "title": "HIDDEN ORDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476717095",
+            "isbn13": "9781476717098"
+          },
+          {
+            "isbn10": "1476717117",
+            "isbn13": "9781476717111"
+          },
+          {
+            "isbn10": "1410459756",
+            "isbn13": "9781410459756"
+          },
+          {
+            "isbn10": "1476717109",
+            "isbn13": "9781476717104"
+          }
+        ],
+        "publisher": "Emily Bestler/Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Catherine Coulter",
+        "primary_isbn13": "9781101637197",
+        "description": "After the F.B.I. special agent Griffin Hammersmith accepts Dillon Savich\u2019s invitation to join him and Lacey Sherlock, Hammersmith\u2019s sister is savagely beaten.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101637197.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Bombshell-FBI-Thriller-Catherine-Coulter/dp/0399157336?tag=thenewyorktim-20",
+        "contributor": "by Catherine Coulter",
+        "title": "BOMBSHELL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157336",
+            "isbn13": "9780399157332"
+          },
+          {
+            "isbn10": "0425267784",
+            "isbn13": "9780425267783"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385537867",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dan Brown",
+        "primary_isbn13": "9780385537865",
+        "description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+        "book_review_link": "//www.nytimes.com/2013/05/13/books/inferno-by-dan-brown.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400079155.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Inferno-Robert-Langdon-Dan-Brown/dp/1400079152?tag=thenewyorktim-20",
+        "contributor": "by Dan Brown",
+        "title": "INFERNO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537859",
+            "isbn13": "9780385537858"
+          },
+          {
+            "isbn10": "0345806484",
+            "isbn13": "9780345806482"
+          },
+          {
+            "isbn10": "0385537867",
+            "isbn13": "9780385537865"
+          },
+          {
+            "isbn10": "0804172269",
+            "isbn13": "9780804172264"
+          },
+          {
+            "isbn10": "0345806492",
+            "isbn13": "9780345806499"
+          },
+          {
+            "isbn10": "1400079152",
+            "isbn13": "9781400079155"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316211192",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Howard Roughan",
+        "primary_isbn13": "9780316211192",
+        "description": "As he investigates the murder of a pair of newlyweds, the F.B.I. agent John O\u2019Hara, last seen in \u201cHoneymoon\u201d (2005), is targeted by a serial killer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455515967.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Second-Honeymoon-James-Patterson/dp/1455515965?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Howard Roughan",
+        "title": "SECOND HONEYMOON",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316211222",
+            "isbn13": "9780316211222"
+          },
+          {
+            "isbn10": "0316211214",
+            "isbn13": "9780316211215"
+          },
+          {
+            "isbn10": "0316211192",
+            "isbn13": "9780316211192"
+          },
+          {
+            "isbn10": "1455515957",
+            "isbn13": "9781455515950"
+          },
+          {
+            "isbn10": "1455515965",
+            "isbn13": "9781455515967"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Khaled Hosseini",
+        "primary_isbn13": "9781101626276",
+        "description": "A multigenerational family saga centers on a brother and sister born in Afghanistan.",
+        "book_review_link": "//www.nytimes.com/2013/05/21/books/and-the-mountains-echoed-by-khaled-hosseini.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594632389.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 320,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/And-Mountains-Echoed-Khaled-Hosseini/dp/1594632383?tag=thenewyorktim-20",
+        "contributor": "by Khaled Hosseini",
+        "title": "AND THE MOUNTAINS ECHOED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "159463176X",
+            "isbn13": "9781594631764"
+          },
+          {
+            "isbn10": "159463209X",
+            "isbn13": "9781594632099"
+          },
+          {
+            "isbn10": "1410458792",
+            "isbn13": "9781410458797"
+          },
+          {
+            "isbn10": "1408842440",
+            "isbn13": "9781408842447"
+          },
+          {
+            "isbn10": "1594632383",
+            "isbn13": "9781594632389"
+          }
+        ],
+        "publisher": "Riverhead"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429901349",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Grafton",
+        "primary_isbn13": "9781429901345",
+        "description": "The first of the Kinsey Millhone Alphabet mysteries, originally published in 1982.",
+        "book_review_link": "",
+        "book_image_height": 205,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429901345.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Alibi-Kinsey-Millhone-Alphabet-Mysteries-ebook/dp/B002HHPVBC?tag=thenewyorktim-20",
+        "contributor": "by Sue Grafton",
+        "title": "A IS FOR ALIBI",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1429901349",
+            "isbn13": "9781429901345"
+          },
+          {
+            "isbn10": "0312938993",
+            "isbn13": "9780312938994"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Colleen Hoover",
+        "primary_isbn13": "9781476746562",
+        "description": "The truth about Dean Holder is revealed in this retelling of the story of \u201cHopeless\u201d from Dean\u2019s point of view.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746562.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Losing-Hope-Novel-Colleen-Hoover-ebook/dp/B00BOVFKOK?tag=thenewyorktim-20",
+        "contributor": "by Colleen Hoover",
+        "title": "LOSING HOPE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476751722",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christina Lauren",
+        "primary_isbn13": "9781476751726",
+        "description": "Picking up the story of Bennett Ryan and Chloe Mills where \u201cBeautiful Bastard\u201d left off.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476751726.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 321,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Beautiful-Bitch-The-Series-ebook/dp/B00CGWSDI6?tag=thenewyorktim-20",
+        "contributor": "by Christina Lauren",
+        "title": "BEAUTIFUL BITCH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476751722",
+            "isbn13": "9781476751726"
+          },
+          {
+            "isbn10": "1476754144",
+            "isbn13": "9781476754147"
+          }
+        ],
+        "publisher": "Gallery Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062255657",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Neil Gaiman",
+        "primary_isbn13": "9780062255655",
+        "description": "A middle-aged man recalls his lonely boyhood and his friendship with a remarkable girl.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062255662.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Ocean-End-Lane-Novel/dp/0062255665?tag=thenewyorktim-20",
+        "contributor": "by Neil Gaiman",
+        "title": "THE OCEAN AT THE END OF THE LANE",
+        "sunday_review_link": "//www.nytimes.com/2013/06/30/books/review/neil-gaimans-ocean-at-the-end-of-the-lane.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062255657",
+            "isbn13": "9780062255655"
+          },
+          {
+            "isbn10": "0062278592",
+            "isbn13": "9780062278593"
+          },
+          {
+            "isbn10": "1472200314",
+            "isbn13": "9781472200310"
+          },
+          {
+            "isbn10": "0062265083",
+            "isbn13": "9780062265081"
+          },
+          {
+            "isbn10": "0062255665",
+            "isbn13": "9780062255662"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tanya Anne Cros, Danelle Harmon, Lauren Royal and Cynthia Wright",
+        "primary_isbn13": "9781938907975",
+        "description": "A set of four historical romance novels.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781938907975.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 500,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": null,
+        "contributor": "by Tanya Anne Crosby, Danelle Harmon, Lauren Royal and Cynthia Wright",
+        "title": "FOUR IRRESISTIBLE ROGUES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Novelty Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 56,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gail McHugh",
+        "primary_isbn13": "A00B00DULA3B2",
+        "description": "\u00a0In a sequel to \u201cCollide,\u201d Emily Cooper risks everything on her romance with the playboy Gavin Blake.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": null,
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": null,
+        "contributor": "by Gail McHugh",
+        "title": "PULSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Gail McHugh"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sylvia Day",
+        "primary_isbn13": "9781101604922",
+        "description": "Eva and Gideon face the demons of their pasts and accept the consequences of their obsessive desires; a Crossfire novel.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425263921.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Entwined-You-Crossfire-Book-3/dp/0425263924?tag=thenewyorktim-20",
+        "contributor": "by Sylvia Day",
+        "title": "ENTWINED WITH YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425263924",
+            "isbn13": "9780425263921"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307351939",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Max Brooks",
+        "primary_isbn13": "9780307351937",
+        "description": "An \u201coral history\u201d of an imagined Zombie War that nearly destroys civilization.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307351937.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/World-Market-Movie-Tie-In-Edition/dp/0770437400?tag=thenewyorktim-20",
+        "contributor": "by Max Brooks",
+        "title": "WORLD WAR Z",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307346617",
+            "isbn13": "9780307346612"
+          },
+          {
+            "isbn10": "0307888681",
+            "isbn13": "9780307888686"
+          },
+          {
+            "isbn10": "0307351939",
+            "isbn13": "9780307351937"
+          },
+          {
+            "isbn10": "0770437419",
+            "isbn13": "9780770437411"
+          },
+          {
+            "isbn10": "0770437400",
+            "isbn13": "9780770437404"
+          }
+        ],
+        "publisher": "Broadway"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Carl Hiaasen",
+        "primary_isbn13": "9780385350075",
+        "description": "A defrocked Miami cop turned restaurant inspector investigates a grisly murder.",
+        "book_review_link": "//www.nytimes.com/2013/06/18/books/carl-hiaasens-bad-monkey-features-a-cast-of-oddballs.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446556149.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Bad-Monkey-Carl-Hiaasen/dp/0446556149?tag=thenewyorktim-20",
+        "contributor": "by Carl Hiaasen",
+        "title": "BAD MONKEY",
+        "sunday_review_link": "//www.nytimes.com/2013/06/16/books/review/carl-hiaasens-bad-monkey-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307272591",
+            "isbn13": "9780307272591"
+          },
+          {
+            "isbn10": "080412096X",
+            "isbn13": "9780804120968"
+          },
+          {
+            "isbn10": "0446556149",
+            "isbn13": "9780446556149"
+          },
+          {
+            "isbn10": "0446556157",
+            "isbn13": "9780446556156"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345543068",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich and Lee Goldberg",
+        "primary_isbn13": "9780345543066",
+        "description": "In the first book of a new series, Kate O\u2019Hare, an F.B.I. special agent, teams up with Nicolas Fox, a handsome con man, to catch a corrupt investment banker in hiding.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345543042.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Heist-Novel-Fox-OHare/dp/0345543041?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich and Lee Goldberg",
+        "title": "THE HEIST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345543041",
+            "isbn13": "9780345543042"
+          },
+          {
+            "isbn10": "0345543068",
+            "isbn13": "9780345543066"
+          },
+          {
+            "isbn10": "0385363184",
+            "isbn13": "9780385363181"
+          },
+          {
+            "isbn10": "034554305X",
+            "isbn13": "9780345543059"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "142996393X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Orson Scott Card",
+        "primary_isbn13": "9781429963930",
+        "description": "To develop a secure defense against a hostile alien race's next attack, government agencies breed child geniuses and train them as soldiers.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812550702.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 291,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Enders-Game-The-Ender-Quintet/dp/0812550706?tag=thenewyorktim-20",
+        "contributor": "by Orson Scott Card",
+        "title": "ENDER'S GAME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812550706",
+            "isbn13": "9780812550702"
+          },
+          {
+            "isbn10": "0765342294",
+            "isbn13": "9780765342294"
+          },
+          {
+            "isbn10": "142996393X",
+            "isbn13": "9781429963930"
+          },
+          {
+            "isbn10": "0765337541",
+            "isbn13": "9780765337542"
+          },
+          {
+            "isbn10": "0312853238",
+            "isbn13": "9780312853235"
+          },
+          {
+            "isbn10": "0765317389",
+            "isbn13": "9780765317384"
+          },
+          {
+            "isbn10": "0312932081",
+            "isbn13": "9780312932084"
+          },
+          {
+            "isbn10": "0765338149",
+            "isbn13": "9780765338143"
+          },
+          {
+            "isbn10": "076537062X",
+            "isbn13": "9780765370624"
+          },
+          {
+            "isbn10": "0765337320",
+            "isbn13": "9780765337320"
+          },
+          {
+            "isbn10": "0765374811",
+            "isbn13": "9780765374813"
+          },
+          {
+            "isbn10": "0765374722",
+            "isbn13": "9780765374721"
+          },
+          {
+            "isbn10": "0765338211",
+            "isbn13": "9780765338211"
+          },
+          {
+            "isbn10": "0812532538",
+            "isbn13": "9780812532531"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1939962013",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J S Scott",
+        "primary_isbn13": "9781939962010",
+        "description": "A set of all the books in this series, about a down-on-her luck nursing student rescued by a reclusive billionaire.",
+        "book_review_link": "",
+        "book_image_height": 488,
+        "book_image": "https://s1.nyt.com/du/books/images/9781939962010.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 500,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Billionaires-Obsession-Collection-Completely-ebook/dp/B00BMHUDP2?tag=thenewyorktim-20",
+        "contributor": "by J. S. Scott",
+        "title": "THE BILLIONAIRE'S OBSESSION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1939962013",
+            "isbn13": "9781939962010"
+          }
+        ],
+        "publisher": "Golden Unicorn"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "JC Reed",
+        "primary_isbn13": "A00B00BTJQZNC",
+        "description": "Brooke Stewart, a New York real estate agent who avoids relationships, embarks on an affair with Jeff Mayfield, a sexy millionaire playboy.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": null,
+        "contributor": "by J.C. Reed",
+        "title": "SURRENDER YOUR LOVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "J.C. Reed"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455546445",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sandra Brown",
+        "primary_isbn13": "9781455546442",
+        "description": "A public defender who seems happy in her work and her marriage is plunged into a morass of bigotry and hate.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455546442.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 306,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Witness-Sandra-Brown-ebook/dp/B00BEK6ZWM?tag=thenewyorktim-20",
+        "contributor": "by Sandra Brown",
+        "title": "THE WITNESS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455546445",
+            "isbn13": "9781455546442"
+          },
+          {
+            "isbn10": "0446603309",
+            "isbn13": "9780446603300"
+          },
+          {
+            "isbn10": "1455538264",
+            "isbn13": "9781455538263"
+          }
+        ],
+        "publisher": "Grand Central"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2013-07-13",
+    "previous_published_date": "2013-07-21",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2013-08-04"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

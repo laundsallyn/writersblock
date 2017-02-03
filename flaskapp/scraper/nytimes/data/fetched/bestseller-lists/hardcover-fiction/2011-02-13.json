@@ -1,0 +1,805 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2011-02-13",
+    "books": [
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316037915",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316037914",
+        "description": "The New York detective Michael Bennett enlists the help of a former colleague to solve a rash of horrifying crimes that are throwing the city into chaos.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446584333.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Tick-Tock-Michael-Bennett-Book-ebook/dp/B0047Y16MG?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "TICK TOCK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316037915",
+            "isbn13": "9780316037914"
+          },
+          {
+            "isbn10": "031612852X",
+            "isbn13": "9780316128520"
+          },
+          {
+            "isbn10": "0316129186",
+            "isbn13": "9780316129183"
+          },
+          {
+            "isbn10": "0446584339",
+            "isbn13": "9780446584333"
+          },
+          {
+            "isbn10": "1455506656",
+            "isbn13": "9781455506651"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 36,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0446577898",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Meltzer",
+        "primary_isbn13": "9780446577892",
+        "description": "An archivist discovers a book that once belonged to George Washington and conceals a deadly secret.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446616157.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Inner-Circle-Brad-Meltzer-ebook/dp/B0047Y174I?tag=thenewyorktim-20",
+        "contributor": "by Brad Meltzer",
+        "title": "THE INNER CIRCLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446577898",
+            "isbn13": "9780446577892"
+          },
+          {
+            "isbn10": "0446582638",
+            "isbn13": "9780446582636"
+          },
+          {
+            "isbn10": "044661615X",
+            "isbn13": "9780446616157"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0399157115",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780399157110",
+        "description": "In the 19th Stone Barrington novel, the New York lawyer works with the C.I.A. to transport a fugitive.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101486108.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Strategic-Moves-Stone-Barrington-Book/dp/0399157115?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "STRATEGIC MOVES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157115",
+            "isbn13": "9780399157110"
+          },
+          {
+            "isbn10": "0451234456",
+            "isbn13": "9780451234452"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s \u00adMississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 5,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 8,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 96,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0385341679",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Karen Marie Moning",
+        "primary_isbn13": "9780385341677",
+        "description": "Hunting for her sister\u2019s murderer, MacKayla Lane is caught up in the struggle between humans and the Fae.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440244417.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Shadowfever-Karen-Marie-Moning/dp/0385341679?tag=thenewyorktim-20",
+        "contributor": "by Karen Marie Moning",
+        "title": "SHADOWFEVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385341679",
+            "isbn13": "9780385341677"
+          },
+          {
+            "isbn10": "044033974X",
+            "isbn13": "9780440339748"
+          },
+          {
+            "isbn10": "0440244412",
+            "isbn13": "9780440244417"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 28.95,
+        "primary_isbn10": "0399157239",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tom Clancy with Grant Blackwood",
+        "primary_isbn13": "9780399157233",
+        "description": "Familiar Clancy characters appear as an intelligence group tracks a vicious terrorist called the Emir.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425263532.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 305,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Dead-Alive-Tom-Clancy/dp/0399157239?tag=thenewyorktim-20",
+        "contributor": "by Tom Clancy with Grant Blackwood",
+        "title": "DEAD OR ALIVE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157239",
+            "isbn13": "9780399157233"
+          },
+          {
+            "isbn10": "1410432742",
+            "isbn13": "9781410432742"
+          },
+          {
+            "isbn10": "0425244857",
+            "isbn13": "9780425244852"
+          },
+          {
+            "isbn10": "1594134707",
+            "isbn13": "9781594134708"
+          },
+          {
+            "isbn10": "0425263533",
+            "isbn13": "9780425263532"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399157077",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert Crais",
+        "primary_isbn13": "9780399157073",
+        "description": "The former cop Joe Pike finds that a pair of Katrina refugees he helps aren\u2019t all they seem.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101486092.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 283,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Sentry-Joe-Pike-Novels/dp/0399157077?tag=thenewyorktim-20",
+        "contributor": "by Robert Crais",
+        "title": "THE SENTRY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157077",
+            "isbn13": "9780399157073"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 28.95,
+        "primary_isbn10": "0385528043",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385528047",
+        "description": "A criminal wants to save an innocent man on death row,  but he must convince the authorities he\u2019s telling the truth.",
+        "book_review_link": "//www.nytimes.com/2010/11/08/books/08book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440245117.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/The-Confession-Novel-John-Grisham/dp/0385528043?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE CONFESSION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385528043",
+            "isbn13": "9780385528047"
+          },
+          {
+            "isbn10": "0385534132",
+            "isbn13": "9780385534130"
+          },
+          {
+            "isbn10": "0739377892",
+            "isbn13": "9780739377895"
+          },
+          {
+            "isbn10": "0385528051",
+            "isbn13": "9780385528054"
+          },
+          {
+            "isbn10": "0440245117",
+            "isbn13": "9780440245117"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 24.99,
+        "primary_isbn10": "0316098337",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emma Donoghue",
+        "primary_isbn13": "9780316098335",
+        "description": "A mother\u2019s prison is her young son\u2019s entire world.",
+        "book_review_link": "//www.nytimes.com/2010/09/13/books/13book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316223232.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 316,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/Room-A-Novel-Emma-Donoghue/dp/0316098329?tag=thenewyorktim-20",
+        "contributor": "by Emma Donoghue",
+        "title": "ROOM",
+        "sunday_review_link": "//www.nytimes.com/2010/09/19/books/review/Bender-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316098337",
+            "isbn13": "9780316098335"
+          },
+          {
+            "isbn10": "0316129119",
+            "isbn13": "9780316129114"
+          },
+          {
+            "isbn10": "0316098329",
+            "isbn13": "9780316098328"
+          },
+          {
+            "isbn10": "0316223239",
+            "isbn13": "9780316223232"
+          },
+          {
+            "isbn10": "0316391344",
+            "isbn13": "9780316391344"
+          },
+          {
+            "isbn10": "0330519026",
+            "isbn13": "9780330519021"
+          },
+          {
+            "isbn10": "0316268356",
+            "isbn13": "9780316268356"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0553807722",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dean Koontz",
+        "primary_isbn13": "9780553807721",
+        "description": "Someone is murdering entire families, recreating in detail a crime spree that took place two decades earlier.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553807721.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/What-Night-Knows-A-Novel/dp/0553807722?tag=thenewyorktim-20",
+        "contributor": "by Dean Koontz",
+        "title": "WHAT THE NIGHT KNOWS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553807722",
+            "isbn13": "9780553807721"
+          },
+          {
+            "isbn10": "0553907530",
+            "isbn13": "9780553907537"
+          },
+          {
+            "isbn10": "0553593072",
+            "isbn13": "9780553593075"
+          },
+          {
+            "isbn10": "1455832510",
+            "isbn13": "9781455832514"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0061351520",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Elizabeth Phillips",
+        "primary_isbn13": "9780061351525",
+        "description": "Characters from Phillips\u2019s earlier novels reappear as a woman persuades a friend to call off her wedding to the town\u2019s popular mayor.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061351525.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Call-Me-Irresistible-A-Novel/dp/0061351520?tag=thenewyorktim-20",
+        "contributor": "by Susan Elizabeth Phillips",
+        "title": "CALL ME IRRESISTIBLE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061351520",
+            "isbn13": "9780061351525"
+          },
+          {
+            "isbn10": "0062042343",
+            "isbn13": "9780062042347"
+          }
+        ],
+        "publisher": "William Morrow/HarperCollins"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0307393879",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Alice Hoffman",
+        "primary_isbn13": "9780307393876",
+        "description": "A mysterious garden offers the key to understanding a small Massachusetts town through 300 years of passionate history.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307393876.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 263,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Red-Garden-Alice-Hoffman/dp/0307393879?tag=thenewyorktim-20",
+        "contributor": "by Alice Hoffman",
+        "title": "THE RED GARDEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307393879",
+            "isbn13": "9780307393876"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0312600844",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Jonathan Franzen",
+        "primary_isbn13": "9780312600846",
+        "description": "A family of Midwestern liberals during the Bush years.",
+        "book_review_link": "//www.nytimes.com/2010/08/16/books/16book.html",
+        "book_image_height": 447,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312600846.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 300,
+        "first_chapter_link": "//www.nytimes.com/2010/08/15/books/excerpt-freedom.html",
+        "age_group": "",
+        "weeks_on_list": 19,
+        "amazon_product_url": "http://www.amazon.com/Freedom-Jonathan-Franzen/dp/0312600844?tag=thenewyorktim-20",
+        "contributor": "by Jonathan Franzen",
+        "title": "FREEDOM",
+        "sunday_review_link": "//www.nytimes.com/2010/08/29/books/review/Tanenhaus-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312600844",
+            "isbn13": "9780312600846"
+          },
+          {
+            "isbn10": "0374158460",
+            "isbn13": "9780374158460"
+          },
+          {
+            "isbn10": "1429979437",
+            "isbn13": "9781429979436"
+          },
+          {
+            "isbn10": "0312576463",
+            "isbn13": "9780312576462"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "1402785925",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anders Roslund and Borge Hellstrom",
+        "primary_isbn13": "9781402785924",
+        "description": "An undercover police officer takes on the organized drug traffic in Scandinavian prisons.",
+        "book_review_link": "//www.nytimes.com/2011/01/06/books/06book.html",
+        "book_image_height": 265,
+        "book_image": "https://s1.nyt.com/du/books/images/9781402785924.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Three-Seconds-Anders-Roslund/dp/1402785925?tag=thenewyorktim-20",
+        "contributor": "by Anders Roslund and Borge Hellstrom",
+        "title": "THREE SECONDS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1402785925",
+            "isbn13": "9781402785924"
+          }
+        ],
+        "publisher": "Silver Oak"
+      },
+      {
+        "price": 24.99,
+        "primary_isbn10": "0061876895",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Tim Dorsey",
+        "primary_isbn13": "9780061876899",
+        "description": "In Florida, a police task force is sent to track down the vigilante serial killer Serge Storms.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061876899.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 267,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Electric-Barracuda-Novel-Tim-Dorsey/dp/0061876895?tag=thenewyorktim-20",
+        "contributor": "by Tim Dorsey",
+        "title": "ELECTRIC BARRACUDA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061876895",
+            "isbn13": "9780061876899"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "031603617X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson",
+        "primary_isbn13": "9780316036177",
+        "description": "Tracking the murderer of a relative, Alex Cross discovers a wild Washington scene with explosive secrets.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316036177.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 258,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/I-Alex-Cross-James-Patterson-ebook/dp/B002LZSY46?tag=thenewyorktim-20",
+        "contributor": "by James Patterson",
+        "title": "CROSS FIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316018783",
+            "isbn13": "9780316018784"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399157220",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Eleanor Brown",
+        "primary_isbn13": "9780399157226",
+        "description": "Three sisters from a highbrow family return home, each with a secret she\u2019s unwilling to share.",
+        "book_review_link": "//www.nytimes.com/2011/01/17/books/17book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399157226.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Weird-Sisters-Eleanor-Brown/dp/0399157220?tag=thenewyorktim-20",
+        "contributor": "by Eleanor Brown",
+        "title": "THE WEIRD SISTERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157220",
+            "isbn13": "9780399157226"
+          }
+        ],
+        "publisher": "Amy Einhorn"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525951652",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ken Follett",
+        "primary_isbn13": "9780525951650",
+        "description": "Five interrelated families from five countries are caught in the upheavals of World War I and the Russian Revolution.",
+        "book_review_link": "//www.nytimes.com/2010/09/24/books/24book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525951650.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 263,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Fall-Giants-Century-Trilogy-Book/dp/0525951652?tag=thenewyorktim-20",
+        "contributor": "by Ken Follett",
+        "title": "FALL OF GIANTS",
+        "sunday_review_link": "//www.nytimes.com/2010/10/03/books/review/Boylan-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525951652",
+            "isbn13": "9780525951650"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439164630",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Genova",
+        "primary_isbn13": "9781439164631",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439164655.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 182,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Left-Neglected-Lisa-Genova/dp/1439164630?tag=thenewyorktim-20",
+        "contributor": "by Lisa Genova",
+        "title": "LEFT NEGLECTED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439164630",
+            "isbn13": "9781439164631"
+          },
+          {
+            "isbn10": "1439164657",
+            "isbn13": "9781439164655"
+          }
+        ],
+        "publisher": "Gallery"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2011-01-30",
+    "previous_published_date": "2011-02-06",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2011-02-20"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

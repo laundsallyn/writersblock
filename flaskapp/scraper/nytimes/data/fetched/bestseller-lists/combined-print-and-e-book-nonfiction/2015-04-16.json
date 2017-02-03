@@ -1,0 +1,901 @@
+{
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "results": {
+    "previous_published_date": "2015-04-12",
+    "bestsellers_date": "2015-04-04",
+    "corrections": [],
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "book_image_width": 184,
+        "article_chapter_link": "",
+        "contributor": "by Erik Larson",
+        "book_review_link": "",
+        "primary_isbn13": "9780307408860",
+        "description": "The last voyage of the Lusitania, by the author of \u201cThe Devil in the White City.\u201d",
+        "dagger": 0,
+        "primary_isbn10": "0307408868",
+        "isbns": [
+          {
+            "isbn13": "9780307408860",
+            "isbn10": "0307408868"
+          },
+          {
+            "isbn13": "9780553446753",
+            "isbn10": "0553446754"
+          },
+          {
+            "isbn13": "9780553551624",
+            "isbn10": "0553551620"
+          },
+          {
+            "isbn13": "9780804194617",
+            "isbn10": "0804194610"
+          },
+          {
+            "isbn13": "9780307408877",
+            "isbn10": "0307408876"
+          }
+        ],
+        "book_image_height": 281,
+        "publisher": "Crown",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780307408860.jpg",
+        "age_group": "",
+        "title": "DEAD WAKE",
+        "author": "Erik Larson",
+        "asterisk": 0,
+        "rank_last_week": 2,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 4,
+        "rank": 1,
+        "sunday_review_link": "//www.nytimes.com/2015/03/08/books/review/erik-larsons-dead-wake-about-the-lusitania.html",
+        "amazon_product_url": "http://www.amazon.com/Dead-Wake-Last-Crossing-Lusitania/dp/0307408868?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+        "book_review_link": "",
+        "primary_isbn13": "9780062376336",
+        "description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+        "dagger": 0,
+        "primary_isbn10": "0062376330",
+        "isbns": [
+          {
+            "isbn13": "9780062082350",
+            "isbn10": "0062082353"
+          },
+          {
+            "isbn13": "9780062082374",
+            "isbn10": "006208237X"
+          },
+          {
+            "isbn13": "9780062209498",
+            "isbn10": "0062209493"
+          },
+          {
+            "isbn13": "9780062107060",
+            "isbn10": "0062107062"
+          },
+          {
+            "isbn13": "9780062238863",
+            "isbn10": "0062238868"
+          },
+          {
+            "isbn13": "9780062290793",
+            "isbn10": "0062290797"
+          },
+          {
+            "isbn13": "9780062376572",
+            "isbn10": "0062376578"
+          },
+          {
+            "isbn13": "9780062376336",
+            "isbn10": "0062376330"
+          },
+          {
+            "isbn13": "9780062297877",
+            "isbn10": "0062297872"
+          },
+          {
+            "isbn13": "9780062082367",
+            "isbn10": "0062082361"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Morrow/HarperCollins",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062082374.jpg",
+        "age_group": "",
+        "title": "AMERICAN SNIPER",
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "asterisk": 0,
+        "rank_last_week": 3,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 59,
+        "rank": 2,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 326,
+        "article_chapter_link": "",
+        "contributor": "by Daniel James Brown",
+        "book_review_link": "",
+        "primary_isbn13": "9780143125471",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "dagger": 0,
+        "primary_isbn10": "0143125478",
+        "isbns": [
+          {
+            "isbn13": "9780670025817",
+            "isbn10": "067002581X"
+          },
+          {
+            "isbn13": "9780143125471",
+            "isbn10": "0143125478"
+          },
+          {
+            "isbn13": "9781594137792",
+            "isbn10": "159413779X"
+          },
+          {
+            "isbn13": "9781611761696",
+            "isbn10": "1611761697"
+          },
+          {
+            "isbn13": "9781410459541",
+            "isbn10": "1410459543"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Viking",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781101622742.jpg",
+        "age_group": "",
+        "title": "THE BOYS IN THE BOAT",
+        "author": "Daniel James Brown",
+        "asterisk": 0,
+        "rank_last_week": 4,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 46,
+        "rank": 3,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 324,
+        "article_chapter_link": "",
+        "contributor": "by Cheryl Strayed",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "primary_isbn13": "9780307957658",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+        "dagger": 0,
+        "primary_isbn10": "0307957659",
+        "isbns": [
+          {
+            "isbn13": "9780307592736",
+            "isbn10": "0307592731"
+          },
+          {
+            "isbn13": "9780307957658",
+            "isbn10": "0307957659"
+          },
+          {
+            "isbn13": "9780307476074",
+            "isbn10": "0307476073"
+          },
+          {
+            "isbn13": "9781594136740",
+            "isbn10": "1594136742"
+          },
+          {
+            "isbn13": "9780307970299",
+            "isbn10": "0307970299"
+          },
+          {
+            "isbn13": "9781101873441",
+            "isbn10": "1101873442"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Knopf",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "age_group": "",
+        "title": "WILD",
+        "author": "Cheryl Strayed",
+        "asterisk": 0,
+        "rank_last_week": 6,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 107,
+        "rank": 4,
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 264,
+        "article_chapter_link": "",
+        "contributor": "by Laura Hillenbrand",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "primary_isbn13": "9780679603757",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; now a movie.",
+        "dagger": 0,
+        "primary_isbn10": "0679603751",
+        "isbns": [
+          {
+            "isbn13": "9781400064168",
+            "isbn10": "1400064163"
+          },
+          {
+            "isbn13": "9780679603757",
+            "isbn10": "0679603751"
+          },
+          {
+            "isbn13": "9780375435010",
+            "isbn10": "0375435018"
+          },
+          {
+            "isbn13": "9780739319697",
+            "isbn10": "0739319698"
+          },
+          {
+            "isbn13": "9780007378036",
+            "isbn10": "0007378033"
+          },
+          {
+            "isbn13": "9780812974492",
+            "isbn10": "0812974492"
+          },
+          {
+            "isbn13": "9780606355988",
+            "isbn10": "0606355987"
+          },
+          {
+            "isbn13": "9780812987119",
+            "isbn10": "081298711X"
+          },
+          {
+            "isbn13": "9780553397116",
+            "isbn10": "0553397117"
+          },
+          {
+            "isbn13": "9781101912621",
+            "isbn10": "1101912626"
+          }
+        ],
+        "book_image_height": 400,
+        "publisher": "Random House",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "age_group": "",
+        "title": "UNBROKEN",
+        "author": "Laura Hillenbrand",
+        "asterisk": 0,
+        "rank_last_week": 5,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 199,
+        "rank": 5,
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Atul Gawande",
+        "book_review_link": "//www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+        "primary_isbn13": "9780805095159",
+        "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+        "dagger": 0,
+        "primary_isbn10": "0805095152",
+        "isbns": [
+          {
+            "isbn13": "9780805095159",
+            "isbn10": "0805095152"
+          },
+          {
+            "isbn13": "9781427244239",
+            "isbn10": "1427244235"
+          },
+          {
+            "isbn13": "9781410478122",
+            "isbn10": "1410478122"
+          },
+          {
+            "isbn13": "9781514732991",
+            "isbn10": "1514732998"
+          },
+          {
+            "isbn13": "9781250081247",
+            "isbn10": "1250081246"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Metropolitan/Holt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780805095159.jpg",
+        "age_group": "",
+        "title": "BEING MORTAL",
+        "author": "Atul Gawande",
+        "asterisk": 0,
+        "rank_last_week": 9,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 26,
+        "rank": 6,
+        "sunday_review_link": "//www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+        "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 336,
+        "article_chapter_link": "",
+        "contributor": "by Brent Schlender and Rick Tetzeli",
+        "book_review_link": "",
+        "primary_isbn13": "9780385347402",
+        "description": "How Jobs, who started out as a brash young genius, developed a more mature management style.",
+        "dagger": 0,
+        "primary_isbn10": "0385347405",
+        "isbns": [
+          {
+            "isbn13": "9780385347402",
+            "isbn10": "0385347405"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Crown Business",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780385347419.jpg",
+        "age_group": "",
+        "title": "BECOMING STEVE JOBS",
+        "author": "Brent Schlender and Rick Tetzeli",
+        "asterisk": 0,
+        "rank_last_week": 1,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 2,
+        "rank": 7,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Becoming-Steve-Jobs-Evolution-Visionary-ebook/dp/B00N6PCWY8?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 347,
+        "article_chapter_link": "",
+        "contributor": "by Lawrence Wright",
+        "book_review_link": "//www.nytimes.com/2013/01/14/books/going-clear-by-lawrence-wright-examines-scientology.html",
+        "primary_isbn13": "9780385350273",
+        "description": "The Pulitzer Prize-winning author examines the world of Scientology; the basis for the documentary film. \u00a0",
+        "dagger": 0,
+        "primary_isbn10": "",
+        "isbns": [
+          {
+            "isbn13": "9780307700667",
+            "isbn10": "0307700666"
+          },
+          {
+            "isbn13": "9780307745309",
+            "isbn10": "0307745309"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Vintage",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780307700667.jpg",
+        "age_group": "",
+        "title": "GOING CLEAR",
+        "author": "Lawrence Wright",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 6,
+        "rank": 8,
+        "sunday_review_link": "//www.nytimes.com/2013/01/20/books/review/going-clear-lawrence-wrights-book-on-scientology.html",
+        "amazon_product_url": "http://www.amazon.com/Going-Clear-Scientology-Hollywood-Vintage/dp/0307745309?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Steven D. Levitt and Stephen J. Dubner",
+        "book_review_link": "",
+        "primary_isbn13": "9780062218360",
+        "description": "How to solve problems creatively, from the authors of \u201cFreakonomics.\u201d",
+        "dagger": 0,
+        "primary_isbn10": "0062218360",
+        "isbns": [
+          {
+            "isbn13": "9780062218339",
+            "isbn10": "0062218336"
+          },
+          {
+            "isbn13": "9780062218360",
+            "isbn10": "0062218360"
+          },
+          {
+            "isbn13": "9780062218407",
+            "isbn10": "0062218409"
+          },
+          {
+            "isbn13": "9780062278418",
+            "isbn10": "006227841X"
+          },
+          {
+            "isbn13": "9780062218346",
+            "isbn10": "0062218344"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Morrow/HarperCollins",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062218360.jpg",
+        "age_group": "",
+        "title": "THINK LIKE A FREAK",
+        "author": "Steven D Levitt and Stephen J Dubner",
+        "asterisk": 0,
+        "rank_last_week": 7,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 10,
+        "rank": 9,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Think-Like-Freak-Authors-Freakonomics-ebook/dp/B00BATINVS?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 327,
+        "article_chapter_link": "",
+        "contributor": "by Frances Mayes",
+        "book_review_link": "",
+        "primary_isbn13": "9780767917452",
+        "description": "A memoir of buying, renovating and settling into a villa near Cortona, Italy; first published in 1996.",
+        "dagger": 0,
+        "primary_isbn10": "0767917456",
+        "isbns": [
+          {
+            "isbn13": "9780767900386",
+            "isbn10": "0767900383"
+          },
+          {
+            "isbn13": "9780767917452",
+            "isbn10": "0767917456"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Broadway",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780767917452.jpg",
+        "age_group": "",
+        "title": "UNDER THE TUSCAN SUN",
+        "author": "Frances Mayes",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 1,
+        "rank": 10,
+        "sunday_review_link": "//www.nytimes.com/1996/11/17/books/a-domestic-sensualist.html",
+        "amazon_product_url": "http://www.amazon.com/Under-Tuscan-Sun-Frances-Mayes-ebook/dp/B000FBJDAW?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 327,
+        "article_chapter_link": "",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "book_review_link": "",
+        "primary_isbn13": "9780805096682",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+        "dagger": 0,
+        "primary_isbn10": "080509668X",
+        "isbns": [
+          {
+            "isbn13": "9780805096682",
+            "isbn10": "080509668X"
+          },
+          {
+            "isbn13": "9781427244215",
+            "isbn10": "1427244219"
+          },
+          {
+            "isbn13": "9781410473653",
+            "isbn10": "1410473651"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Holt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780805096699.jpg",
+        "age_group": "",
+        "title": "KILLING PATTON",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "asterisk": 0,
+        "rank_last_week": 12,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 28,
+        "rank": 11,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Killing-Patton-Strange-Audacious-General/dp/080509668X?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 335,
+        "article_chapter_link": "",
+        "contributor": "by Jon Ronson",
+        "book_review_link": "//www.nytimes.com/2015/03/30/books/review-so-youve-been-publicly-shamed-delves-into-infamy-in-the-age-of-social-media.html",
+        "primary_isbn13": "9780698172524",
+        "description": "The Welsh journalist describes the phenomenon of social media denunciation.",
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "isbns": [
+          {
+            "isbn13": "9781594487132",
+            "isbn10": "1594487138"
+          },
+          {
+            "isbn13": "9781594634017",
+            "isbn10": "1594634017"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Riverhead",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781594487132.jpg",
+        "age_group": "",
+        "title": "SO YOU'VE BEEN PUBLICLY SHAMED",
+        "author": "Jon Ronson",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 1,
+        "rank": 12,
+        "sunday_review_link": "//www.nytimes.com/2015/04/19/books/review/jon-ronsons-so-youve-been-publicly-shamed.html",
+        "amazon_product_url": "http://www.amazon.com/So-Youve-Been-Publicly-Shamed/dp/1594487138?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 128,
+        "article_chapter_link": "",
+        "contributor": "by Helen Macdonald",
+        "book_review_link": "",
+        "primary_isbn13": "9780802123411",
+        "description": "Overwhelmed by her father\u2019s death, a British woman decides to raise a goshawk, a bird that is fierce and notoriously difficult to tame.",
+        "dagger": 0,
+        "primary_isbn10": "0802123414",
+        "isbns": [
+          {
+            "isbn13": "9780802123411",
+            "isbn10": "0802123414"
+          },
+          {
+            "isbn13": "9781448130726",
+            "isbn10": "1448130727"
+          },
+          {
+            "isbn13": "9781481530965",
+            "isbn10": "1481530968"
+          },
+          {
+            "isbn13": "9781481530958",
+            "isbn10": "148153095X"
+          },
+          {
+            "isbn13": "9781410483614",
+            "isbn10": "1410483614"
+          },
+          {
+            "isbn13": "9780802124739",
+            "isbn10": "0802124739"
+          }
+        ],
+        "book_image_height": 185,
+        "publisher": "Grove",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780802123411.jpg",
+        "age_group": "",
+        "title": "H IS FOR HAWK",
+        "author": "Helen Macdonald",
+        "asterisk": 0,
+        "rank_last_week": 11,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 5,
+        "rank": 13,
+        "sunday_review_link": "//www.nytimes.com/2015/02/22/books/review/helen-macdonalds-h-is-for-hawk.html",
+        "amazon_product_url": "http://www.amazon.com/H-Is-Hawk-Helen-Macdonald/dp/0802123414?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 128,
+        "article_chapter_link": "",
+        "contributor": "by Amy Poehler",
+        "book_review_link": "//www.nytimes.com/2014/11/05/books/book-review-amy-poehlers-yes-please.html",
+        "primary_isbn13": "9780062268341",
+        "description": "A humorous miscellany from the comedian and actress.",
+        "dagger": 0,
+        "primary_isbn10": "0062268341",
+        "isbns": [
+          {
+            "isbn13": "9780062268341",
+            "isbn10": "0062268341"
+          },
+          {
+            "isbn13": "9780062268372",
+            "isbn10": "0062268376"
+          },
+          {
+            "isbn13": "9780062350886",
+            "isbn10": "0062350889"
+          },
+          {
+            "isbn13": "9780062268358",
+            "isbn10": "006226835X"
+          }
+        ],
+        "book_image_height": 193,
+        "publisher": "Dey Street/Morrow",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062268341.jpg",
+        "age_group": "",
+        "title": "YES PLEASE",
+        "author": "Amy Poehler",
+        "asterisk": 0,
+        "rank_last_week": 14,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 23,
+        "rank": 14,
+        "sunday_review_link": "//www.nytimes.com/2014/12/07/books/review/yes-please-by-amy-poehler.html",
+        "amazon_product_url": "http://www.amazon.com/Yes-Please-Amy-Poehler/dp/0062268341?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 334,
+        "article_chapter_link": "",
+        "contributor": "by Siddhartha Mukherjee",
+        "book_review_link": "//www.nytimes.com/2010/11/11/books/11book.html",
+        "primary_isbn13": "9781439170915",
+        "description": "An oncologist's history of cancer and its treatment covers both the eureka moments and the decades of despair.",
+        "dagger": 0,
+        "primary_isbn10": "1439170916",
+        "isbns": [
+          {
+            "isbn13": "9781439107959",
+            "isbn10": "1439107955"
+          },
+          {
+            "isbn13": "9781439181713",
+            "isbn10": "1439181713"
+          },
+          {
+            "isbn13": "9781439170915",
+            "isbn10": "1439170916"
+          },
+          {
+            "isbn13": "9781410447159",
+            "isbn10": "1410447154"
+          },
+          {
+            "isbn13": "9781400169177",
+            "isbn10": "1400169178"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Simon & Schuster",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781439170915.jpg",
+        "age_group": "",
+        "title": "THE EMPEROR OF ALL MALADIES",
+        "author": "Siddhartha Mukherjee",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 3,
+        "rank": 15,
+        "sunday_review_link": "//www.nytimes.com/2010/11/14/books/review/Weiner-t.html",
+        "amazon_product_url": "http://www.amazon.com/The-Emperor-All-Maladies-Biography-ebook/dp/B003UYUP58?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 128,
+        "article_chapter_link": "",
+        "contributor": "by Amanda Knox",
+        "book_review_link": "",
+        "primary_isbn13": "9780062217226",
+        "description": "Knox, who was convicted of the murder of her roommate in 2009 when she was an American student in Italy \u2014 a conviction that has since been overturned \u2014 tells her story.",
+        "dagger": 0,
+        "primary_isbn10": "",
+        "isbns": [
+          {
+            "isbn13": "9780062217202",
+            "isbn10": "0062217208"
+          },
+          {
+            "isbn13": "9780062223265",
+            "isbn10": "0062223267"
+          }
+        ],
+        "book_image_height": 193,
+        "publisher": "Harper",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062217226.jpg",
+        "age_group": "",
+        "title": "WAITING TO BE HEARD",
+        "author": "Amanda Knox",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 16,
+        "sunday_review_link": "//www.nytimes.com/2013/05/26/books/review/trial-and-error.html",
+        "amazon_product_url": "http://www.amazon.com/Waiting-Be-Heard-A-Memoir/dp/0062217208?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 329,
+        "article_chapter_link": "",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "book_review_link": "",
+        "primary_isbn13": "9780805098556",
+        "description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus\u2019 execution.",
+        "dagger": 0,
+        "primary_isbn10": "",
+        "isbns": [
+          {
+            "isbn13": "9780805098549",
+            "isbn10": "0805098542"
+          },
+          {
+            "isbn13": "9781410462428",
+            "isbn10": "1410462420"
+          },
+          {
+            "isbn13": "9781427233325",
+            "isbn10": "1427233322"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Holt",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780805098549.jpg",
+        "age_group": "",
+        "title": "KILLING JESUS",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 17,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Killing-Jesus-Bill-OReilly/dp/0805098542?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 331,
+        "article_chapter_link": "",
+        "contributor": "by Scott Simon",
+        "book_review_link": "",
+        "primary_isbn13": "9781250061133",
+        "description": "The NPR host recalls his mother\u2019s glamorous life and describes her last days, expanded from his Twitter messages.",
+        "dagger": 0,
+        "primary_isbn10": "125006113X",
+        "isbns": [
+          {
+            "isbn13": "9781250061133",
+            "isbn10": "125006113X"
+          },
+          {
+            "isbn13": "9781250061157",
+            "isbn10": "1250061156"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Flatiron",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781250061133.jpg",
+        "age_group": "",
+        "title": "UNFORGETTABLE",
+        "author": "Scott Simon",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 18,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Unforgettable-Son-Mother-Lessons-Lifetime/dp/125006113X?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 333,
+        "article_chapter_link": "",
+        "contributor": "by Mary Norris",
+        "book_review_link": "",
+        "primary_isbn13": "9780393240184",
+        "description": "A memoir of a career in the New Yorker's storied copy department, along with grammar advice.",
+        "dagger": 0,
+        "primary_isbn10": "0393240185",
+        "isbns": [
+          {
+            "isbn13": "9780393240184",
+            "isbn10": "0393240185"
+          },
+          {
+            "isbn13": "9780393246605",
+            "isbn10": "0393246604"
+          },
+          {
+            "isbn13": "9780393352146",
+            "isbn10": "0393352145"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Norton",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780393240184.jpg",
+        "age_group": "",
+        "title": "BETWEEN YOU & ME",
+        "author": "Mary Norris",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 19,
+        "sunday_review_link": "//www.nytimes.com/2015/04/19/books/review/between-you-me-by-mary-norris.html",
+        "amazon_product_url": "http://www.amazon.com/Between-You-Me-Confessions-Comma/dp/0393240185?tag=thenewyorktim-20"
+      },
+      {
+        "book_image_width": 344,
+        "article_chapter_link": "",
+        "contributor": "by Fareed Zakaria",
+        "book_review_link": "",
+        "primary_isbn13": "9780393247688",
+        "description": "A case for the centrality of the curriculum in the sciences and humanities.",
+        "dagger": 0,
+        "primary_isbn10": "0393247686",
+        "isbns": [
+          {
+            "isbn13": "9780393247688",
+            "isbn10": "0393247686"
+          },
+          {
+            "isbn13": "9780393247695",
+            "isbn10": "0393247694"
+          },
+          {
+            "isbn13": "9781442389762",
+            "isbn10": "1442389761"
+          },
+          {
+            "isbn13": "9780393352344",
+            "isbn10": "039335234X"
+          }
+        ],
+        "book_image_height": 500,
+        "publisher": "Norton",
+        "first_chapter_link": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780393247688.jpg",
+        "age_group": "",
+        "title": "IN DEFENSE OF A LIBERAL EDUCATION",
+        "author": "Fareed Zakaria",
+        "asterisk": 0,
+        "rank_last_week": 0,
+        "contributor_note": "",
+        "price": 0,
+        "weeks_on_list": 0,
+        "rank": 20,
+        "sunday_review_link": "",
+        "amazon_product_url": "http://www.amazon.com/Defense-Liberal-Education-Fareed-Zakaria/dp/0393247686?tag=thenewyorktim-20"
+      }
+    ],
+    "normal_list_ends_at": 15,
+    "published_date_description": "",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2015-04-19",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2015-04-26"
+  },
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "num_results": 20,
+  "status": "OK"
+}

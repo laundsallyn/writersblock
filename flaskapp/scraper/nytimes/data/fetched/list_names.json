@@ -1,0 +1,426 @@
+[
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2011-02-13",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "list_name": "Combined Print and E-Book Fiction",
+    "display_name": "Combined Print & E-Book Fiction"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2011-02-13",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "display_name": "Combined Print & E-Book Nonfiction"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "hardcover-fiction",
+    "list_name": "Hardcover Fiction",
+    "display_name": "Hardcover Fiction"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "hardcover-nonfiction",
+    "list_name": "Hardcover Nonfiction",
+    "display_name": "Hardcover Nonfiction"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "trade-fiction-paperback",
+    "list_name": "Trade Fiction Paperback",
+    "display_name": "Paperback Trade Fiction"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "mass-market-paperback",
+    "list_name": "Mass Market Paperback",
+    "display_name": "Paperback Mass-Market Fiction"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "paperback-nonfiction",
+    "list_name": "Paperback Nonfiction",
+    "display_name": "Paperback Nonfiction"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2011-02-13",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "e-book-fiction",
+    "list_name": "E-Book Fiction",
+    "display_name": "E-Book Fiction"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2011-02-13",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "e-book-nonfiction",
+    "list_name": "E-Book Nonfiction",
+    "display_name": "E-Book Nonfiction"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2013-04-21",
+    "list_name_encoded": "hardcover-advice",
+    "list_name": "Hardcover Advice",
+    "display_name": "Hardcover Advice & Misc."
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2013-04-21",
+    "list_name_encoded": "paperback-advice",
+    "list_name": "Paperback Advice",
+    "display_name": "Paperback Advice & Misc."
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2013-04-28",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "advice-how-to-and-miscellaneous",
+    "list_name": "Advice How-To and Miscellaneous",
+    "display_name": "Advice, How-To & Miscellaneous"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2012-12-09",
+    "list_name_encoded": "chapter-books",
+    "list_name": "Chapter Books",
+    "display_name": "Children\u2019s Chapter Books"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2012-12-16",
+    "newest_published_date": "2015-08-23",
+    "list_name_encoded": "childrens-middle-grade",
+    "list_name": "Childrens Middle Grade",
+    "display_name": "Children\u2019s Middle Grade"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2015-08-30",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "childrens-middle-grade-e-book",
+    "list_name": "Childrens Middle Grade E-Book",
+    "display_name": "Children\u2019s Middle Grade E-Book"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2015-08-30",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "childrens-middle-grade-hardcover",
+    "list_name": "Childrens Middle Grade Hardcover",
+    "display_name": "Children\u2019s Middle Grade Hardcover"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2015-08-30",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "childrens-middle-grade-paperback",
+    "list_name": "Childrens Middle Grade Paperback",
+    "display_name": "Children\u2019s Middle Grade Paperback"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2012-12-09",
+    "list_name_encoded": "paperback-books",
+    "list_name": "Paperback Books",
+    "display_name": "Children\u2019s Paperback Books"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "picture-books",
+    "list_name": "Picture Books",
+    "display_name": "Children\u2019s Picture Books"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2008-06-08",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "series-books",
+    "list_name": "Series Books",
+    "display_name": "Children\u2019s Series"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2012-12-16",
+    "newest_published_date": "2015-08-23",
+    "list_name_encoded": "young-adult",
+    "list_name": "Young Adult",
+    "display_name": "Young Adult"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2015-08-30",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "young-adult-e-book",
+    "list_name": "Young Adult E-Book",
+    "display_name": "Young Adult E-Book"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2015-08-30",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "young-adult-hardcover",
+    "list_name": "Young Adult Hardcover",
+    "display_name": "Young Adult Hardcover"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2015-08-30",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "young-adult-paperback",
+    "list_name": "Young Adult Paperback",
+    "display_name": "Young Adult Paperback"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2009-03-15",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "hardcover-graphic-books",
+    "list_name": "Hardcover Graphic Books",
+    "display_name": "Hardcover Graphic Books"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2009-03-15",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "paperback-graphic-books",
+    "list_name": "Paperback Graphic Books",
+    "display_name": "Paperback Graphic Books"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2009-03-15",
+    "newest_published_date": "2016-07-24",
+    "list_name_encoded": "manga",
+    "list_name": "Manga",
+    "display_name": "Manga"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2011-02-13",
+    "newest_published_date": "2013-05-12",
+    "list_name_encoded": "combined-print-fiction",
+    "list_name": "Combined Print Fiction",
+    "display_name": "Combined Hardcover & Paperback Fiction"
+  },
+  {
+    "updated": "WEEKLY",
+    "oldest_published_date": "2011-02-13",
+    "newest_published_date": "2013-05-12",
+    "list_name_encoded": "combined-print-nonfiction",
+    "list_name": "Combined Print Nonfiction",
+    "display_name": "Combined Hardcover & Paperback Nonfiction"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-09-07",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "animals",
+    "list_name": "Animals",
+    "display_name": "Animals"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2013-11-03",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "business-books",
+    "list_name": "Business Books",
+    "display_name": "Business"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-09-07",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "celebrities",
+    "list_name": "Celebrities",
+    "display_name": "Celebrities"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-10-12",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "crime-and-punishment",
+    "list_name": "Crime and Punishment",
+    "display_name": "Crime and Punishment"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-10-12",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "culture",
+    "list_name": "Culture",
+    "display_name": "Culture"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-10-12",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "education",
+    "list_name": "Education",
+    "display_name": "Education"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-12-14",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "espionage",
+    "list_name": "Espionage",
+    "display_name": "Espionage"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-12-14",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "expeditions-disasters-and-adventures",
+    "list_name": "Expeditions Disasters and Adventures",
+    "display_name": "Expeditions"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-10-12",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "fashion-manners-and-customs",
+    "list_name": "Fashion Manners and Customs",
+    "display_name": "Fashion, Manners and Customs"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2013-09-01",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "food-and-fitness",
+    "list_name": "Food and Fitness",
+    "display_name": "Food and Diet"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-10-12",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "games-and-activities",
+    "list_name": "Games and Activities",
+    "display_name": "Games and Activities"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2011-07-03",
+    "newest_published_date": "2013-10-13",
+    "list_name_encoded": "hardcover-business-books",
+    "list_name": "Hardcover Business Books",
+    "display_name": "Hardcover Business Books"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-10-12",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "health",
+    "list_name": "Health",
+    "display_name": "Health"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-09-07",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "humor",
+    "list_name": "Humor",
+    "display_name": "Humor"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-12-14",
+    "newest_published_date": "2016-01-10",
+    "list_name_encoded": "indigenous-americans",
+    "list_name": "Indigenous Americans",
+    "display_name": "Indigenous Americans"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-09-07",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "relationships",
+    "list_name": "Relationships",
+    "display_name": "Love and Relationships"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2011-07-03",
+    "newest_published_date": "2013-10-13",
+    "list_name_encoded": "paperback-business-books",
+    "list_name": "Paperback Business Books",
+    "display_name": "Paperback Business Books"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-09-07",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "family",
+    "list_name": "Family",
+    "display_name": "Parenthood and Family"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2011-07-03",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "hardcover-political-books",
+    "list_name": "Hardcover Political Books",
+    "display_name": "Politics and American History"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-12-14",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "race-and-civil-rights",
+    "list_name": "Race and Civil Rights",
+    "display_name": "Race and Civil Rights"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-09-07",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "religion-spirituality-and-faith",
+    "list_name": "Religion Spirituality and Faith",
+    "display_name": "Religion, Spirituality and Faith"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2013-04-14",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "science",
+    "list_name": "Science",
+    "display_name": "Science"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-03-02",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "sports",
+    "list_name": "Sports",
+    "display_name": "Sports and Fitness"
+  },
+  {
+    "updated": "MONTHLY",
+    "oldest_published_date": "2014-09-07",
+    "newest_published_date": "2016-07-10",
+    "list_name_encoded": "travel",
+    "list_name": "Travel",
+    "display_name": "Travel"
+  }
+]

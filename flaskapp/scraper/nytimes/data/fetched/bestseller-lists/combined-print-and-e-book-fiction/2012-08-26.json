@@ -1,0 +1,876 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2012-08-26",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0345803485",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9780345803481",
+        "description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803481.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 125,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 24,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES OF GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130283",
+            "isbn13": "9781612130286"
+          },
+          {
+            "isbn10": "0345803485",
+            "isbn13": "9780345803481"
+          },
+          {
+            "isbn10": "0099579936",
+            "isbn13": "9780099579939"
+          },
+          {
+            "isbn10": "0385363125",
+            "isbn13": "9780385363129"
+          },
+          {
+            "isbn10": "0385537670",
+            "isbn13": "9780385537674"
+          },
+          {
+            "isbn10": "0345806751",
+            "isbn13": "9780345806758"
+          },
+          {
+            "isbn10": "0804172072",
+            "isbn13": "9780804172073"
+          },
+          {
+            "isbn10": "0345805151",
+            "isbn13": "9780345805157"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130593",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130590",
+        "description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803498.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 24,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Darker-E-James/dp/0345803493?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES DARKER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130593",
+            "isbn13": "9781612130590"
+          },
+          {
+            "isbn10": "1612130585",
+            "isbn13": "9781612130583"
+          },
+          {
+            "isbn10": "0345803493",
+            "isbn13": "9780345803498"
+          },
+          {
+            "isbn10": "1448149460",
+            "isbn13": "9781448149469"
+          },
+          {
+            "isbn10": "0385363133",
+            "isbn13": "9780385363136"
+          },
+          {
+            "isbn10": "0099579928",
+            "isbn13": "9780099579922"
+          },
+          {
+            "isbn10": "0385537689",
+            "isbn13": "9780385537681"
+          },
+          {
+            "isbn10": "0606264485",
+            "isbn13": "9780606264488"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130615",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130613",
+        "description": "The final book in an erotic trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781612130606.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 23,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Freed-Three-Trilogy/dp/0345803507?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES FREED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130615",
+            "isbn13": "9781612130613"
+          },
+          {
+            "isbn10": "1612130607",
+            "isbn13": "9781612130606"
+          },
+          {
+            "isbn10": "0345803507",
+            "isbn13": "9780345803504"
+          },
+          {
+            "isbn10": "0385537697",
+            "isbn13": "9780385537698"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sylvia Day",
+        "primary_isbn13": "9781101604786",
+        "description": "Two troubled people develop an intense, obsessive relationship.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425263907.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 308,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Bared-You-A-Crossfire-Novel-ebook/dp/B00846REIS?tag=thenewyorktim-20",
+        "contributor": "by Sylvia Day",
+        "title": "BARED TO YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0982857195",
+            "isbn13": "9780982857199"
+          },
+          {
+            "isbn10": "0985114606",
+            "isbn13": "9780985114602"
+          },
+          {
+            "isbn10": "0425263908",
+            "isbn13": "9780425263907"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Julie Garwood",
+        "primary_isbn13": "9781101590898",
+        "description": "An I.R.S. officer and an F.B.I. agent fight corruption, and a mutual attraction, while investigating a Ponzi scheme.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525952862.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Sweet-Talk-Buchanan-Renard-Book-10/dp/045141523X?tag=thenewyorktim-20",
+        "contributor": "by Julie Garwood",
+        "title": "SWEET TALK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525952861",
+            "isbn13": "9780525952862"
+          },
+          {
+            "isbn10": "045141523X",
+            "isbn13": "9780451415233"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1429957867",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emily Giffin",
+        "primary_isbn13": "9781429957861",
+        "description": "A woman\u2019s successful life is disrupted by the appearance of an 18-year-old girl with a link to her past.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429957861.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Where-We-Belong-Emily-Giffin-ebook/dp/B0071NMK66?tag=thenewyorktim-20",
+        "contributor": "by Emily Giffin",
+        "title": "WHERE WE BELONG",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312554192",
+            "isbn13": "9780312554194"
+          },
+          {
+            "isbn10": "1429957867",
+            "isbn13": "9781429957861"
+          },
+          {
+            "isbn10": "0312554184",
+            "isbn13": "9780312554187"
+          }
+        ],
+        "publisher": "St. Martin's Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lora Leigh",
+        "primary_isbn13": "9781101561232",
+        "description": "Stygian\u2019s mission is to find Honor Roberts, a missing Breed, no matter the cost.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425246078.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Stygians-Honor-Breeds-Lora-Leigh/dp/0425246078?tag=thenewyorktim-20",
+        "contributor": "by Lora Leigh",
+        "title": "STYGIAN'S HONOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425246078",
+            "isbn13": "9780425246078"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sherrilyn Kenyon",
+        "primary_isbn13": "9781466801981",
+        "description": "Kateri Avani must face a Keetoowah warrior, and Ren Waya must come back from the dead to prevent the world from ending in this Dark-Hunter novel.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312550004.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Time-Untime-Dark-Hunter-Sherrilyn-Kenyon/dp/0312550006?tag=thenewyorktim-20",
+        "contributor": "by Sherrilyn Kenyon",
+        "title": "TIME UNTIME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312546610",
+            "isbn13": "9780312546618"
+          },
+          {
+            "isbn10": "0312550006",
+            "isbn13": "9780312550004"
+          }
+        ],
+        "publisher": "St. Martin's Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Colleen Hoover",
+        "primary_isbn13": "A00B006RUJST6",
+        "description": "A girl falls in love with a neighbor who enjoys slam poetry, but they encounter obstacles.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": null,
+        "contributor": "by Colleen Hoover",
+        "title": "SLAMMED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Colleen Hoover"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439193061",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Thor",
+        "primary_isbn13": "9781439193068",
+        "description": "If the counterterrorism operative Scot Harvath can discover who has targeted him for death, he can prevent a terrorist attack.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439193020.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 275,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Black-List-Thriller-Brad-Thor-ebook/dp/B004T4KX0U?tag=thenewyorktim-20",
+        "contributor": "by Brad Thor",
+        "title": "BLACK LIST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439192987",
+            "isbn13": "9781439192986"
+          },
+          {
+            "isbn10": "1439193061",
+            "isbn13": "9781439193068"
+          },
+          {
+            "isbn10": "1439193029",
+            "isbn13": "9781439193020"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451681763",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "M L Stedman",
+        "primary_isbn13": "9781451681765",
+        "description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451681758.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Light-Between-Oceans-Novel-ebook/dp/B0064CL1T2?tag=thenewyorktim-20",
+        "contributor": "by M. L. Stedman",
+        "title": "THE LIGHT BETWEEN OCEANS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451681739",
+            "isbn13": "9781451681734"
+          },
+          {
+            "isbn10": "1451681763",
+            "isbn13": "9781451681765"
+          },
+          {
+            "isbn10": "1451681755",
+            "isbn13": "9781451681758"
+          },
+          {
+            "isbn10": "1594136327",
+            "isbn13": "9781594136320"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250014271",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Kleypas",
+        "primary_isbn13": "9781250014276",
+        "description": "Zoe, an innkeeper in the town of Friday Harbor, has been so hurt in the past that she dare not trust her heart with anyone \u2014 especially not the bitter Alex Nolan, who drinks to keep his own demons at bay.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250014276.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dream-Lake-Friday-Harbor-Kleypas/dp/1250008298?tag=thenewyorktim-20",
+        "contributor": "by Lisa Kleypas",
+        "title": "DREAM LAKE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250008298",
+            "isbn13": "9781250008299"
+          },
+          {
+            "isbn10": "1250014271",
+            "isbn13": "9781250014276"
+          },
+          {
+            "isbn10": "0748119949",
+            "isbn13": "9780748119943"
+          },
+          {
+            "isbn10": "0312605919",
+            "isbn13": "9780312605919"
+          }
+        ],
+        "publisher": "St. Martin's Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0758279590",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Jackson",
+        "primary_isbn13": "9780758279590",
+        "description": "A woman whose toddler went missing two years ago suspects that he\u2019s still alive.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781420118537.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 305,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dont-Want-Know-Zebra-Books/dp/1420118536?tag=thenewyorktim-20",
+        "contributor": "by Lisa Jackson",
+        "title": "YOU DON\u2019T WANT TO KNOW",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0758258577",
+            "isbn13": "9780758258571"
+          },
+          {
+            "isbn10": "0758279590",
+            "isbn13": "9780758279590"
+          },
+          {
+            "isbn10": "1420118536",
+            "isbn13": "9781420118537"
+          }
+        ],
+        "publisher": "Kensington Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097470",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316097475",
+        "description": "A New York detective takes refuge with his 10 children in an upstate cabin.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446571807.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 323,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/I-Michael-Bennett-James-Patterson/dp/0446571814?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "I, MICHAEL BENNETT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097462",
+            "isbn13": "9780316097468"
+          },
+          {
+            "isbn10": "0316097470",
+            "isbn13": "9780316097475"
+          },
+          {
+            "isbn10": "0316224065",
+            "isbn13": "9780316224062"
+          },
+          {
+            "isbn10": "1409038823",
+            "isbn13": "9781409038825"
+          },
+          {
+            "isbn10": "0446571806",
+            "isbn13": "9780446571807"
+          },
+          {
+            "isbn10": "0446571814",
+            "isbn13": "9780446571814"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "W E B Griffin and William E Butterworth IV",
+        "primary_isbn13": "9781101517680",
+        "description": "In the seventh book in the Men at War series, O.S.S. agents must sabotage Germany\u2019s rocket plans and protect the Manhattan Project.",
+        "book_review_link": "",
+        "book_image_height": 171,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101517680.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Spymasters-Men-War-Novel/dp/B00F6EABQI?tag=thenewyorktim-20",
+        "contributor": "by W. E. B. Griffin and William E. Butterworth IV",
+        "title": "THE SPYMASTERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157514",
+            "isbn13": "9780399157516"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062073176",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel Silva",
+        "primary_isbn13": "9780062073174",
+        "description": "Gabriel Allon, an art restorer and spy for the Israeli secret service, discovers a global criminal enterprise behind a murder at the Vatican.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 205,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062253835.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Fallen-Angel-Gabriel-Allon/dp/006207315X?tag=thenewyorktim-20",
+        "contributor": "by Daniel Silva",
+        "title": "THE FALLEN ANGEL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062073125",
+            "isbn13": "9780062073129"
+          },
+          {
+            "isbn10": "0062073176",
+            "isbn13": "9780062073174"
+          },
+          {
+            "isbn10": "0007433328",
+            "isbn13": "9780007433322"
+          },
+          {
+            "isbn10": "0062128140",
+            "isbn13": "9780062128140"
+          },
+          {
+            "isbn10": "0062253832",
+            "isbn13": "9780062253835"
+          },
+          {
+            "isbn10": "006207315X",
+            "isbn13": "9780062073150"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345533569",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780345533562",
+        "description": "Five children \u2014 Gabby, Billy, Izzie, Andy and Sean \u2014 who meet in kindergarten maintain their bonds as they grow to adulthood.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385343213.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Friends-Forever-Novel-Danielle-Steel-ebook/dp/B0062OCNX0?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "FRIENDS FOREVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385343213",
+            "isbn13": "9780385343213"
+          },
+          {
+            "isbn10": "0345533569",
+            "isbn13": "9780345533562"
+          },
+          {
+            "isbn10": "1409092593",
+            "isbn13": "9781409092599"
+          },
+          {
+            "isbn10": "0307990656",
+            "isbn13": "9780307990655"
+          },
+          {
+            "isbn10": "0440245249",
+            "isbn13": "9780440245247"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345533585",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dean Koontz",
+        "primary_isbn13": "9780345533586",
+        "description": "Odd Thomas, who can communicate with the dead, explores the mysteries of an old estate now owned by a reclusive billionaire.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553593099.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Odd-Apocalypse-An-Thomas-Novel-ebook/dp/B0064C3TWE?tag=thenewyorktim-20",
+        "contributor": "by Dean Koontz",
+        "title": "ODD APOCALYPSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553807749",
+            "isbn13": "9780553807745"
+          },
+          {
+            "isbn10": "0345533585",
+            "isbn13": "9780345533586"
+          },
+          {
+            "isbn10": "0007327110",
+            "isbn13": "9780007327119"
+          },
+          {
+            "isbn10": "0307990672",
+            "isbn13": "9780307990679"
+          },
+          {
+            "isbn10": "0553593099",
+            "isbn13": "9780553593099"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780345537102",
+        "description": "In this e-book story, Jack Reacher is summoned to Washington to find out who is leaking information about plans for a state-of-the-art sniper rifle for U.S. forces.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345537102.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Deep-Down-Jack-Reacher-Story-ebook/dp/B008ED5G9A?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "DEEP DOWN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1448153875",
+            "isbn13": "9781448153879"
+          }
+        ],
+        "publisher": "Delacorte Press"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2012-08-11",
+    "previous_published_date": "2012-08-19",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2012-09-02"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

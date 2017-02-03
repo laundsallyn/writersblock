@@ -1,0 +1,801 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2011-06-12",
+    "books": [
+      {
+        "price": 27.95,
+        "primary_isbn10": "0441020313",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9780441020317",
+        "description": "The telepathic waitress Sookie Stackhouse seeks the culprit in a firebombing.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781937007355.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Dead-Reckoning-Sookie-Stackhouse-Novel-ebook/dp/B004LRPDBE?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "DEAD RECKONING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0441020313",
+            "isbn13": "9780441020317"
+          },
+          {
+            "isbn10": "1937007359",
+            "isbn13": "9781937007355"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316036269",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316036269",
+        "description": "Detective Lindsay Boxer and the Women's Murder Club race to find a missing baby.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316126946.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/10th-Anniversary-Womens-Murder-Club/dp/1455511463?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "10TH ANNIVERSARY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316036269",
+            "isbn13": "9780316036269"
+          },
+          {
+            "isbn10": "0316126942",
+            "isbn13": "9780316126946"
+          },
+          {
+            "isbn10": "0316185256",
+            "isbn13": "9780316185257"
+          },
+          {
+            "isbn10": "0446585165",
+            "isbn13": "9780446585163"
+          },
+          {
+            "isbn10": "1611135419",
+            "isbn13": "9781611135411"
+          },
+          {
+            "isbn10": "1455511463",
+            "isbn13": "9781455511464"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "0345509102",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Aaron Allston",
+        "primary_isbn13": "9780345509109",
+        "description": "The Jedi Order has taken control of the Galactic Alliance. Meanwhile, Luke and Ben Skywalker are pursuing the evil entity Abeloth; a \"Star Wars\" novel.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345509109.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Conviction-Star-Wars-Fate-Legends/dp/0345509102?tag=thenewyorktim-20",
+        "contributor": "by Aaron Allston",
+        "title": "CONVICTION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345509102",
+            "isbn13": "9780345509109"
+          },
+          {
+            "isbn10": "0345519582",
+            "isbn13": "9780345519580"
+          }
+        ],
+        "publisher": "Del Rey/Ballantine/LucasBooks"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399157387",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9780399157387",
+        "description": "The Minneapolis detective Lucas Davenport investigates the murders of two girls who were kidnapped in 1985 and whose bodies have just been found.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425247891.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 284,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Buried-Prey-John-Sandford-ebook/dp/B004LRPGPC?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "BURIED PREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157387",
+            "isbn13": "9780399157387"
+          },
+          {
+            "isbn10": "0425247899",
+            "isbn13": "9780425247891"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0345505514",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Steve Berry",
+        "primary_isbn13": "9780345505514",
+        "description": "The former government operative Cotton Malone foils an assassination attempt on the president and finds himself at dangerous odds with a secret society.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345530165.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 184,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Jefferson-Key-A-Novel/dp/0345505514?tag=thenewyorktim-20",
+        "contributor": "by Steve Berry",
+        "title": "THE JEFFERSON KEY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345530160",
+            "isbn13": "9780345530165"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0446573108",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446573108",
+        "description": "The lawyer for an alleged serial killer is murdered, and two former Secret Service agents are on the case.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446573092.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/The-Sixth-Man-David-Baldacci/dp/0446573094?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE SIXTH MAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446573108",
+            "isbn13": "9780446573108"
+          },
+          {
+            "isbn10": "0446573078",
+            "isbn13": "9780446573078"
+          },
+          {
+            "isbn10": "1455510327",
+            "isbn13": "9781455510320"
+          },
+          {
+            "isbn10": "1611136938",
+            "isbn13": "9781611136937"
+          },
+          {
+            "isbn10": "0446573094",
+            "isbn13": "9780446573092"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 30,
+        "primary_isbn10": "0517580519",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jean M Auel",
+        "primary_isbn13": "9780517580516",
+        "description": "The latest volume in a series that began with \"The Clan of the Cave Bear,\" set during the ice age.",
+        "book_review_link": "",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780517580516.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 263,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/THE-LAND-OF-PAINTED-CAVES-ebook/dp/B003O2SQO8?tag=thenewyorktim-20",
+        "contributor": "by Jean M. Auel",
+        "title": "THE LAND OF PAINTED CAVES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0739378104",
+            "isbn13": "9780739378106"
+          },
+          {
+            "isbn10": "0307886654",
+            "isbn13": "9780307886651"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "030726999X",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Stieg Larsson",
+        "primary_isbn13": "9780307269997",
+        "description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+        "book_review_link": "//www.nytimes.com/2010/05/21/books/21book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307593672.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 53,
+        "amazon_product_url": "http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20",
+        "contributor": "by Stieg Larsson",
+        "title": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+        "sunday_review_link": "//www.nytimes.com/2010/05/30/books/review/Kamp-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030726999X",
+            "isbn13": "9780307269997"
+          },
+          {
+            "isbn10": "0307593673",
+            "isbn13": "9780307593672"
+          },
+          {
+            "isbn10": "073937771X",
+            "isbn13": "9780739377710"
+          },
+          {
+            "isbn10": "0307454568",
+            "isbn13": "9780307454560"
+          },
+          {
+            "isbn10": "0307742539",
+            "isbn13": "9780307742537"
+          },
+          {
+            "isbn10": "1849162743",
+            "isbn13": "9781849162746"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0307595862",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jo Nesbo",
+        "primary_isbn13": "9780307595867",
+        "description": "The Oslo detective Harry Hole searches for a serial killer who builds snowmen outside the homes of his victims.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307599575.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Snowman-Harry-Hole-Novel-ebook/dp/B004G5ZY7E?tag=thenewyorktim-20",
+        "contributor": "by Jo Nesbo",
+        "title": "THE SNOWMAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307595862",
+            "isbn13": "9780307595867"
+          },
+          {
+            "isbn10": "0307599574",
+            "isbn13": "9780307599575"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0345497945",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeff Shaara",
+        "primary_isbn13": "9780345497949",
+        "description": "The three-month struggle for Okinawa in 1945, from the perspectives of combatants on both sides.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345497949.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Final-Storm-Novel-Pacific/dp/0345497945?tag=thenewyorktim-20",
+        "contributor": "by Jeff Shaara",
+        "title": "THE FINAL STORM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345497945",
+            "isbn13": "9780345497949"
+          },
+          {
+            "isbn10": "0345526430",
+            "isbn13": "9780345526434"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0399157263",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Robert B Parker",
+        "primary_isbn13": "9780399157264",
+        "description": "In the final Spenser novel, a woman dies in an actor's hotel room.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399157264.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Sixkill-Spenser-Robert-B-Parker-ebook/dp/B004XFYWSO?tag=thenewyorktim-20",
+        "contributor": "by Robert B. Parker",
+        "title": "SIXKILL",
+        "sunday_review_link": "//www.nytimes.com/2011/05/08/books/review/crime-novels-by-thomas-perry-belinda-bauer-chris-knopf-and-robert-b-parker.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157263",
+            "isbn13": "9780399157264"
+          },
+          {
+            "isbn10": "0425246906",
+            "isbn13": "9780425246900"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0670021040",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Geraldine Brooks",
+        "primary_isbn13": "9780670021048",
+        "description": "A Puritan missionary's daughter forms a bond with a scholarly Indian.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780143121077.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Calebs-Crossing-Novel-Geraldine-Brooks-ebook/dp/B004Q7DQJA?tag=thenewyorktim-20",
+        "contributor": "by Geraldine Brooks",
+        "title": "CALEB'S CROSSING",
+        "sunday_review_link": "//www.nytimes.com/2011/05/15/books/review/book-review-calebs-crossing-by-geraldine-brooks.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670021040",
+            "isbn13": "9780670021048"
+          },
+          {
+            "isbn10": "0143121073",
+            "isbn13": "9780143121077"
+          },
+          {
+            "isbn10": "1594135347",
+            "isbn13": "9781594135347"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316069353",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Connelly",
+        "primary_isbn13": "9780316069359",
+        "description": "The defense lawyer Mickey Haller represents a woman facing home foreclosure who is accused of killing a banker.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455510313.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Fifth-Witness-Lincoln-Lawyer-Novel/dp/044655667X?tag=thenewyorktim-20",
+        "contributor": "by Michael Connelly",
+        "title": "THE FIFTH WITNESS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316069353",
+            "isbn13": "9780316069359"
+          },
+          {
+            "isbn10": "0316069388",
+            "isbn13": "9780316069380"
+          },
+          {
+            "isbn10": "1455510319",
+            "isbn13": "9781455510313"
+          },
+          {
+            "isbn10": "1611136954",
+            "isbn13": "9781611136951"
+          },
+          {
+            "isbn10": "044655667X",
+            "isbn13": "9780446556675"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0312583729",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Albert Brooks",
+        "primary_isbn13": "9780312583729",
+        "description": "In 2030, the young resent the elderly for draining the weakening economy, and a devastating earthquake in Los Angeles tests the administration of the country's first Jewish president.",
+        "book_review_link": "//www.nytimes.com/2011/05/02/books/albert-brookss-2030-his-first-novel-review.html",
+        "book_image_height": 277,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312583729.jpg",
+        "rank": 14,
+        "article_chapter_link": "//www.nytimes.com/2011/05/04/books/albert-brooks-the-novelist-relishes-his-worries-in-2030.html",
+        "rank_last_week": 14,
+        "book_image_width": 182,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/2030-Real-Story-Happens-America-ebook/dp/B004OA62WC?tag=thenewyorktim-20",
+        "contributor": "by Albert Brooks",
+        "title": "2030",
+        "sunday_review_link": "//www.nytimes.com/2011/05/22/books/review/book-review-2030-by-albert-brooks.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312583729",
+            "isbn13": "9780312583729"
+          },
+          {
+            "isbn10": "1429996501",
+            "isbn13": "9781429996501"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0345521307",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Paula McLain",
+        "primary_isbn13": "9780345521309",
+        "description": "Ernest Hemingway's first wife, Hadley, narrates this novel set in Paris.",
+        "book_review_link": "//www.nytimes.com/2011/02/28/books/28book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345521323.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 268,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 13,
+        "amazon_product_url": "http://www.amazon.com/The-Paris-Wife-A-Novel-ebook/dp/B004DEPELY?tag=thenewyorktim-20",
+        "contributor": "by Paula McLain",
+        "title": "THE PARIS WIFE",
+        "sunday_review_link": "//www.nytimes.com/2011/03/20/books/review/book-review-the-paris-wife-by-paula-mclain.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345521307",
+            "isbn13": "9780345521309"
+          },
+          {
+            "isbn10": "0345521323",
+            "isbn13": "9780345521323"
+          },
+          {
+            "isbn10": "1611730171",
+            "isbn13": "9781611730173"
+          },
+          {
+            "isbn10": "0345521315",
+            "isbn13": "9780345521316"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439180962",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781439180969",
+        "description": "An interior designer, haunted by the disappearance of her son, finds herself the victim of a deadly game of identity theft.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439180976.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Ill-Walk-Alone-A-Novel/dp/1439180970?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "I\u2019LL WALK ALONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439180962",
+            "isbn13": "9781439180969"
+          },
+          {
+            "isbn10": "1439186790",
+            "isbn13": "9781439186794"
+          },
+          {
+            "isbn10": "1439180970",
+            "isbn13": "9781439180976"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312567251",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Wilbur Smith",
+        "primary_isbn13": "9780312567255",
+        "description": "A private security agent battles Somali pirates who have kidnapped a woman from a yacht in the Indian Ocean.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250003232.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 282,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Those-Peril-Hector-Cross-Wilbur/dp/0312567251?tag=thenewyorktim-20",
+        "contributor": "by Wilbur Smith",
+        "title": "THOSE IN PERIL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312567251",
+            "isbn13": "9780312567255"
+          },
+          {
+            "isbn10": "1250003237",
+            "isbn13": "9781250003232"
+          }
+        ],
+        "publisher": "Thomas Dunne/St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0756404738",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patrick Rothfuss",
+        "primary_isbn13": "9780756404734",
+        "description": "In this sequel to \u201cThe Name of the Wind,\u201d the magician Kvothe searches for the truth about the mysterious Amyr and the death of his parents.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780756407124.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Wise-Mans-Fear-Kingkiller/dp/0756407125?tag=thenewyorktim-20",
+        "contributor": "by Patrick Rothfuss",
+        "title": "THE WISE MAN'S FEAR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0756404738",
+            "isbn13": "9780756404734"
+          },
+          {
+            "isbn10": "0756407060",
+            "isbn13": "9780756407063"
+          },
+          {
+            "isbn10": "0756407125",
+            "isbn13": "9780756407124"
+          },
+          {
+            "isbn10": "0756407915",
+            "isbn13": "9780756407919"
+          }
+        ],
+        "publisher": "DAW"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0778329836",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Debbie Macomber",
+        "primary_isbn13": "9780778329831",
+        "description": "Three women of Blossom Street in Seattle \u2014 Bethanne, her daughter and her former mother-in-law \u2014 take a life-changing road trip to Florida.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780778313250.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Turn-Road-Blossom-Street-Novel/dp/0778313255?tag=thenewyorktim-20",
+        "contributor": "by Debbie Macomber",
+        "title": "A TURN IN THE ROAD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778329836",
+            "isbn13": "9780778329831"
+          },
+          {
+            "isbn10": "0778313255",
+            "isbn13": "9780778313250"
+          },
+          {
+            "isbn10": "1423347943",
+            "isbn13": "9781423347941"
+          }
+        ],
+        "publisher": "Mira"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1416543031",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Will Allison",
+        "primary_isbn13": "9781416543039",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416543039.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Long-Drive-Home-A-Novel/dp/1416543031?tag=thenewyorktim-20",
+        "contributor": "by Will Allison",
+        "title": "LONG DRIVE HOME",
+        "sunday_review_link": "//www.nytimes.com/2011/07/03/books/review/book-review-long-drive-home-by-will-allison.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416543031",
+            "isbn13": "9781416543039"
+          },
+          {
+            "isbn10": "141654304X",
+            "isbn13": "9781416543046"
+          }
+        ],
+        "publisher": "Free Press"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2011-05-28",
+    "previous_published_date": "2011-06-05",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2011-06-19"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,1 @@
+{"GoodreadsResponse": {"Request": {"authentication": "true", "key": "UEjJ8JPVjwhYdPBBzZw", "method": "series_work"}, "series_works": {"series_work": {"id": "565752", "user_position": "1", "series": {"id": "116900", "title": "Moon", "description": null, "note": null, "series_works_count": "2", "primary_work_count": "2", "numbered": "true"}}}}}

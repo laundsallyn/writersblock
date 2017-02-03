@@ -1,0 +1,829 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2012-09-23",
+    "books": [
+      {
+        "price": 24.99,
+        "primary_isbn10": "1401322786",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitch Albom",
+        "primary_isbn13": "9781401322786",
+        "description": "A fable about the inventor of the world\u2019s first clock, who returns to our world after centuries of banishment; from the author of \u201cTuesdays With Morrie.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401322786.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 350,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Time-Keeper-Mitch-Albom/dp/1401322786?tag=thenewyorktim-20",
+        "contributor": "by Mitch Albom",
+        "title": "THE TIME KEEPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401322786",
+            "isbn13": "9781401322786"
+          },
+          {
+            "isbn10": "1401304702",
+            "isbn13": "9781401304706"
+          },
+          {
+            "isbn10": "1410451615",
+            "isbn13": "9781410451613"
+          },
+          {
+            "isbn10": "1401312853",
+            "isbn13": "9781401312855"
+          }
+        ],
+        "publisher": "Hyperion"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0316097446",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316097444",
+        "description": "A young biologist warns world leaders about the reasons for escalating animal attacks on cities.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446571791.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Zoo-James-Patterson-ebook/dp/B0076DFB2G?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "ZOO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097446",
+            "isbn13": "9780316097444"
+          },
+          {
+            "isbn10": "0316097438",
+            "isbn13": "9780316097437"
+          },
+          {
+            "isbn10": "0446571792",
+            "isbn13": "9780446571791"
+          },
+          {
+            "isbn10": "1455525154",
+            "isbn13": "9781455525157"
+          },
+          {
+            "isbn10": "1455536709",
+            "isbn13": "9781455536702"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "030758836X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears on her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0399159266",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Thomas Perry",
+        "primary_isbn13": "9780399159268",
+        "description": "Sam and Remi Fargo, a husband-and-wife treasure-hunting team, search for the tomb of Attila the Hun.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399159268.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 325,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Tombs-A-Fargo-Adventure-ebook/dp/B007T99OO8?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Thomas Perry",
+        "title": "THE TOMBS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159266",
+            "isbn13": "9780399159268"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 57,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "1451681739",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "M L Stedman",
+        "primary_isbn13": "9781451681734",
+        "description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451681758.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/The-Light-Between-Oceans-Novel-ebook/dp/B0064CL1T2?tag=thenewyorktim-20",
+        "contributor": "by M. L. Stedman",
+        "title": "THE LIGHT BETWEEN OCEANS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451681739",
+            "isbn13": "9781451681734"
+          },
+          {
+            "isbn10": "1451681763",
+            "isbn13": "9781451681765"
+          },
+          {
+            "isbn10": "1451681755",
+            "isbn13": "9781451681758"
+          },
+          {
+            "isbn10": "1594136327",
+            "isbn13": "9781594136320"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 27,
+        "primary_isbn10": "0345515633",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tess Gerritsen",
+        "primary_isbn13": "9780345515636",
+        "description": "The detective Jane Rizzoli and the medical examiner Maura Isles protect a boy whose family and foster family have all been murdered.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345535955.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Last-bonus-short-story-John-ebook/dp/B007MDK4RC?tag=thenewyorktim-20",
+        "contributor": "by Tess Gerritsen",
+        "title": "LAST TO DIE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345515633",
+            "isbn13": "9780345515636"
+          },
+          {
+            "isbn10": "0345535952",
+            "isbn13": "9780345535955"
+          },
+          {
+            "isbn10": "1409030369",
+            "isbn13": "9781409030362"
+          },
+          {
+            "isbn10": "0345515528",
+            "isbn13": "9780345515520"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "1594203970",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Zadie Smith",
+        "primary_isbn13": "9781594203978",
+        "description": "The lives of four characters cross in northwest London; from the author of \u201cWhite Teeth.\u201d",
+        "book_review_link": "//www.nytimes.com/2012/08/27/books/nw-by-zadie-smith.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594203978.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 265,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/NW-A-Novel-Zadie-Smith/dp/1594203970?tag=thenewyorktim-20",
+        "contributor": "by Zadie Smith",
+        "title": "NW",
+        "sunday_review_link": "//www.nytimes.com/2012/09/23/books/review/nw-by-zadie-smith.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594203970",
+            "isbn13": "9781594203978"
+          }
+        ],
+        "publisher": "Penguin Press"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0553807994",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laurie R King",
+        "primary_isbn13": "9780553807998",
+        "description": "Mary Russell and her husband, Sherlock Holmes, are caught up in colonial wars in Morocco in the 12th book in this series.",
+        "book_review_link": "",
+        "book_image_height": 189,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553907551.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Garment-Shadows-suspense-featuring-Sherlock-ebook/dp/B007JC2ELA?tag=thenewyorktim-20",
+        "contributor": "by Laurie R. King",
+        "title": "GARMENT OF SHADOWS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553807994",
+            "isbn13": "9780553807998"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0312655460",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Louise Penny",
+        "primary_isbn13": "9780312655464",
+        "description": "Chief Inspector Armand Gamache of the S\u00fbret\u00e9 du Qu\u00e9bec investigates a murder at a remote abbey.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312655464.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Beautiful-Mystery-Inspector-Gamache-ebook/dp/B0071VURHW?tag=thenewyorktim-20",
+        "contributor": "by Louise Penny",
+        "title": "THE BEAUTIFUL MYSTERY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312655460",
+            "isbn13": "9780312655464"
+          },
+          {
+            "isbn10": "1250015278",
+            "isbn13": "9781250015273"
+          }
+        ],
+        "publisher": "Minotaur"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0345528921",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Debbie Macomber",
+        "primary_isbn13": "9780345528926",
+        "description": "A young widow buys a bed-and-breakfast.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345535115.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Harbor-bonus-short-story-First/dp/0345535251?tag=thenewyorktim-20",
+        "contributor": "by Debbie Macomber",
+        "title": "THE INN AT ROSE HARBOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345528921",
+            "isbn13": "9780345528926"
+          },
+          {
+            "isbn10": "0345535111",
+            "isbn13": "9780345535115"
+          },
+          {
+            "isbn10": "0739378287",
+            "isbn13": "9780739378281"
+          },
+          {
+            "isbn10": "0345535251",
+            "isbn13": "9780345535252"
+          },
+          {
+            "isbn10": "0553393650",
+            "isbn13": "9780553393651"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "1439102430",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Kathy Reichs",
+        "primary_isbn13": "9781439102435",
+        "description": "The forensic anthropologist Temperance Brennan pursues a case involving infanticide, murder and corruption; the 15th novel in the series behind the show \u201cBones.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439112823.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Bones-Are-Forever-A-Novel-ebook/dp/B0061PEAUY?tag=thenewyorktim-20",
+        "contributor": "by Kathy Reichs",
+        "title": "BONES ARE FOREVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102430",
+            "isbn13": "9781439102435"
+          },
+          {
+            "isbn10": "1439112827",
+            "isbn13": "9781439112823"
+          },
+          {
+            "isbn10": "1446492869",
+            "isbn13": "9781446492864"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0451464761",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "S M Stirling",
+        "primary_isbn13": "9780451464767",
+        "description": "Further adventures in a postapocalyptic America,",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451464767.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lord-Mountains-Novel-Change-Series/dp/0451464761?tag=thenewyorktim-20",
+        "contributor": "by S. M. Stirling",
+        "title": "LORD OF MOUNTAINS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451464761",
+            "isbn13": "9780451464767"
+          }
+        ],
+        "publisher": "Roc"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "0312554192",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emily Giffin",
+        "primary_isbn13": "9780312554194",
+        "description": "A woman\u2019s successful life is disrupted by the appearance of an 18-year-old girl with a link to her past.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781429957861.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Where-We-Belong-Emily-Giffin-ebook/dp/B0071NMK66?tag=thenewyorktim-20",
+        "contributor": "by Emily Giffin",
+        "title": "WHERE WE BELONG",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312554192",
+            "isbn13": "9780312554194"
+          },
+          {
+            "isbn10": "1429957867",
+            "isbn13": "9781429957861"
+          },
+          {
+            "isbn10": "0312554184",
+            "isbn13": "9780312554187"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0399158499",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Randy Wayne White",
+        "primary_isbn13": "9780399158490",
+        "description": "Hannah Smith, a friend of White\u2019s character Doc Ford, searches Florida for a missing girl and the con man who seduced her.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399158490.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Gone-A-Hannah-Smith-Novel/dp/0399158499?tag=thenewyorktim-20",
+        "contributor": "by Randy Wayne White",
+        "title": "GONE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158499",
+            "isbn13": "9780399158490"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0061990019",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Dale Brown",
+        "primary_isbn13": "9780061990014",
+        "description": "A retired Air Force general pushes back against a Chinese threat.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062099105.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Tigers-Claw-Novel-Dale-Brown-ebook/dp/B007BCFAVE?tag=thenewyorktim-20",
+        "contributor": "by Dale Brown",
+        "title": "TIGER'S CLAW",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061990019",
+            "isbn13": "9780061990014"
+          },
+          {
+            "isbn10": "0062099108",
+            "isbn13": "9780062099105"
+          },
+          {
+            "isbn10": "0061990027",
+            "isbn13": "9780061990021"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553807749",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dean Koontz",
+        "primary_isbn13": "9780553807745",
+        "description": "Odd Thomas, who can communicate with the dead, explores the mysteries of an old estate now owned by a reclusive billionaire.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553593099.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Odd-Apocalypse-An-Thomas-Novel-ebook/dp/B0064C3TWE?tag=thenewyorktim-20",
+        "contributor": "by Dean Koontz",
+        "title": "ODD APOCALYPSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553807749",
+            "isbn13": "9780553807745"
+          },
+          {
+            "isbn10": "0345533585",
+            "isbn13": "9780345533586"
+          },
+          {
+            "isbn10": "0007327110",
+            "isbn13": "9780007327119"
+          },
+          {
+            "isbn10": "0307990672",
+            "isbn13": "9780307990679"
+          },
+          {
+            "isbn10": "0553593099",
+            "isbn13": "9780553593099"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1770411216",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kevin J Anderson and Neil Peart",
+        "primary_isbn13": "9781770411210",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 179,
+        "book_image": "https://s1.nyt.com/du/books/images/9781770411210.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Clockwork-Angels-Kevin-J-Anderson/dp/1770411216?tag=thenewyorktim-20",
+        "contributor": "by Kevin J. Anderson and Neil Peart",
+        "title": "CLOCKWORK ANGELS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1770411216",
+            "isbn13": "9781770411210"
+          }
+        ],
+        "publisher": "ECW Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439192987",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brad Thor",
+        "primary_isbn13": "9781439192986",
+        "description": "The counterterrorism operative Scot Harvath\u2019s name has been added to a closely guarded government list. Now he must evade assassination long enough to learn who has targeted him and why.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439193020.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 275,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Black-List-Thriller-Brad-Thor-ebook/dp/B004T4KX0U?tag=thenewyorktim-20",
+        "contributor": "by Brad Thor",
+        "title": "BLACK LIST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439192987",
+            "isbn13": "9781439192986"
+          },
+          {
+            "isbn10": "1439193061",
+            "isbn13": "9781439193068"
+          },
+          {
+            "isbn10": "1439193029",
+            "isbn13": "9781439193020"
+          }
+        ],
+        "publisher": "Emily Bestler/Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385343213",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780385343213",
+        "description": "Five children \u2014 Gabby, Billy, Izzie, Andy and Sean \u2014 who meet in kindergarten maintain their bonds as they grow to adulthood.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385343213.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Friends-Forever-Novel-Danielle-Steel-ebook/dp/B0062OCNX0?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "FRIENDS FOREVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385343213",
+            "isbn13": "9780385343213"
+          },
+          {
+            "isbn10": "0345533569",
+            "isbn13": "9780345533562"
+          },
+          {
+            "isbn10": "1409092593",
+            "isbn13": "9781409092599"
+          },
+          {
+            "isbn10": "0307990656",
+            "isbn13": "9780307990655"
+          },
+          {
+            "isbn10": "0440245249",
+            "isbn13": "9780440245247"
+          }
+        ],
+        "publisher": "Delacorte"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2012-09-08",
+    "previous_published_date": "2012-09-16",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2012-09-30"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

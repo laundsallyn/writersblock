@@ -1,0 +1,14 @@
+src for validating nyt schemas
+https://github.com/NYTimes/public_api_specs
+
+BOOKS
+https://raw.githubusercontent.com/NYTimes/public_api_specs/master/books_api/books_api.json
+
+SEMANTIC
+https://raw.githubusercontent.com/NYTimes/public_api_specs/master/semantic_api/semantic_api.json
+
+TAGS
+https://raw.githubusercontent.com/NYTimes/public_api_specs/master/times_tags/times_tags_v3.json
+
+
+https://libraries.io/pypi/python-dotenv

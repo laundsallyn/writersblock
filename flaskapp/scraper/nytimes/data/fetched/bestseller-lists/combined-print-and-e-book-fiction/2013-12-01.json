@@ -1,0 +1,896 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2013-12-01",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0385537921",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385537926",
+        "description": "\u00a0A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/10/31/books/sycamore-row-by-john-grisham.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537926.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Sycamore-Jake-Brigance-John-Grisham/dp/0385537131?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "SYCAMORE ROW",
+        "sunday_review_link": "//www.nytimes.com/2013/11/10/books/review/sycamore-row-by-john-grisham.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537131",
+            "isbn13": "9780385537131"
+          },
+          {
+            "isbn10": "0385537921",
+            "isbn13": "9780385537926"
+          },
+          {
+            "isbn10": "0553393618",
+            "isbn13": "9780553393613"
+          },
+          {
+            "isbn10": "0345543246",
+            "isbn13": "9780345543240"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Patricia Cornwell",
+        "primary_isbn13": "9781101636428",
+        "description": "The murder of a computer engineer at M.I.T. leads the Massachusetts Chief Medical Examiner Kay Scarpetta in unexpected directions.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636428.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dust-Scarpetta-Novel-Patricia-Cornwell-ebook/dp/B00C5R7B0I?tag=thenewyorktim-20",
+        "contributor": "by Patricia Cornwell",
+        "title": "DUST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399157573",
+            "isbn13": "9780399157578"
+          },
+          {
+            "isbn10": "0425270041",
+            "isbn13": "9780425270042"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455525855",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Douglas Preston and Lincoln Child",
+        "primary_isbn13": "9781455525850",
+        "description": "Special Agent Pendergast learns that the killing of several miners 150 years ago may be related to deadly arson attacks at a Colorado ski resort.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455525843.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/White-Fire-Pendergast-Douglas-Preston/dp/1455525847?tag=thenewyorktim-20",
+        "contributor": "by Douglas Preston and Lincoln Child",
+        "title": "WHITE FIRE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455525839",
+            "isbn13": "9781455525836"
+          },
+          {
+            "isbn10": "1455525855",
+            "isbn13": "9781455525850"
+          },
+          {
+            "isbn10": "1455525847",
+            "isbn13": "9781455525843"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062294377",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitch Albom",
+        "primary_isbn13": "9780062294371",
+        "description": "A small Michigan town is transformed when its residents receive phone calls said to be from heaven.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062294395.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 362,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-First-Phone-Call-Heaven/dp/0062294377?tag=thenewyorktim-20",
+        "contributor": "by Mitch Albom",
+        "title": "THE FIRST PHONE CALL FROM HEAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062294377",
+            "isbn13": "9780062294371"
+          },
+          {
+            "isbn10": "0062305778",
+            "isbn13": "9780062305770"
+          },
+          {
+            "isbn10": "0062294407",
+            "isbn13": "9780062294401"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316248679",
+        "description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1938786947",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Melody Anne",
+        "primary_isbn13": "9781938786945",
+        "description": "Book 4 of the Surrender series concludes the stories of three women, Rachel, Lia and Ari.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781938786945.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Scorched-Surrender-Book-Melody-Anne-ebook/dp/B00EV8ETK4?tag=thenewyorktim-20",
+        "contributor": "by Melody Anne",
+        "title": "SCORCHED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1938786947",
+            "isbn13": "9781938786945"
+          }
+        ],
+        "publisher": "Gossamer"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9781101626368",
+        "description": "In the first book of the Cousins O'Dwyer trilogy, Iona Sheehan moves to Ireland to investigate her family's history.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101626368.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 339,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Dark-Witch-Cousins-ODwyer-Trilogy-ebook/dp/B00BC25992?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "DARK WITCH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425259854",
+            "isbn13": "9780425259856"
+          },
+          {
+            "isbn10": "1594136777",
+            "isbn13": "9781594136771"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "142996393X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Orson Scott Card",
+        "primary_isbn13": "9781429963930",
+        "description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985; now a movie.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812550702.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 291,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/Enders-Game-The-Ender-Quintet/dp/0812550706?tag=thenewyorktim-20",
+        "contributor": "by Orson Scott Card",
+        "title": "ENDER'S GAME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812550706",
+            "isbn13": "9780812550702"
+          },
+          {
+            "isbn10": "0765342294",
+            "isbn13": "9780765342294"
+          },
+          {
+            "isbn10": "142996393X",
+            "isbn13": "9781429963930"
+          },
+          {
+            "isbn10": "0765337541",
+            "isbn13": "9780765337542"
+          },
+          {
+            "isbn10": "0312853238",
+            "isbn13": "9780312853235"
+          },
+          {
+            "isbn10": "0765317389",
+            "isbn13": "9780765317384"
+          },
+          {
+            "isbn10": "0312932081",
+            "isbn13": "9780312932084"
+          },
+          {
+            "isbn10": "0765338149",
+            "isbn13": "9780765338143"
+          },
+          {
+            "isbn10": "076537062X",
+            "isbn13": "9780765370624"
+          },
+          {
+            "isbn10": "0765337320",
+            "isbn13": "9780765337320"
+          },
+          {
+            "isbn10": "0765374811",
+            "isbn13": "9780765374813"
+          },
+          {
+            "isbn10": "0765374722",
+            "isbn13": "9780765374721"
+          },
+          {
+            "isbn10": "0765338211",
+            "isbn13": "9780765338211"
+          },
+          {
+            "isbn10": "0812532538",
+            "isbn13": "9780812532531"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455520667",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9781455520664",
+        "description": "The lives of two couples converge unexpectedly.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455520640.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/The-Longest-Ride-Nicholas-Sparks/dp/1455520640?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "THE LONGEST RIDE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455520659",
+            "isbn13": "9781455520657"
+          },
+          {
+            "isbn10": "1455576018",
+            "isbn13": "9781455576012"
+          },
+          {
+            "isbn10": "1455520667",
+            "isbn13": "9781455520664"
+          },
+          {
+            "isbn10": "1455520640",
+            "isbn13": "9781455520640"
+          },
+          {
+            "isbn10": "1455520632",
+            "isbn13": "9781455520633"
+          },
+          {
+            "isbn10": "1455584738",
+            "isbn13": "9781455584734"
+          },
+          {
+            "isbn10": "145558472X",
+            "isbn13": "9781455584727"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "147672766X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephen King",
+        "primary_isbn13": "9781476727660",
+        "description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+        "book_review_link": "//www.nytimes.com/2013/09/16/books/doctor-sleep-is-stephen-kings-sequel-to-the-shining.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451698855.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 322,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Doctor-Sleep-Stephen-King/dp/1451698852?tag=thenewyorktim-20",
+        "contributor": "by Stephen King",
+        "title": "DOCTOR SLEEP",
+        "sunday_review_link": "//www.nytimes.com/2013/09/22/books/review/stephen-kings-shining-sequel-doctor-sleep.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476727651",
+            "isbn13": "9781476727653"
+          },
+          {
+            "isbn10": "147672766X",
+            "isbn13": "9781476727660"
+          },
+          {
+            "isbn10": "1410462447",
+            "isbn13": "9781410462442"
+          },
+          {
+            "isbn10": "1451698852",
+            "isbn13": "9781451698855"
+          },
+          {
+            "isbn10": "1476779414",
+            "isbn13": "9781476779416"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9781101636237",
+        "description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636237.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 15,
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "THE HUSBAND'S SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062107313",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Amy Tan",
+        "primary_isbn13": "9780062107312",
+        "description": "The author of \u201cThe Joy Luck Club\u201d follows mother and daughter courtesans over four decades.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062107312.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 335,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Valley-Amazement-Amy-Tan-ebook/dp/B00BATG18K?tag=thenewyorktim-20",
+        "contributor": "by Amy Tan",
+        "title": "THE VALLEY OF AMAZEMENT",
+        "sunday_review_link": "//www.nytimes.com/2013/11/10/books/review/amy-tans-valley-of-amazement.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062107313",
+            "isbn13": "9780062107312"
+          },
+          {
+            "isbn10": "006210733X",
+            "isbn13": "9780062107336"
+          },
+          {
+            "isbn10": "0062223380",
+            "isbn13": "9780062223388"
+          },
+          {
+            "isbn10": "0062107321",
+            "isbn13": "9780062107329"
+          }
+        ],
+        "publisher": "Ecco/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553582011",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553582017",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \u201cA Song of Ice and Fire.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler with Jack Du Brul",
+        "primary_isbn13": "9781101635650",
+        "description": "Juan Cabrillo and the crew of the Oregon probe the disappearance of an American destroyer in 1943.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399158087.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Mirage-Oregon-Files-Clive-Cussler/dp/0399158081?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler with Jack Du Brul",
+        "title": "MIRAGE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158081",
+            "isbn13": "9780399158087"
+          },
+          {
+            "isbn10": "0425250636",
+            "isbn13": "9780425250631"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553897845",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553897845",
+        "description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553897845.jpg",
+        "rank": 15,
+        "article_chapter_link": "//www.nytimes.com/2011/04/10/arts/television/game-of-thrones-on-hbo-from-george-r-r-martin-novels.html",
+        "rank_last_week": 0,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 40,
+        "amazon_product_url": "http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A GAME OF THRONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553573403",
+            "isbn13": "9780553573404"
+          },
+          {
+            "isbn10": "0553386794",
+            "isbn13": "9780553386790"
+          },
+          {
+            "isbn10": "0553381687",
+            "isbn13": "9780553381689"
+          },
+          {
+            "isbn10": "0553593714",
+            "isbn13": "9780553593716"
+          },
+          {
+            "isbn10": "0553897845",
+            "isbn13": "9780553897845"
+          },
+          {
+            "isbn10": "0553103547",
+            "isbn13": "9780553103540"
+          },
+          {
+            "isbn10": "044042321X",
+            "isbn13": "9780440423218"
+          },
+          {
+            "isbn10": "0553588486",
+            "isbn13": "9780553588484"
+          },
+          {
+            "isbn10": "0345535537",
+            "isbn13": "9780345535535"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130293",
+        "description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803481.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 125,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES OF GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130283",
+            "isbn13": "9781612130286"
+          },
+          {
+            "isbn10": "0345803485",
+            "isbn13": "9780345803481"
+          },
+          {
+            "isbn10": "0099579936",
+            "isbn13": "9780099579939"
+          },
+          {
+            "isbn10": "0385363125",
+            "isbn13": "9780385363129"
+          },
+          {
+            "isbn10": "0385537670",
+            "isbn13": "9780385537674"
+          },
+          {
+            "isbn10": "0345806751",
+            "isbn13": "9780345806758"
+          },
+          {
+            "isbn10": "0804172072",
+            "isbn13": "9780804172073"
+          },
+          {
+            "isbn10": "0345805151",
+            "isbn13": "9780345805157"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439153183",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Martin Cruz Smith",
+        "primary_isbn13": "9781439153185",
+        "description": "A dead translator\u2019s coded notebook may hold the key to the murders of a muckraking journalist and an oligarch in the former Soviet Union. Arkady Renko, a senior investigator in the Moscow prosecutor\u2019s office, is on the case.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439140215.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Tatiana-An-Arkady-Renko-Novel-ebook/dp/B00BSA5MV8?tag=thenewyorktim-20",
+        "contributor": "by Martin Cruz Smith",
+        "title": "TATIANA",
+        "sunday_review_link": "//www.nytimes.com/2013/11/17/books/review/tatiana-by-martin-cruz-smith.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439140219",
+            "isbn13": "9781439140215"
+          },
+          {
+            "isbn10": "1439153183",
+            "isbn13": "9781439153185"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400065941",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Fannie Flagg",
+        "primary_isbn13": "9781400065943",
+        "description": "An Alabama woman's search for her true identity takes her all the way to Wisconsin and into the lives of four sisters who ran their father\u2019s gas station during World War II.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400065943.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 335,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/All-Girl-Filling-Stations-Last-Reunion-ebook/dp/B00CQZ6EKW?tag=thenewyorktim-20",
+        "contributor": "by Fannie Flagg",
+        "title": "THE ALL-GIRL FILLING STATION'S LAST REUNION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400065941",
+            "isbn13": "9781400065943"
+          },
+          {
+            "isbn10": "0812994639",
+            "isbn13": "9780812994636"
+          },
+          {
+            "isbn10": "0812977173",
+            "isbn13": "9780812977172"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Caroline Leavitt",
+        "primary_isbn13": "9781616201258",
+        "description": "A child goes missing in suburban Boston in the 1950s, and his sister, his best friend and the friend's divorced mother suffer loneliness and grief.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781616201258.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 339,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Is-This-Tomorrow-A-Novel-ebook/dp/B00AFKIRH8?tag=thenewyorktim-20",
+        "contributor": "by Caroline Leavitt",
+        "title": "IS THIS TOMORROW",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Algonquin Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Wally Lamb",
+        "primary_isbn13": "9780062199027",
+        "description": "About to marry the woman who is her gallery owner, a divorced artist and mother must confront secrets from her past.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062199027.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/We-Are-Water-A-Novel/dp/0061941026?tag=thenewyorktim-20",
+        "contributor": "by Wally Lamb",
+        "title": "WE ARE WATER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061941026",
+            "isbn13": "9780061941023"
+          },
+          {
+            "isbn10": "0062278568",
+            "isbn13": "9780062278562"
+          },
+          {
+            "isbn10": "0061941034",
+            "isbn13": "9780061941030"
+          }
+        ],
+        "publisher": "Harper"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2013-11-16",
+    "previous_published_date": "2013-11-24",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2013-12-08"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,871 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2013-05-26",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charlaine Harris",
+        "primary_isbn13": "9781101622452",
+        "description": "The telepathic waitress Sookie Stackhouse searches for the truth about the death of the former barmaid Arlene.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781937007881.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dead-Ever-After-Sookie-Stackhouse/dp/193700788X?tag=thenewyorktim-20",
+        "contributor": "by Charlaine Harris",
+        "title": "DEAD EVER AFTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "193700788X",
+            "isbn13": "9781937007881"
+          },
+          {
+            "isbn10": "0425269205",
+            "isbn13": "9780425269206"
+          },
+          {
+            "isbn10": "0425256391",
+            "isbn13": "9780425256398"
+          }
+        ],
+        "publisher": "Ace"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9781101621196",
+        "description": "Lucas Davenport is drawn into the investigation of a Minnesota political scandal and the disappearance of an operative.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425267769.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 283,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Silken-Prey-Lucas-Davenport-Novel/dp/0425267768?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "SILKEN PREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159312",
+            "isbn13": "9780399159312"
+          },
+          {
+            "isbn10": "0425267768",
+            "isbn13": "9780425267769"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455521280",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9781455521289",
+        "description": "The government hitman Will Robie uncovers a serious threat as he attempts to take out a fellow assassin who has gone rogue.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455521289.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/The-Will-Robie-David-Baldacci/dp/1455521302?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE HIT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455521213",
+            "isbn13": "9781455521210"
+          },
+          {
+            "isbn10": "1455529478",
+            "isbn13": "9781455529476"
+          },
+          {
+            "isbn10": "1455521280",
+            "isbn13": "9781455521289"
+          },
+          {
+            "isbn10": "1455521175",
+            "isbn13": "9781455521173"
+          },
+          {
+            "isbn10": "1455521302",
+            "isbn13": "9781455521302"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316210843",
+        "description": "A week after giving birth, Detective Lindsay Boxer returns to work to investigate some grisly murders.",
+        "book_review_link": "",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316210843.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/12th-Never-Womens-Murder-Club/dp/1455515795?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "12TH OF NEVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031621082X",
+            "isbn13": "9780316210829"
+          },
+          {
+            "isbn10": "0316210870",
+            "isbn13": "9780316210874"
+          },
+          {
+            "isbn10": "0316252492",
+            "isbn13": "9780316252492"
+          },
+          {
+            "isbn10": "1455515795",
+            "isbn13": "9781455515790"
+          },
+          {
+            "isbn10": "1455515787",
+            "isbn13": "9781455515783"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9781101621219",
+        "description": "A former criminal attorney who has been acquitted of his wife\u2019s murder retreats to his family estate on a rocky New England cliff, where he is comforted by the house\u2019s caretaker amid continuing danger.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399159893.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Whiskey-Beach-Nora-Roberts/dp/0399159894?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "WHISKEY BEACH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159894",
+            "isbn13": "9780399159893"
+          },
+          {
+            "isbn10": "039916460X",
+            "isbn13": "9780399164606"
+          },
+          {
+            "isbn10": "0425269817",
+            "isbn13": "9780425269817"
+          },
+          {
+            "isbn10": "0515154296",
+            "isbn13": "9780515154290"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0989078310",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rachel Van Dyken",
+        "primary_isbn13": "9780989078313",
+        "description": "A Seattle millionaire asks a childhood friend to pretend to be engaged to him. But she reckoned without his brother.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780989078313.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": null,
+        "contributor": "by Rachel Van Dyken",
+        "title": "THE BET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0989078310",
+            "isbn13": "9780989078313"
+          }
+        ],
+        "publisher": "Rachel Van Dyken"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451628293",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Paul Evans",
+        "primary_isbn13": "9781451628296",
+        "description": "In the fourth book of the \u201cWalk\u201d series, Alan faces new challenges on his walk to Key West.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451628296.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Step-Faith-Novel-The-Walk/dp/1451628293?tag=thenewyorktim-20",
+        "contributor": "by Richard Paul Evans",
+        "title": "A STEP OF FAITH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451628293",
+            "isbn13": "9781451628296"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Judith Merkle Riley",
+        "primary_isbn13": "9781402270598",
+        "description": "In 17th-century France, a fortuneteller hides more behind her black robes than people know.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781402270598.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Oracle-Glass-Judith-Merkle-Riley-ebook/dp/B008NCARXW?tag=thenewyorktim-20",
+        "contributor": "by Judith Merkle Riley",
+        "title": "THE ORACLE GLASS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Sourcebooks Landmark"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670014893",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John le Carre",
+        "primary_isbn13": "9780670014897",
+        "description": "A young man investigates a private-public antiterrorist operation, supposedly a great success but actually a disaster.",
+        "book_review_link": "//www.nytimes.com/2013/05/01/books/a-delicate-truth-by-john-le-carre.html",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670014897.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Delicate-Truth-John-Le-Carre/dp/0670014893?tag=thenewyorktim-20",
+        "contributor": "by John le Carre",
+        "title": "A DELICATE TRUTH",
+        "sunday_review_link": "//www.nytimes.com/2013/05/05/books/review/a-delicate-truth-by-john-le-carre.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670014893",
+            "isbn13": "9780670014897"
+          },
+          {
+            "isbn10": "0143125311",
+            "isbn13": "9780143125310"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 49,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Barbara Freethy",
+        "primary_isbn13": "9780983599357",
+        "description": "A reckless photographer helps a woman delve into the mysteries of her past.",
+        "book_review_link": "",
+        "book_image_height": 186,
+        "book_image": "https://s1.nyt.com/du/books/images/9780983599357.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Dont-Say-Word-Barbara-Freethy-ebook/dp/B004LB5BR6?tag=thenewyorktim-20",
+        "contributor": "by Barbara Freethy",
+        "title": "DON'T SAY A WORD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0983651728",
+            "isbn13": "9780983651727"
+          }
+        ],
+        "publisher": "Barbara Freethy"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "142996023X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Matthew Quick",
+        "primary_isbn13": "9781429960236",
+        "description": "A man recently released from a mental institution has two obsessions: his estranged wife and the Philadelphia Eagles. The basis of the movie.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780374533571.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/The-Silver-Linings-Playbook-Novel-ebook/dp/B001ANSSDC?tag=thenewyorktim-20",
+        "contributor": "by Matthew Quick",
+        "title": "THE SILVER LININGS PLAYBOOK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374532281",
+            "isbn13": "9780374532284"
+          },
+          {
+            "isbn10": "0374533571",
+            "isbn13": "9780374533571"
+          },
+          {
+            "isbn10": "142996023X",
+            "isbn13": "9781429960236"
+          },
+          {
+            "isbn10": "0330504614",
+            "isbn13": "9780330504614"
+          }
+        ],
+        "publisher": "Sarah Crichton/Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "142996393X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Orson Scott Card",
+        "primary_isbn13": "9781429963930",
+        "description": "Government agencies breed child geniuses and train them as soldiers.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812550702.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 291,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Enders-Game-The-Ender-Quintet/dp/0812550706?tag=thenewyorktim-20",
+        "contributor": "by Orson Scott Card",
+        "title": "ENDER'S GAME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812550706",
+            "isbn13": "9780812550702"
+          },
+          {
+            "isbn10": "0765342294",
+            "isbn13": "9780765342294"
+          },
+          {
+            "isbn10": "142996393X",
+            "isbn13": "9781429963930"
+          },
+          {
+            "isbn10": "0765337541",
+            "isbn13": "9780765337542"
+          },
+          {
+            "isbn10": "0312853238",
+            "isbn13": "9780312853235"
+          },
+          {
+            "isbn10": "0765317389",
+            "isbn13": "9780765317384"
+          },
+          {
+            "isbn10": "0312932081",
+            "isbn13": "9780312932084"
+          },
+          {
+            "isbn10": "0765338149",
+            "isbn13": "9780765338143"
+          },
+          {
+            "isbn10": "076537062X",
+            "isbn13": "9780765370624"
+          },
+          {
+            "isbn10": "0765337320",
+            "isbn13": "9780765337320"
+          },
+          {
+            "isbn10": "0765374811",
+            "isbn13": "9780765374813"
+          },
+          {
+            "isbn10": "0765374722",
+            "isbn13": "9780765374721"
+          },
+          {
+            "isbn10": "0765338211",
+            "isbn13": "9780765338211"
+          },
+          {
+            "isbn10": "0812532538",
+            "isbn13": "9780812532531"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Samantha Young",
+        "primary_isbn13": "9781101623503",
+        "description": "For once, a woman is tempted to put her own needs above her dependent younger brother\u2019s.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101623503.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Down-London-Road-Samantha-Young-ebook/dp/B00AYJIKMM?tag=thenewyorktim-20",
+        "contributor": "by  Samantha Young",
+        "title": "DOWN LONDON ROAD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451419715",
+            "isbn13": "9780451419712"
+          }
+        ],
+        "publisher": "NAL"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0547548796",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ann Patchett",
+        "primary_isbn13": "9780547548791",
+        "description": "A widow unravels her dead husband\u2019s secrets. First published in 1997.",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9780547548791.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Magicians-Assistant-Ann-Patchett-ebook/dp/B003WUYQ64?tag=thenewyorktim-20",
+        "contributor": "by Ann Patchett",
+        "title": "THE MAGICIAN'S ASSISTANT",
+        "sunday_review_link": "//www.nytimes.com/1997/11/16/books/sleight-of-hand.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0547548796",
+            "isbn13": "9780547548791"
+          },
+          {
+            "isbn10": "0156006219",
+            "isbn13": "9780156006217"
+          }
+        ],
+        "publisher": "Houghton Mifflin Harcourt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Katy Evans",
+        "primary_isbn13": "A00B00C9QORFW",
+        "description": "A star of the dangerous underground fighting circuit sets a woman\u2019s mind ablaze and her body on fire with wanting.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": null,
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": null,
+        "contributor": "by Katy Evans",
+        "title": "REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Katy Evans"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130293",
+        "description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803481.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 125,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES OF GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130283",
+            "isbn13": "9781612130286"
+          },
+          {
+            "isbn10": "0345803485",
+            "isbn13": "9780345803481"
+          },
+          {
+            "isbn10": "0099579936",
+            "isbn13": "9780099579939"
+          },
+          {
+            "isbn10": "0385363125",
+            "isbn13": "9780385363129"
+          },
+          {
+            "isbn10": "0385537670",
+            "isbn13": "9780385537674"
+          },
+          {
+            "isbn10": "0345806751",
+            "isbn13": "9780345806758"
+          },
+          {
+            "isbn10": "0804172072",
+            "isbn13": "9780804172073"
+          },
+          {
+            "isbn10": "0345805151",
+            "isbn13": "9780345805157"
+          }
+        ],
+        "publisher": "Vintage"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451668961",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781451668964",
+        "description": "An explosion at her family\u2019s antique furniture museum leaves a glamorous C.P.A. in a coma.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451668964.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Daddys-Gone-Hunting-Higgins-Clark-ebook/dp/B009R659L8?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "DADDY'S GONE A HUNTING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451668945",
+            "isbn13": "9781451668940"
+          },
+          {
+            "isbn10": "1451668961",
+            "isbn13": "9781451668964"
+          },
+          {
+            "isbn10": "141045598X",
+            "isbn13": "9781410455987"
+          },
+          {
+            "isbn10": "1451668953",
+            "isbn13": "9781451668957"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kristin Hannah",
+        "primary_isbn13": "9781250031808",
+        "description": "A brash but lonely woman must deal with her personal demons before she can keep her promise to help the family of her deceased friend; a sequel to \"Firefly Lane.\"",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312577216.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Fly-Away-Kristin-Hannah/dp/0312577214?tag=thenewyorktim-20",
+        "contributor": "by Kristin Hannah",
+        "title": "FLY AWAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312577214",
+            "isbn13": "9780312577216"
+          },
+          {
+            "isbn10": "1250031818",
+            "isbn13": "9781250031815"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0553897845",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553897845",
+        "description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553897845.jpg",
+        "rank": 20,
+        "article_chapter_link": "//www.nytimes.com/2011/04/10/arts/television/game-of-thrones-on-hbo-from-george-r-r-martin-novels.html",
+        "rank_last_week": 0,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A GAME OF THRONES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553573403",
+            "isbn13": "9780553573404"
+          },
+          {
+            "isbn10": "0553386794",
+            "isbn13": "9780553386790"
+          },
+          {
+            "isbn10": "0553381687",
+            "isbn13": "9780553381689"
+          },
+          {
+            "isbn10": "0553593714",
+            "isbn13": "9780553593716"
+          },
+          {
+            "isbn10": "0553897845",
+            "isbn13": "9780553897845"
+          },
+          {
+            "isbn10": "0553103547",
+            "isbn13": "9780553103540"
+          },
+          {
+            "isbn10": "044042321X",
+            "isbn13": "9780440423218"
+          },
+          {
+            "isbn10": "0553588486",
+            "isbn13": "9780553588484"
+          },
+          {
+            "isbn10": "0345535537",
+            "isbn13": "9780345535535"
+          }
+        ],
+        "publisher": "Random House"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2013-05-11",
+    "previous_published_date": "2013-05-19",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2013-06-02"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

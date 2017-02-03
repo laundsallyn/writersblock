@@ -1,0 +1,829 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2015-12-13",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "1627792414",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9781627792417",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781627792424.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Killing-Reagan-Violent-Assault-Presidency-ebook/dp/B00UE3T6BW?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING REAGAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1627792414",
+            "isbn13": "9781627792417"
+          },
+          {
+            "isbn10": "1627792422",
+            "isbn13": "9781627792424"
+          },
+          {
+            "isbn10": "1427262292",
+            "isbn13": "9781427262295"
+          },
+          {
+            "isbn10": "1410482596",
+            "isbn13": "9781410482594"
+          }
+        ],
+        "publisher": "Holt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250058902",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brandon Stanton",
+        "primary_isbn13": "9781250058904",
+        "description": "Photographs and interviews from the creator of the blog and the book \u201cHumans of New York.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250058904.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 391,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Humans-New-York-Brandon-Stanton/dp/1250058902?tag=thenewyorktim-20",
+        "contributor": "by Brandon Stanton",
+        "title": "HUMANS OF NEW YORK: STORIES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250058902",
+            "isbn13": "9781250058904"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1591848067",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brian Kilmeade and Don Yaeger",
+        "primary_isbn13": "9781591848066",
+        "description": "The war against the Barbary pirates in 1801.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698197411.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Thomas-Jefferson-Tripoli-Pirates-Forgotten-ebook/dp/B00SI0B5GW?tag=thenewyorktim-20",
+        "contributor": "by Brian Kilmeade and Don Yaeger",
+        "title": "THOMAS JEFFERSON AND THE TRIPOLI PIRATES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1591848067",
+            "isbn13": "9781591848066"
+          },
+          {
+            "isbn10": "0698197410",
+            "isbn13": "9780698197411"
+          }
+        ],
+        "publisher": "Sentinel"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250095891",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Carly Simon",
+        "primary_isbn13": "9781250095893",
+        "description": "A memoir by the singer.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250095909.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Boys-Trees-Memoir-Carly-Simon-ebook/dp/B011LONEEC?tag=thenewyorktim-20",
+        "contributor": "by Carly Simon",
+        "title": "BOYS IN THE TREES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250095891",
+            "isbn13": "9781250095893"
+          },
+          {
+            "isbn10": "1250095905",
+            "isbn13": "9781250095909"
+          },
+          {
+            "isbn10": "142727195X",
+            "isbn13": "9781427271952"
+          }
+        ],
+        "publisher": "Flatiron"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "110188696X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Leah Remini and Rebecca Paley",
+        "primary_isbn13": "9781101886960",
+        "description": "The actress describes her life in Scientology and the aftermath of her break with the church in 2013.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101886977.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Troublemaker-Surviving-Scientology-Leah-Remini-ebook/dp/B015BCX0JY?tag=thenewyorktim-20",
+        "contributor": "by Leah Remini and Rebecca Paley",
+        "title": "TROUBLEMAKER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "110188696X",
+            "isbn13": "9781101886960"
+          },
+          {
+            "isbn10": "1101886978",
+            "isbn13": "9781101886977"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812993543",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ta-Nehisi Coates",
+        "primary_isbn13": "9780812993547",
+        "description": "A meditation on race in America as well as a personal story by the Atlantic's national correspondent.",
+        "book_review_link": "//www.nytimes.com/2015/08/17/books/review/ta-nehisi-coatess-between-the-world-and-me.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780679645986.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 20,
+        "amazon_product_url": "http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates-ebook/dp/B00SEFAIRI?tag=thenewyorktim-20",
+        "contributor": "by Ta-Nehisi Coates",
+        "title": "BETWEEN THE WORLD AND ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812993543",
+            "isbn13": "9780812993547"
+          },
+          {
+            "isbn10": "0451482212",
+            "isbn13": "9780451482211"
+          },
+          {
+            "isbn10": "1410485846",
+            "isbn13": "9781410485847"
+          }
+        ],
+        "publisher": "Spiegel & Grau"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400067650",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jon Meacham",
+        "primary_isbn13": "9781400067657",
+        "description": "A biography of George H.W. Bush.",
+        "book_review_link": "//www.nytimes.com/2015/11/16/books/review-in-destiny-and-power-george-hw-bush-epitomizes-a-vanishing-gop.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812998207.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 335,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Destiny-Power-American-Odyssey-Herbert-ebook/dp/B00VZZ2OY4?tag=thenewyorktim-20",
+        "contributor": "by Jon Meacham",
+        "title": "DESTINY AND POWER",
+        "sunday_review_link": "//www.nytimes.com/2015/11/15/books/review/jon-meachams-destiny-and-power-the-american-odyssey-of-george-herbert-walker-bush.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400067650",
+            "isbn13": "9781400067657"
+          },
+          {
+            "isbn10": "0812998200",
+            "isbn13": "9780812998207"
+          },
+          {
+            "isbn10": "1101922966",
+            "isbn13": "9781101922965"
+          },
+          {
+            "isbn10": "0804194947",
+            "isbn13": "9780804194945"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0804138141",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mindy Kaling",
+        "primary_isbn13": "9780804138147",
+        "description": "More personal essays from the comedian and actress.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804138154.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/Why-Not-Me-Mindy-Kaling-ebook/dp/B00N6PEMZK?tag=thenewyorktim-20",
+        "contributor": "by Mindy Kaling",
+        "title": "WHY NOT ME?",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804138141",
+            "isbn13": "9780804138147"
+          },
+          {
+            "isbn10": "0553551744",
+            "isbn13": "9780553551747"
+          }
+        ],
+        "publisher": "Crown Archetype"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0143125478",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Daniel James Brown",
+        "primary_isbn13": "9780143125471",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101622742.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 80,
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20",
+        "contributor": "by Daniel James Brown",
+        "title": "THE BOYS IN THE BOAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "None",
+            "isbn13": "9780143177289"
+          },
+          {
+            "isbn10": "067002581X",
+            "isbn13": "9780670025817"
+          },
+          {
+            "isbn10": "0143125478",
+            "isbn13": "9780143125471"
+          },
+          {
+            "isbn10": "159413779X",
+            "isbn13": "9781594137792"
+          },
+          {
+            "isbn10": "1611761697",
+            "isbn13": "9781611761696"
+          },
+          {
+            "isbn10": "1410459543",
+            "isbn13": "9781410459541"
+          }
+        ],
+        "publisher": "Penguin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1501117696",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tyler Oakley",
+        "primary_isbn13": "9781501117695",
+        "description": "Personal essays from the L.G.B.T.Q. YouTube personality.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781501117718.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Binge-Tyler-Oakley-ebook/dp/B00VBW3SX2?tag=thenewyorktim-20",
+        "contributor": "by Tyler Oakley",
+        "title": "BINGE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1501117696",
+            "isbn13": "9781501117695"
+          }
+        ],
+        "publisher": "Gallery Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316200603",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stacy Schiff",
+        "primary_isbn13": "9780316200608",
+        "description": "An account of the Salem witch trials of 1692.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316200615.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 321,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Witches-Salem-Stacy-Schiff-ebook/dp/B00T3E77FK?tag=thenewyorktim-20",
+        "contributor": "by Stacy Schiff",
+        "title": "THE WITCHES",
+        "sunday_review_link": "//www.nytimes.com/2015/11/01/books/review/the-witches-salem-1692-by-stacy-schiff.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316200603",
+            "isbn13": "9780316200608"
+          },
+          {
+            "isbn10": "0316200611",
+            "isbn13": "9780316200615"
+          },
+          {
+            "isbn10": "1611137152",
+            "isbn13": "9781611137156"
+          },
+          {
+            "isbn10": "0316387746",
+            "isbn13": "9780316387743"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0871404230",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Beard",
+        "primary_isbn13": "9780871404237",
+        "description": "A concise history of ancient Rome.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780871404237.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/SPQR-A-History-Ancient-Rome/dp/0871404230?tag=thenewyorktim-20",
+        "contributor": "by Mary Beard",
+        "title": "SPQR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1631491253",
+            "isbn13": "9781631491252"
+          },
+          {
+            "isbn10": "0871404230",
+            "isbn13": "9780871404237"
+          }
+        ],
+        "publisher": "Liveright"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476728747",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David McCullough",
+        "primary_isbn13": "9781476728742",
+        "description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight.",
+        "book_review_link": "//www.nytimes.com/2015/05/04/books/review-the-wright-brothers-by-david-mccullough.html",
+        "book_image_height": 350,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476728742.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 241,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 24,
+        "amazon_product_url": "http://www.amazon.com/The-Wright-Brothers-David-McCullough-ebook/dp/B00LD1RWP6?tag=thenewyorktim-20",
+        "contributor": "by David McCullough",
+        "title": "THE WRIGHT BROTHERS",
+        "sunday_review_link": "//www.nytimes.com/2015/05/10/books/review/the-wright-brothers-by-david-mccullough.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476728747",
+            "isbn13": "9781476728742"
+          },
+          {
+            "isbn10": "1476728763",
+            "isbn13": "9781476728766"
+          },
+          {
+            "isbn10": "1410478750",
+            "isbn13": "9781410478757"
+          },
+          {
+            "isbn10": "1442376082",
+            "isbn13": "9781442376083"
+          },
+          {
+            "isbn10": "1476728755",
+            "isbn13": "9781476728759"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0812998391",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Lynne Jackson",
+        "primary_isbn13": "9780812998399",
+        "description": "A medium describes the development of her gift, offers accounts of people's reunions with departed loved ones and presents lessons for living.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812998399.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Light-Between-Us-Stories-ebook/dp/B00TNDOYHA?tag=thenewyorktim-20",
+        "contributor": "by Laura Lynne Jackson",
+        "title": "THE LIGHT BETWEEN US",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0812998391",
+            "isbn13": "9780812998399"
+          },
+          {
+            "isbn10": "0812998383",
+            "isbn13": "9780812998382"
+          }
+        ],
+        "publisher": "Spiegel & Grau"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316322423",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Malala Yousafzai with Christina Lamb",
+        "primary_isbn13": "9780316322423",
+        "description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316322409.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 321,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 36,
+        "amazon_product_url": "http://www.amazon.com/Am-Malala-Stood-Education-Taliban/dp/0316322407?tag=thenewyorktim-20",
+        "contributor": "by Malala Yousafzai with Christina Lamb",
+        "title": "I AM MALALA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316322407",
+            "isbn13": "9780316322409"
+          },
+          {
+            "isbn10": "147897978X",
+            "isbn13": "9781478979784"
+          },
+          {
+            "isbn10": "031628663X",
+            "isbn13": "9780316286633"
+          },
+          {
+            "isbn10": "0316322423",
+            "isbn13": "9780316322423"
+          },
+          {
+            "isbn10": "1478902337",
+            "isbn13": "9781478902331"
+          },
+          {
+            "isbn10": "0297870939",
+            "isbn13": "9780297870937"
+          },
+          {
+            "isbn10": "1478983701",
+            "isbn13": "9781478983705"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "055341996X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ted Koppel",
+        "primary_isbn13": "9780553419962",
+        "description": "The journalist describes how a cyberattack on the nation\u2019s power grids could paralyze our infrastructure, warns that government has not planned for the possibility, and visits \u201cpreppers\u201d who are taking their own precautions.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553419979.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Lights-Out-Cyberattack-Unprepared-Surviving-ebook/dp/B00UQERM4C?tag=thenewyorktim-20",
+        "contributor": "by Ted Koppel",
+        "title": "LIGHTS OUT",
+        "sunday_review_link": "//www.nytimes.com/2015/11/22/books/review/lights-out-by-ted-koppel.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "055341996X",
+            "isbn13": "9780553419962"
+          },
+          {
+            "isbn10": "0553419978",
+            "isbn13": "9780553419979"
+          },
+          {
+            "isbn10": "1101888938",
+            "isbn13": "9781101888933"
+          },
+          {
+            "isbn10": "080419484X",
+            "isbn13": "9780804194846"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1101983795",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Drew Barrymore",
+        "primary_isbn13": "9781101983799",
+        "description": "The actress's memoir takes the form of personal essays about her past, including her difficult upbringing and her experience in working with Steven Spielberg on \"E.T.,\" the role that turned her into a child star.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101983805.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Wildflower-Drew-Barrymore-ebook/dp/B00X59360O?tag=thenewyorktim-20",
+        "contributor": "by Drew Barrymore",
+        "title": "WILDFLOWER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1101983795",
+            "isbn13": "9781101983799"
+          },
+          {
+            "isbn10": "014752069X",
+            "isbn13": "9780147520692"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1501137964",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donald J Trump",
+        "primary_isbn13": "9781501137969",
+        "description": "The real estate developer and candidate for the Republican presidential nomination shares his ideas for making America great again.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781501137983.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Crippled-America-Make-Great-Again-ebook/dp/B015ND2B0K?tag=thenewyorktim-20",
+        "contributor": "by Donald J. Trump",
+        "title": "CRIPPLED AMERICA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1501137964",
+            "isbn13": "9781501137969"
+          },
+          {
+            "isbn10": "1501137980",
+            "isbn13": "9781501137983"
+          },
+          {
+            "isbn10": "1508212988",
+            "isbn13": "9781508212980"
+          }
+        ],
+        "publisher": "Threshold Editions"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0143126814",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nathaniel Philbrick",
+        "primary_isbn13": "9780143126812",
+        "description": "The sinking of the New England whaleship Essex in 1820, by a sperm whale. The basis of the movie.",
+        "book_review_link": "//www.nytimes.com/2000/05/24/books/books-of-the-times-no-ahab-but-one-destructive-whale.html",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780141001821.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/In-Heart-Sea-Tragedy-Whaleship/dp/0141001828?tag=thenewyorktim-20",
+        "contributor": "by Nathaniel Philbrick",
+        "title": "IN THE HEART OF THE SEA",
+        "sunday_review_link": "//www.nytimes.com/2000/06/04/books/whaling-away.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0141001828",
+            "isbn13": "9780141001821"
+          },
+          {
+            "isbn10": "0670891576",
+            "isbn13": "9780670891573"
+          },
+          {
+            "isbn10": "1101997761",
+            "isbn13": "9781101997765"
+          },
+          {
+            "isbn10": "0143126814",
+            "isbn13": "9780143126812"
+          },
+          {
+            "isbn10": "1611763576",
+            "isbn13": "9781611763577"
+          },
+          {
+            "isbn10": "1504655796",
+            "isbn13": "9781504655798"
+          }
+        ],
+        "publisher": "Penguin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "006226835X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Amy Poehler",
+        "primary_isbn13": "9780062268358",
+        "description": "A humorous miscellany from the comedian and actress, an \u201cS.N.L.\u201d and \u201cParks and Recreation\u201d alumna.",
+        "book_review_link": "//www.nytimes.com/2014/11/05/books/book-review-amy-poehlers-yes-please.html",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062268341.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Yes-Please-Amy-Poehler/dp/0062268341?tag=thenewyorktim-20",
+        "contributor": "by Amy Poehler",
+        "title": "YES PLEASE",
+        "sunday_review_link": "//www.nytimes.com/2014/12/07/books/review/yes-please-by-amy-poehler.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062268341",
+            "isbn13": "9780062268341"
+          },
+          {
+            "isbn10": "0062268376",
+            "isbn13": "9780062268372"
+          },
+          {
+            "isbn10": "0062350889",
+            "isbn13": "9780062350886"
+          },
+          {
+            "isbn10": "006226835X",
+            "isbn13": "9780062268358"
+          }
+        ],
+        "publisher": "Dey Street/Morrow"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2015-11-28",
+    "previous_published_date": "2015-12-06",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2015-12-20"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,851 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2013-03-17",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9781101609248",
+        "description": "Lt. Eve Dallas must crunch the numbers as she investigates the death of a successful accountant; by Nora Roberts, writing pseudonymously. \u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101609248.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Calculated-Death-J-D-Robb/dp/0425250733?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "CALCULATED IN DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158820",
+            "isbn13": "9780399158827"
+          },
+          {
+            "isbn10": "0425250733",
+            "isbn13": "9780425250730"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1439149704",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9781439149706",
+        "description": "A New Hampshire baker finds herself in the midst of two Holocaust stories: her grandmother\u2019s story of survival, and the confessions of an elderly German man, an SS officer.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439149706.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Storyteller-Jodi-Picoult-ebook/dp/B008J48RA4?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "THE STORYTELLER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102767",
+            "isbn13": "9781439102763"
+          },
+          {
+            "isbn10": "1439149704",
+            "isbn13": "9781439149706"
+          },
+          {
+            "isbn10": "1611736870",
+            "isbn13": "9781611736878"
+          },
+          {
+            "isbn10": "1439102775",
+            "isbn13": "9781439102770"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097527",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson",
+        "primary_isbn13": "9780316097529",
+        "description": "While Alex Cross pursues a Washington serial killer (or killers?), someone is after him.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316097529.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Alex-Cross-Run-James-Patterson-ebook/dp/B0076DCP16?tag=thenewyorktim-20",
+        "contributor": "by James Patterson",
+        "title": "ALEX CROSS, RUN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097519",
+            "isbn13": "9780316097512"
+          },
+          {
+            "isbn10": "0316097527",
+            "isbn13": "9780316097529"
+          },
+          {
+            "isbn10": "1455521507",
+            "isbn13": "9781455521500"
+          },
+          {
+            "isbn10": "0446571849",
+            "isbn13": "9780446571845"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0446574244",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9780446574242",
+        "description": "The arrival of a mysterious young woman in a small North Carolina town raises questions about her past.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455523542.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 14,
+        "amazon_product_url": "http://www.amazon.com/Safe-Haven-Nicholas-Sparks/dp/044654759X?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "SAFE HAVEN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "044654759X",
+            "isbn13": "9780446547598"
+          },
+          {
+            "isbn10": "0446574244",
+            "isbn13": "9780446574242"
+          },
+          {
+            "isbn10": "0446573671",
+            "isbn13": "9780446573672"
+          },
+          {
+            "isbn10": "0446547603",
+            "isbn13": "9780446547604"
+          },
+          {
+            "isbn10": "0446547573",
+            "isbn13": "9780446547574"
+          },
+          {
+            "isbn10": "1455523542",
+            "isbn13": "9781455523542"
+          },
+          {
+            "isbn10": "1455523550",
+            "isbn13": "9781455523559"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 39,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "142996023X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Matthew Quick",
+        "primary_isbn13": "9781429960236",
+        "description": "A man recently released from a mental institution has two obsessions: his estranged wife and the Philadelphia Eagles. The basis of the movie; originally published in 2009.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780374533571.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Silver-Linings-Playbook-Novel-ebook/dp/B001ANSSDC?tag=thenewyorktim-20",
+        "contributor": "by Matthew Quick",
+        "title": "THE SILVER LININGS PLAYBOOK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0374532281",
+            "isbn13": "9780374532284"
+          },
+          {
+            "isbn10": "0374533571",
+            "isbn13": "9780374533571"
+          },
+          {
+            "isbn10": "142996023X",
+            "isbn13": "9781429960236"
+          },
+          {
+            "isbn10": "0330504614",
+            "isbn13": "9780330504614"
+          }
+        ],
+        "publisher": "Farrar, Straus & Giroux"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Maeve Binchy",
+        "primary_isbn13": "9780385350082",
+        "description": "Guests at an inn by the sea on Ireland\u2019s west coast; the final book by Binchy, who died in 2012.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307273574.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 341,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/A-Week-Winter-Maeve-Binchy/dp/0307273571?tag=thenewyorktim-20",
+        "contributor": "by Maeve Binchy",
+        "title": "A WEEK IN WINTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307273571",
+            "isbn13": "9780307273574"
+          },
+          {
+            "isbn10": "1410455513",
+            "isbn13": "9781410455512"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062078127",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lynsay Sands",
+        "primary_isbn13": "9780062078124",
+        "description": "Valerie Moyer doesn\u2019t believe in vampires \u2014 until she is kidnapped by a fanged psychopath.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062078124.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Immortal-Ever-After-Argeneau-Vampire-ebook/dp/B00AV6FD64?tag=thenewyorktim-20",
+        "contributor": "by Lynsay Sands",
+        "title": "IMMORTAL EVER AFTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062078119",
+            "isbn13": "9780062078117"
+          },
+          {
+            "isbn10": "0062078127",
+            "isbn13": "9780062078124"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0547416113",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Yann Martel",
+        "primary_isbn13": "9780547416113",
+        "description": "A teenage boy and a 450-pound tiger on a lifeboat after a shipwreck; originally published in 2002 and now a movie.",
+        "book_review_link": "",
+        "book_image_height": 278,
+        "book_image": "https://s1.nyt.com/du/books/images/9780156027328.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 10,
+        "amazon_product_url": "http://www.amazon.com/Life-Pi-Yann-Martel/dp/0547848412?tag=thenewyorktim-20",
+        "contributor": "by Yann Martel",
+        "title": "LIFE OF PI",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0547848412",
+            "isbn13": "9780547848419"
+          },
+          {
+            "isbn10": "0156027321",
+            "isbn13": "9780156027328"
+          },
+          {
+            "isbn10": "0156030209",
+            "isbn13": "9780156030205"
+          },
+          {
+            "isbn10": "184195392X",
+            "isbn13": "9781841953922"
+          },
+          {
+            "isbn10": "0547416113",
+            "isbn13": "9780547416113"
+          },
+          {
+            "isbn10": "0547350651",
+            "isbn13": "9780547350653"
+          },
+          {
+            "isbn10": "0156035812",
+            "isbn13": "9780156035811"
+          },
+          {
+            "isbn10": "0151008116",
+            "isbn13": "9780151008117"
+          },
+          {
+            "isbn10": "184195425X",
+            "isbn13": "9781841954257"
+          }
+        ],
+        "publisher": "Houghton Mifflin Harcourt"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130293",
+        "description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803481.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 125,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 53,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES OF GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130283",
+            "isbn13": "9781612130286"
+          },
+          {
+            "isbn10": "0345803485",
+            "isbn13": "9780345803481"
+          },
+          {
+            "isbn10": "0099579936",
+            "isbn13": "9780099579939"
+          },
+          {
+            "isbn10": "0385363125",
+            "isbn13": "9780385363129"
+          },
+          {
+            "isbn10": "0385537670",
+            "isbn13": "9780385537674"
+          },
+          {
+            "isbn10": "0345806751",
+            "isbn13": "9780345806758"
+          },
+          {
+            "isbn10": "0804172072",
+            "isbn13": "9780804172073"
+          },
+          {
+            "isbn10": "0345805151",
+            "isbn13": "9780345805157"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0985671955",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elisabeth Naughton",
+        "primary_isbn13": "9780985671952",
+        "description": "As she digs into her past, a woman who has lost her memory in an accident is drawn to a man in San Francisco.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780985671952.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Wait-For-Against-Odds-Book-ebook/dp/B006P3B9MO?tag=thenewyorktim-20",
+        "contributor": "by Elisabeth Naughton",
+        "title": "WAIT FOR ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0985671955",
+            "isbn13": "9780985671952"
+          }
+        ],
+        "publisher": "Elisabeth Naughton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455546348",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sandra Brown",
+        "primary_isbn13": "9781455546343",
+        "description": "An airplane accident and plastic surgery give a woman an astonishing new life; originally published in 1990.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455546343.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 311,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Mirror-Image-Sandra-Brown-ebook/dp/B00BEK6ZC2?tag=thenewyorktim-20",
+        "contributor": "by Sandra Brown",
+        "title": "MIRROR IMAGE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455546348",
+            "isbn13": "9781455546343"
+          },
+          {
+            "isbn10": "0446353957",
+            "isbn13": "9780446353953"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Abbi Glines",
+        "primary_isbn13": "A00B00AOTGI08",
+        "description": "A sheltered 19-year-old girl falls in love with her spoiled, sexy stepbrother.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": null,
+        "contributor": "by Abbi Glines",
+        "title": "FALLEN TOO FAR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Abbi Glines"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Maya Banks",
+        "primary_isbn13": "9781101620366",
+        "description": "Gabe Hamilton, a wealthy hotel owner, and Mia Crestwell, the much younger sister of his best friend, embark on an obsessive relationship.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425267042.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Rush-Breathless-Maya-Banks/dp/0425267040?tag=thenewyorktim-20",
+        "contributor": "by Maya Banks",
+        "title": "RUSH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425267040",
+            "isbn13": "9780425267042"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130615",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130613",
+        "description": "The final book in an erotic trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781612130606.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 13,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 51,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Freed-Three-Trilogy/dp/0345803507?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES FREED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130615",
+            "isbn13": "9781612130613"
+          },
+          {
+            "isbn10": "1612130607",
+            "isbn13": "9781612130606"
+          },
+          {
+            "isbn10": "0345803507",
+            "isbn13": "9780345803504"
+          },
+          {
+            "isbn10": "0385537697",
+            "isbn13": "9780385537698"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Gardner",
+        "primary_isbn13": "9781101611012",
+        "description": "An investigator probing the disappearance of a seemingly perfect Boston family must dig beneath the surface.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525953074.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Touch-Go-Lisa-Gardner/dp/0451465849?tag=thenewyorktim-20",
+        "contributor": "by Lisa Gardner",
+        "title": "TOUCH AND GO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953078",
+            "isbn13": "9780525953074"
+          },
+          {
+            "isbn10": "0451465849",
+            "isbn13": "9780451465849"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130593",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130590",
+        "description": "Daunted by Christian\u2019s dark secrets, Anastasia ends their relationship \u2014 but desire still dominates her every thought.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803498.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Darker-E-James/dp/0345803493?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES DARKER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130593",
+            "isbn13": "9781612130590"
+          },
+          {
+            "isbn10": "1612130585",
+            "isbn13": "9781612130583"
+          },
+          {
+            "isbn10": "0345803493",
+            "isbn13": "9780345803498"
+          },
+          {
+            "isbn10": "1448149460",
+            "isbn13": "9781448149469"
+          },
+          {
+            "isbn10": "0385363133",
+            "isbn13": "9780385363136"
+          },
+          {
+            "isbn10": "0099579928",
+            "isbn13": "9780099579922"
+          },
+          {
+            "isbn10": "0385537689",
+            "isbn13": "9780385537681"
+          },
+          {
+            "isbn10": "0606264485",
+            "isbn13": "9780606264488"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345532619",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lara Adrian",
+        "primary_isbn13": "9780345532619",
+        "description": "Two members of an elite group of Breed warriors struggle with their passion for each other; Book 11 in the Midnight Breed series.",
+        "book_review_link": "",
+        "book_image_height": 187,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345532602.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Edge-Dawn-Midnight-Breed-Novel-ebook/dp/B0092EE4YS?tag=thenewyorktim-20",
+        "contributor": "by Lara Adrian",
+        "title": "EDGE OF DAWN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345532600",
+            "isbn13": "9780345532602"
+          },
+          {
+            "isbn10": "0345532619",
+            "isbn13": "9780345532619"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Mallery",
+        "primary_isbn13": "9781460306390",
+        "description": "Three women on Blackberry Island, bound by the strongest of friendships, are at crucial turning points in their lives.",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9781460306390.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Three-Sisters-Blackberry-Island-Mallery/dp/0778314340?tag=thenewyorktim-20",
+        "contributor": "by Susan Mallery",
+        "title": "THREE SISTERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0778314340",
+            "isbn13": "9780778314349"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Debbie Macomber",
+        "primary_isbn13": "9780345545220",
+        "description": "A hospital volunteer who loves to sing meets a gruff record producer who is a patient; originally published in 1984.",
+        "book_review_link": "",
+        "book_image_height": 171,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345545220.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Heartsong-Novel-Debbie-Macomber-Classics-ebook/dp/B00AP2VTJE?tag=thenewyorktim-20",
+        "contributor": "by Debbie Macomber",
+        "title": "HEARTSONG",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Random House Publishing"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2013-03-02",
+    "previous_published_date": "2013-03-10",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2013-03-24"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

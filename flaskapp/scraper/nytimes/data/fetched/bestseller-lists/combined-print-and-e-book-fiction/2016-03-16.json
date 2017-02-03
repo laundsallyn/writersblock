@@ -1,0 +1,869 @@
+{
+  "num_results": 20,
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "results": {
+    "books": [
+      {
+        "sunday_review_link": "",
+        "contributor": "by Clive Cussler and Justin Scott",
+        "book_review_link": "",
+        "publisher": "Putnam",
+        "isbns": [
+          {
+            "isbn13": "9780399175954",
+            "isbn10": "0399175954"
+          },
+          {
+            "isbn13": "9780698406421",
+            "isbn10": "0698406427"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "In the ninth book in this series, set in 1906, the New York detective Isaac Bell contends with a crime boss passing as a respectable businessman and a tycoon\u2019s plot against President Theodore Roosevelt.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399175954.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780698406421",
+        "contributor_note": "",
+        "rank": 1,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0698406427",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Gangster-Isaac-Bell-Adventure/dp/0399175954?tag=thenewyorktim-20",
+        "title": "THE GANGSTER",
+        "author": "Clive Cussler and Justin Scott"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2013/01/06/books/review/me-before-you-by-jojo-moyes.html",
+        "contributor": "by Jojo Moyes",
+        "book_review_link": "",
+        "publisher": "Penguin",
+        "isbns": [
+          {
+            "isbn13": "9780670026609",
+            "isbn10": "0670026603"
+          },
+          {
+            "isbn13": "9780143124542",
+            "isbn10": "0143124544"
+          },
+          {
+            "isbn13": "9781594137396",
+            "isbn10": "1594137390"
+          },
+          {
+            "isbn13": "9780143109464",
+            "isbn10": "0143109464"
+          },
+          {
+            "isbn13": "9780143130154",
+            "isbn10": "0143130153"
+          }
+        ],
+        "weeks_on_list": 5,
+        "dagger": 0,
+        "description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780143124542.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 1,
+        "primary_isbn13": "9780143124542",
+        "contributor_note": "",
+        "rank": 2,
+        "book_image_width": 326,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0143124544",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Me-Before-You-A-Novel/dp/0143124544?tag=thenewyorktim-20",
+        "title": "ME BEFORE YOU",
+        "author": "Jojo Moyes"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2010/09/19/books/review/Bender-t.html",
+        "contributor": "by Emma Donoghue",
+        "book_review_link": "//www.nytimes.com/2010/09/13/books/13book.html",
+        "publisher": "Little, Brown",
+        "isbns": [
+          {
+            "isbn13": "9780316098335",
+            "isbn10": "0316098337"
+          },
+          {
+            "isbn13": "9780316129114",
+            "isbn10": "0316129119"
+          },
+          {
+            "isbn13": "9780316098328",
+            "isbn10": "0316098329"
+          },
+          {
+            "isbn13": "9780316223232",
+            "isbn10": "0316223239"
+          },
+          {
+            "isbn13": "9780316391344",
+            "isbn10": "0316391344"
+          },
+          {
+            "isbn13": "9780330519021",
+            "isbn10": "0330519026"
+          },
+          {
+            "isbn13": "9780316268356",
+            "isbn10": "0316268356"
+          }
+        ],
+        "weeks_on_list": 11,
+        "dagger": 0,
+        "description": "The entire world of the 5-year-old boy who narrates this novel is the 11-by-11-foot room in which his mother is being held prisoner.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316223232.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780316129114",
+        "contributor_note": "",
+        "rank": 3,
+        "book_image_width": 316,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0316129119",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Room-A-Novel-Emma-Donoghue/dp/0316098329?tag=thenewyorktim-20",
+        "title": "ROOM",
+        "author": "Emma Donoghue"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Kristin Hannah",
+        "book_review_link": "",
+        "publisher": "St. Martin's",
+        "isbns": [
+          {
+            "isbn13": "9780312577223",
+            "isbn10": "0312577222"
+          },
+          {
+            "isbn13": "9781466850606",
+            "isbn10": "1466850604"
+          },
+          {
+            "isbn13": "9781628995015",
+            "isbn10": "1628995017"
+          },
+          {
+            "isbn13": "9781250080400",
+            "isbn10": "1250080401"
+          }
+        ],
+        "weeks_on_list": 45,
+        "dagger": 0,
+        "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466850606.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 5,
+        "primary_isbn13": "9781466850606",
+        "contributor_note": "",
+        "rank": 4,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1466850604",
+        "book_image_height": 195,
+        "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+        "title": "THE NIGHTINGALE",
+        "author": "Kristin Hannah"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Rachel Hauck",
+        "book_review_link": "",
+        "publisher": "Thomas Nelson",
+        "isbns": [
+          {
+            "isbn13": "9781401686314",
+            "isbn10": "1401686311"
+          },
+          {
+            "isbn13": "9781595549631",
+            "isbn10": "1595549633"
+          },
+          {
+            "isbn13": "9780718077952",
+            "isbn10": "0718077954"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "description": "With her own wedding approaching, Charlotte pieces together the history of a vintage gown she finds.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401686314.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 6,
+        "primary_isbn13": "9781401686314",
+        "contributor_note": "",
+        "rank": 5,
+        "book_image_width": 328,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1401686311",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Wedding-Dress-Rachel-Hauck-ebook/dp/B005ENBASO?tag=thenewyorktim-20",
+        "title": "THE WEDDING DRESS",
+        "author": "Rachel Hauck"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2015/02/01/books/review/the-girl-on-the-train-by-paula-hawkins.html",
+        "contributor": "by Paula Hawkins",
+        "book_review_link": "//www.nytimes.com/2015/01/05/books/the-girl-on-the-train-by-paula-hawkins.html",
+        "publisher": "Riverhead",
+        "isbns": [
+          {
+            "isbn13": "9781594633669",
+            "isbn10": "1594633665"
+          },
+          {
+            "isbn13": "9780698185395",
+            "isbn10": "0698185390"
+          },
+          {
+            "isbn13": "9781410477767",
+            "isbn10": "1410477762"
+          },
+          {
+            "isbn13": "9780857522320",
+            "isbn10": "0857522329"
+          },
+          {
+            "isbn13": "9781448171682",
+            "isbn10": "1448171687"
+          },
+          {
+            "isbn13": "9781594634123",
+            "isbn10": "1594634122"
+          },
+          {
+            "isbn13": "9780385682312",
+            "isbn10": "038568231X"
+          },
+          {
+            "isbn13": "9781594634024",
+            "isbn10": "1594634025"
+          }
+        ],
+        "weeks_on_list": 57,
+        "dagger": 0,
+        "description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594633669.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 8,
+        "primary_isbn13": "9781594633669",
+        "contributor_note": "",
+        "rank": 6,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1594633665",
+        "book_image_height": 193,
+        "amazon_product_url": "http://www.amazon.com/The-Girl-Train-A-Novel-ebook/dp/B00L9B7IKE?tag=thenewyorktim-20",
+        "title": "THE GIRL ON THE TRAIN",
+        "author": "Paula Hawkins"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Lisa Scottoline",
+        "book_review_link": "",
+        "publisher": "St. Martin's",
+        "isbns": [
+          {
+            "isbn13": "9781250010094",
+            "isbn10": "1250010098"
+          },
+          {
+            "isbn13": "9781466842045",
+            "isbn10": "1466842040"
+          },
+          {
+            "isbn13": "9781250010100",
+            "isbn10": "1250010101"
+          }
+        ],
+        "weeks_on_list": 2,
+        "dagger": 0,
+        "description": "A father hides a terrible secret to protect his son.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250010094.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781466842045",
+        "contributor_note": "",
+        "rank": 7,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1466842040",
+        "book_image_height": 195,
+        "amazon_product_url": "http://www.amazon.com/Keep-Quiet-Lisa-Scottoline-ebook/dp/B00FIL9BCE?tag=thenewyorktim-20",
+        "title": "KEEP QUIET",
+        "author": "Lisa Scottoline"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Kathleen Grissom",
+        "book_review_link": "",
+        "publisher": "Touchstone",
+        "isbns": [
+          {
+            "isbn13": "9781439153666",
+            "isbn10": "1439153663"
+          },
+          {
+            "isbn13": "9781410444622",
+            "isbn10": "1410444627"
+          },
+          {
+            "isbn13": "9781439160121",
+            "isbn10": "1439160120"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "An Irish orphan is integrated into a slave family on a Virginia plantation.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439153666.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781439160121",
+        "contributor_note": "",
+        "rank": 8,
+        "book_image_width": 185,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1439160120",
+        "book_image_height": 277,
+        "amazon_product_url": "http://www.amazon.com/The-Kitchen-House-A-Novel/dp/1439153663?tag=thenewyorktim-20",
+        "title": "THE KITCHEN HOUSE",
+        "author": "Kathleen Grissom"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor": "by Anthony Doerr",
+        "book_review_link": "",
+        "publisher": "Scribner",
+        "isbns": [
+          {
+            "isbn13": "9781476746586",
+            "isbn10": "1476746583"
+          },
+          {
+            "isbn13": "9781410470225",
+            "isbn10": "1410470229"
+          },
+          {
+            "isbn13": "9781476746593",
+            "isbn10": "1476746591"
+          },
+          {
+            "isbn13": "9781501122835",
+            "isbn10": "1501122835"
+          },
+          {
+            "isbn13": "9780007548699",
+            "isbn10": "0007548699"
+          }
+        ],
+        "weeks_on_list": 75,
+        "dagger": 0,
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 14,
+        "primary_isbn13": "9781476746586",
+        "contributor_note": "",
+        "rank": 9,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1476746583",
+        "book_image_height": 192,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "author": "Anthony Doerr"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Nora Roberts",
+        "book_review_link": "",
+        "publisher": "Putnam",
+        "isbns": [
+          {
+            "isbn13": "9780399170867",
+            "isbn10": "0399170863"
+          },
+          {
+            "isbn13": "9780399175862",
+            "isbn10": "0399175865"
+          },
+          {
+            "isbn13": "9781101989753",
+            "isbn10": "1101989750"
+          },
+          {
+            "isbn13": "9780425279151",
+            "isbn10": "0425279154"
+          }
+        ],
+        "weeks_on_list": 7,
+        "dagger": 0,
+        "description": "A woman returning to her hometown discovers that her husband was a fraud who implicated her in his deceptions.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698161351.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781101989753",
+        "contributor_note": "",
+        "rank": 10,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1101989750",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Liar-Nora-Roberts-ebook/dp/B00O2BKKZS?tag=thenewyorktim-20",
+        "title": "THE LIAR",
+        "author": "Nora Roberts"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Lisa Gardner",
+        "book_review_link": "",
+        "publisher": "Dutton",
+        "isbns": [
+          {
+            "isbn13": "9780525954576",
+            "isbn10": "0525954570"
+          },
+          {
+            "isbn13": "9780698404229",
+            "isbn10": "069840422X"
+          }
+        ],
+        "weeks_on_list": 4,
+        "dagger": 0,
+        "description": "The detective D. \u2009D. Warren hunts for a missing woman who was kidnapped and abused as a student and may have become a vigilante.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525954576.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 13,
+        "primary_isbn13": "9780698404229",
+        "contributor_note": "",
+        "rank": 11,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "069840422X",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Find-Her-Lisa-Gardner/dp/0525954570?tag=thenewyorktim-20",
+        "title": "FIND HER",
+        "author": "Lisa Gardner"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by David Baldacci",
+        "book_review_link": "",
+        "publisher": "Grand Central",
+        "isbns": [
+          {
+            "isbn13": "9781455559824",
+            "isbn10": "1455559822"
+          },
+          {
+            "isbn13": "9781455589487",
+            "isbn10": "1455589489"
+          },
+          {
+            "isbn13": "9781455586387",
+            "isbn10": "1455586382"
+          },
+          {
+            "isbn13": "9781455559817",
+            "isbn10": "1455559814"
+          },
+          {
+            "isbn13": "9781455559800",
+            "isbn10": "1455559806"
+          }
+        ],
+        "weeks_on_list": 10,
+        "dagger": 0,
+        "description": "A police detective who left the force when his family was murdered teams up with his former partner to solve the case.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455586387.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781455559800",
+        "contributor_note": "",
+        "rank": 12,
+        "book_image_width": 337,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1455559806",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Memory-Amos-Decker-David-Baldacci-ebook/dp/B00N7TDP8K?tag=thenewyorktim-20",
+        "title": "MEMORY MAN",
+        "author": "David Baldacci"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Michael Punke",
+        "book_review_link": "",
+        "publisher": "Picador",
+        "isbns": [
+          {
+            "isbn13": "9781250101198",
+            "isbn10": "1250101190"
+          },
+          {
+            "isbn13": "9781250072689",
+            "isbn10": "1250072689"
+          },
+          {
+            "isbn13": "9781250066633",
+            "isbn10": "1250066638"
+          },
+          {
+            "isbn13": "9781250066626",
+            "isbn10": "125006662X"
+          }
+        ],
+        "weeks_on_list": 8,
+        "dagger": 0,
+        "description": "Left for dead after a mauling, a master tracker is consumed by a singular desire for revenge; an inspiration for the 2015 film.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250101198.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781250072689",
+        "contributor_note": "",
+        "rank": 13,
+        "book_image_width": 334,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1250072689",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Revenant-A-Novel-Revenge/dp/1250101190?tag=thenewyorktim-20",
+        "title": "THE REVENANT",
+        "author": "Michael Punke"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Andy Weir",
+        "book_review_link": "",
+        "publisher": "Crown",
+        "isbns": [
+          {
+            "isbn13": "9780804139021",
+            "isbn10": "0804139024"
+          },
+          {
+            "isbn13": "9780553418026",
+            "isbn10": "0553418025"
+          },
+          {
+            "isbn13": "9780091956141",
+            "isbn10": "0091956145"
+          },
+          {
+            "isbn13": "9781594138546",
+            "isbn10": "1594138540"
+          },
+          {
+            "isbn13": "9781101903582",
+            "isbn10": "1101903589"
+          },
+          {
+            "isbn13": "9781101905005",
+            "isbn10": "110190500X"
+          }
+        ],
+        "weeks_on_list": 40,
+        "dagger": 0,
+        "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804139038.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780553418026",
+        "contributor_note": "",
+        "rank": 14,
+        "book_image_width": 128,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0553418025",
+        "book_image_height": 194,
+        "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20",
+        "title": "THE MARTIAN",
+        "author": "Andy Weir"
+      },
+      {
+        "sunday_review_link": "//www.nytimes.com/2009/05/03/books/review/Schillinger-t.html",
+        "contributor": "by Colm Toibin",
+        "book_review_link": "",
+        "publisher": "Scribner",
+        "isbns": [
+          {
+            "isbn13": "9781439148952",
+            "isbn10": "1439148953"
+          },
+          {
+            "isbn13": "9781501106477",
+            "isbn10": "1501106473"
+          },
+          {
+            "isbn13": "9781439149829",
+            "isbn10": "1439149828"
+          },
+          {
+            "isbn13": "9781439138311",
+            "isbn10": "1439138311"
+          }
+        ],
+        "weeks_on_list": 1,
+        "dagger": 0,
+        "description": "An unsophisticated young Irishwoman leaves her home for New York in the 1950s. The basis of the movie.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439138311.jpg",
+        "first_chapter_link": "//www.nytimes.com/2009/05/03/books/chapter-brooklyn.html",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781501106477",
+        "contributor_note": "",
+        "rank": 15,
+        "book_image_width": 140,
+        "age_group": "",
+        "article_chapter_link": "//www.nytimes.com/2009/05/03/magazine/03toibin-t.html",
+        "primary_isbn10": "1501106473",
+        "book_image_height": 211,
+        "amazon_product_url": "http://www.amazon.com/Brooklyn-A-Novel-Colm-Toibin/dp/1439138311?tag=thenewyorktim-20",
+        "title": "BROOKLYN",
+        "author": "Colm Toibin"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Fiona Barton",
+        "book_review_link": "",
+        "publisher": "New American Library",
+        "isbns": [
+          {
+            "isbn13": "9781101990261",
+            "isbn10": "1101990260"
+          },
+          {
+            "isbn13": "9781101990469",
+            "isbn10": "1101990465"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "When a suspect in a missing-child case dies, reporters and the police wrongly think they\u2019ll get the real story from his widow.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101990469.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781101990469",
+        "contributor_note": "",
+        "rank": 16,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1101990465",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Widow-Fiona-Barton-ebook/dp/B00Z8VT8AE?tag=thenewyorktim-20",
+        "title": "THE WIDOW",
+        "author": "Fiona Barton"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Christina Lauren",
+        "book_review_link": "",
+        "publisher": "Gallery",
+        "isbns": [
+          {
+            "isbn13": "9781501131226",
+            "isbn10": "1501131222"
+          },
+          {
+            "isbn13": "9781501146220",
+            "isbn10": "150114622X"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "Will Sumner and Hanna Bergstrom find that a wedding and everlasting love were just the beginning.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781501131226.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781501131226",
+        "contributor_note": "",
+        "rank": 17,
+        "book_image_width": 321,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1501131222",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Beautiful-Boss-The-Series-Book-ebook/dp/B010MH19GO?tag=thenewyorktim-20",
+        "title": "BEAUTIFUL BOSS",
+        "author": "Christina Lauren"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Debbie Macomber",
+        "book_review_link": "",
+        "publisher": "Ballantine",
+        "isbns": [
+          {
+            "isbn13": "9780553391923",
+            "isbn10": "0553391925"
+          },
+          {
+            "isbn13": "9780553391930",
+            "isbn10": "0553391933"
+          },
+          {
+            "isbn13": "9780399566820",
+            "isbn10": "0399566821"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "A mother and her daughter-in-law both leave unhappy marriages and take up with new men.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553391930.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780553391923",
+        "contributor_note": "",
+        "rank": 18,
+        "book_image_width": 329,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0553391925",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Girls-Guide-Moving-On-Novel-ebook/dp/B00ZNE17B4?tag=thenewyorktim-20",
+        "title": "A GIRL'S GUIDE TO MOVING ON",
+        "author": "Debbie Macomber"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Jeffrey Archer",
+        "book_review_link": "",
+        "publisher": "St. Martin's",
+        "isbns": [
+          {
+            "isbn13": "9781250061621",
+            "isbn10": "1250061628"
+          },
+          {
+            "isbn13": "9781466867505",
+            "isbn10": "1466867507"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "The sixth and penultimate book of the Clifton Chronicles brings the Cliftons and the Barringtons into the 1970s.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466867505.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9781466867505",
+        "contributor_note": "",
+        "rank": 19,
+        "book_image_width": 330,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "1466867507",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/Cometh-Hour-Novel-Clifton-Chronicles-ebook/dp/B00YWZU0MC?tag=thenewyorktim-20",
+        "title": "COMETH THE HOUR",
+        "author": "Jeffrey Archer"
+      },
+      {
+        "sunday_review_link": "",
+        "contributor": "by Steve Martini",
+        "book_review_link": "",
+        "publisher": "Morrow",
+        "isbns": [
+          {
+            "isbn13": "9780062328946",
+            "isbn10": "0062328948"
+          },
+          {
+            "isbn13": "9780062328939",
+            "isbn10": "006232893X"
+          },
+          {
+            "isbn13": "9780062328953",
+            "isbn10": "0062328956"
+          }
+        ],
+        "weeks_on_list": 0,
+        "dagger": 0,
+        "description": "Defending an innocent young man, the defense attorney Paul Madriani uncovers a morass of corruption and greed that leads to the highest levels of political power.",
+        "price": 0,
+        "asterisk": 0,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062328946.jpg",
+        "first_chapter_link": "",
+        "rank_last_week": 0,
+        "primary_isbn13": "9780062328946",
+        "contributor_note": "",
+        "rank": 20,
+        "book_image_width": 331,
+        "age_group": "",
+        "article_chapter_link": "",
+        "primary_isbn10": "0062328948",
+        "book_image_height": 500,
+        "amazon_product_url": "http://www.amazon.com/The-Enemy-Inside-Madriani-Novels-ebook/dp/B00MTSC7LG?tag=thenewyorktim-20",
+        "title": "THE ENEMY INSIDE",
+        "author": "Steve Martini"
+      }
+    ],
+    "list_name": "Combined Print and E-Book Fiction",
+    "updated": "WEEKLY",
+    "corrections": [],
+    "published_date_description": "",
+    "normal_list_ends_at": 15,
+    "previous_published_date": "2016-03-13",
+    "published_date": "2016-03-20",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "bestsellers_date": "2016-03-05",
+    "next_published_date": "2016-03-27",
+    "display_name": "Combined Print & E-Book Fiction"
+  },
+  "status": "OK"
+}

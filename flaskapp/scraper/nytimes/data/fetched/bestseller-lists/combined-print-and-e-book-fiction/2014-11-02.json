@@ -1,0 +1,863 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2014-11-02",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 99,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345544935",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9780345544933",
+        "description": "After searching for her mother, who has disappeared, for more than 10 years, a woman employs a psychic and a detective.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345544933.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Leaving-Time-Novel-Jodi-Picoult-ebook/dp/B00HXYKYIE?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "LEAVING TIME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345544927",
+            "isbn13": "9780345544926"
+          },
+          {
+            "isbn10": "0345544935",
+            "isbn13": "9780345544933"
+          },
+          {
+            "isbn10": "1410463737",
+            "isbn13": "9781410463739"
+          },
+          {
+            "isbn10": "0345544943",
+            "isbn13": "9780345544940"
+          },
+          {
+            "isbn10": "1594138761",
+            "isbn13": "9781594138768"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nicholas Sparks",
+        "primary_isbn13": "9781455502547",
+        "description": "Twenty-five years after their high school romance ended, two classmates return to their North Carolina town for a funeral.",
+        "book_review_link": "",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446547642.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 185,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/The-Best-Me-Nicholas-Sparks/dp/0446547646?tag=thenewyorktim-20",
+        "contributor": "by Nicholas Sparks",
+        "title": "THE BEST OF ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446547654",
+            "isbn13": "9780446547659"
+          },
+          {
+            "isbn10": "0446547646",
+            "isbn13": "9780446547642"
+          },
+          {
+            "isbn10": "1455504106",
+            "isbn13": "9781455504107"
+          },
+          {
+            "isbn10": "0446547638",
+            "isbn13": "9780446547635"
+          },
+          {
+            "isbn10": "1455556556",
+            "isbn13": "9781455556557"
+          },
+          {
+            "isbn10": "1455556564",
+            "isbn13": "9781455556564"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9781101597767",
+        "description": "Dognappers and a murdered reporter draw the attention of the Minnesota investigator Virgil Flowers.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101597767.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Deadline-Virgil-Flowers-Novel-Book-ebook/dp/B00INIQTY2?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "DEADLINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399162372",
+            "isbn13": "9780399162374"
+          },
+          {
+            "isbn10": "0425275183",
+            "isbn13": "9780425275184"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316211028",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316211024",
+        "description": "Detective Michael Bennett, back in New York City, investigates a peculiar crime in Harlem.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316211024.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Burn-Michael-Bennett-James-Patterson/dp/0316211044?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "BURN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316211044",
+            "isbn13": "9780316211048"
+          },
+          {
+            "isbn10": "0316410632",
+            "isbn13": "9780316410632"
+          },
+          {
+            "isbn10": "0316211028",
+            "isbn13": "9780316211024"
+          },
+          {
+            "isbn10": "1455515876",
+            "isbn13": "9781455515875"
+          },
+          {
+            "isbn10": "1455515868",
+            "isbn13": "9781455515868"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1942215037",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Penelope Ward",
+        "primary_isbn13": "9781942215035",
+        "description": "A bond, and an attraction, between two stepsiblings.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781942215035.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Stepbrother-Dearest-Penelope-Ward-ebook/dp/B00NVY6JPC?tag=thenewyorktim-20",
+        "contributor": "by Penelope Ward",
+        "title": "STEPBROTHER DEAREST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1942215037",
+            "isbn13": "9781942215035"
+          },
+          {
+            "isbn10": "1942215045",
+            "isbn13": "9781942215042"
+          }
+        ],
+        "publisher": "Penelope Ward"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307459926",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307459923",
+        "description": "A woman who, as a child, was spared when her mother and sisters were murdered begins to reinvestigate the case against her imprisoned brother.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307341570.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 305,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Dark-Places-Novel-Gillian-Flynn/dp/0307341577?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "DARK PLACES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307459926",
+            "isbn13": "9780307459923"
+          },
+          {
+            "isbn10": "0307341577",
+            "isbn13": "9780307341570"
+          },
+          {
+            "isbn10": "1101902884",
+            "isbn13": "9781101902882"
+          },
+          {
+            "isbn10": "0553418483",
+            "isbn13": "9780553418484"
+          }
+        ],
+        "publisher": "Broadway"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0698160576",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ken Follett",
+        "primary_isbn13": "9780698160576",
+        "description": "Five interrelated families grapple with the events of the 1960s through the 1980s; Book 3 of the Century Trilogy.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525953098.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Edge-Eternity-Three-Century-Trilogy/dp/0525953094?tag=thenewyorktim-20",
+        "contributor": "by Ken Follett",
+        "title": "EDGE OF ETERNITY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953094",
+            "isbn13": "9780525953098"
+          },
+          {
+            "isbn10": "0698160576",
+            "isbn13": "9780698160576"
+          },
+          {
+            "isbn10": "1410475468",
+            "isbn13": "9781410475466"
+          },
+          {
+            "isbn10": "0451474015",
+            "isbn13": "9780451474018"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anthony Doerr",
+        "primary_isbn13": "9781476746609",
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "contributor": "by Anthony Doerr",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0804178763",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780804178761",
+        "description": "Jack Reacher, a former military cop, helps the State Department and the C.I.A. stop a sniper who has targeted a G8 summit.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804178747.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 7,
+        "amazon_product_url": "http://www.amazon.com/Personal-Jack-Reacher-Lee-Child/dp/0804178747?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "PERSONAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804178747",
+            "isbn13": "9780804178747"
+          },
+          {
+            "isbn10": "0804178763",
+            "isbn13": "9780804178761"
+          },
+          {
+            "isbn10": "1473508770",
+            "isbn13": "9781473508774"
+          },
+          {
+            "isbn10": "0804178755",
+            "isbn13": "9780804178754"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0440335167",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Diana Gabaldon",
+        "primary_isbn13": "9780440335160",
+        "description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440212560.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 304,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/Outlander-Diana-Gabaldon/dp/0440212561?tag=thenewyorktim-20",
+        "contributor": "by Diana Gabaldon",
+        "title": "OUTLANDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0440335167",
+            "isbn13": "9780440335160"
+          },
+          {
+            "isbn10": "0440212561",
+            "isbn13": "9780440212560"
+          },
+          {
+            "isbn10": "0385319959",
+            "isbn13": "9780385319959"
+          },
+          {
+            "isbn10": "0553393693",
+            "isbn13": "9780553393699"
+          },
+          {
+            "isbn10": "0553393707",
+            "isbn13": "9780553393705"
+          },
+          {
+            "isbn10": "0440423201",
+            "isbn13": "9780440423201"
+          },
+          {
+            "isbn10": "0385302304",
+            "isbn13": "9780385302302"
+          }
+        ],
+        "publisher": "Dell"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bella Andre",
+        "primary_isbn13": "9781938127540",
+        "description": "A guarded woman with a 10-month-old son tries to resist her attraction to a handsome boat builder.",
+        "book_review_link": "",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9781938127540.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Love-How-You-Me-Sullivans-ebook/dp/B00O3V6KMO?tag=thenewyorktim-20",
+        "contributor": "by Bella Andre",
+        "title": "I LOVE HOW YOU LOVE ME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Bella Andre"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307351483",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307351487",
+        "description": "Fresh from a stay at a psychiatric hospital, a newspaper reporter returns (reluctantly) to her hometown to cover the murders of two girls.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307341556.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Sharp-Objects-Novel-Gillian-Flynn/dp/0307341550?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "SHARP OBJECTS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307341550",
+            "isbn13": "9780307341556"
+          },
+          {
+            "isbn10": "0307351483",
+            "isbn13": "9780307351487"
+          },
+          {
+            "isbn10": "1101902876",
+            "isbn13": "9781101902875"
+          }
+        ],
+        "publisher": "Broadway"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0698138635",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9780698138636",
+        "description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+        "book_review_link": "//www.nytimes.com/2014/07/25/books/in-big-little-lies-liane-moriarty-finds-new-complications.html",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698138636.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 11,
+        "amazon_product_url": "http://www.amazon.com/Big-Little-Lies-Liane-Moriarty-ebook/dp/B00HDMMISA?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "BIG LITTLE LIES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399167064",
+            "isbn13": "9780399167065"
+          },
+          {
+            "isbn10": "0698138635",
+            "isbn13": "9780698138636"
+          },
+          {
+            "isbn10": "1410472035",
+            "isbn13": "9781410472038"
+          },
+          {
+            "isbn10": "0425274861",
+            "isbn13": "9780425274866"
+          },
+          {
+            "isbn10": "1594139067",
+            "isbn13": "9781594139062"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christina Baker Kline",
+        "primary_isbn13": "9780062101204",
+        "description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062101204.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 332,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 35,
+        "amazon_product_url": "http://www.amazon.com/Orphan-Train-Christina-Baker-Kline-ebook/dp/B0089LOG02?tag=thenewyorktim-20",
+        "contributor": "by Christina Baker Kline",
+        "title": "ORPHAN TRAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061950726",
+            "isbn13": "9780061950728"
+          },
+          {
+            "isbn10": "1594137374",
+            "isbn13": "9781594137372"
+          },
+          {
+            "isbn10": "0606356649",
+            "isbn13": "9780606356640"
+          },
+          {
+            "isbn10": "006195070X",
+            "isbn13": "9780061950704"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780698154117",
+        "description": "In the 31st Stone Barrington novel, the attorney manages the presidential campaign of a pregnant friend and contends with a former enemy in Paris.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698154117.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Paris-Match-Stone-Barrington-Stuart/dp/0399169121?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "PARIS MATCH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399169121",
+            "isbn13": "9780399169120"
+          },
+          {
+            "isbn10": "1410471306",
+            "isbn13": "9781410471307"
+          },
+          {
+            "isbn10": "0451473078",
+            "isbn13": "9780451473073"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Elin Hilderbrand",
+        "primary_isbn13": "9780316376099",
+        "description": "A dysfunctional family gathers for the holidays, and it might be up to one member to save the day in the midst of chaos and drama.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316376099.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Winter-Street-Elin-Hilderbrand/dp/0316376116?tag=thenewyorktim-20",
+        "contributor": "by Elin Hilderbrand",
+        "title": "WINTER STREET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316376116",
+            "isbn13": "9780316376112"
+          },
+          {
+            "isbn10": "0316410667",
+            "isbn13": "9780316410663"
+          },
+          {
+            "isbn10": "0316376108",
+            "isbn13": "9780316376105"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jill Shalvis",
+        "primary_isbn13": "9781455529537",
+        "description": "",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455529537.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/One-Million-Lucky-Harbor-Book-ebook/dp/B00I829QCU?tag=thenewyorktim-20",
+        "contributor": "by Jill Shalvis",
+        "title": "ONE IN A MILLION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455529540",
+            "isbn13": "9781455529544"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Kelley R Martin",
+        "primary_isbn13": "A00B00O13WW1W",
+        "description": "Savannah gets more than she bargained for when she accepts a much-needed job from Declan Whitmore, a gym owner and underground fighter.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": null,
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": null,
+        "contributor": "by Kelley R. Martin",
+        "title": "DOWN AND OUT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Kelley R. Martin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0440335183",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Diana Gabaldon",
+        "primary_isbn13": "9780440335184",
+        "description": "Volume 2 of the Outlander series, about an 18th-century Scottish warrior and a time-traveling World War II-era nurse; first published in 1992.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440335184.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 314,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Dragonfly-Amber-Outlander-Book-2-ebook/dp/B000FC2L28?tag=thenewyorktim-20",
+        "contributor": "by Diana Gabaldon",
+        "title": "DRAGONFLY IN AMBER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0440215625",
+            "isbn13": "9780440215622"
+          },
+          {
+            "isbn10": "0440335183",
+            "isbn13": "9780440335184"
+          },
+          {
+            "isbn10": "0385335970",
+            "isbn13": "9780385335973"
+          }
+        ],
+        "publisher": "Dell"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2014-10-18",
+    "previous_published_date": "2014-10-26",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2014-11-09"
+  },
+  "status": "OK",
+  "num_results": 20,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

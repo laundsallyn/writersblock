@@ -1,0 +1,808 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2014-06-01",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "031621129X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "primary_isbn13": "9780316211291",
+        "description": "Detective Lindsay Boxer and the Women\u2019s Murder Club track a killer who was presumed dead.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316211291.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Unlucky-13-Womens-Murder-Club/dp/031621129X?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "title": "UNLUCKY 13",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031621129X",
+            "isbn13": "9780316211291"
+          },
+          {
+            "isbn10": "0316211281",
+            "isbn13": "9780316211284"
+          },
+          {
+            "isbn10": "0316211273",
+            "isbn13": "9780316211277"
+          },
+          {
+            "isbn10": "1455516007",
+            "isbn13": "9781455516001"
+          },
+          {
+            "isbn10": "145551599X",
+            "isbn13": "9781455515998"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316055433",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316055437",
+        "description": "\u00a0A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 30,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399162380",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Sandford",
+        "primary_isbn13": "9780399162381",
+        "description": "Lucas Davenport investigates when multiple bodies are found in the middle of the Minnesota cornfields.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101597781.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Field-Prey-John-Sandford-ebook/dp/B00FX7UL72?tag=thenewyorktim-20",
+        "contributor": "by John Sandford",
+        "title": "FIELD OF PREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399162380",
+            "isbn13": "9780399162381"
+          },
+          {
+            "isbn10": "141046668X",
+            "isbn13": "9781410466686"
+          },
+          {
+            "isbn10": "0425275116",
+            "isbn13": "9780425275115"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455521205",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9781455521203",
+        "description": "The government hit man Will Robie faces a new adversary.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455521234.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Target-Will-Robie-David-Baldacci-ebook/dp/B00EHMFC78?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "THE TARGET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455521205",
+            "isbn13": "9781455521203"
+          },
+          {
+            "isbn10": "1455581984",
+            "isbn13": "9781455581986"
+          },
+          {
+            "isbn10": "145552123X",
+            "isbn13": "9781455521234"
+          },
+          {
+            "isbn10": "1455521183",
+            "isbn13": "9781455521180"
+          },
+          {
+            "isbn10": "1455521264",
+            "isbn13": "9781455521265"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062311077",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Greg Iles",
+        "primary_isbn13": "9780062311078",
+        "description": "Penn Cage, a former prosecutor in Natchez, Miss., aids his father, a doctor who has been accused of murder.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062311078.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 341,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Natchez-Burning-Novel-Penn-Cage/dp/0062311077?tag=thenewyorktim-20",
+        "contributor": "by Greg Iles",
+        "title": "NATCHEZ BURNING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062311077",
+            "isbn13": "9780062311078"
+          },
+          {
+            "isbn10": "0062311107",
+            "isbn13": "9780062311108"
+          },
+          {
+            "isbn10": "0062326392",
+            "isbn13": "9780062326393"
+          },
+          {
+            "isbn10": "0062311093",
+            "isbn13": "9780062311092"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670026468",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Craig Johnson",
+        "primary_isbn13": "9780670026463",
+        "description": "Sheriff Walt Longmire explores a detective\u2019s mysterious death. The 11th book in the Longmire series, the basis of the A&E show.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698163539.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Any-Other-Name-Longmire-Mystery-ebook/dp/B00G3L7U0S?tag=thenewyorktim-20",
+        "contributor": "by Craig Johnson",
+        "title": "ANY OTHER NAME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670026468",
+            "isbn13": "9780670026463"
+          },
+          {
+            "isbn10": "0698163532",
+            "isbn13": "9780698163539"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385351372",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jo Nesbo",
+        "primary_isbn13": "9780385351379",
+        "description": "A drug-addicted prisoner learns a secret about his father, a corrupt cop who committed suicide, that inspires him to escape.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385351379.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Son-novel-Jo-Nesbo-ebook/dp/B00GVZV818?tag=thenewyorktim-20",
+        "contributor": "by Jo Nesbo",
+        "title": "THE SON",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455517135",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Jeffery Deaver",
+        "primary_isbn13": "9781455517138",
+        "description": "The forensic detective Lincoln Rhyme hunts for a killer who tattoos messages on his victims\u2019 flesh.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455517114.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Skin-Collector-Lincoln-Rhyme/dp/1455517135?tag=thenewyorktim-20",
+        "contributor": "by Jeffery Deaver",
+        "title": "THE SKIN COLLECTOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455517135",
+            "isbn13": "9781455517138"
+          },
+          {
+            "isbn10": "1455559393",
+            "isbn13": "9781455559398"
+          },
+          {
+            "isbn10": "1455517119",
+            "isbn13": "9781455517114"
+          },
+          {
+            "isbn10": "1455582174",
+            "isbn13": "9781455582174"
+          },
+          {
+            "isbn10": "1455517100",
+            "isbn13": "9781455517107"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451628315",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Richard Paul Evans",
+        "primary_isbn13": "9781451628319",
+        "description": "In the fifth and final book of the \u201cWalk\u201d series, Alan reaches Key West.",
+        "book_review_link": "",
+        "book_image_height": 300,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451628319.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 190,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Walking-Water-Novel-The-Walk-ebook/dp/B00DPM808Y?tag=thenewyorktim-20",
+        "contributor": "by Richard Paul Evans",
+        "title": "WALKING ON WATER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451628315",
+            "isbn13": "9781451628319"
+          },
+          {
+            "isbn10": "1451628358",
+            "isbn13": "9781451628357"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062135252",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Rollins and Grant Blackwood",
+        "primary_isbn13": "9780062135254",
+        "description": "In the first book of a new series, Capt. Tucker Wayne and his military dog, Kane, investigate a deadly biological threat.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062135285.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Kill-Switch-Tucker-Novels-ebook/dp/B00DB30N3M?tag=thenewyorktim-20",
+        "contributor": "by James Rollins and Grant Blackwood",
+        "title": "THE KILL SWITCH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062135252",
+            "isbn13": "9780062135254"
+          },
+          {
+            "isbn10": "0062135287",
+            "isbn13": "9780062135285"
+          },
+          {
+            "isbn10": "0062135260",
+            "isbn13": "9780062135261"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0765317699",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Douglas Preston",
+        "primary_isbn13": "9780765317698",
+        "description": "The former C.I.A. agent Wyman Ford must stop Dorothy, a powerful artificial intelligence that has gone rogue.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765317698.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Kraken-Project-Wyman-Ford-Series-ebook/dp/B00GVQZR3C?tag=thenewyorktim-20",
+        "contributor": "by Douglas Preston",
+        "title": "THE KRAKEN PROJECT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765317699",
+            "isbn13": "9780765317698"
+          },
+          {
+            "isbn10": "1466854553",
+            "isbn13": "9781466854550"
+          }
+        ],
+        "publisher": "Forge"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670024783",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Monk Kidd",
+        "primary_isbn13": "9780670024780",
+        "description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670024780.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 19,
+        "amazon_product_url": "http://www.amazon.com/The-Invention-Wings-A-Novel/dp/0670024783?tag=thenewyorktim-20",
+        "contributor": "by Sue Monk Kidd",
+        "title": "THE INVENTION OF WINGS",
+        "sunday_review_link": "//www.nytimes.com/2014/01/26/books/review/the-invention-of-wings-by-sue-monk-kidd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670024783",
+            "isbn13": "9780670024780"
+          },
+          {
+            "isbn10": "1410465322",
+            "isbn13": "9781410465320"
+          },
+          {
+            "isbn10": "0143121707",
+            "isbn13": "9780143121701"
+          },
+          {
+            "isbn10": "1594138869",
+            "isbn13": "9781594138867"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0871407868",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Larry McMurtry",
+        "primary_isbn13": "9780871407863",
+        "description": "The friendship of Wyatt Earp and Doc Holliday illuminates the closing of the American frontier.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780871407863.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 15,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/The-Last-Kind-Words-Saloon/dp/0871407868?tag=thenewyorktim-20",
+        "contributor": "by Larry McMurtry",
+        "title": "THE LAST KIND WORDS SALOON",
+        "sunday_review_link": "//www.nytimes.com/2014/06/29/books/review/larry-mcmurtrys-last-kind-words-saloon.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0871407868",
+            "isbn13": "9780871407863"
+          },
+          {
+            "isbn10": "039335119X",
+            "isbn13": "9780393351194"
+          }
+        ],
+        "publisher": "Liveright"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385351852",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Maeve Binchy",
+        "primary_isbn13": "9780385351850",
+        "description": "Binchy, who died in 2012, depicts ordinary lives in Dublin.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 189,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385351867.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Chestnut-Street-Maeve-Binchy-ebook/dp/B00G8EKYFS?tag=thenewyorktim-20",
+        "contributor": "by Maeve Binchy",
+        "title": "CHESTNUT STREET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385351852",
+            "isbn13": "9780385351850"
+          },
+          {
+            "isbn10": "1410466795",
+            "isbn13": "9781410466792"
+          },
+          {
+            "isbn10": "0804170088",
+            "isbn13": "9780804170086"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1476746583",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anthony Doerr",
+        "primary_isbn13": "9781476746586",
+        "description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476746586.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583?tag=thenewyorktim-20",
+        "contributor": "by Anthony Doerr",
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "sunday_review_link": "//www.nytimes.com/2014/05/11/books/review/all-the-light-we-cannot-see-by-anthony-doerr.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476746583",
+            "isbn13": "9781476746586"
+          },
+          {
+            "isbn10": "1410470229",
+            "isbn13": "9781410470225"
+          },
+          {
+            "isbn10": "1476746591",
+            "isbn13": "9781476746593"
+          },
+          {
+            "isbn10": "1501122835",
+            "isbn13": "9781501122835"
+          },
+          {
+            "isbn10": "0007548699",
+            "isbn13": "9780007548699"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399164456",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Nora Roberts",
+        "primary_isbn13": "9780399164453",
+        "description": "A writer travels the world of affluent art collectors to learn the truth about what appears to be a murder/suicide.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101617281.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Collector-Nora-Roberts/dp/0399164456?tag=thenewyorktim-20",
+        "contributor": "by Nora Roberts",
+        "title": "THE COLLECTOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399164456",
+            "isbn13": "9780399164453"
+          },
+          {
+            "isbn10": "1101617284",
+            "isbn13": "9781101617281"
+          },
+          {
+            "isbn10": "0399171088",
+            "isbn13": "9780399171086"
+          },
+          {
+            "isbn10": "042527831X",
+            "isbn13": "9780425278314"
+          },
+          {
+            "isbn10": "0515154121",
+            "isbn13": "9780515154122"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400069629",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ruth Reichl",
+        "primary_isbn13": "9781400069620",
+        "description": "The food writer and editor\u2019s first novel concerns a woman who finds herself when the magazine where she works closes.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400069620.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Delicious-A-Novel-Ruth-Reichl/dp/1400069629?tag=thenewyorktim-20",
+        "contributor": "by Ruth Reichl",
+        "title": "DELICIOUS!",
+        "sunday_review_link": "//www.nytimes.com/2014/06/01/books/review/ruth-reichls-delicious.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400069629",
+            "isbn13": "9781400069620"
+          }
+        ],
+        "publisher": "Random House"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399161589",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ace Atkins",
+        "primary_isbn13": "9780399161582",
+        "description": "The Boston P.I. Spenser searches for the kidnapped son of a star player for the New England Patriots; a continuation of the series by Parker, who died in 2010.",
+        "book_review_link": "",
+        "book_image_height": 191,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399161582.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Robert-Parkers-Cheap-Shot-Spenser-ebook/dp/B00G3L11PI?tag=thenewyorktim-20",
+        "contributor": "by Ace Atkins",
+        "title": "ROBERT B. PARKER'S CHEAP SHOT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399161589",
+            "isbn13": "9780399161582"
+          },
+          {
+            "isbn10": "0425275191",
+            "isbn13": "9780425275191"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399159347",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9780399159343",
+        "description": "A successful businesswoman and devoted wife and mother finds a letter that throws everything she's believed into doubt.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636237.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "THE HUSBAND'S SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0804138567",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Miranda Beverly-Whittemore",
+        "primary_isbn13": "9780804138567",
+        "description": "Mabel, a scholarship student, is surprised when her blue-blooded roommate, Genevra Winslow,  invites her to spend the summer at the Winslow family's Vermont estate. It seems idyllic, but discovering the Winslows' secrets is dangerous.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804138567.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Bittersweet-A-Novel-Miranda-Beverly-Whittemore/dp/0804138567?tag=thenewyorktim-20",
+        "contributor": "by Miranda Beverly-Whittemore",
+        "title": "BITTERSWEET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804138567",
+            "isbn13": "9780804138567"
+          },
+          {
+            "isbn10": "0804138575",
+            "isbn13": "9780804138574"
+          }
+        ],
+        "publisher": "Crown"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2014-05-17",
+    "previous_published_date": "2014-05-25",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2014-06-08"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

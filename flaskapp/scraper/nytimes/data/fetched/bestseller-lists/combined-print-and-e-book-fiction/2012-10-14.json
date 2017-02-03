@@ -1,0 +1,876 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2012-10-14",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0316228532",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J K Rowling",
+        "primary_isbn13": "9780316228534",
+        "description": "The sudden death of a parish councilman reveals bitter social divisions in an idyllic English town; a novel for adults by the creator of Harry Potter.",
+        "book_review_link": "//www.nytimes.com/2012/09/27/books/book-review-the-casual-vacancy-by-j-k-rowling.html",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316228558.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 309,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Casual-Vacancy-J-K-Rowling/dp/0316228532?tag=thenewyorktim-20",
+        "contributor": "by J. K. Rowling",
+        "title": "THE CASUAL VACANCY",
+        "sunday_review_link": "//www.nytimes.com/2012/10/28/books/review/the-casual-vacancy-by-j-k-rowling.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316228532",
+            "isbn13": "9780316228534"
+          },
+          {
+            "isbn10": "0316228540",
+            "isbn13": "9780316228541"
+          },
+          {
+            "isbn10": "0316228559",
+            "isbn13": "9780316228558"
+          },
+          {
+            "isbn10": "0316228583",
+            "isbn13": "9780316228589"
+          },
+          {
+            "isbn10": "0316228591",
+            "isbn13": "9780316228596"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345803485",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9780345803481",
+        "description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803481.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 125,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 31,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES OF GREY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130283",
+            "isbn13": "9781612130286"
+          },
+          {
+            "isbn10": "0345803485",
+            "isbn13": "9780345803481"
+          },
+          {
+            "isbn10": "0099579936",
+            "isbn13": "9780099579939"
+          },
+          {
+            "isbn10": "0385363125",
+            "isbn13": "9780385363129"
+          },
+          {
+            "isbn10": "0385537670",
+            "isbn13": "9780385537674"
+          },
+          {
+            "isbn10": "0345806751",
+            "isbn13": "9780345806758"
+          },
+          {
+            "isbn10": "0804172072",
+            "isbn13": "9780804172073"
+          },
+          {
+            "isbn10": "0345805151",
+            "isbn13": "9780345805157"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130593",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130590",
+        "description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345803498.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 31,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Darker-E-James/dp/0345803493?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES DARKER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130593",
+            "isbn13": "9781612130590"
+          },
+          {
+            "isbn10": "1612130585",
+            "isbn13": "9781612130583"
+          },
+          {
+            "isbn10": "0345803493",
+            "isbn13": "9780345803498"
+          },
+          {
+            "isbn10": "1448149460",
+            "isbn13": "9781448149469"
+          },
+          {
+            "isbn10": "0385363133",
+            "isbn13": "9780385363136"
+          },
+          {
+            "isbn10": "0099579928",
+            "isbn13": "9780099579922"
+          },
+          {
+            "isbn10": "0385537689",
+            "isbn13": "9780385537681"
+          },
+          {
+            "isbn10": "0606264485",
+            "isbn13": "9780606264488"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1612130615",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "E L James",
+        "primary_isbn13": "9781612130613",
+        "description": "The final book in an erotic trilogy.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781612130606.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 30,
+        "amazon_product_url": "http://www.amazon.com/Fifty-Shades-Freed-Three-Trilogy/dp/0345803507?tag=thenewyorktim-20",
+        "contributor": "by E. L. James",
+        "title": "FIFTY SHADES FREED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1612130615",
+            "isbn13": "9781612130613"
+          },
+          {
+            "isbn10": "1612130607",
+            "isbn13": "9781612130606"
+          },
+          {
+            "isbn10": "0345803507",
+            "isbn13": "9780345803504"
+          },
+          {
+            "isbn10": "0385537697",
+            "isbn13": "9780385537698"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 17,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525952926",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ken Follett",
+        "primary_isbn13": "9780525952923",
+        "description": "n Book 2 of the Century trilogy, members of five interrelated families from five countries grapple with the tumultuous historical events of the years 1939-49.",
+        "book_review_link": "//www.nytimes.com/2012/09/17/books/ken-follett-offers-second-volume-of-century-trilogy.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101591437.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Winter-World-Book-Century-Trilogy/dp/0451419243?tag=thenewyorktim-20",
+        "contributor": "by Ken Follett",
+        "title": "WINTER OF THE WORLD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525952926",
+            "isbn13": "9780525952923"
+          },
+          {
+            "isbn10": "023076486X",
+            "isbn13": "9780230764866"
+          },
+          {
+            "isbn10": "0451419243",
+            "isbn13": "9780451419248"
+          },
+          {
+            "isbn10": "0451468228",
+            "isbn13": "9780451468222"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0440339367",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lee Child",
+        "primary_isbn13": "9780440339366",
+        "description": "A carload of people involved in a conspiracy pick up a disheveled hitchhiker, Child\u2019s vigilante hero Jack Reacher.",
+        "book_review_link": "//www.nytimes.com/2012/09/10/books/a-wanted-man-a-jack-reacher-novel-by-lee-child.html",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385344333.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Wanted-bonus-short-story-Deep-ebook/dp/B007GCY8FS?tag=thenewyorktim-20",
+        "contributor": "by Lee Child",
+        "title": "A WANTED MAN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344333",
+            "isbn13": "9780385344333"
+          },
+          {
+            "isbn10": "0440339367",
+            "isbn13": "9780440339366"
+          },
+          {
+            "isbn10": "1409043568",
+            "isbn13": "9781409043560"
+          },
+          {
+            "isbn10": "0440246318",
+            "isbn13": "9780440246312"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sylvia Day",
+        "primary_isbn13": "9781101604786",
+        "description": "Two troubled people develop an intense, obsessive relationship.",
+        "book_review_link": "",
+        "book_image_height": 475,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425263907.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 308,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 17,
+        "amazon_product_url": "http://www.amazon.com/Bared-You-A-Crossfire-Novel-ebook/dp/B00846REIS?tag=thenewyorktim-20",
+        "contributor": "by Sylvia Day",
+        "title": "BARED TO YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0982857195",
+            "isbn13": "9780982857199"
+          },
+          {
+            "isbn10": "0985114606",
+            "isbn13": "9780985114602"
+          },
+          {
+            "isbn10": "0425263908",
+            "isbn13": "9780425263907"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1401304702",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mitch Albom",
+        "primary_isbn13": "9781401304706",
+        "description": "A fable about the inventor of the world\u2019s first clock; from the author of \u201cTuesdays With Morrie.\u201d",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781401322786.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 350,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/The-Time-Keeper-Mitch-Albom/dp/1401322786?tag=thenewyorktim-20",
+        "contributor": "by Mitch Albom",
+        "title": "THE TIME KEEPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1401322786",
+            "isbn13": "9781401322786"
+          },
+          {
+            "isbn10": "1401304702",
+            "isbn13": "9781401304706"
+          },
+          {
+            "isbn10": "1410451615",
+            "isbn13": "9781410451613"
+          },
+          {
+            "isbn10": "1401312853",
+            "isbn13": "9781401312855"
+          }
+        ],
+        "publisher": "Hyperion Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "JR Ward",
+        "primary_isbn13": "9781101598535",
+        "description": "After a man stumbles in front of the reporter Mels Carmichael\u2019s car, both find they\u2019re in over their heads.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451414793.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Rapture-Fallen-Angels-Book-4/dp/0451414799?tag=thenewyorktim-20",
+        "contributor": "by J.R. Ward",
+        "title": "RAPTURE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "045123801X",
+            "isbn13": "9780451238016"
+          },
+          {
+            "isbn10": "0451414799",
+            "isbn13": "9780451414793"
+          }
+        ],
+        "publisher": "New American Library"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316097438",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Michael Ledwidge",
+        "primary_isbn13": "9780316097437",
+        "description": "A young biologist warns world leaders about the reasons for escalating animal attacks on cities.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446571791.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 12,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Zoo-James-Patterson-ebook/dp/B0076DFB2G?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Michael Ledwidge",
+        "title": "ZOO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316097446",
+            "isbn13": "9780316097444"
+          },
+          {
+            "isbn10": "0316097438",
+            "isbn13": "9780316097437"
+          },
+          {
+            "isbn10": "0446571792",
+            "isbn13": "9780446571791"
+          },
+          {
+            "isbn10": "1455525154",
+            "isbn13": "9781455525157"
+          },
+          {
+            "isbn10": "1455536709",
+            "isbn13": "9781455536702"
+          }
+        ],
+        "publisher": "Little, Brown & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455501530",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sandra Brown",
+        "primary_isbn13": "9781455501533",
+        "description": "A woman makes disturbing discoveries when she writes a book about her sister\u2019s murder.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455501533.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 310,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Low-Pressure-Sandra-Brown/dp/1455501557?tag=thenewyorktim-20",
+        "contributor": "by Sandra Brown",
+        "title": "LOW PRESSURE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455501557",
+            "isbn13": "9781455501557"
+          },
+          {
+            "isbn10": "1455501530",
+            "isbn13": "9781455501533"
+          },
+          {
+            "isbn10": "1455522546",
+            "isbn13": "9781455522545"
+          },
+          {
+            "isbn10": "1455525189",
+            "isbn13": "9781455525188"
+          },
+          {
+            "isbn10": "1455501549",
+            "isbn13": "9781455501540"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "145924124X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Susan Mallery",
+        "primary_isbn13": "9781459241244",
+        "description": "Both in Fool\u2019s Gold, Calif., only reluctantly, a dancing teacher and a bad-boy lawyer are drawn together.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781459241244.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 379,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Fools-Gold-Christmas-Susan-Mallery-ebook/dp/B008ENEB9G?tag=thenewyorktim-20",
+        "contributor": "by Susan Mallery",
+        "title": "A FOOL'S GOLD CHRISTMAS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0373777027",
+            "isbn13": "9780373777020"
+          },
+          {
+            "isbn10": "145924124X",
+            "isbn13": "9781459241244"
+          }
+        ],
+        "publisher": "Harlequin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ken Follett",
+        "primary_isbn13": "9781101543559",
+        "description": "Five interrelated families from five countries are caught in the upheavals of World War I and the Russian Revolution.",
+        "book_review_link": "//www.nytimes.com/2010/09/24/books/24book.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451232854.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 308,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Fall-Giants-Book-Century-Trilogy/dp/0451232577?tag=thenewyorktim-20",
+        "contributor": "by Ken Follett",
+        "title": "FALL OF GIANTS",
+        "sunday_review_link": "//www.nytimes.com/2010/10/03/books/review/Boylan-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451232577",
+            "isbn13": "9780451232571"
+          },
+          {
+            "isbn10": "0451232852",
+            "isbn13": "9780451232854"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345531590",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "H P Mallory",
+        "primary_isbn13": "9780345531599",
+        "description": "Back from a round of time travel, the Queen of the Underworld must now protect her realm from the sinister Lurkers; a Jolie Wilkins novel.",
+        "book_review_link": "",
+        "book_image_height": 209,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345531599.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Something-Witchy-This-Way-Comes-ebook/dp/B007QPEE0Y?tag=thenewyorktim-20",
+        "contributor": "by H. P. Mallory",
+        "title": "SOMETHING WITCHY THIS WAY COMES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345531590",
+            "isbn13": "9780345531599"
+          },
+          {
+            "isbn10": "0345531582",
+            "isbn13": "9780345531582"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062066269",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephanie Laurens",
+        "primary_isbn13": "9780062066268",
+        "description": "In Regency England, the notorious Neville Roscoe lives boldly outside the bounds of proper society, until he\u2019s challenged by his desire for the strait-laced Miranda Clifford.",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062066268.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Lady-Risks-Stephanie-Laurens/dp/0062068636?tag=thenewyorktim-20",
+        "contributor": "by Stephanie Laurens",
+        "title": "THE LADY RISKS ALL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062068636",
+            "isbn13": "9780062068637"
+          },
+          {
+            "isbn10": "0062066269",
+            "isbn13": "9780062066268"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J D Robb",
+        "primary_isbn13": "9781101600207",
+        "description": "Lt. Eve Dallas tries to sort out the inexplicable events at a bar where, after 12 minutes of chaos, more than 80 people lay dead; by Nora Roberts, writing pseudonymously.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101600207.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Delusion-Death-In-Book-35/dp/0425250660?tag=thenewyorktim-20",
+        "contributor": "by J. D. Robb",
+        "title": "DELUSION IN DEATH",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158812",
+            "isbn13": "9780399158810"
+          },
+          {
+            "isbn10": "0748125876",
+            "isbn13": "9780748125876"
+          },
+          {
+            "isbn10": "0425250660",
+            "isbn13": "9780425250662"
+          },
+          {
+            "isbn10": "141045228X",
+            "isbn13": "9781410452283"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "M Leighton",
+        "primary_isbn13": "A00B009FG00N2",
+        "description": "The life of a college student, home to help her father run his business, is turned upside down when she falls in love with twins.",
+        "book_review_link": "",
+        "book_image_height": null,
+        "book_image": "",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": null,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": null,
+        "contributor": "by M. Leighton",
+        "title": "DOWN TO YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "M. Leighton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345536037",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Maya Banks",
+        "primary_isbn13": "9780345536037",
+        "description": "When clan rivalries and dark deeds threaten his intriguing new bride, a Scottish warrior will go to any length to save her.",
+        "book_review_link": "",
+        "book_image_height": 211,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345536037.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Never-Seduce-Scot-Montgomerys-Armstrongs-ebook/dp/B007QPEDUA?tag=thenewyorktim-20",
+        "contributor": "by Maya Banks",
+        "title": "NEVER SEDUCE A SCOT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345533232",
+            "isbn13": "9780345533234"
+          },
+          {
+            "isbn10": "0345536037",
+            "isbn13": "9780345536037"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9781101600535",
+        "description": "Stone Barrington travels to Bel-Air for the opening of a luxury hotel that, according to the N.S.A., may have attracted the attention of terrorists.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101600535.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Severe-Clear-Stone-Barrington-Stuart/dp/0451414373?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "SEVERE CLEAR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159843",
+            "isbn13": "9780399159848"
+          },
+          {
+            "isbn10": "0451414373",
+            "isbn13": "9780451414373"
+          },
+          {
+            "isbn10": "1594136300",
+            "isbn13": "9781594136306"
+          }
+        ],
+        "publisher": "Penguin Group"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2012-09-29",
+    "previous_published_date": "2012-10-07",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2012-10-21"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

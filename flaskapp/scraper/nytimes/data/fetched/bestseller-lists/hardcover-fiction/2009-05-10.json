@@ -1,0 +1,687 @@
+{
+  "last_modified": "2016-04-28T09:06:07-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2009-05-10",
+    "books": [
+      {
+        "price": 27.99,
+        "primary_isbn10": "044654695X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "David Baldacci",
+        "primary_isbn13": "9780446546959",
+        "description": "Former Secret Service agents, now P.I.\u2019s, search for a child abducted from a party at Camp David.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780446539746.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/First-Family-Maxwell-David-Baldacci/dp/0446539740?tag=thenewyorktim-20",
+        "contributor": "by David Baldacci",
+        "title": "FIRST FAMILY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446539740",
+            "isbn13": "9780446539746"
+          }
+        ],
+        "publisher": "Grand Central"
+      },
+      {
+        "price": 23.95,
+        "primary_isbn10": "0375424490",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Alexander McCall Smith",
+        "primary_isbn13": "9780375424496",
+        "description": "The 10th novel in the No. 1 Ladies\u2019 Detective Agency series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780375424496.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Traditionally-Built-Ladies-Detective-Agency/dp/0375424490?tag=thenewyorktim-20",
+        "contributor": "by Alexander McCall Smith",
+        "title": "TEA TIME FOR THE TRADITIONALLY BUILT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030727747X",
+            "isbn13": "9780307277473"
+          }
+        ],
+        "publisher": "Pantheon"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0399155783",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9780399155789",
+        "description": "Stone Barrington, the New York cop turned lawyer, takes a case in Key West.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399155789.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Loitering-With-Intent-Stone-Barrington/dp/0451228561?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "LOITERING WITH INTENT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451228561",
+            "isbn13": "9780451228567"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "1416570861",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781416570868",
+        "description": "An assistant prosecutor  who has had a heart transplant discovers that her life is at risk when she tries a murder case.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416570868.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Just-Take-My-Heart-Novel/dp/141657087X?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "JUST TAKE MY HEART",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "141657087X",
+            "isbn13": "9781416570875"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155805",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Amanda Quick",
+        "primary_isbn13": "9780399155802",
+        "description": "A Victorian botanist investigates a poisoning; an Arcane Society novel.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399155802.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 340,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Perfect-Poison-Arcane-Society-Book/dp/0399155805?tag=thenewyorktim-20",
+        "contributor": "by Amanda Quick",
+        "title": "THE PERFECT POISON",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "051514777X",
+            "isbn13": "9780515147773"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0316068047",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stephenie Meyer",
+        "primary_isbn13": "9780316068048",
+        "description": "Aliens have taken control of the minds and bodies of most humans, but one woman won\u2019t surrender.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316218504.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 50,
+        "amazon_product_url": "http://www.amazon.com/The-Host-Novel-Stephenie-Meyer/dp/0316218502?tag=thenewyorktim-20",
+        "contributor": "by Stephenie Meyer",
+        "title": "THE HOST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316068055",
+            "isbn13": "9780316068055"
+          },
+          {
+            "isbn10": "0316068047",
+            "isbn13": "9780316068048"
+          },
+          {
+            "isbn10": "0316043044",
+            "isbn13": "9780316043045"
+          },
+          {
+            "isbn10": "0316128651",
+            "isbn13": "9780316128650"
+          },
+          {
+            "isbn10": "0316218502",
+            "isbn13": "9780316218504"
+          },
+          {
+            "isbn10": "0316218510",
+            "isbn13": "9780316218511"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0312380720",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Scottoline",
+        "primary_isbn13": "9780312380724",
+        "description": "A reporter learns that her adopted son may have been abducted from his birth mother.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312380748.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 305,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Look-Again-Lisa-Scottoline/dp/0312380739?tag=thenewyorktim-20",
+        "contributor": "by Lisa Scottoline",
+        "title": "LOOK AGAIN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312380739",
+            "isbn13": "9780312380731"
+          },
+          {
+            "isbn10": "0312380747",
+            "isbn13": "9780312380748"
+          }
+        ],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 26.95,
+        "primary_isbn10": "0312368119",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Iris Johansen",
+        "primary_isbn13": "9780312368111",
+        "description": "A U.N. expert searching for Romanov treasure is kidnapped.",
+        "book_review_link": "",
+        "book_image_height": 420,
+        "book_image": "https://s1.nyt.com/du/books/images/9780312368104.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 255,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Deadlock-Iris-Johansen/dp/0312368119?tag=thenewyorktim-20",
+        "contributor": "by Iris Johansen",
+        "title": "DEADLOCK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "St. Martin\u2019s"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0525951059",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9780525951056",
+        "description": "Myron Bolitar helps an ex-lover search for her daughter.",
+        "book_review_link": "",
+        "book_image_height": 240,
+        "book_image": "https://s1.nyt.com/du/books/images/9780525951056.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 180,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Long-Myron-Bolitar-Harlan-Coben/dp/0525951059?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "LONG LOST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451229320",
+            "isbn13": "9780451229328"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 25.95,
+        "primary_isbn10": "0451462564",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jim Butcher",
+        "primary_isbn13": "9780451462565",
+        "description": "Book 11 of the Dresden Files series about a wizard detective in Chicago.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451462817.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 284,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Turn-Coat-Dresden-Files-Book/dp/0451462564?tag=thenewyorktim-20",
+        "contributor": "by Jim Butcher",
+        "title": "TURN COAT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451462815",
+            "isbn13": "9780451462817"
+          }
+        ],
+        "publisher": "Roc"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0385517831",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385517836",
+        "description": "An idealistic law-school graduate is forced to take a job at a large, brutalizing law firm.",
+        "book_review_link": "//www.nytimes.com/2009/01/26/books/26masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385517836.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 13,
+        "amazon_product_url": "http://www.amazon.com/The-Associate-John-Grisham/dp/0385517831?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "THE ASSOCIATE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0440243823",
+            "isbn13": "9780440243823"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0743296419",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9780743296410",
+        "description": "A woman whose daughter has a dangerous birth defect must decide whether to sue her obstetrician, an old friend.",
+        "book_review_link": "",
+        "book_image_height": 456,
+        "book_image": "https://s1.nyt.com/du/books/images/9780743296410.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 300,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 8,
+        "amazon_product_url": "http://www.amazon.com/Handle-Care-Novel-Jodi-Picoult/dp/0743296427?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "HANDLE WITH CARE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0743296427",
+            "isbn13": "9780743296427"
+          }
+        ],
+        "publisher": "Atria"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0399155341",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Kathryn Stockett",
+        "primary_isbn13": "9780399155345",
+        "description": "A young white woman and two black maids in 1960s \u00adMississippi.",
+        "book_review_link": "//www.nytimes.com/2009/02/19/books/19masl.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781440697661.jpg",
+        "rank": 13,
+        "article_chapter_link": "//www.nytimes.com/2011/08/14/movies/black-and-white-struggle-through-hollywoods-rosy-glow.html",
+        "rank_last_week": 14,
+        "book_image_width": 375,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/The-Help-Kathryn-Stockett/dp/0425232204?tag=thenewyorktim-20",
+        "contributor": "by Kathryn Stockett",
+        "title": "THE HELP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399155341",
+            "isbn13": "9780399155345"
+          },
+          {
+            "isbn10": "1440697663",
+            "isbn13": "9781440697661"
+          },
+          {
+            "isbn10": "0425232204",
+            "isbn13": "9780425232200"
+          },
+          {
+            "isbn10": "1594133883",
+            "isbn13": "9781594133886"
+          },
+          {
+            "isbn10": "0425245136",
+            "isbn13": "9780425245132"
+          },
+          {
+            "isbn10": "0399157913",
+            "isbn13": "9780399157912"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 22,
+        "primary_isbn10": "0385340990",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Ann Shaffer and Annie Barrows",
+        "primary_isbn13": "9780385340991",
+        "description": "A journalist meets the island\u2019s old Nazi resisters.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385341004.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 317,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 32,
+        "amazon_product_url": "http://www.amazon.com/Guernsey-Literary-Potato-Peel-Society/dp/0385340990?tag=thenewyorktim-20",
+        "contributor": "by Mary Ann Shaffer and Annie Barrows",
+        "title": "THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385341008",
+            "isbn13": "9780385341004"
+          },
+          {
+            "isbn10": "0440337976",
+            "isbn13": "9780440337973"
+          }
+        ],
+        "publisher": "Dial"
+      },
+      {
+        "price": 25.99,
+        "primary_isbn10": "0061348139",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Diane Mott Davidson",
+        "primary_isbn13": "9780061348136",
+        "description": "The caterer Goldy Schulz tries to outwit a killer on the grounds of an Aspen spa.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061348136.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 8,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Fatally-Flaky-Schulz-Culinary-Mysteries/dp/0061348139?tag=thenewyorktim-20",
+        "contributor": "by Diane Mott Davidson",
+        "title": "FATALLY FLAKY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061348147",
+            "isbn13": "9780061348143"
+          }
+        ],
+        "publisher": "William Morrow"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "1416550771",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Christie Golden",
+        "primary_isbn13": "9781416550778",
+        "description": "A World of Warcraft fantasy novel.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781416550778.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/World-Warcraft-Arthas-Rise-Lich/dp/1416550771?tag=thenewyorktim-20",
+        "contributor": "by Christie Golden",
+        "title": "ARTHAS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Pocket Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1565125967",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Robert Goolrick",
+        "primary_isbn13": "9781565125964",
+        "description": "Complications ensue when a wealthy Wisconsin widower in 1907 advertises for a spouse.",
+        "book_review_link": "//www.nytimes.com/2009/03/19/books/19newly.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781565125964.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 351,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/A-Reliable-Wife-Robert-Goolrick/dp/1565125967?tag=thenewyorktim-20",
+        "contributor": "by Robert Goolrick",
+        "title": "A RELIABLE WIFE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1565129776",
+            "isbn13": "9781565129771"
+          },
+          {
+            "isbn10": "1594133832",
+            "isbn13": "9781594133831"
+          }
+        ],
+        "publisher": "Algonquin"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399155694",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nevada Barr",
+        "primary_isbn13": "9780399155697",
+        "description": "Off duty and on vacation in Big Bend National Park, Anna Pigeon rescues a baby and is drawn into cross-border intrigue.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425233788.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 283,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Borderline-An-Anna-Pigeon-Novel/dp/0425233782?tag=thenewyorktim-20",
+        "contributor": "by Nevada Barr",
+        "title": "BORDERLINE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425233782",
+            "isbn13": "9780425233788"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0765317583",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "William R Forstchen",
+        "primary_isbn13": "9780765317582",
+        "description": "A retired Army colonel in North Carolina protects his family when a nuclear blast disables the power grid.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765317582.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/One-Second-After-William-Forstchen/dp/0765356864?tag=thenewyorktim-20",
+        "contributor": "by William R. Forstchen",
+        "title": "ONE SECOND AFTER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765356864",
+            "isbn13": "9780765356864"
+          }
+        ],
+        "publisher": "Forge"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1599951959",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ted Dekker",
+        "primary_isbn13": "9781599951959",
+        "description": "Ryan Evans faces a serial killer who murders his young victims in a highly idiosyncratic way.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781599951959.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/BoneMans-Daughters-Ted-Dekker/dp/1599951959?tag=thenewyorktim-20",
+        "contributor": "by Ted Dekker",
+        "title": "BONEMAN'S DAUGHTERS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0446547204",
+            "isbn13": "9780446547208"
+          },
+          {
+            "isbn10": "1599952602",
+            "isbn13": "9781599952604"
+          }
+        ],
+        "publisher": "Center Street"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2009-04-25",
+    "previous_published_date": "2009-05-03",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2009-05-17"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

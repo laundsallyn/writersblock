@@ -1,0 +1,813 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2014-04-20",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0451417054",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J R Ward",
+        "primary_isbn13": "9780451417053",
+        "description": "Book 12 of the Black Dagger Brotherhood series.",
+        "book_review_link": "",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101602188.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-King-Novel-Dagger-Brotherhood-ebook/dp/B00DGZIC24?tag=thenewyorktim-20",
+        "contributor": "by J. R. Ward",
+        "title": "THE KING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451417054",
+            "isbn13": "9780451417053"
+          },
+          {
+            "isbn10": "0451417062",
+            "isbn13": "9780451417060"
+          }
+        ],
+        "publisher": "New American Library"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "147674906X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781476749068",
+        "description": "The producer of a true-crime show must contend with participants with secrets as well as her husband\u2019s murderer.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476749105.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Ive-Got-You-Under-Skin-ebook/dp/B00DPM7SV4?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "I'VE GOT YOU UNDER MY SKIN",
+        "sunday_review_link": "//www.nytimes.com/2014/06/01/books/review/in-my-skin-by-brittney-griner.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "147674906X",
+            "isbn13": "9781476749068"
+          },
+          {
+            "isbn10": "1476749108",
+            "isbn13": "9781476749105"
+          },
+          {
+            "isbn10": "1410466264",
+            "isbn13": "9781410466266"
+          },
+          {
+            "isbn10": "1476749086",
+            "isbn13": "9781476749082"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316211230",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and Marshall Karp",
+        "primary_isbn13": "9780316211239",
+        "description": "Detective Zach Jordan and his partner are called when the body of a wealthy woman is discovered on the Central Park carousel; the second book in a new series.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316211239.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/NYPD-Red-2-James-Patterson-ebook/dp/B00DTUHI2Q?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and Marshall Karp",
+        "title": "NYPD RED 2",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316211230",
+            "isbn13": "9780316211239"
+          },
+          {
+            "isbn10": "0316211249",
+            "isbn13": "9780316211246"
+          },
+          {
+            "isbn10": "0316324655",
+            "isbn13": "9780316324656"
+          },
+          {
+            "isbn10": "0316211265",
+            "isbn13": "9780316211260"
+          },
+          {
+            "isbn10": "1455515973",
+            "isbn13": "9781455515974"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0525953493",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9780525953494",
+        "description": "Kat Donovan, an N.Y.P.D. detective, searches for the ex-fianc\u00e9 who left her years before as well as her father\u2019s murderer.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698148635.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Missing-You-Harlan-Coben/dp/0525953493?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "MISSING YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953493",
+            "isbn13": "9780525953494"
+          },
+          {
+            "isbn10": "0698148630",
+            "isbn13": "9780698148635"
+          },
+          {
+            "isbn10": "1410466280",
+            "isbn13": "9781410466280"
+          },
+          {
+            "isbn10": "0451414128",
+            "isbn13": "9780451414120"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316055433",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316055437",
+        "description": "\u00a0A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 24,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670024783",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Monk Kidd",
+        "primary_isbn13": "9780670024780",
+        "description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670024780.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 13,
+        "amazon_product_url": "http://www.amazon.com/The-Invention-Wings-A-Novel/dp/0670024783?tag=thenewyorktim-20",
+        "contributor": "by Sue Monk Kidd",
+        "title": "THE INVENTION OF WINGS",
+        "sunday_review_link": "//www.nytimes.com/2014/01/26/books/review/the-invention-of-wings-by-sue-monk-kidd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670024783",
+            "isbn13": "9780670024780"
+          },
+          {
+            "isbn10": "1410465322",
+            "isbn13": "9781410465320"
+          },
+          {
+            "isbn10": "0143121707",
+            "isbn13": "9780143121701"
+          },
+          {
+            "isbn10": "1594138869",
+            "isbn13": "9781594138867"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0802122647",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Leon",
+        "primary_isbn13": "9780802122643",
+        "description": "Commissario Guido Brunetti investigates the theft of books from a library and the murder of one of its patrons.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780802122643.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/By-its-Cover-Commissario-Brunetti/dp/0802122647?tag=thenewyorktim-20",
+        "contributor": "by Donna Leon",
+        "title": "BY ITS COVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0802122647",
+            "isbn13": "9780802122643"
+          },
+          {
+            "isbn10": "0802192505",
+            "isbn13": "9780802192509"
+          }
+        ],
+        "publisher": "Atlantic Monthly Press"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0312614586",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Nevada Barr",
+        "primary_isbn13": "9780312614584",
+        "description": "The National Park Service Ranger Anna Pigeon must rescue friends who are kidnapped while camping in Minnesota.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9781466841680.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Destroyer-Angel-Pigeon-Novel-Mysteries-ebook/dp/B00ERQM2XG?tag=thenewyorktim-20",
+        "contributor": "by Nevada Barr",
+        "title": "DESTROYER ANGEL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0312614586",
+            "isbn13": "9780312614584"
+          },
+          {
+            "isbn10": "1466841680",
+            "isbn13": "9781466841680"
+          },
+          {
+            "isbn10": "1250058473",
+            "isbn13": "9781250058478"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345530918",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780345530912",
+        "description": "Two C.E.O.s \u2014 a man and a woman \u2014 face very different challenges.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345530936.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Power-Play-Novel-Danielle-Steel-ebook/dp/B00F8F3HIY?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "POWER PLAY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345530918",
+            "isbn13": "9780345530912"
+          },
+          {
+            "isbn10": "0804121125",
+            "isbn13": "9780804121125"
+          },
+          {
+            "isbn10": "0345530926",
+            "isbn13": "9780345530929"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250034485",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jeffrey Archer",
+        "primary_isbn13": "9781250034489",
+        "description": "The Clifton Chronicles reach the 1960s in the fourth volume of the series.",
+        "book_review_link": "",
+        "book_image_height": 196,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250034472.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Careful-What-Wish-Clifton-Chronicles/dp/1250034485?tag=thenewyorktim-20",
+        "contributor": "by Jeffrey Archer",
+        "title": "BE CAREFUL WHAT YOU WISH FOR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250034485",
+            "isbn13": "9781250034489"
+          },
+          {
+            "isbn10": "1410466647",
+            "isbn13": "9781410466648"
+          },
+          {
+            "isbn10": "1250034469",
+            "isbn13": "9781250034465"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062279386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ted Bell",
+        "primary_isbn13": "9780062279385",
+        "description": "The counterspy Alex Hawke must rescue a kidnapped scientist.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062279408.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Warriors-Alex-Hawke-Novel-Novels-ebook/dp/B00DB3A9M2?tag=thenewyorktim-20",
+        "contributor": "by Ted Bell",
+        "title": "WARRIORS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062279386",
+            "isbn13": "9780062279385"
+          },
+          {
+            "isbn10": "0062279408",
+            "isbn13": "9780062279408"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345528840",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Debbie Macomber",
+        "primary_isbn13": "9780345528841",
+        "description": "Three women\u2019s lives intersect around a Seattle knitting store; a Blossom Street novel.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345549860.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Blossom-Street-Brides-Novel-ebook/dp/B00FUZPQZY?tag=thenewyorktim-20",
+        "contributor": "by Debbie Macomber",
+        "title": "BLOSSOM STREET BRIDES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345528840",
+            "isbn13": "9780345528841"
+          },
+          {
+            "isbn10": "0345549864",
+            "isbn13": "9780345549860"
+          },
+          {
+            "isbn10": "0804121206",
+            "isbn13": "9780804121200"
+          },
+          {
+            "isbn10": "0345528867",
+            "isbn13": "9780345528865"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399159347",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9780399159343",
+        "description": "A woman\u2019s life is upended when she discovers a letter she was not meant to read.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636237.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 14,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 18,
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "THE HUSBAND'S SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0765326361",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Brandon Sanderson",
+        "primary_isbn13": "9780765326362",
+        "description": "The second book of the Stormlight Archive fantasy epic, set in the world of Roshar.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 211,
+        "book_image": "https://s1.nyt.com/du/books/images/9780765326362.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 140,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 5,
+        "amazon_product_url": "http://www.amazon.com/Words-Radiance-The-Stormlight-Archive-ebook/dp/B00DA6YEKS?tag=thenewyorktim-20",
+        "contributor": "by Brandon Sanderson",
+        "title": "WORDS OF RADIANCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0765326361",
+            "isbn13": "9780765326362"
+          },
+          {
+            "isbn10": "0765365286",
+            "isbn13": "9780765365286"
+          }
+        ],
+        "publisher": "Tor/Tom Doherty"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "031632468X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Emma Donoghue",
+        "primary_isbn13": "9780316324687",
+        "description": "A murder mystery set in San Francisco in 1876, when the city is in the grip of a smallpox epidemic and a heat wave.",
+        "book_review_link": "",
+        "book_image_height": 198,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316324687.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Frog-Music-Novel-Emma-Donoghue/dp/031632468X?tag=thenewyorktim-20",
+        "contributor": "by Emma Donoghue",
+        "title": "FROG MUSIC",
+        "sunday_review_link": "//www.nytimes.com/2014/05/04/books/review/emma-donoghues-frog-music.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031632468X",
+            "isbn13": "9780316324687"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1250032350",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Barbara Taylor Bradford",
+        "primary_isbn13": "9781250032355",
+        "description": "In Edwardian England, an aristocratic family and the family who serve them share an ancestral home.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781250032355.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Cavendon-Hall-Barbara-Taylor-Bradford/dp/1250032350?tag=thenewyorktim-20",
+        "contributor": "by Barbara Taylor Bradford",
+        "title": "CAVENDON HALL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1250032350",
+            "isbn13": "9781250032355"
+          }
+        ],
+        "publisher": "St. Martin's"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385537131",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385537131",
+        "description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d\u00a0",
+        "book_review_link": "//www.nytimes.com/2013/10/31/books/sycamore-row-by-john-grisham.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537926.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Sycamore-Jake-Brigance-John-Grisham/dp/0385537131?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "SYCAMORE ROW",
+        "sunday_review_link": "//www.nytimes.com/2013/11/10/books/review/sycamore-row-by-john-grisham.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537131",
+            "isbn13": "9780385537131"
+          },
+          {
+            "isbn10": "0385537921",
+            "isbn13": "9780385537926"
+          },
+          {
+            "isbn10": "0553393618",
+            "isbn13": "9780553393613"
+          },
+          {
+            "isbn10": "0345543246",
+            "isbn13": "9780345543240"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1594747156",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ian Doescher",
+        "primary_isbn13": "9781594747151",
+        "description": "\u2019Tis for the Rebellion a dark time: \u201cStar Wars\u201d Part V, in iambic pentameter.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781594747151.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/William-Shakespeares-Empire-Striketh-Trilogy/dp/1594747156?tag=thenewyorktim-20",
+        "contributor": "by Ian Doescher",
+        "title": "WILLIAM SHAKESPEARE'S THE EMPIRE STRIKETH BACK",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1594747156",
+            "isbn13": "9781594747151"
+          }
+        ],
+        "publisher": "Quirk Books"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "030758836X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588364",
+        "description": "A woman disappears from her Missouri home on her fifth anniversary; is her bitter, oddly evasive husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1414336241",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Joel C Rosenberg",
+        "primary_isbn13": "9781414336244",
+        "description": "A heroic flight from the Nazis.",
+        "book_review_link": "",
+        "book_image_height": 189,
+        "book_image": "https://s1.nyt.com/du/books/images/9781414336244.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Auschwitz-Escape-Joel-Rosenberg-ebook/dp/B00E1O7EZK?tag=thenewyorktim-20",
+        "contributor": "by Joel C. Rosenberg",
+        "title": "THE AUSCHWITZ ESCAPE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1414336241",
+            "isbn13": "9781414336244"
+          }
+        ],
+        "publisher": "Tyndale House"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2014-04-05",
+    "previous_published_date": "2014-04-13",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2014-04-27"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

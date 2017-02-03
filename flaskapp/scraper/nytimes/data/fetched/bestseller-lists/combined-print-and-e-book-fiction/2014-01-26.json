@@ -1,0 +1,792 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Fiction",
+    "published_date": "2014-01-26",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Sue Monk Kidd",
+        "primary_isbn13": "9780698175242",
+        "description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780670024780.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Invention-Wings-A-Novel/dp/0670024783?tag=thenewyorktim-20",
+        "contributor": "by Sue Monk Kidd",
+        "title": "THE INVENTION OF WINGS",
+        "sunday_review_link": "//www.nytimes.com/2014/01/26/books/review/the-invention-of-wings-by-sue-monk-kidd.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670024783",
+            "isbn13": "9780670024780"
+          },
+          {
+            "isbn10": "1410465322",
+            "isbn13": "9781410465320"
+          },
+          {
+            "isbn10": "0143121707",
+            "isbn13": "9780143121701"
+          },
+          {
+            "isbn10": "1594138869",
+            "isbn13": "9781594138867"
+          }
+        ],
+        "publisher": "Viking"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Tartt",
+        "primary_isbn13": "9780316248679",
+        "description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+        "book_review_link": "//www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316248679.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/The-Goldfinch-Novel-Pulitzer-Fiction-ebook/dp/B00BAXFECK?tag=thenewyorktim-20",
+        "contributor": "by Donna Tartt",
+        "title": "THE GOLDFINCH",
+        "sunday_review_link": "//www.nytimes.com/2013/10/13/books/review/donna-tartts-goldfinch.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316055433",
+            "isbn13": "9780316055437"
+          },
+          {
+            "isbn10": "0316239879",
+            "isbn13": "9780316239875"
+          },
+          {
+            "isbn10": "0316055441",
+            "isbn13": "9780316055444"
+          },
+          {
+            "isbn10": "0349139636",
+            "isbn13": "9780349139630"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christine Feehan",
+        "primary_isbn13": "9780698136922",
+        "description": "The 25th book in the Carpathian series follows the story of Skyler Daratrazanoff and Dimitri Tirunul begun in \u201cDark Lycan.\u201d\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698136922.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dark-Wolf-Carpathian-Christine-Feehan-ebook/dp/B00DGZKJAW?tag=thenewyorktim-20",
+        "contributor": "by Christine Feehan",
+        "title": "DARK WOLF",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425270793",
+            "isbn13": "9780425270790"
+          },
+          {
+            "isbn10": "0515154628",
+            "isbn13": "9780515154627"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Lisa Gardner",
+        "primary_isbn13": "9780698148529",
+        "description": "The Boston detective D.\u2009D. Warren, seriously injured at a crime scene, is treated by a pain therapist whose father was a serial killer.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780698148529.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Fear-Nothing-Detective-Warren-Novel-ebook/dp/B00DGZKPLK?tag=thenewyorktim-20",
+        "contributor": "by Lisa Gardner",
+        "title": "FEAR NOTHING",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953086",
+            "isbn13": "9780525953081"
+          },
+          {
+            "isbn10": "0451469399",
+            "isbn13": "9780451469397"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385537921",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "John Grisham",
+        "primary_isbn13": "9780385537926",
+        "description": "\u00a0A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+        "book_review_link": "//www.nytimes.com/2013/10/31/books/sycamore-row-by-john-grisham.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780385537926.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 329,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 12,
+        "amazon_product_url": "http://www.amazon.com/Sycamore-Jake-Brigance-John-Grisham/dp/0385537131?tag=thenewyorktim-20",
+        "contributor": "by John Grisham",
+        "title": "SYCAMORE ROW",
+        "sunday_review_link": "//www.nytimes.com/2013/11/10/books/review/sycamore-row-by-john-grisham.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385537131",
+            "isbn13": "9780385537131"
+          },
+          {
+            "isbn10": "0385537921",
+            "isbn13": "9780385537926"
+          },
+          {
+            "isbn10": "0553393618",
+            "isbn13": "9780553393613"
+          },
+          {
+            "isbn10": "0345543246",
+            "isbn13": "9780345543240"
+          }
+        ],
+        "publisher": "Doubleday"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Stuart Woods",
+        "primary_isbn13": "9781101615881",
+        "description": "In the 28th Stone Barrington novel, the New York lawyer takes on a complicated new client.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780399164156.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Standup-Stone-Barrington-Stuart-Woods/dp/0399164154?tag=thenewyorktim-20",
+        "contributor": "by Stuart Woods",
+        "title": "STANDUP GUY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399164154",
+            "isbn13": "9780399164156"
+          },
+          {
+            "isbn10": "045146687X",
+            "isbn13": "9780451466877"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Maya Banks",
+        "primary_isbn13": "9781101602607",
+        "description": "Donovan Kelly, part of an elite, family-run task force, tries to protect a beautiful stranger whose dark past is closing in on her.",
+        "book_review_link": "",
+        "book_image_height": 206,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101602607.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/After-Storm-A-KGI-Novel-ebook/dp/B00CS74GE4?tag=thenewyorktim-20",
+        "contributor": "by Maya Banks",
+        "title": "AFTER THE STORM",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0425263770",
+            "isbn13": "9780425263778"
+          }
+        ],
+        "publisher": "Berkley"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jayne Ann Krentz",
+        "primary_isbn13": "9781101620984",
+        "description": "When Lucy Sheridan returns to the California town of Summer River after her aunt\u2019s death, she discovers that the events of her last visit there were more complicated than she knew.",
+        "book_review_link": "",
+        "book_image_height": 186,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101620984.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/River-Road-Jayne-Ann-Krentz-ebook/dp/B00DGZKRZY?tag=thenewyorktim-20",
+        "contributor": "by Jayne Ann Krentz",
+        "title": "RIVER ROAD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399165126",
+            "isbn13": "9780399165122"
+          },
+          {
+            "isbn10": "0515155020",
+            "isbn13": "9780515155020"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307588386",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Gillian Flynn",
+        "primary_isbn13": "9780307588388",
+        "description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+        "book_review_link": "//www.nytimes.com/2012/05/30/books/gone-girl-by-gillian-flynn.html",
+        "book_image_height": 200,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307588388.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 10,
+        "book_image_width": 136,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 68,
+        "amazon_product_url": "http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20",
+        "contributor": "by Gillian Flynn",
+        "title": "GONE GIRL",
+        "sunday_review_link": "//www.nytimes.com/2012/06/17/books/review/gillian-flynns-gone-girl-and-more.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "030758836X",
+            "isbn13": "9780307588364"
+          },
+          {
+            "isbn10": "0307588386",
+            "isbn13": "9780307588388"
+          },
+          {
+            "isbn10": "1410450953",
+            "isbn13": "9781410450951"
+          },
+          {
+            "isbn10": "0297859382",
+            "isbn13": "9780297859383"
+          },
+          {
+            "isbn10": "0307588378",
+            "isbn13": "9780307588371"
+          },
+          {
+            "isbn10": "0297859390",
+            "isbn13": "9780297859390"
+          },
+          {
+            "isbn10": "159413605X",
+            "isbn13": "9781594136054"
+          },
+          {
+            "isbn10": "055341836X",
+            "isbn13": "9780553418361"
+          },
+          {
+            "isbn10": "0553418351",
+            "isbn13": "9780553418354"
+          },
+          {
+            "isbn10": "0606270175",
+            "isbn13": "9780606270175"
+          }
+        ],
+        "publisher": "Crown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Liane Moriarty",
+        "primary_isbn13": "9781101636237",
+        "description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636237.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 333,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 21,
+        "amazon_product_url": "http://www.amazon.com/The-Husbands-Secret-Liane-Moriarty-ebook/dp/B00D7Z4GQY?tag=thenewyorktim-20",
+        "contributor": "by Liane Moriarty",
+        "title": "THE HUSBAND'S SECRET",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399159347",
+            "isbn13": "9780399159343"
+          },
+          {
+            "isbn10": "0425267725",
+            "isbn13": "9780425267721"
+          },
+          {
+            "isbn10": "1594137226",
+            "isbn13": "9781594137228"
+          }
+        ],
+        "publisher": "Amy Einhorn/Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tom Clancy with Mark Greaney",
+        "primary_isbn13": "9781101636497",
+        "description": "President Jack Ryan and his son, a covert intelligence expert, try to counter a Russian threat in Clancy\u2019s last novel before his death.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101636497.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Command-Authority-Jack-Ryan-Novel-ebook/dp/B00EOARZ4G?tag=thenewyorktim-20",
+        "contributor": "by Tom Clancy with Mark Greaney",
+        "title": "COMMAND AUTHORITY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399160477",
+            "isbn13": "9780399160479"
+          },
+          {
+            "isbn10": "1410464970",
+            "isbn13": "9781410464972"
+          },
+          {
+            "isbn10": "0425275132",
+            "isbn13": "9780425275139"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062302396",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jay Crownover",
+        "primary_isbn13": "9780062302397",
+        "description": "Cora Lewis is searching for a quiet man, but instead she falls in love with Rome Archer, whose final tour of duty has shaken him; a Marked Men novel.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062302397.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Rome-A-Marked-Men-Novel-ebook/dp/B00CGZXRT8?tag=thenewyorktim-20",
+        "contributor": "by Jay Crownover",
+        "title": "ROME",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062302396",
+            "isbn13": "9780062302397"
+          },
+          {
+            "isbn10": "0062302426",
+            "isbn13": "9780062302427"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Graeme Simsion",
+        "primary_isbn13": "9781476729107",
+        "description": "A man with Asperger's syndrome becomes involved with an unconventional woman.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781476729091.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 314,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Rosie-Project-A-Novel/dp/1476729093?tag=thenewyorktim-20",
+        "contributor": "by Graeme Simsion",
+        "title": "THE ROSIE PROJECT",
+        "sunday_review_link": "//www.nytimes.com/2013/10/20/books/review/graeme-simsions-rosie-project.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1476729085",
+            "isbn13": "9781476729084"
+          },
+          {
+            "isbn10": "1476729093",
+            "isbn13": "9781476729091"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J Kenner",
+        "primary_isbn13": "9780804176675",
+        "description": "A new series of erotic novels; this one features the sexy Evan Black.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780804176675.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Wanted-A-Most-Novel-ebook/dp/B00DXKJ6PE?tag=thenewyorktim-20",
+        "contributor": "by J. Kenner",
+        "title": "WANTED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0804176663",
+            "isbn13": "9780804176668"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "006219934X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bernard Cornwell",
+        "primary_isbn13": "9780062199348",
+        "description": "The fate of the English nation is at stake as the Saxon kingdom battles the Danes in the early 10th century.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062199348.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Pagan-Lord-Saxon-Tales-ebook/dp/B00DB32RH2?tag=thenewyorktim-20",
+        "contributor": "by Bernard Cornwell",
+        "title": "THE PAGAN LORD",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061969702",
+            "isbn13": "9780061969706"
+          },
+          {
+            "isbn10": "006219934X",
+            "isbn13": "9780062199348"
+          },
+          {
+            "isbn10": "0062298666",
+            "isbn13": "9780062298669"
+          }
+        ],
+        "publisher": "Harper"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345542908",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Janet Evanovich",
+        "primary_isbn13": "9780345542908",
+        "description": "The New Jersey bounty hunter Stephanie Plum pursues a powerful mobster on the lam.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345542892.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 305,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Takedown-Twenty-Stephanie-Janet-Evanovich/dp/0345542894?tag=thenewyorktim-20",
+        "contributor": "by Janet Evanovich",
+        "title": "TAKEDOWN TWENTY",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345542886",
+            "isbn13": "9780345542885"
+          },
+          {
+            "isbn10": "0345542908",
+            "isbn13": "9780345542908"
+          },
+          {
+            "isbn10": "0345542894",
+            "isbn13": "9780345542892"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345539656",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dean Koontz",
+        "primary_isbn13": "9780345539656",
+        "description": "A grotesque man living in exile beneath the city encounters a teenage girl hiding from dangerous enemies.",
+        "book_review_link": "",
+        "book_image_height": 195,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553808032.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Innocence-A-Novel-Dean-Koontz/dp/0553808036?tag=thenewyorktim-20",
+        "contributor": "by Dean Koontz",
+        "title": "INNOCENCE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553808036",
+            "isbn13": "9780553808032"
+          },
+          {
+            "isbn10": "0345539656",
+            "isbn13": "9780345539656"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062294768",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J Lynn",
+        "primary_isbn13": "9780062294760",
+        "description": "Nineteen-year-old Avery Morgansten hopes she can escape the tragedy in her past when she goes to college, but she begins to receive threats.\u00a0",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062294760.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Wait-You-J-Lynn-ebook/dp/B00C3342T2?tag=thenewyorktim-20",
+        "contributor": "by J. Lynn",
+        "title": "WAIT FOR YOU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062294768",
+            "isbn13": "9780062294760"
+          },
+          {
+            "isbn10": "0062294776",
+            "isbn13": "9780062294777"
+          }
+        ],
+        "publisher": "Morrow"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0316069507",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Michael Connelly",
+        "primary_isbn13": "9780316069502",
+        "description": "Mickey Haller, a.k.a. the Lincoln lawyer, is drawn to a murder case in which the victim was his former client, a prostitute he thought he had rescued and put on the straight and narrow path.",
+        "book_review_link": "//www.nytimes.com/2013/12/09/books/mickey-haller-lincoln-lawyer-returns-in-gods-of-guilt.html",
+        "book_image_height": 199,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316069502.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Gods-Guilt-Lincoln-Lawyer-Novel/dp/1455575992?tag=thenewyorktim-20",
+        "contributor": "by Michael Connelly",
+        "title": "THE GODS OF GUILT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0316069515",
+            "isbn13": "9780316069519"
+          },
+          {
+            "isbn10": "031640554X",
+            "isbn13": "9780316405546"
+          },
+          {
+            "isbn10": "0316069507",
+            "isbn13": "9780316069502"
+          },
+          {
+            "isbn10": "1455575992",
+            "isbn13": "9781455575992"
+          },
+          {
+            "isbn10": "0316069493",
+            "isbn13": "9780316069496"
+          },
+          {
+            "isbn10": "0446556793",
+            "isbn13": "9780446556798"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jessica Sorensen",
+        "primary_isbn13": "9781455576524",
+        "description": "Violet and Luke, both of whom had difficult childhoods, begin to open up to each other in a spinoff from the Callie and Kayden series.",
+        "book_review_link": "",
+        "book_image_height": 197,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455576524.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Destiny-Violet-Luke-Callie-Kayden-ebook/dp/B00CO7GIFI?tag=thenewyorktim-20",
+        "contributor": "by Jessica Sorensen",
+        "title": "THE DESTINY OF VIOLET & LUKE (CALLIE & KAYDEN)",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [],
+        "publisher": "Forever"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Fiction",
+    "bestsellers_date": "2014-01-11",
+    "previous_published_date": "2014-01-19",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "next_published_date": "2014-02-02"
+  },
+  "status": "OK",
+  "num_results": 25,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

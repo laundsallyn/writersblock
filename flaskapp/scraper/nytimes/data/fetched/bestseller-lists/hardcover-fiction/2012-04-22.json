@@ -1,0 +1,789 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Hardcover Fiction",
+    "published_date": "2012-04-22",
+    "books": [
+      {
+        "price": 26.99,
+        "primary_isbn10": "1451668864",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mary Higgins Clark",
+        "primary_isbn13": "9781451668865",
+        "description": "When a biblical scholar who made an amazing discovery is murdered, his daughter hunts for the killer (and a missing document).",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451668865.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Lost-Years-Mary-Higgins-Clark-ebook/dp/B005IGYXFE?tag=thenewyorktim-20",
+        "contributor": "by Mary Higgins Clark",
+        "title": "THE LOST YEARS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451668864",
+            "isbn13": "9781451668865"
+          },
+          {
+            "isbn10": "1451668937",
+            "isbn13": "9781451668933"
+          },
+          {
+            "isbn10": "1410445909",
+            "isbn13": "9781410445902"
+          },
+          {
+            "isbn10": "1451668929",
+            "isbn13": "9781451668926"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "031609756X",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "James Patterson and David Ellis",
+        "primary_isbn13": "9780316097567",
+        "description": "Four friends in Monte Carlo for a luxurious girls\u2019 vacation find themselves in prison, accused of a crime.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780316097574.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 279,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Guilty-Wives-James-Patterson-ebook/dp/B004QX07EQ?tag=thenewyorktim-20",
+        "contributor": "by James Patterson and David Ellis",
+        "title": "GUILTY WIVES",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "031609756X",
+            "isbn13": "9780316097567"
+          },
+          {
+            "isbn10": "0316189278",
+            "isbn13": "9780316189279"
+          },
+          {
+            "isbn10": "0316097578",
+            "isbn13": "9780316097574"
+          },
+          {
+            "isbn10": "1455506664",
+            "isbn13": "9781455506668"
+          },
+          {
+            "isbn10": "0446571881",
+            "isbn13": "9780446571883"
+          }
+        ],
+        "publisher": "Little, Brown"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0061779741",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christopher Moore",
+        "primary_isbn13": "9780061779749",
+        "description": "Did Vincent van Gogh really kill himself? His friends in the 19th-century Parisian art world set out to discover the truth.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061779749.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 314,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Sacre-Bleu-A-Comedy-dArt-ebook/dp/B005UD1GQY?tag=thenewyorktim-20",
+        "contributor": "by Christopher Moore",
+        "title": "SACR\u00c9 BLEU",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061779741",
+            "isbn13": "9780061779749"
+          },
+          {
+            "isbn10": "0062101242",
+            "isbn13": "9780062101242"
+          }
+        ],
+        "publisher": "Morrow/HarperCollins"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0307378403",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Alexander McCall Smith",
+        "primary_isbn13": "9780307378408",
+        "description": "The 13th novel in the No. 1 Ladies\u2019 Detective Agency series.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307907158.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Limpopo-Academy-Private-Detection-ebook/dp/B005PRJQ2G?tag=thenewyorktim-20",
+        "contributor": "by Alexander McCall Smith",
+        "title": "THE LIMPOPO ACADEMY OF PRIVATE DETECTION",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307378403",
+            "isbn13": "9780307378408"
+          },
+          {
+            "isbn10": "0307907155",
+            "isbn13": "9780307907158"
+          },
+          {
+            "isbn10": "030747299X",
+            "isbn13": "9780307472991"
+          }
+        ],
+        "publisher": "Pantheon"
+      },
+      {
+        "price": 26.99,
+        "primary_isbn10": "0061257095",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Adriana Trigiani",
+        "primary_isbn13": "9780061257094",
+        "description": "Childhood sweethearts in turn-of-the-20th-century Italy meet again in America.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780061257094.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 330,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Shoemakers-Wife-A-Novel/dp/0061257109?tag=thenewyorktim-20",
+        "contributor": "by Adriana Trigiani",
+        "title": "THE SHOEMAKER\u2019S WIFE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0061257095",
+            "isbn13": "9780061257094"
+          },
+          {
+            "isbn10": "0062098063",
+            "isbn13": "9780062098061"
+          },
+          {
+            "isbn10": "0062107224",
+            "isbn13": "9780062107220"
+          },
+          {
+            "isbn10": "0061257109",
+            "isbn13": "9780061257100"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "0385343191",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Danielle Steel",
+        "primary_isbn13": "9780385343190",
+        "description": "A happy and successful Hollywood director discovers that someone is embezzling large sums of her money.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780440245223.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 305,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Betrayal-A-Novel-Danielle-Steel-ebook/dp/B005BUG6TI?tag=thenewyorktim-20",
+        "contributor": "by Danielle Steel",
+        "title": "BETRAYAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385343191",
+            "isbn13": "9780385343190"
+          },
+          {
+            "isbn10": "0345532341",
+            "isbn13": "9780345532343"
+          },
+          {
+            "isbn10": "0739378457",
+            "isbn13": "9780739378458"
+          },
+          {
+            "isbn10": "0440245222",
+            "isbn13": "9780440245223"
+          }
+        ],
+        "publisher": "Delacorte Press"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0525952276",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Harlan Coben",
+        "primary_isbn13": "9780525952275",
+        "description": "A disappearance in Atlantic City brings together three frustrated people whose lives were once connected.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101561171.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 3,
+        "amazon_product_url": "http://www.amazon.com/Stay-Close-Harlan-Coben/dp/0451233964?tag=thenewyorktim-20",
+        "contributor": "by Harlan Coben",
+        "title": "STAY CLOSE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525952276",
+            "isbn13": "9780525952275"
+          },
+          {
+            "isbn10": "0451233964",
+            "isbn13": "9780451233967"
+          }
+        ],
+        "publisher": "Dutton"
+      },
+      {
+        "price": 24.95,
+        "primary_isbn10": "0307957276",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anne Tyler",
+        "primary_isbn13": "9780307957276",
+        "description": "A middle-aged man mourning his wife\u2019s death is comforted by her unexpected appearances.",
+        "book_review_link": "//www.nytimes.com/2012/04/06/books/the-beginners-goodbye-by-anne-tyler.html",
+        "book_image_height": 190,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307958228.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Beginners-Goodbye-Anne-Tyler-ebook/dp/B005O1BXOM?tag=thenewyorktim-20",
+        "contributor": "by Anne Tyler",
+        "title": "THE BEGINNER\u2019S GOODBYE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307957276",
+            "isbn13": "9780307957276"
+          },
+          {
+            "isbn10": "0307958221",
+            "isbn13": "9780307958228"
+          }
+        ],
+        "publisher": "Knopf"
+      },
+      {
+        "price": 27.95,
+        "primary_isbn10": "0451235843",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "J R Ward",
+        "primary_isbn13": "9780451235848",
+        "description": "Book 10 of the Black Dagger Brotherhood series.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780451238283.jpg",
+        "rank": 9,
+        "article_chapter_link": "",
+        "rank_last_week": 1,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 2,
+        "amazon_product_url": "http://www.amazon.com/Lover-Reborn-Novel-Dagger-Brotherhood-ebook/dp/B006LU0GYS?tag=thenewyorktim-20",
+        "contributor": "by J. R. Ward",
+        "title": "LOVER REBORN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0451235843",
+            "isbn13": "9780451235848"
+          },
+          {
+            "isbn10": "0451238281",
+            "isbn13": "9780451238283"
+          }
+        ],
+        "publisher": "New American Library"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "0802120237",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Donna Leon",
+        "primary_isbn13": "9780802120236",
+        "description": "Commissario Guido Brunetti of Venice investigates the death of a man who loved animals.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780802120236.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Beastly-Things-Commissario-Brunetti-Mysteries-ebook/dp/B007P5WE5M?tag=thenewyorktim-20",
+        "contributor": "by Donna Leon",
+        "title": "BEASTLY THINGS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0802120237",
+            "isbn13": "9780802120236"
+          }
+        ],
+        "publisher": "Atlantic Monthly"
+      },
+      {
+        "price": 25,
+        "primary_isbn10": "1439170312",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Carol Higgins Clark",
+        "primary_isbn13": "9781439170311",
+        "description": "P.I. Regan Reilly encounters an old acquaintance who is in trouble.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439170335.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Gypped-A-Regan-Reilly-Mystery-ebook/dp/B005GG0MV0?tag=thenewyorktim-20",
+        "contributor": "by Carol Higgins Clark",
+        "title": "GYPPED",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439170312",
+            "isbn13": "9781439170311"
+          },
+          {
+            "isbn10": "1439170339",
+            "isbn13": "9781439170335"
+          },
+          {
+            "isbn10": "1439170320",
+            "isbn13": "9781439170328"
+          }
+        ],
+        "publisher": "Scribner"
+      },
+      {
+        "price": 28,
+        "primary_isbn10": "1439102740",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Jodi Picoult",
+        "primary_isbn13": "9781439102749",
+        "description": "The children of a man who studies wolves must make difficult decisions when he is seriously injured in an accident.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439102756.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 336,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Lone-Wolf-Jodi-Picoult/dp/1439102759?tag=thenewyorktim-20",
+        "contributor": "by Jodi Picoult",
+        "title": "LONE WOLF",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1439102740",
+            "isbn13": "9781439102749"
+          },
+          {
+            "isbn10": "1439149690",
+            "isbn13": "9781439149690"
+          },
+          {
+            "isbn10": "1439102759",
+            "isbn13": "9781439102756"
+          }
+        ],
+        "publisher": "Emily Bestler/Atria"
+      },
+      {
+        "price": 35,
+        "primary_isbn10": "0553801473",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "George R R Martin",
+        "primary_isbn13": "9780553801477",
+        "description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \"A Song of Ice and Fire.\"",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780553582017.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 36,
+        "amazon_product_url": "http://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011?tag=thenewyorktim-20",
+        "contributor": "by George R. R. Martin",
+        "title": "A DANCE WITH DRAGONS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0553801473",
+            "isbn13": "9780553801477"
+          },
+          {
+            "isbn10": "0553905651",
+            "isbn13": "9780553905656"
+          },
+          {
+            "isbn10": "0739375970",
+            "isbn13": "9780739375976"
+          },
+          {
+            "isbn10": "055338595X",
+            "isbn13": "9780553385953"
+          },
+          {
+            "isbn10": "0553582011",
+            "isbn13": "9780553582017"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0345530446",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Rita Mae Brown and Sneaky Pie Brown",
+        "primary_isbn13": "9780345530448",
+        "description": "The 20th Mrs. Murphy mystery.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345530448.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Big-Cat-Nap-Anniversary-ebook/dp/B005DXOPIM?tag=thenewyorktim-20",
+        "contributor": "by Rita Mae Brown and Sneaky Pie Brown",
+        "title": "THE BIG CAT NAP",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345530446",
+            "isbn13": "9780345530448"
+          }
+        ],
+        "publisher": "Bantam"
+      },
+      {
+        "price": 26,
+        "primary_isbn10": "0345510623",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Anne Perry",
+        "primary_isbn13": "9780345510624",
+        "description": "Thomas Pitt, now the head of Britain\u2019s Special Branch, tries to avert the murder of an Austrian duke.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345510624.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Dorchester-Terrace-Charlotte-Thomas-Novel/dp/0345510623?tag=thenewyorktim-20",
+        "contributor": "by Anne Perry",
+        "title": "DORCHESTER TERRACE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345510623",
+            "isbn13": "9780345510624"
+          }
+        ],
+        "publisher": "Ballantine"
+      },
+      {
+        "price": 27.99,
+        "primary_isbn10": "1416595201",
+        "asterisk": 1,
+        "dagger": 0,
+        "author": "Vince Flynn",
+        "primary_isbn13": "9781416595205",
+        "description": "A C.I.A. super-agent hunting down perpetrators of the Pan Am Lockerbie bombing, finds himself caught in a dangerous trap.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781439100523.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 7,
+        "book_image_width": 326,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 9,
+        "amazon_product_url": "http://www.amazon.com/Kill-Shot-American-Assassin-Thriller/dp/1416595228?tag=thenewyorktim-20",
+        "contributor": "by Vince Flynn",
+        "title": "KILL SHOT",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1416595201",
+            "isbn13": "9781416595205"
+          },
+          {
+            "isbn10": "1416595228",
+            "isbn13": "9781416595229"
+          }
+        ],
+        "publisher": "Emily Bestler/Atria"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062049577",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jacqueline Winspear",
+        "primary_isbn13": "9780062049575",
+        "description": "In 1933, Maisie Dobbs, psychologist and investigator, discovers national ramifications as she probes the death of a London costermonger.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062049575.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Elegy-Eddie-Maisie-Dobbs-Novel-ebook/dp/B005UD1ECK?tag=thenewyorktim-20",
+        "contributor": "by Jacqueline Winspear",
+        "title": "ELEGY FOR EDDIE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062049577",
+            "isbn13": "9780062049575"
+          },
+          {
+            "isbn10": "0062049593",
+            "isbn13": "9780062049599"
+          },
+          {
+            "isbn10": "0062049585",
+            "isbn13": "9780062049582"
+          }
+        ],
+        "publisher": "Harper/HarperCollins"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0385344228",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "William Landay",
+        "primary_isbn13": "9780385344227",
+        "description": "An assistant district attorney\u2019s life is shaken when his shy 14-year-old son is accused of murder.\u00a0",
+        "book_review_link": "//www.nytimes.com/2012/02/13/books/defending-jacob-by-william-landay.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345527592.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 303,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Defending-Jacob-Novel-William-Landay/dp/0385344228?tag=thenewyorktim-20",
+        "contributor": "by William Landay",
+        "title": "DEFENDING JACOB",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0385344228",
+            "isbn13": "9780385344227"
+          },
+          {
+            "isbn10": "0345527593",
+            "isbn13": "9780345527592"
+          },
+          {
+            "isbn10": "1410446948",
+            "isbn13": "9781410446947"
+          },
+          {
+            "isbn10": "044024613X",
+            "isbn13": "9780440246138"
+          },
+          {
+            "isbn10": "0345533666",
+            "isbn13": "9780345533661"
+          }
+        ],
+        "publisher": "Delacorte"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0399158618",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Clive Cussler and Justin Scott",
+        "primary_isbn13": "9780399158612",
+        "description": "On the ocean liner Mauretania, two scientists possess a groundbreaking invention; can Detective Isaac Bell protect them from a ruthless agent bent on destroying it?",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780425259290.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Thief-Isaac-Bell-Adventure-ebook/dp/B006LU1SBI?tag=thenewyorktim-20",
+        "contributor": "by Clive Cussler and Justin Scott",
+        "title": "THE THIEF",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0399158618",
+            "isbn13": "9780399158612"
+          },
+          {
+            "isbn10": "0425259293",
+            "isbn13": "9780425259290"
+          }
+        ],
+        "publisher": "Putnam"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062069888",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Phillip Margolin",
+        "primary_isbn13": "9780062069887",
+        "description": "The private investigator Dana Cutler and the attorney Brad Miller reunite to foil a serial killer escaped from death row who threatens a senator and a terrorist group poised to attack the United States.",
+        "book_review_link": "",
+        "book_image_height": 194,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062069887.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Capitol-Murder-Phillip-Margolin-ebook/dp/B005UD1EJS?tag=thenewyorktim-20",
+        "contributor": "by Phillip Margolin",
+        "title": "CAPITOL MURDER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062069888",
+            "isbn13": "9780062069887"
+          },
+          {
+            "isbn10": "0062069896",
+            "isbn13": "9780062069894"
+          },
+          {
+            "isbn10": "0062107216",
+            "isbn13": "9780062107213"
+          }
+        ],
+        "publisher": "Harper"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Hardcover Fiction",
+    "bestsellers_date": "2012-04-07",
+    "previous_published_date": "2012-04-15",
+    "normal_list_ends_at": 16,
+    "corrections": [],
+    "list_name_encoded": "hardcover-fiction",
+    "next_published_date": "2012-04-29"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,913 @@
+{
+  "last_modified": "2016-04-28T11:03:27-04:00",
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "published_date": "2012-09-23",
+    "books": [
+      {
+        "price": 0,
+        "primary_isbn10": "0525953728",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mark Owen with Kevin Maurer",
+        "primary_isbn13": "9780525953722",
+        "description": "An account by a former member of the Navy SEALs, written pseudonymously, of the mission that killed Osama bin Laden.",
+        "book_review_link": "//www.nytimes.com/2012/09/03/books/no-easy-day-by-mark-owen-with-kevin-maurer.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101611302.jpg",
+        "rank": 1,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 337,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/No-Easy-Day-Firsthand-Account/dp/0451468740?tag=thenewyorktim-20",
+        "contributor": "by Mark Owen with Kevin Maurer",
+        "title": "NO EASY DAY",
+        "sunday_review_link": "//www.nytimes.com/2012/10/21/books/review/no-easy-day-by-mark-owen.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0525953728",
+            "isbn13": "9780525953722"
+          },
+          {
+            "isbn10": "1611761565",
+            "isbn13": "9781611761566"
+          },
+          {
+            "isbn10": "0451468740",
+            "isbn13": "9780451468741"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1596987855",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Edward Klein",
+        "primary_isbn13": "9781596987852",
+        "description": "A journalist argues that President Obama is callow, arrogant and unable to lead.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781596983144.jpg",
+        "rank": 2,
+        "article_chapter_link": "",
+        "rank_last_week": 6,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 17,
+        "amazon_product_url": "http://www.amazon.com/The-Amateur-Edward-Klein/dp/1596987855?tag=thenewyorktim-20",
+        "contributor": "by Edward Klein",
+        "title": "AMATEUR",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1596987855",
+            "isbn13": "9781596987852"
+          },
+          {
+            "isbn10": "1596983140",
+            "isbn13": "9781596983144"
+          }
+        ],
+        "publisher": "Regnery Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0345530438",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Tyler Hamilton and Daniel Coyle",
+        "primary_isbn13": "9780345530431",
+        "description": "An account of the world of professional cycling and its doping issues, focused on the Tour de France, by an Olympic gold medalist.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780345530417.jpg",
+        "rank": 3,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Secret-Race-Inside-Hidden-ebook/dp/B008WOUJQG?tag=thenewyorktim-20",
+        "contributor": "by Tyler Hamilton and Daniel Coyle",
+        "title": "THE SECRET RACE",
+        "sunday_review_link": "//www.nytimes.com/2012/11/11/books/review/the-secret-race-by-tyler-hamilton-and-daniel-coyle.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0345530411",
+            "isbn13": "9780345530417"
+          },
+          {
+            "isbn10": "0345530438",
+            "isbn13": "9780345530431"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1596987782",
+        "asterisk": 0,
+        "dagger": 1,
+        "author": "Dinesh D'Souza",
+        "primary_isbn13": "9781596987784",
+        "description": "An argument that President Obama is the architect of American decline.",
+        "book_review_link": "",
+        "book_image_height": 192,
+        "book_image": "https://s1.nyt.com/du/books/images/9781596983168.jpg",
+        "rank": 4,
+        "article_chapter_link": "",
+        "rank_last_week": 4,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 4,
+        "amazon_product_url": "http://www.amazon.com/Obamas-America-Unmaking-American-Dream-ebook/dp/B008P1H12G?tag=thenewyorktim-20",
+        "contributor": "by Dinesh D'Souza",
+        "title": "OBAMA'S AMERICA",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1596987782",
+            "isbn13": "9781596987784"
+          },
+          {
+            "isbn10": "1596983167",
+            "isbn13": "9781596983168"
+          }
+        ],
+        "publisher": "Regnery Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603751",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Laura Hillenbrand",
+        "primary_isbn13": "9780679603757",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+        "book_review_link": "//www.nytimes.com/2010/11/15/books/15book.html",
+        "book_image_height": 400,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400064168.jpg",
+        "rank": 5,
+        "article_chapter_link": "",
+        "rank_last_week": 2,
+        "book_image_width": 264,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 85,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "title": "UNBROKEN",
+        "sunday_review_link": "//www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307957659",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Cheryl Strayed",
+        "primary_isbn13": "9780307957658",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+        "book_review_link": "//www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307476074.jpg",
+        "rank": 6,
+        "article_chapter_link": "",
+        "rank_last_week": 3,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 21,
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "contributor": "by Cheryl Strayed",
+        "title": "WILD",
+        "sunday_review_link": "//www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307592731",
+            "isbn13": "9780307592736"
+          },
+          {
+            "isbn10": "0307957659",
+            "isbn13": "9780307957658"
+          },
+          {
+            "isbn10": "0307476073",
+            "isbn13": "9780307476074"
+          },
+          {
+            "isbn10": "1594136742",
+            "isbn13": "9781594136740"
+          },
+          {
+            "isbn10": "0307970299",
+            "isbn13": "9780307970299"
+          },
+          {
+            "isbn10": "1101873442",
+            "isbn13": "9781101873441"
+          }
+        ],
+        "publisher": "Knopf Doubleday Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1455502758",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Christopher Hitchens",
+        "primary_isbn13": "9781455502752",
+        "description": "Reports and reflections on his illness and impending death by the writer, who died in December 2011.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781455502752.jpg",
+        "rank": 7,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Mortality-Christopher-Hitchens/dp/1455502758?tag=thenewyorktim-20",
+        "contributor": "by Christopher Hitchens",
+        "title": "MORTALITY",
+        "sunday_review_link": "//www.nytimes.com/2012/09/02/books/review/mortality-by-christopher-hitchens.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1455502758",
+            "isbn13": "9781455502752"
+          },
+          {
+            "isbn10": "1455517828",
+            "isbn13": "9781455517824"
+          }
+        ],
+        "publisher": "Grand Central Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0805093079",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Bill O'Reilly and Martin Dugard",
+        "primary_isbn13": "9780805093070",
+        "description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780805093070.jpg",
+        "rank": 8,
+        "article_chapter_link": "",
+        "rank_last_week": 5,
+        "book_image_width": 327,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 49,
+        "amazon_product_url": "http://www.amazon.com/Killing-Lincoln-Shocking-Assassination-Changed-ebook/dp/B004ULORYU?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "title": "KILLING LINCOLN",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0805093079",
+            "isbn13": "9780805093070"
+          },
+          {
+            "isbn10": "1429996870",
+            "isbn13": "9781429996877"
+          },
+          {
+            "isbn10": "1427213127",
+            "isbn13": "9781427213129"
+          },
+          {
+            "isbn10": "1410443000",
+            "isbn13": "9781410443007"
+          },
+          {
+            "isbn10": "1250012163",
+            "isbn13": "9781250012166"
+          }
+        ],
+        "publisher": "Henry Holt & Company"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1400052181",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Rebecca Skloot",
+        "primary_isbn13": "9781400052189",
+        "description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+        "book_review_link": "//www.nytimes.com/2010/02/03/books/03book.html",
+        "book_image_height": 280,
+        "book_image": "https://s1.nyt.com/du/books/images/9781400052189.jpg",
+        "rank": 9,
+        "article_chapter_link": "//www.nytimes.com/2010/02/02/health/02seco.html",
+        "rank_last_week": 7,
+        "book_image_width": 182,
+        "first_chapter_link": "//www.nytimes.com/2010/03/03/books/excerpt-immortal-life-of-henrietta-lacks.html",
+        "age_group": "",
+        "weeks_on_list": 72,
+        "amazon_product_url": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=thenewyorktim-20",
+        "contributor": "by Rebecca Skloot",
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "sunday_review_link": "//www.nytimes.com/2010/02/07/books/review/Margonelli-t.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400052173",
+            "isbn13": "9781400052172"
+          },
+          {
+            "isbn10": "0307589382",
+            "isbn13": "9780307589385"
+          },
+          {
+            "isbn10": "1410427927",
+            "isbn13": "9781410427922"
+          },
+          {
+            "isbn10": "1400052181",
+            "isbn13": "9781400052189"
+          },
+          {
+            "isbn10": "1594134324",
+            "isbn13": "9781594134326"
+          },
+          {
+            "isbn10": "0451486315",
+            "isbn13": "9780451486318"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0670026263",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Mike Lofgren",
+        "primary_isbn13": "9780670026265",
+        "description": "A Republican who spent 28 years working as a Congressional staffer believes that his party\u2019s fiscal policies and political strategies are dangerous.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9781101601235.jpg",
+        "rank": 10,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/The-Party-Over-Republicans-Democrats/dp/0670026263?tag=thenewyorktim-20",
+        "contributor": "by Mike Lofgren",
+        "title": "PARTY IS OVER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0670026263",
+            "isbn13": "9780670026265"
+          }
+        ],
+        "publisher": "Penguin Group"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307888762",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Ben Macintyre",
+        "primary_isbn13": "9780307888761",
+        "description": "How the Allies tricked the Nazis into believing that on D-Day they would attack somewhere other than Normandy.",
+        "book_review_link": "//www.nytimes.com/2012/08/09/books/double-cross-and-agent-garbo.html",
+        "book_image_height": 450,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307888761.jpg",
+        "rank": 11,
+        "article_chapter_link": "",
+        "rank_last_week": 9,
+        "book_image_width": 296,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 6,
+        "amazon_product_url": "http://www.amazon.com/Double-Cross-Story-D-Day-Spies/dp/0307888770?tag=thenewyorktim-20",
+        "contributor": "by Ben Macintyre",
+        "title": "DOUBLE CROSS",
+        "sunday_review_link": "//www.nytimes.com/2012/09/02/books/review/double-cross-by-ben-macintyre.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307888754",
+            "isbn13": "9780307888754"
+          },
+          {
+            "isbn10": "0307888762",
+            "isbn13": "9780307888761"
+          },
+          {
+            "isbn10": "1408819902",
+            "isbn13": "9781408819906"
+          },
+          {
+            "isbn10": "0307990435",
+            "isbn13": "9780307990433"
+          },
+          {
+            "isbn10": "0307888770",
+            "isbn13": "9780307888778"
+          },
+          {
+            "isbn10": "1408830620",
+            "isbn13": "9781408830628"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0547564651",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Paul Tough",
+        "primary_isbn13": "9780547564654",
+        "description": "An argument that the qualities that matter most have to do with character, not intelligence.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780544104402.jpg",
+        "rank": 12,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/How-Children-Succeed-Curiosity-Character/dp/0544104404?tag=thenewyorktim-20",
+        "contributor": "by Paul Tough",
+        "title": "HOW CHILDREN SUCCEED",
+        "sunday_review_link": "//www.nytimes.com/2012/08/26/books/review/how-children-succeed-by-paul-tough.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0547564651",
+            "isbn13": "9780547564654"
+          },
+          {
+            "isbn10": "054756466X",
+            "isbn13": "9780547564661"
+          },
+          {
+            "isbn10": "0544104404",
+            "isbn13": "9780544104402"
+          },
+          {
+            "isbn10": "1452608148",
+            "isbn13": "9781452608143"
+          }
+        ],
+        "publisher": "Houghton Mifflin Harcourt Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062136151",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Dwyane Wade with Mim Eichler Rivas",
+        "primary_isbn13": "9780062136152",
+        "description": "The all-star guard for the Miami Heat describes his life as a single father.",
+        "book_review_link": "",
+        "book_image_height": 193,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062136152.jpg",
+        "rank": 13,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 128,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 1,
+        "amazon_product_url": "http://www.amazon.com/Father-First-Became-Bigger-Basketball-ebook/dp/B007HBY0XI?tag=thenewyorktim-20",
+        "contributor": "by Dwyane Wade with Mim Eichler Rivas",
+        "title": "A FATHER FIRST",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062136151",
+            "isbn13": "9780062136152"
+          },
+          {
+            "isbn10": "0062136186",
+            "isbn13": "9780062136183"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0062082353",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "primary_isbn13": "9780062082350",
+        "description": "A member of the Navy SEALs discusses his battlefield experiences.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780062082374.jpg",
+        "rank": 14,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 331,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 16,
+        "amazon_product_url": "http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=thenewyorktim-20",
+        "contributor": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+        "title": "AMERICAN SNIPER",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0062082353",
+            "isbn13": "9780062082350"
+          },
+          {
+            "isbn10": "006208237X",
+            "isbn13": "9780062082374"
+          },
+          {
+            "isbn10": "0062209493",
+            "isbn13": "9780062209498"
+          },
+          {
+            "isbn10": "0062107062",
+            "isbn13": "9780062107060"
+          },
+          {
+            "isbn10": "0062238868",
+            "isbn13": "9780062238863"
+          },
+          {
+            "isbn10": "0062290797",
+            "isbn13": "9780062290793"
+          },
+          {
+            "isbn10": "0062376578",
+            "isbn13": "9780062376572"
+          },
+          {
+            "isbn10": "0062376330",
+            "isbn13": "9780062376336"
+          },
+          {
+            "isbn10": "0062297872",
+            "isbn13": "9780062297877"
+          },
+          {
+            "isbn10": "0062082361",
+            "isbn13": "9780062082367"
+          }
+        ],
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Todd Burpo with Lynn Vincent",
+        "primary_isbn13": "9780849949203",
+        "description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+        "book_review_link": "//www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780849949203.jpg",
+        "rank": 15,
+        "article_chapter_link": "",
+        "rank_last_week": 11,
+        "book_image_width": 312,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 82,
+        "amazon_product_url": "http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=thenewyorktim-20",
+        "contributor": "by Todd Burpo with Lynn Vincent",
+        "title": "HEAVEN IS FOR REAL",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0849946158",
+            "isbn13": "9780849946158"
+          },
+          {
+            "isbn10": "0849948363",
+            "isbn13": "9780849948367"
+          },
+          {
+            "isbn10": "0849922070",
+            "isbn13": "9780849922077"
+          }
+        ],
+        "publisher": "Thomas Nelson"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451648553",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Walter Isaacson",
+        "primary_isbn13": "9781451648553",
+        "description": "A biography of the entrepreneur, based on 40 interviews with Jobs conducted over two years.",
+        "book_review_link": "//www.nytimes.com/2011/10/22/books/steve-jobs-by-walter-isaacson-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451648553.jpg",
+        "rank": 16,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 328,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Steve-Jobs-Walter-Isaacson-ebook/dp/B004W2UBYW?tag=thenewyorktim-20",
+        "contributor": "by Walter Isaacson",
+        "title": "STEVE JOBS",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451648537",
+            "isbn13": "9781451648539"
+          },
+          {
+            "isbn10": "1451648553",
+            "isbn13": "9781451648553"
+          },
+          {
+            "isbn10": "1442346272",
+            "isbn13": "9781442346277"
+          },
+          {
+            "isbn10": "1442346949",
+            "isbn13": "9781442346949"
+          },
+          {
+            "isbn10": "1410445224",
+            "isbn13": "9781410445223"
+          },
+          {
+            "isbn10": "030795028X",
+            "isbn13": "9780307950284"
+          },
+          {
+            "isbn10": "1408703742",
+            "isbn13": "9781408703748"
+          },
+          {
+            "isbn10": "1451648545",
+            "isbn13": "9781451648546"
+          },
+          {
+            "isbn10": "1594136793",
+            "isbn13": "9781594136795"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0679603859",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Charles Duhigg",
+        "primary_isbn13": "9780679603856",
+        "description": "An examination of the science behind habits, how we form them and break them.",
+        "book_review_link": "",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780812981605.jpg",
+        "rank": 17,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 324,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Power-Habit-What-Business/dp/081298160X?tag=thenewyorktim-20",
+        "contributor": "by Charles Duhigg",
+        "title": "THE POWER OF HABIT",
+        "sunday_review_link": "//www.nytimes.com/2012/03/11/books/review/the-power-of-habit-by-charles-duhigg.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1400069289",
+            "isbn13": "9781400069286"
+          },
+          {
+            "isbn10": "0679603859",
+            "isbn13": "9780679603856"
+          },
+          {
+            "isbn10": "030796664X",
+            "isbn13": "9780307966643"
+          },
+          {
+            "isbn10": "1847946240",
+            "isbn13": "9781847946249"
+          },
+          {
+            "isbn10": "081298160X",
+            "isbn13": "9780812981605"
+          }
+        ],
+        "publisher": "Random House Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "0307887952",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Erik Larson",
+        "primary_isbn13": "9780307887955",
+        "description": "This portrait of Berlin during the rise of the Nazis centers on William E. Dodd, the U.S. ambassador to Germany, and his daughter, Martha.",
+        "book_review_link": "//www.nytimes.com/2011/05/20/books/in-the-garden-of-beasts-by-erik-larson-review.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9780307887955.jpg",
+        "rank": 18,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/In-Garden-Beasts-American-Hitlers-ebook/dp/B004HFRJM6?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "title": "IN THE GARDEN OF BEASTS",
+        "sunday_review_link": "//www.nytimes.com/2011/06/12/books/review/book-review-in-the-garden-of-beasts-by-erik-larson.html",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "0307408841",
+            "isbn13": "9780307408846"
+          },
+          {
+            "isbn10": "0307887952",
+            "isbn13": "9780307887955"
+          },
+          {
+            "isbn10": "0739378147",
+            "isbn13": "9780739378144"
+          },
+          {
+            "isbn10": "0307914577",
+            "isbn13": "9780307914576"
+          },
+          {
+            "isbn10": "030740885X",
+            "isbn13": "9780307408853"
+          },
+          {
+            "isbn10": "1446464504",
+            "isbn13": "9781446464502"
+          }
+        ],
+        "publisher": "Crown Publishing"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "1451657498",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Joe Posnanski",
+        "primary_isbn13": "9781451657494",
+        "description": "A biography of the late Penn State football coach.",
+        "book_review_link": "//www.nytimes.com/2012/08/21/books/paterno-by-joe-posnanski-a-biography-of-the-coach.html",
+        "book_image_height": 500,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451657494.jpg",
+        "rank": 19,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 334,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/Paterno-Joe-Posnanski-ebook/dp/B00768D3OO?tag=thenewyorktim-20",
+        "contributor": "by Joe Posnanski",
+        "title": "PATERNO",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451657498",
+            "isbn13": "9781451657494"
+          },
+          {
+            "isbn10": "145165751X",
+            "isbn13": "9781451657517"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      },
+      {
+        "price": 0,
+        "primary_isbn10": "None",
+        "asterisk": 0,
+        "dagger": 0,
+        "author": "Jaycee Dugard",
+        "primary_isbn13": "9781451629200",
+        "description": "A woman describes being kidnapped when she was 11 years old and held prisoner for 18 years by a convicted rapist and his wife.",
+        "book_review_link": "//www.nytimes.com/2011/07/18/books/jaycee-dugards-stolen-life-18-years-of-abuse-review.html",
+        "book_image_height": 386,
+        "book_image": "https://s1.nyt.com/du/books/images/9781451629194.jpg",
+        "rank": 20,
+        "article_chapter_link": "",
+        "rank_last_week": 0,
+        "book_image_width": 250,
+        "first_chapter_link": "",
+        "age_group": "",
+        "weeks_on_list": 0,
+        "amazon_product_url": "http://www.amazon.com/A-Stolen-Life-Memoir-ebook/dp/B004ZZS4CC?tag=thenewyorktim-20",
+        "contributor": "by Jaycee Dugard",
+        "title": "A STOLEN LIFE",
+        "sunday_review_link": "",
+        "contributor_note": "",
+        "isbns": [
+          {
+            "isbn10": "1451629184",
+            "isbn13": "9781451629187"
+          },
+          {
+            "isbn10": "1451629192",
+            "isbn13": "9781451629194"
+          }
+        ],
+        "publisher": "Simon & Schuster"
+      }
+    ],
+    "published_date_description": "",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "bestsellers_date": "2012-09-08",
+    "previous_published_date": "2012-09-16",
+    "normal_list_ends_at": 15,
+    "corrections": [],
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "next_published_date": "2012-09-30"
+  },
+  "status": "OK",
+  "num_results": 35,
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}
